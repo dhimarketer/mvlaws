@@ -54,6 +54,104 @@
             text-decoration: underline;
         }
         .no-results { color: #e74c3c; font-style: italic; }
+        
+        /* Search Suggestions Styling */
+        .suggestions-container {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: 2px solid #5a6fd8;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .suggestions-title {
+            margin-top: 0;
+            color: white;
+            font-size: 1.3em;
+            font-weight: bold;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+            margin-bottom: 15px;
+        }
+        .suggestions-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 15px;
+        }
+        .suggestion-button {
+            background: rgba(255,255,255,0.9);
+            border: 2px solid rgba(255,255,255,0.3);
+            color: #2c3e50;
+            padding: 10px 16px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.95em;
+            font-weight: 600;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+        .suggestion-button:hover {
+            background: white;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            border-color: rgba(255,255,255,0.8);
+        }
+        .suggestion-button.law { 
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            border-color: #2980b9;
+        }
+        .suggestion-button.law:hover { 
+            background: linear-gradient(135deg, #2980b9, #1f5f8b);
+            transform: translateY(-2px);
+        }
+        .suggestion-button.article { 
+            background: linear-gradient(135deg, #27ae60, #229954);
+            color: white;
+            border-color: #229954;
+        }
+        .suggestion-button.article:hover { 
+            background: linear-gradient(135deg, #229954, #1e8449);
+            transform: translateY(-2px);
+        }
+        .suggestion-button.term { 
+            background: linear-gradient(135deg, #f39c12, #e67e22);
+            color: white;
+            border-color: #e67e22;
+        }
+        .suggestion-button.term:hover { 
+            background: linear-gradient(135deg, #e67e22, #d35400);
+            transform: translateY(-2px);
+        }
+        .suggestion-button.combination { 
+            background: linear-gradient(135deg, #9b59b6, #8e44ad);
+            color: white;
+            border-color: #8e44ad;
+        }
+        .suggestion-button.combination:hover { 
+            background: linear-gradient(135deg, #8e44ad, #7d3c98);
+            transform: translateY(-2px);
+        }
+        .suggestions-help {
+            margin: 15px 0 0 0;
+            font-size: 0.9em;
+            color: rgba(255,255,255,0.9);
+            font-style: italic;
+        }
+        
+        /* No Results Suggestions Styling */
+        .suggestions-container.no-results {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+            border-color: #c0392b;
+        }
+        .suggestions-container.no-results .suggestions-title {
+            color: white;
+        }
+        .suggestions-container.no-results .suggestions-help {
+            color: rgba(255,255,255,0.9);
+        }
     </style>
 </head>
 <body>
@@ -92,6 +190,29 @@
                 <strong>📋 Match Type:</strong> Showing results where <em>ANY</em> search term is found.
             </div>
         {% endif %}
+        
+        <!-- Search Suggestions -->
+        {% if suggestions %}
+        <div class="suggestions-container">
+            <h3 class="suggestions-title">💡 Related Search Suggestions</h3>
+            <div class="suggestions-grid">
+                {% for suggestion in suggestions %}
+                <form method="POST" style="margin: 0; display: inline;">
+                    <input type="hidden" name="query" value="{{ suggestion.query }}">
+                    <input type="hidden" name="match_type" value="{{ match_type }}">
+                    <button type="submit" 
+                            class="suggestion-button {{ suggestion.type }}"
+                            title="{{ suggestion.description }}">
+                        {{ suggestion.text }}
+                    </button>
+                </form>
+                {% endfor %}
+            </div>
+            <p class="suggestions-help">
+                💡 Suggestions add to your current search by default. Click any suggestion to refine your search.
+            </p>
+        </div>
+        {% endif %}
         <ul class="results">
             {% for row in results %}
                 <li class="result-item">
@@ -128,6 +249,29 @@
         </ul>
     {% elif query %}
         <p class="no-results">❌ No results found for "{{ query }}". Try fewer or broader terms.</p>
+        
+        <!-- Alternative Search Suggestions for No Results -->
+        {% if suggestions %}
+        <div class="suggestions-container no-results">
+            <h3 class="suggestions-title">🔍 Alternative Search Suggestions</h3>
+            <div class="suggestions-grid">
+                {% for suggestion in suggestions %}
+                <form method="POST" style="margin: 0; display: inline;">
+                    <input type="hidden" name="query" value="{{ suggestion.query }}">
+                    <input type="hidden" name="match_type" value="{{ match_type }}">
+                    <button type="submit" 
+                            class="suggestion-button {{ suggestion.type }}"
+                            title="{{ suggestion.description }}">
+                        {{ suggestion.text }}
+                    </button>
+                </form>
+                {% endfor %}
+            </div>
+            <p class="suggestions-help">
+                💡 Try these alternative searches to find relevant content.
+            </p>
+        </div>
+        {% endif %}
     {% endif %}
 </body>
 </html>
