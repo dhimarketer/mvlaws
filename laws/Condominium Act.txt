@@ -1,0 +1,1047 @@
+Condominium Act
+Chapter One: Introduction
+
+1. Introduction and Name
+
+(a) This is the law to specify the principles for registering buildings in the Maldives as condominiums, to state the rules for the sale, purchase, and ownership of units within condominiums, and to state the procedures for the maintenance and use of condominiums.
+
+(b) This Act shall be cited as the "Condominium Act".
+
+2. Purpose
+
+The purposes of this Act are stated below.
+
+(a) To establish the procedures for the registration of buildings in the Maldives as condominiums;
+
+(b) To facilitate the ownership of units in a condominium by individual persons or separate parties, to determine the methods by which such units shall be owned, and to facilitate the habitation, sale, purchase, leasing, and other such transactions of parts of the condominium;
+
+(c) To establish the procedures for the maintenance and use of the land and common areas of a building registered as a condominium, and to determine the rights and responsibilities of the parties who own the land and the individual units within the building;
+
+(d) To provide opportunities for developers to expand real estate businesses in the Maldives, and to establish a system for transacting, managing, and maintaining condominiums based on robust principles and standards.
+Chapter Two: Glossary of Terms
+
+3. Basis of Definitions
+
+(a) The words and phrases defined in this chapter are the core concepts upon which this Act is based.
+
+(b) The concepts in this Act are defined for the purpose of preserving the essence of this Act and to facilitate the achievement of the objectives of this Act in their widest scope. As such, every article of this Act shall be read in a manner that does not limit these concepts.
+
+4. Share Value
+
+"Share value" refers to the share value assigned to a unit or units included in the Schedule of Strata Units prepared with the Strata Plan.
+
+5. Original Land Owner
+
+"Original land owner" refers to the person or persons stated in the land registry before or at the time of application for the registration of a condominium.
+
+6. Management and Maintenance
+
+"Management and maintenance" refers to the upkeep of a condominium for the benefit and profit of the unit owners, including its repair and the management of common areas and common facilities in accordance with the rules and standards set by the Management Corporation.
+
+7. Condominium
+
+"Condominium" refers to a building constructed or existing in the following manner:
+
+(a) A building of one or more stories, comprising units and common areas as distinct parts, standing independently as a single structure without connection to another building;
+
+(b) A building or buildings subdivided in a manner that allows individual units to be owned by separate persons, with all owners having an equal share in the designated common areas of the building.
+
+8. Common Property
+
+"Common property" refers to the areas outside the boundaries of the individual units included in the Strata Plan. However, if a duct or air shaft connected to another unit is located within the boundary of a unit, it shall be considered common property. Common property is property in which all owners of the building have an equal share. Such property includes the following:
+
+(a) Common areas (Common areas include, in addition to the areas designated as common areas in the Strata Plan, places such as walkways, corridors, stairs, lift shafts, and air shafts within the building.)
+
+(b) Common facilities (Common facilities include shared facilities of the condominium owners located in or connected to the common property as specified in the Strata Plan.)
+
+9. Condominium Land
+
+For the purpose of this Act, "condominium land" refers to the land designated as the plot for the condominium.
+
+10. Building
+
+For the purpose of this Act, "building" refers to buildings that fulfill the following conditions:
+
+(a) A part of the building, including the structure of a condominium, is completed;
+
+(b) The building is included in the Strata Plan submitted for the construction and registration of a condominium.
+
+11. Accessory Unit
+
+"Accessory unit" refers to spaces allocated to the owner of a unit from the land or building for additional uses connected to the unit, as included in the condominium plan, such as a parking space provided upon the purchase of a unit in the condominium.
+
+12. Boundary Wall
+
+"Boundary wall" refers to a wall in a Strata Plan that demarcates the following boundaries:
+
+(a) The boundary defining the part of the unit to which the owner is entitled;
+
+(b) The boundary separating one unit from another;
+
+(c) The boundary separating units from common property.
+
+13. Developer
+
+"Developer" refers to the party developing a condominium in the Maldives under the laws and regulations in force at the time.
+
+14. Defect Liability Period
+
+"Defect liability period" refers to the period specified in a construction agreement, starting from the date of completion of a building, during which the developer must rectify or repair any defects at the developer's expense.
+
+15. Initial Period
+
+The "initial period" in a staged development refers to the period from the date of approval of the Strata Plan until the sale of at least 1/3 (one-third) of the total aggregate share value of the units included in the Strata Plan. The initial period will continue until the first general meeting of the Management Corporation held upon achieving this milestone.
+
+16. Management Corporation
+
+"Management Corporation" refers to a corporation formed among all unit owners of a building under Article 95 of this Act to maintain the common property and common facilities of that condominium.
+
+17. Maintenance Fund
+
+"Maintenance Fund" refers to a fund established to manage the recurrent expenses incurred for the use and maintenance of the condominium or buildings by the unit owners.
+
+18. Limited Common Property
+
+"Limited common property" refers to common property designated for the exclusive use of specific individual units in the condominium. Such property shall be managed and maintained by the owners of the units for which it is designated, under the supervision of the Management Corporation.
+
+19. Purchaser
+
+"Purchaser" refers to any party, including individuals and legal persons, who wishes to buy a unit in a condominium.
+
+20. Strata Principle
+
+"Strata principle" refers to the principle established for the use and maintenance of the land and common areas of a building according to specific rules, in addition to the ownership of units in a building or buildings constructed or intended to be constructed on a plot of land by individual parties.
+
+21. Strata Plan
+
+"Strata Plan" refers to a plan that indicates the proposed division of units in a single or multi-story building constructed or intended to be constructed on a plot of land for the purpose of registering the plot under the strata principle, the share value allocated to each unit owner, and the parts designated as common property in that building.
+
+22. Schedule of Strata Units
+
+"Schedule of Strata Units" refers to a table that indicates the units included in the Strata Plan, their details, their dimensions, and the share value assigned to those units in relation to their dimensions.
+
+23. Sinking Fund
+
+"Sinking fund" refers to a fund established to manage the capital expenses incurred for the use and maintenance of the condominium or buildings by the unit owners.
+
+24. Strata Scheme
+
+"Strata Scheme" refers to a scheme formulated for the use and maintenance of a condominium under specific rules and regulations established under this Act, upon the approval of the Strata Plan for a condominium or buildings constructed or intended to be constructed, including units and common property.
+
+25. Staged Development
+
+"Staged development" refers to the execution of a project or Strata Scheme in various phases by submitting a proposal for a planned building to develop a new plot of land, preparing a Strata Plan, and dividing it into different stages.
+
+26. Strata Roll
+
+"Strata roll" refers to the documents recorded and maintained by the Management Corporation containing information related to the condominium and its units for the purpose of managing and using the condominium, including information on the units, parties leasing the units, mortgages, and insurance.
+
+27. Unit Registry
+
+"Unit registry" refers to the registry issued to the owner of a unit included in a condominium under this Act.
+
+28. Unit Owner
+
+"Unit owner" refers to the party stated in the unit's registry as the owner of a unit included in the Strata Plan.
+
+29. Unit
+
+"Unit" refers to a separately owned unit within the building or buildings included in the Strata Plan. Such a unit may be considered a single floor, a separate unit on a single floor, or a unit comprising more than one floor. Furthermore, the Strata Plan must specify whether such a unit is a residential flat/apartment or a commercial unit.
+Chapter Three: Determining the Parts of the Land and Building
+
+30. Establishing the Parts of the Land and Building
+
+For every Strata Plan, the parts of the land and building to which the Strata Plan relates shall be established in accordance with the principles stated in this chapter.
+
+31. Conditions to be Fulfilled by the Building
+
+The building or buildings for which a Strata Plan approval is sought must fulfill the following conditions:
+
+(a) Be a building constructed or intended to be constructed with units, common areas, and facilities as distinct parts, comprising one or more stories from the ground up;
+
+(b) Have basic services established separately in the individual units and common areas of the land and building;
+
+(c) Have entry and exit points to the land and building, and to each individual unit therein, in such a way that one unit does not affect another;
+
+(d) Be a place for which the relevant government authority has granted permission in accordance with the Building Act, the Land Act, building regulations, and planning regulations, with the parts of the land and building designated as distinct parts.
+
+32. Determining the Use of the Parts of the Land and Building
+
+The buildings constructed, under construction, or intended to be constructed under this Act, and the land related to them and the parts included in them, shall be designated for use for one of the purposes stated below:
+
+(a) Solely for residential purposes;
+
+(b) Solely for commercial purposes;
+
+(c) For residential and commercial purposes.
+Chapter Four: Approving the Strata Plan
+
+33. Obtaining Approval for a Strata Plan
+
+(a) A Strata Plan shall be prepared in accordance with the procedures stated in this chapter, and the original landowner or a party designated by them shall apply for its approval.
+
+(b) Applications for approval of a Strata Plan shall be submitted to the Ministry using the form prescribed by the Ministry, in accordance with the rules and regulations stated in this Act.
+
+34. Buildings for which Strata Plan Approval can be Sought
+
+(a) Applications for Strata Plan approval can be submitted for completed buildings, buildings with a part or some units completed, and buildings planned for new development or as staged developments.
+
+(b) For the purpose of subsection (a) of this Article, a completed building is one for which a building occupancy permit has been issued. A building with a part or some units completed is a place where at least 2 (two) units have been constructed, being one or more stories high.
+
+35. Procedures Related to Obtaining Strata Plan Approval
+
+(a) The regulations made under this Act shall specify the details of how the drawing of the land and building to which the Strata Plan pertains should be prepared, the format of such drawings, and how the Schedule of Strata Units and the schedule of shares related to the land and building of the Strata Plan should be prepared.
+
+(b) The regulations made under this Act shall specify the minimum size requirements for plots of land for which Strata Plan approval is sought, to make them suitable for habitation.
+
+36. Information to be Included in the Strata Plan
+
+The Strata Plan submitted for approval must contain the following information:
+
+(a) Whether the land to which the Strata Plan relates is private or state-owned land;
+
+(b) The registration number of the plot or the plot and building;
+
+(c) The name of the registered plot, or if it is a building intended to be constructed under a staged development, the name of the project;
+
+(d) Details of the units within the land and building, and the parts comprising the common areas of the building;
+
+(e) The share value of each unit individually, and the total aggregate share value of all units when subdividing the land and building;
+
+(f) The dimensions of the parts mentioned in subsection (d) of this Article;
+
+(g) Additional information as specified in the regulations made under this Act.
+
+37. Documents to be Submitted for Strata Plan Approval
+
+When applying for approval of a Strata Plan, the following documents must be submitted with the plan, including the information mentioned in Article 36 of this Act:
+
+(a) The application form for Strata Plan approval;
+
+(b) A declaration from the original landowner(s) to register the property as a condominium;
+
+(c) A statement on the proposed methods for managing the Management Corporation and for the use and maintenance of the common areas of the condominium;
+
+(d) A statement regarding the collection of fees determined for the maintenance of the Maintenance Fund and for the use and maintenance of the common areas of the condominium;
+
+(e) The latest land chart surveyed and with dimensions marked by the relevant government authority in accordance with the relevant law;
+
+(f) If the boundaries of the building to which the land chart in subsection (e) pertains are within the boundaries of the plot, or if any part of the building extends beyond the boundary in the plot's drawing, a letter of approval from the relevant government authority stating that such extension is in accordance with the relevant law;
+
+(g) The land registry or the land and building registry;
+
+(h) A copy of the approved building drawing and the building permit;
+
+(i) If an agreement has been made between the original landowner and the building developer, a certified true copy of that agreement;
+
+(j) If the plot submitted for registration under the strata principle is mortgaged, a letter of no objection from the mortgagee for the registration of the condominium plot;
+
+(k) If the building is completed, a copy of the building occupancy permit;
+
+(l) If a part of a building is completed, a progress report and work schedule signed by the project manager or engineer;
+
+(m) The fee payable for obtaining Strata Plan approval;
+
+(n) The drawing prepared by demarcating the units and common areas in the land and building, the Schedule of Strata Units, and the schedule of shares.
+
+38. Applying for Strata Plan Approval under a Staged Development
+
+When applying for Strata Plan approval under a staged development, the following documents must be submitted:
+
+(a) The documents mentioned in Article 37 of this Act;
+
+(b) The proposal prepared for conducting the staged development;
+
+(c) The schedule outlining the plan for carrying out the project.
+
+39. Granting Approval for a Strata Plan
+
+If the application for Strata Plan approval fulfills the requirements stated in this Act and the regulations made hereunder, the approval shall be granted within the period specified in the regulations made under this Act.
+
+40. Incomplete Application
+
+If an application for Strata Plan approval does not fulfill the requirements stated in this Act and the regulations made hereunder, the applicant shall be notified within the period specified in the regulations made under this Act to resubmit the application after completing the incomplete items.
+
+41. Registering and Maintaining Strata Plans
+
+After granting approval for Strata Plans in accordance with the procedures and standards stated in this Act, the Ministry shall register and maintain the approved Strata Plans and any amendments made to them under this Act.
+Chapter Five: Amending the Strata Plan
+
+42. Applying to Amend a Strata Plan
+
+(a) An application to amend a Strata Plan may be submitted by the original landowner or a party designated by them in the manner prescribed by the Ministry, in accordance with the procedures and standards stated in this Act.
+
+(b) If a change is required to a Strata Plan included in projects proceeding under a staged development, such a change can only be made under the regulation concerning the management of staged developments made under this Act.
+
+(c) Changes to the Strata Plans of properties constructed under government housing projects can only be made in accordance with the procedures and standards stated in this Act and the regulations made hereunder.
+
+43. Circumstances under which Share Value may be Changed
+
+The share value assigned to units in an approved Strata Plan may be changed in the following circumstances:
+
+(a) Changing the share value assigned to a unit to correct an error in the Strata Plan;
+
+(b) Changing the share value due to a court judgment;
+
+(c) Making changes to the building under the rules and procedures for staged developments mentioned in Chapter Seven of this Act;
+
+(d) Changes made under a redevelopment plan as mentioned in Article 47 of this Act.
+
+44. How a Strata Plan can be Amended
+
+If an amendment to an approved Strata Plan is desired, it can be made in the following manner:
+
+(a) If any unit affected by the proposed amendment to the Strata Plan is mortgaged, the mortgagee must not object;
+
+(b) By passing a general resolution of the Management Corporation;
+
+(c) To pass the resolution mentioned in subsection (b) of this Article, votes representing at least 80% (eighty percent) of the total aggregate share value assigned to all unit owners must be obtained.
+
+45. Documents to be Submitted to Amend a Strata Plan
+
+When applying to amend a Strata Plan, the following documents must be submitted:
+
+(a) The application form to amend the Strata Plan;
+
+(b) A copy of the latest amended and approved drawing;
+
+(c) The letter approving the Strata Plan under Chapter Four of this Act;
+
+(d) The amended Strata Plan, and the amended Schedule of Strata Units and schedule of shares, in accordance with the rules and procedures stated in this Act;
+
+(e) If a building occupancy permit has been issued, a copy of that permit;
+
+(f) The general resolution of the Management Corporation, with its seal, passed to approve the amendment of the Strata Plan;
+
+(g) If the amendment to the Strata Plan is made during the initial period, the documents required to be submitted for the amendment as specified in the regulation formulated under this Act concerning the management of staged developments.
+
+46. Changing the Share Value
+
+In the circumstances stated in Article 43 of this Act, the following shall be considered when changing the Schedule of Strata Units and the share value assigned to the units in the Strata Plan:
+
+(a) If a unit included in an approved Strata Plan has been sold or a registry has been issued for it, the share value assigned to that unit can only be changed if the person who purchased the unit agrees to the change.
+
+(b) If a unit included in a Strata Plan approved under a staged development has not been sold, the share value assigned to that unit can be changed only after ensuring that no change is made to the total aggregate share value of the building.
+
+47. Redeveloping a Condominium
+
+When a condominium becomes old and dilapidated, or is ruined due to an incident, or if the owners of the condominium wish to renovate the building, they shall prepare a redevelopment plan in accordance with the rules stated in this Act and the regulations made hereunder, and submit it to the Ministry for approval.
+
+48. Constructing a Condominium by Consolidating Multiple Plots
+
+Should the original owners of more than one separately registered plot of land wish to develop a condominium by consolidating them, the development of those plots can only be proposed after all plots have been converted to a single registry. And, when this change is made, the share value attributable to each person must be included in the registry.
+
+49. Applying for Approval of a Redevelopment Plan
+
+An application to redevelop a condominium under Article 47 of this Act shall be submitted to the Ministry in the following manner:
+
+(a) By passing a special resolution regarding the redevelopment of the building under the building's Management Corporation;
+
+(b) To pass the resolution mentioned in subsection (a) of this Article, votes representing at least 80% (eighty percent) of the total aggregate share value assigned to all unit owners must be obtained.
+
+50. Regulation on Redeveloping Condominiums
+
+The Ministry shall make and publish in the Government Gazette a regulation concerning the redevelopment of buildings under a condominium redevelopment plan.
+Chapter Six: Obtaining Approval for a Strata Scheme
+
+51. Applying for Strata Scheme Approval
+
+Upon receiving approval for a Strata Plan under this Act, an application for Strata Scheme approval must be submitted to the Ministry as stated in this chapter.
+
+52. Obtaining Strata Scheme Approval for Completed Buildings
+
+To obtain Strata Scheme approval for completed buildings, the following documents must be submitted:
+
+(a) The application form for Strata Scheme approval;
+
+(b) The letter of approval for the Strata Plan;
+
+(c) A letter or completion certificate from the project manager or engineer indicating the completion of the building;
+
+(d) Additional information as specified in this Act and the regulations made hereunder.
+
+53. Granting Strata Scheme Approval for Completed Buildings
+
+Strata Scheme approval for completed buildings shall be granted after verifying the following:
+(a) That all common areas in the land and building are completed, and that they have been surveyed and conform to the submitted Strata Plan;
+(b) That the basic services for the land and building are established as per the Strata Plan, and that a building occupancy permit has been obtained for the entire building.
+
+54. Obtaining Strata Scheme Approval for Buildings with a Completed Part
+
+To obtain Strata Scheme approval for buildings with a completed part or units, the following documents must be submitted in addition to the documents stated in Article 52 of this Act:
+
+(a) The permit issued for the use of the completed part of the building;
+
+(b) Additional information as specified in this Act and the regulations made hereunder.
+
+55. Granting Strata Scheme Approval for Buildings with a Completed Part
+
+Strata Scheme approval for buildings with a completed part or units shall be granted after verifying the following:
+
+(a) That the common areas of the land and building are completed, and all common areas related to the units for which an occupancy permit has been issued are surveyed and conform to the submitted Strata Plan;
+
+(b) That at least 2 (two) units of the building are completed, with basic services established for those 2 (two) units, and an occupancy permit has been issued for the part for which Strata Scheme approval is sought.
+
+56. Obtaining Strata Scheme Approval under a Staged Development
+
+To obtain Strata Scheme approval under a staged development, the following documents must be submitted:
+
+(a) The application form for Strata Scheme approval under a staged development;
+
+(b) The letter of approval for the Strata Plan;
+
+(c) A progress report signed by the project manager or engineer confirming that the project is proceeding according to the schedule of phases in the agreement signed by both parties for the staged development;
+
+(d) The latest amended Schedule of Strata Units;
+
+(e) The permit issued for the use of the completed part of the building;
+
+(f) Additional information as specified in this Act and the regulations made hereunder.
+
+57. Granting Strata Scheme Approval under a Staged Development
+
+Strata Scheme approval under a staged development shall be granted after verifying the following:
+
+(a) That the proposal submitted for the project as a staged development has been approved, and that the staged development agreement between the proposing party and the Ministry has been signed;
+
+(b) That the common areas in the land and building are completed, and all common areas related to the units for which an occupancy permit has been issued are surveyed and conform to the submitted Strata Plan;
+
+(c) That at least 20% (twenty percent) of the building proposed for the project as a staged development is completed, with basic services established in those units, and an occupancy permit has been issued for the part for which scheme approval is sought.
+Chapter Seven: Staged Development
+
+58. Staged Development
+
+If the building or buildings developed under the strata principle are part of a specific project, an application for Strata Scheme approval shall be submitted by preparing a Strata Plan under a staged development, along with the documents specified in Article 56 of this Act, and in accordance with the procedures and rules stated in this chapter.
+
+59. Components of a Staged Development
+
+(a) A staged development shall include the following components:
+
+(1) The staged development proposal submitted by the original landowner or a developer designated by them to develop a condominium;
+
+(2) The staged development agreement made between the party proposing the staged development and the Ministry.
+
+(b) The components to be included in the proposal mentioned in subsection (a)(1) of this Article and the agreement mentioned in subsection (a)(2) shall be specified in the regulation concerning the management of staged developments made under this Act.
+
+60. Applying to Conduct a Staged Development
+
+A staged development for a condominium can be proposed in accordance with the following rules and principles:
+
+(a) A condominium intended to be developed under a staged development must include at least 4 (four) units.
+
+(b) A staged development may only be carried out by a company, partnership, or cooperative society registered in the Maldives that is 100% (one hundred percent) Maldivian-owned.
+
+(c) No share of any company, partnership, or cooperative society mentioned in subsection (b) of this Article that has purchased a condominium or a flat in a condominium may be sold to a foreign party.
+
+(d) If a staged development for a condominium is proposed by a legal person other than those mentioned in subsection (b) of this Article, the procedures and rules by which such parties may conduct the staged development shall be specified in the regulation concerning the management of staged developments formulated under this Act.
+
+61. Appointing a Person to Assume Responsibility on Behalf of the Developer
+
+The developer conducting a staged development shall appoint a person to carry out all their responsibilities and duties in accordance with the procedures and rules stated in this Act and the regulations made hereunder.
+
+62. Transactions by the Developer
+
+(a) All transactions related to the condominium developed by the developer of a staged development shall be conducted in accordance with the procedures and rules stated in this Act and the regulations made hereunder, and as per the sale and purchase agreement signed between the developer and the purchaser.
+
+(b) Booking fees and other fees and prices related to the sale of units of a condominium being developed under a staged development may only be collected in accordance with the procedures and rules stated in the staged development agreement made between the proposing party and the Ministry, as mentioned in this Act and the regulations made hereunder, and under the sale and purchase agreement mentioned in subsection (a) of this Article.
+
+(c) The developer of a staged development may collect any fee or price from the purchaser as per subsection (b) of this Article only after 10% (ten percent) of the building work is completed.
+
+63. Obligations of the Developer
+
+(a) The main obligations of the developer of a staged development are as follows:
+
+(1) To advertise and provide information about the condominium or buildings to which the staged development pertains, in accordance with the procedures stated in this Act and the regulations made hereunder;
+
+(2) To provide true information to parties intending to purchase or purchasing condominium units when conducting transactions for the sale of units related to the developed condominium;
+
+(3) After collecting fees related to the staged development, to deposit those fees into the project account in accordance with the procedures stated in this Act and the regulations made hereunder;
+
+(4) To obtain insurance for the condominium project related to the staged development (As such, to obtain a Contractor's All Risk insurance policy for the building for the total value during the construction period);
+
+(5) To obtain a performance guarantee and, in relation to the sale of condominium units, a bank guarantee or insurance bond, in accordance with the procedures and rules stated in this Act and the regulations made hereunder;
+
+(6) To assume all obligations required of the developer during the initial period as stated in this Act, and to complete the tasks required of the developer at various stages of the staged development;
+
+(7) To make amendments to the Strata Plan as stated in this Act and the regulations made hereunder, to obtain approval for the Strata Scheme, and to do all things necessary to complete the scheme;
+
+(8) To maintain all documents related to the staged development;
+
+(9) Upon the formation of the Management Corporation under this Act, to fulfill the obligations required at various stages of the staged development in accordance with the procedures and rules stated in this Act and the regulations made hereunder.
+
+(b) To determine all the obligations stated in this Article, and for the developer of a staged development to fully perform their duties and responsibilities, the procedures and rules the developer must follow shall be specified in detail in the regulations made under this Act.
+
+64. Collection of Booking Fees and Other Fees
+
+Under a staged development, a developer may collect booking fees and other fees or prices related to the sale and purchase of a condominium unit in accordance with the regulations made under this Act, and in addition, as follows:
+
+(a) The maximum booking fee a developer may propose for a unit in a condominium being developed under a staged development is 5% (five percent) of the sale price of the unit.
+
+(b) The treatment of the booking fee collected under the staged development agreement must be clearly stated in the sale and purchase agreement made between the purchaser and the developer.
+
+(c) If a refund of the booking fee is requested due to a breach of the agreement by the developer, the method by which the refund will be made must be stated in the sale and purchase agreement between the purchaser and the developer.
+
+65. Opening a Project Account
+
+Parties developing and managing a condominium under a staged development must open a project account in a bank licensed by the Maldives Monetary Authority to conduct all financial transactions of the project related to the staged development, as stated in this Act and the regulations made hereunder.
+
+66. Conducting Financial Transactions Related to the Project
+
+Money may be deposited into and withdrawn from the project account mentioned in Article 65 of this Act only in accordance with the procedures and rules stated in this Act and the regulations made hereunder. Furthermore, the methods by which the developer will conduct the financial transactions of the project, and the measures to be taken against parties who violate this Act and its regulations, shall be specified in that regulation.
+Chapter Eight: Condominium Registration
+
+67. Registering a Condominium Unit
+
+Upon application for the registration of a condominium unit in accordance with the following procedures and rules, and after verifying the matters stated in this Act and the regulations made hereunder, the Council shall issue a unit registry in the name of each unit owner for every unit in the building, in accordance with the procedures determined by the Ministry.
+
+(a) Upon the issuance of a Strata Scheme permit, the owner of each unit in the building to which the scheme pertains shall apply for the registration of the condominium unit in their name in accordance with the procedures and rules stated in this Act.
+
+(b) The application for registration as per subsection (a) of this Article shall be made via the designated form to the City Council if in a city, or to the Island Council if on an island.
+
+68. Circumstances for Applying for Condominium Unit Registration
+
+An application for the registration of a condominium unit may be submitted in the following circumstances:
+
+(a) For the new registration of condominium units;
+
+(b) To amend the unit registry due to a change in an approved Strata Plan;
+
+(c) To amend the unit registry following the sale of a registered condominium unit.
+
+69. Applying for Registration under a Staged Development
+
+If applying for the registration of condominium units under a staged development, the following documents must be submitted:
+
+(a) The form prescribed by the Ministry for the sale and purchase of a condominium unit under a staged development;
+
+(b) A letter from the original landowner proposing the sale of the condominium unit;
+
+(c) A sale and purchase agreement notarized by a legal practitioner licensed as a notary by the Bar Council of the Maldives, or an agreement registered in a court;
+
+(d) A document confirming that the funds specified as the price of the unit in the agreement mentioned in subsection (c) of this Article have been paid in full by the purchaser to the seller;
+
+(e) If the land or unit proposed for registration as a condominium is mortgaged, a letter of no objection from the mortgagee;
+
+(f) Additional documents required to be submitted in accordance with the procedures and rules stated in this Act and the regulation concerning the management of staged developments made hereunder.
+
+70. Transferring the Unit Registry to Another Person's Name
+
+(a) To transfer a unit in a condominium by will or gift, and to transfer the registry of a condominium unit to another party, the following documents must be submitted:
+
+(1) The form prescribed by the relevant government authority for transferring units in a condominium by will or gift, or for transferring the registry of a condominium unit to another party;
+
+(2) A signed declaration from the original landowner or the condominium unit owner agreeing to sell, relinquish, or transfer the registry of a unit;
+
+(3) If the condominium unit is transferred to another party by gift or under a will through court proceedings, a copy of the court's judgment report on the matter;
+
+(4) If the unit or units are proposed for a registry transfer under a sale and purchase agreement, a sale and purchase agreement notarized by a legal practitioner licensed as a notary by the Bar Council of the Maldives, or an agreement registered in court;
+
+(5) If applying for a registry transfer under a sale and purchase agreement as mentioned in subparagraph (4) of this subsection, a document confirming that the funds specified as the price of the unit in the agreement have been paid in full by the purchaser to the seller, or a document on how the payment will be made;
+
+(6) If the condominium land or unit is mortgaged, a letter of no objection from the mortgagee;
+
+(7) A letter issued by the Management Corporation confirming that the unit owner has paid the maintenance fee and other fees.
+
+(b) The registry of any unit in the Strata Plan can be transferred to another party, and any sale and purchase transaction can be conducted, only after amending the Schedule of Strata Units in accordance with the procedures and rules stated in this Act and after obtaining the Ministry's approval.
+
+71. Common Property in the Strata Plan
+
+A separate registry will not be created for the common property included in a Strata Plan. However, it must be stated in the registry issued to the unit owners that the common property is property in which all unit owners of the condominium have a share. Furthermore, it must be stated in the unit registry that the management and maintenance of the common property in the Strata Plan are matters to be handled by the Management Corporation formed under this Act.
+
+72. Accessory Unit in the Strata Plan
+
+A separate registry will not be created for an accessory unit included in a Strata Plan. However, if an accessory unit is designated for a unit in the Strata Plan, the details of the accessory unit must be stated in the registry issued to the unit owner.
+
+73. Condominium Unit on State-owned Land
+
+If the building to which a strata unit belongs is constructed on state-owned land, the registry of the unit owner must state that the unit is on state-owned land.
+
+74. Condominium Unit on Private Land
+
+If the building to which a strata unit belongs is constructed on private land, the registry of the unit owner must state that the unit is on private land.
+
+75. Information to be on the Registry Issued for a Unit
+
+The information to be included in the registry of each unit in a condominium shall be specified in the regulations made under this Act.
+
+76. Condominium Registry
+
+(a) When creating registries for the units included in a Strata Plan, a condominium registry containing the information of the entire building shall be created and kept at the respective Council. A certified true copy of this registry shall be given by the Council to the Management Corporation to which the condominium belongs.
+
+(b) If the owner of a unit included in the condominium registry issued under subsection (a) of this Article changes, that change must be made to the condominium registry in accordance with this Act and the regulations made hereunder.
+
+(c) If the owner of any unit included in the condominium registry changes or if any addition or deletion is made to the registry as per subsection (b) of this Article, this information must be shared with the Management Corporation in accordance with this Act and the regulations made hereunder.
+
+(d) Upon the creation of the condominium registry as per this Article, the land registry or the building and plot registry for that building shall become void.
+
+77. Issuing Registration for a Condominium Unit
+
+Before issuing registration for units in a condominium, the following must be verified:
+
+(a) The validity of the documents submitted as stated in this chapter;
+
+(b) That any taxes payable to the government in relation to a condominium unit as specified in this Act and the regulations made hereunder have been paid before registering the units in the condominium or before changing a unit's registry;
+
+(c) That in a situation where a unit has more than one owner as stated in Article 85(b) of this Act, no more than 1 (one) registry is created for any unit;
+
+(d) That the matters specified in the regulations made under this Act have been fulfilled.
+
+78. Obligation to Register Condominium Units under a Staged Development
+
+(a) The original landowner or developer shall be obligated to apply for the registration of units in condominiums for which a Strata Plan has been approved under a staged development in the following situations:
+
+(1) If a transaction for the sale and purchase of a unit in the Strata Plan has been made with any party, within 18 (eighteen) months from the start date of the first sale and purchase agreement signed; or
+
+(2) Within at least 3 (three) months from the date the completion certificate is issued for the building to which the Strata Plan pertains.
+
+(b) Between the two dates mentioned in subsections (a)(1) and (a)(2) of this Article, the one that comes first shall apply.
+
+79. Applying for Registry of Completed Buildings
+
+An application for the registration of all units in a building must be submitted within at least 3 (three) months from the date the completion certificate is issued for a building for which a permit has been granted as a Strata Scheme.
+
+80. Stating the Ownership of the Condominium Land in the Registry
+
+Since the owners of the building registered as a condominium and the land to which it pertains are the owners of the units in proportion to their ownership of the units in the condominium, it must be stated in the condominium registry that the condominium land is not land that can be separately demarcated and divided among the landowners.
+
+81. Land for Government Housing Projects
+
+Unless otherwise specified in another law, for various housing projects run by the government, the recipients or purchasers of housing units shall become owners of the land or plot to which the building pertains only under a policy determined by the government.
+
+82. Regulation on Unit Registration
+
+The format of documents to be submitted for the registration of units in a condominium under this Act, and the procedures for conducting transactions related to the unit registry, shall be specified in the regulations made under this Act.
+Chapter Nine: Sale, Gifting, and Registry-related Transactions of Condominium Units
+
+83. Transactions related to the Unit Registry
+
+All transactions related to the registry of a condominium unit shall be conducted in accordance with the procedures and rules stated in this chapter.
+
+84. Transactions related to a Condominium Unit
+
+(a) The owner of a unit in a condominium has the full authority to conduct all transactions such as leasing, selling, gifting by will or otherwise, or mortgaging the unit, in accordance with this Act.
+
+(b) As a condominium is a building with a special status, the registration of a condominium, the land and building units, common areas, and transactions related to the units specified in the Strata Plan shall not be assimilated with land unless otherwise specified in another article of this Act.
+
+(c) The common areas and facilities that come with a condominium unit shall not be sold, gifted by will or otherwise, mortgaged, or leased separately from the unit in any transaction.
+
+(d) No unit in a condominium shall be leased, sold, gifted by will or otherwise, or mortgaged in a manner that contradicts the designated use of that unit.
+
+85. Ownership of Land and Building Units
+
+(a) Unless otherwise specified in another article of this Act, the owner of each unit in a condominium registered on state-owned or private land is the owner of the land in proportion to the unit's share value as determined in the Strata Plan and the Schedule of Strata Units.
+
+(b) Units in a condominium can be bought, sold, given, received, and owned only by Maldivian citizens, companies or partnerships or cooperative societies registered in the Maldives that are 100% (one hundred percent) Maldivian-owned, or associations or organizations registered in the Maldives that are 100% (one hundred percent) Maldivian-owned.
+
+(c) As stated in subsection (b) of this Article, no share of a 100% (one hundred percent) Maldivian-owned company or partnership that has purchased a condominium unit may be sold to a foreign party.
+
+(d) The owner of a unit under this Act shall sell the unit only after the purchaser has declared that they will continue to fulfill the responsibilities and obligations required as a member of the condominium's Management Corporation and will fully comply with and act upon the notices of the Management Corporation.
+
+(e) There can be more than one owner for a unit in a condominium.
+
+(f) Notwithstanding subsection (e) of this Article, a unit in a condominium shall not be subdivided or partitioned. Under no circumstances shall a unit in any condominium be subdivided to accommodate more than one family with separate connections for electricity, water, and other services.
+
+86. Transfer of Rights
+
+(a) Unless stated otherwise in this Act or another law, if the owner of a specific unit in a condominium sells it, all rights granted to the unit owner under this Act, and all obligations to be fulfilled by that party under this Act, shall be deemed to have been transferred to the party purchasing the unit from that moment.
+
+(b) If the ownership of a unit in a condominium changes due to sale or gifting by will or otherwise, the registry of that unit must be transferred to the name of the party to whom the ownership has been transferred, in accordance with this Act.
+
+(c) Since the ownership of the common areas designated in a condominium is held by a unit owner jointly with the owners of other units as an inseverable right, any transaction such as selling, gifting by will or otherwise, or mortgaging the designated common areas in the condominium must be done in a way that does not diminish this right.
+
+(d) If the owner of a unit in a condominium sells or gifts it by will or otherwise, the party who receives the unit by purchase, will, or gift shall have ownership of the common areas based on the share value of the unit owner's share they receive.
+
+87. Privatizing a Condominium Unit on State-owned Land
+
+The privatization of a specific unit or units of a condominium on state-owned land shall be carried out in accordance with the following procedures and rules:
+
+(a) When a unit owner acquires ownership of the land in proportion to their unit's share value, if the building is on state-owned land, the share of the land corresponding to a specific unit or units in the condominium cannot be separately privatized.
+
+(b) If the owners of a unit or units mentioned in subsection (a) of this Article wish to register them as private units, the land pertaining to the condominium may be privatized after paying the fee determined under the Land Act and its regulations for privatizing the land. And, upon such privatization, the building shall be considered a condominium on private land.
+
+(c) All matters concerning the privatization of the land mentioned in subsection (b) of this Article shall be concluded through the Management Corporation with the consent of all unit owners.
+
+88. Further Matters to be Verified
+
+Before transferring the ownership of a unit in a condominium registered under this Act, the following matters must be verified:
+
+(a) If the original owner of a unit or units legally obtained in a condominium built on a residential state-owned or private plot wishes to sell it, to check whether the person wishing to sell the unit or units and their legal dependents have another place to live;
+
+(b) If a person who owned state-owned or private land or a plot has died, when distributing the land or plot and the buildings and immovable property on it among the heirs according to inheritance principles, and when they apply to register it as a condominium on that land, that the legally required stages have been completed by the court.
+
+89. Legal Division of Building Parts
+
+Since the matters mentioned in Article 88 of this Act are matters to be decided legally, in a situation where the parts of a building need to be divided legally, even if the building is not registered as a condominium, the building shall be divided based on the units in the Strata Plan after the Strata Plan mentioned in Article 33 of this Act has been approved.
+
+90. Government-built Condominiums for Housing
+
+(a) In relation to a unit in a condominium developed for the purpose of providing housing under a government policy, unless otherwise stated in another law or regulation, matters such as the sale and purchase, gifting by will or otherwise, and mortgaging of such a unit shall be done separately from the land.
+
+(b) The opportunity for the owner of a unit in a condominium built under the government's housing policy to sell, purchase, gift, and mortgage the unit is granted within the policies and standards set by the government.
+
+91. Leasing
+
+(a) A unit in a condominium may be leased by its owner in accordance with the procedures stated in the laws and regulations of the Maldives.
+
+(b) Unless otherwise specified in this Act or another law, a unit in a condominium shall be leased for its designated purpose.
+
+92. Sharing Information about Lease Transactions
+
+If the owner of a unit in a condominium leases it, they must share the following information with the Management Corporation:
+
+(a) The lease period;
+
+(b) The name of the lessor and lessee, a copy of their ID cards, and if a legal person, a copy of its registration;
+
+(c) A contact phone number for the lessee;
+
+(d) The lessee's email address;
+
+(e) Other information as specified in the regulations made under this Act.
+
+93. Mortgaging
+
+(a) Individual units in a condominium may be mortgaged by their owners in accordance with this Act, the regulations made hereunder, and the laws and regulations concerning mortgaging in force in the Maldives.
+
+(b) If a unit is mortgaged as per this Article, the relevant government authority must be notified. And, a registry of such mortgages must be maintained by that authority.
+
+(c) When a Strata Plan is approved, if there is a mortgage on the plot to which the plan pertains or on the building on that plot, that mortgage will not be affected in any way.
+
+(d) If a state-owned or private land on which a condominium is located is mortgaged under a legal obligation to a financial institution licensed in the Maldives before or after the approval of the Strata Plan, and if an application is made to register or cancel that mortgage, the original landowner or the condominium unit owner must submit the following documents with the application form, in accordance with the procedures and rules stated in this Act and the regulations made hereunder:
+
+(1) A letter stating that there are no outstanding payments to the Management Corporation in relation to the condominium unit;
+
+(2) Details of any other mortgage registered on the condominium unit.
+
+94. Valuation of Buildings and Units
+
+Unless another law establishes a procedure or standard for property valuation when conducting sale and purchase transactions of condominiums and their units built in the Maldives, the prices proposed for selling units must be in accordance with the method prescribed in the regulations made under this Act. And, prices proposed otherwise may be reviewed in a manner prescribed by the regulations made under this Act.
+Chapter Ten: Management Corporation
+
+95. Management Corporation
+
+(a) A Management Corporation is a legal person with the capacity to sue and be sued in its own name, and having its own seal.
+
+(b) A Management Corporation can be registered for a building containing at least 5 (five) units. And, a Management Corporation for such a place can be registered if at least 3 (three) of the 5 (five) units are owned by 3 (three) different parties.
+
+(c) For condominiums with fewer than 5 (five) units, a management agreement must exist among the owners of the units in the building to maintain it and to perform the responsibilities stated in this Act as required of a Management Corporation.
+
+(d) Upon the formation of a Management Corporation, it shall acquire the status, powers, and responsibilities stated in this chapter. And, the parties who are members of the corporation shall execute the powers and responsibilities vested in the corporation.
+
+96. Objectives of the Management Corporation
+
+The objectives of the Management Corporation are stated below:
+
+(a) Upon the registration of buildings constructed or intended to be constructed in the Maldives as condominiums, to manage and maintain the Strata Scheme to which those buildings pertain as stated in this Act;
+
+(b) To manage and maintain the common areas in the building or buildings to which the Strata Scheme pertains, to carry out daily repairs, and to resolve issues that arise;
+
+(c) For the benefit of the owners of the units included in the Strata Scheme, to establish equitable principles among all owners as stated in this Act, and to carry out all necessary work to uphold the rights of the owners;
+
+(d) To meet with all unit owners in accordance with this Act and the regulations made hereunder, to accept their opinions and complaints, to find solutions to issues that arise, and to plan and execute activities to strengthen relationships among the owners.
+
+97. Registering the Management Corporation
+
+(a) Upon the approval of a Strata Plan as per Article 39 of this Act, the Management Corporation pertaining to that Strata Plan must be registered with the Ministry in accordance with the procedures and rules stated in this Act and the regulations made hereunder.
+
+(b) A register of Management Corporations registered under this Article shall be maintained by the Ministry.
+
+(c) Upon the registration of a Management Corporation as per subsection (a) of this Article, a copy of the approved Strata Plan and the Management Corporation's registration certificate shall be sent by the Ministry to the Council within 15 (fifteen) days of the corporation's registration.
+
+(d) The procedures for registering and operating a Management Corporation shall be specified in the regulations made under this Act.
+
+98. Council of the Management Corporation
+
+(a) To manage the affairs of the Management Corporation and to perform the responsibilities stated in this Act, a Council of the Management Corporation shall be elected by a vote among the members of the corporation.
+
+(b) The number of members of the Council of the Management Corporation shall not be less than 3 (three) members.
+
+(c) At the first general meeting of the Management Corporation held after its registration, a President, a Treasurer, and a Secretary of the corporation's Council shall be elected.
+
+99. Members of the Management Corporation
+
+(a) Upon the registration of a Management Corporation, the parties considered as members of the Management Corporation are the developer and the parties who purchase condominium units under a sale and purchase agreement. As such, the owner of each unit in the condominium is a member of the Management Corporation.
+
+(b) After the registration of the Management Corporation formed under this Act, as the developer sells condominium units, the members of the corporation will increase. Each of these parties will be considered a member of the corporation from the moment they sign the sale and purchase agreement for the unit.
+
+(c) While the purchasers of building units become members of the Management Corporation from the moment they sign the sale and purchase agreement for the unit as per subsection (b) of this Article, they shall be removed from membership of the corporation upon the cancellation of that agreement.
+
+(d) The developer must remain a member of the Management Corporation at least until the end of the defect liability period determined for the building.
+
+100. Relationship between the Developer and the Management Corporation
+
+(a) The developer shall manage and maintain the Management Corporation, the building units in the Strata Plan, the common areas, and other matters related to the Strata Scheme during the initial period.
+
+(b) Upon the conclusion of the initial period, the developer shall perform the responsibilities they were carrying out under subsection (a) of this Article as a member of the Management Corporation, in accordance with the resolutions passed by the corporation, or in a manner determined by the corporation.
+
+(c) In situations where the powers and responsibilities vested in the developer and the powers and responsibilities vested in the Management Corporation regarding the units and common areas of the building in the scheme to which the corporation pertains are aligned, the developer shall be the managing agent, unless the Management Corporation appoints another party to execute those functions.
+
+101. Handing Over Documents to the Management Corporation
+
+Upon the formation of the Management Corporation, the original landowner or the developer shall hand over the following documents to the corporation:
+
+(a) A copy of the approved building drawings and all construction-related permits;
+
+(b) A copy of the permit issued for the Strata Plan;
+
+(c) A copy of the building occupancy permit and the residential/commercial use permits;
+
+(d) Information and drawings of the common areas;
+
+(e) A copy of the fire safety certificates;
+
+(f) The schedule formulated for the repair, cleaning, and maintenance of the building;
+
+(g) Details of the building's insurance policy and the building's depreciation schedule;
+
+(h) In addition to the documents stated from (a) to (k) of this Article, the documents specified in the regulations made under this Act.
+
+102. Responsibilities of the Management Corporation
+
+The responsibilities of the Management Corporation include doing the following in accordance with this Act, the regulations made hereunder, and the decisions of the corporation:
+
+(a) To repair and maintain the common areas of the condominium at a consistent standard;
+
+(b) To carry out necessary repairs to maintain the common areas and facilities at a consistent standard;
+
+(c) To collect the fees required from the unit owners;
+
+(d) In addition to insuring and maintaining the building at its replacement value to be safe from fire incidents and natural disasters, to pay the insurance premiums regularly;
+
+(e) To inform the building owners of notices and directives issued by relevant government authorities regarding the maintenance and use of the building;
+
+(f) To implement the decisions of the Management Corporation;
+
+(g) To maintain the financial accounts of the Management Corporation and to have the financial accounts regularly audited and submitted to the relevant authorities;
+
+(h) To hold a general meeting at least once every year;
+
+(i) To carry out all necessary work to run the Management Corporation;
+
+(j) To do other things as specified in this Act and the regulations made hereunder.
+
+103. Meetings of the Management Corporation
+
+(a) An annual general meeting of the Management Corporation must be held at least once every calendar year.
+
+(b) The procedures for holding the first general meeting of the Management Corporation, its annual general meetings, general meetings, and emergency meetings, how such meetings will be conducted, and the procedures for decision-making by the Management Corporation shall be specified in the regulations made under this Act.
+
+104. Voting
+
+(a) Every member of the Management Corporation may attend its meetings and participate in voting.
+
+(b) In matters related to the Strata Scheme, each member can vote according to the share value assigned to their unit.
+
+(c) The procedures for voting in the meetings of the Management Corporation shall be specified in the regulations made under this Act.
+
+105. Obligations of Unit Owners related to the Management Corporation
+
+The owners of condominium units must do the following in accordance with the procedures stated in this Act and the regulations made hereunder:
+
+(a) To fully comply with the decisions and directives of the Management Corporation;
+
+(b) To pay the maintenance fee required for the maintenance and use of the condominium in accordance with the rules and standards decided by the Management Corporation.
+
+106. Action upon Non-payment of Maintenance Fee
+
+If the owners of condominium units do not pay the maintenance fee as stated in this Act, in accordance with the rules and standards determined in this Act and the regulations made hereunder, a course of action against such parties shall be passed by a majority of the members present and voting at a general meeting of the Management Corporation.
+
+107. Appointing a Managing Agent
+
+(a) If the Management Corporation so desires, a managing agent may be appointed to repair and maintain the common areas pertaining to the Strata Scheme in the following manner:
+
+(1) Appointing a managing agent after passing a resolution at a general meeting of the Management Corporation;
+
+(2) The party appointed as the managing agent must be a company, partnership, or cooperative society registered in the Maldives that is 100% (one hundred percent) Maldivian-owned.
+
+(b) The appointment of a managing agent, the responsibilities of the managing agent, and all related procedures shall be specified in the regulations made under this Act.
+
+108. Procedure for Managing, Maintaining, and Using a Condominium
+
+The procedures for the management, maintenance, and use of a condominium shall be prepared by the Management Corporation, passed at a meeting of the corporation, and made public, in accordance with the procedures and rules stated in this Act and the regulations made hereunder.
+
+109. Information to be Included in the Strata Roll
+
+The Management Corporation to which the condominium pertains shall prepare and maintain a Strata Roll including the following information:
+
+(a) The Strata Plan number;
+
+(b) The number of units in the condominium and the share value assigned to those units;
+
+(c) The names of the owners of the units in the condominium;
+
+(d) If a managing agent is appointed to manage and maintain the condominium, their information;
+
+(e) Information on the insurance related to the condominium;
+
+(f) The rules or procedures formulated for the scheme;
+
+(g) Details of mortgages in the condominium;
+
+(h) Information on leasing parties.
+Chapter Eleven: Establishment of Funds by the Management Corporation
+
+110. Establishing a Fund
+
+(a) The Management Corporation shall open and maintain a Maintenance Fund to cover the recurrent expenses for the use and maintenance of the condominium.
+
+(b) In addition to the Maintenance Fund mentioned in subsection (a) of this Article, the Management Corporation may open and maintain funds to cover capital expenses for the use and maintenance of the condominium, or to prepare for resolving issues that may arise suddenly in a particular situation, including a Sinking Fund, to cover expenses related to all obligations under this Act.
+
+111. Period for Opening the Maintenance Fund
+
+The Maintenance Fund shall be opened within the following period:
+
+(a) Within 30 (thirty) days from the date a temporary occupancy permit is obtained for a unit in the condominium;
+
+(b) For a building registered as a condominium in the Maldives before this Act came into force, within 30 (thirty) days of the registration of the Management Corporation for that building under this Act.
+
+112. Use of the Maintenance Fund
+
+The Maintenance Fund shall be used for the following purposes:
+
+(a) To pay for expenses incurred in repairing and maintaining the building, and to pay for expenses incurred in cleaning the common areas and maintaining security;
+
+(b) To pay insurance premiums;
+
+(c) To pay the fees for auditing the accounts of the Management Corporation;
+
+(d) To cover the costs of managing the Maintenance Fund and administrative matters.
+
+113. Developer's Responsibilities regarding the Maintenance Fund
+
+(a) The responsibilities of the developer in relation to the Maintenance Fund are as follows:
+
+(1) To pay the maintenance fee corresponding to each unit into the fund on behalf of the developer from the date an occupancy permit is obtained for the condominium or a unit within it;
+
+(2) If the fee mentioned in subparagraph (1) of this subsection is a fee collected from the unit owner under a sale and purchase agreement, to deposit it into the Maintenance Fund after obtaining it;
+
+(3) If a unit in the condominium has not been sold, and it is a unit for which an occupancy permit has been obtained, to pay the maintenance fee determined for the unit monthly until it is sold;
+
+(4) If a unit in the condominium has been sold, and it is not a unit for which an occupancy permit has been obtained, to pay the maintenance fee determined for the unit monthly until the occupancy permit is obtained for it;
+
+(5) After the establishment of the condominium's Maintenance Fund, if any money is earned from the use of the common areas of the building, to deposit that money into the Maintenance Fund;
+
+(6) To deposit the fee collected in relation to limited common property under this Act and the regulations made hereunder into the developer's Maintenance Fund.
+
+(b) If the developer of projects under a staged development does not receive a completion certificate, the maintenance fee from any purchaser of a unit in that project can only be collected with the approval of the Ministry.
+
+114. Opening a Fund
+
+(a) The funds established under this Act shall be opened in a financial institution licensed to operate in the Maldives. And, the fund's account shall be used solely for the purpose for which the fund is established under this Act.
+
+(b) After opening the account mentioned in subsection (a) of this Article, the following must be fulfilled:
+
+(1) To maintain books of accounts, clearly stating the details of expenditures from the fund and money deposited into the fund;
+
+(2) To appoint an auditor licensed to audit under the relevant law to audit the Maintenance Fund at least once a year;
+
+(3) After the establishment of the Management Corporation, to audit the account at least once every year;
+
+(4) After auditing the account each year, to submit a copy of the audited financial statements to the Ministry;
+
+(5) To allow the Ministry or a party designated by the Minister to inspect and check the Maintenance Fund and to provide details of the fund when requested.
+Chapter Twelve: Rights of the Owner
+
+115. Right to Use Common Property of the Condominium
+
+(a) The owner of a condominium unit is entitled to all rights associated with their unit.
+
+(b) In addition to the rights mentioned in subsection (a) of this Article, the owner of a condominium unit has the right to use the common areas together with the owners of other units.
+
+116. Facilities related to Services
+
+Unit owners and the Management Corporation are granted the right of entry and exit to units and common areas to the extent necessary for the establishment, maintenance, and repair of facilities related to services required for the condominium units, as specified in the regulations made under this Act.
+
+117. Right to Protection for the Unit from Parts of the Building
+
+(a) The owner of every unit has the right to receive protection from all parts of the building that provide protection to their unit.
+
+(b) For the purpose of subsection (a) of this Article, the parts of the building that provide protection to a unit are said to include the external walls of the building, the structure of the building, the roof, and the boundary walls related to that unit and other units.
+
+(c) The right mentioned in subsection (a) of this Article is granted to a unit owner to the same extent that it is granted to the owners of other units. And, the right to use the common areas of the condominium is also granted to them to the same extent.
+
+118. Inseparability of Interests
+
+The rights and interests granted to a unit owner in relation to their unit are not separable from the rights and interests granted to them in relation to the common areas of the condominium.
+Chapter Thirteen: Responsibilities of Councils
+
+119. Responsibilities of Councils
+
+Unless otherwise stated in this Act, the responsibilities of the Councils are stated below:
+
+(a) To ensure and verify that the drawing of the building submitted for registration as a condominium is a drawing of a building constructed or being constructed under the relevant laws and the planning standards and regulations of the Maldives;
+
+(b) To issue the condominium registry and unit registries in a manner determined by the Ministry, in accordance with the rules and procedures stated in this Act and the regulations made hereunder;
+
+(c) If any change is made to the drawing to which a Strata Plan pertains, to ensure and verify that the change is made in accordance with the planning standards and regulations of the Maldives;
+
+(d) To issue building occupancy permits for the buildings to which a Strata Plan pertains;
+
+(e) To provide advice and guidance to the Minister when necessary to resolve issues arising in the use and maintenance of a condominium after its registration;
+
+(f) Not to issue permits for any use other than the designated use for the land and building of Strata Plan buildings, and in the case of not issuing a permit, to carry out all necessary work in relation to it.
+
+120. Applying to the Council for a Permit
+
+Applications for permits related to the matters stated as the responsibilities of Councils in this chapter shall be submitted to the Council of the island or city to which the building pertains.
+
+121. Issuance of Permits by Councils
+
+(a) When an application is submitted to approve a condominium drawing, the Council must verify that the use of the building's parts has been determined as stated in Chapter Three of this Act.
+
+(b) The Council shall approve the drawing after verifying that the land and building in the drawing submitted for the Council's approval as mentioned in subsection (a) of this Article is a place where the land and building have been subdivided according to the conditions stated in Chapter Three of this Act, and that it complies with planning regulations.
+
+(c) When an application is submitted to the Council for approval to amend a drawing to which an approved Strata Plan pertains, a permit for the drawing shall be given in accordance with this Act and the regulations made hereunder.
+
+(d) If a permit has been granted to consolidate the land and drawing of 2 (two) Strata Plans under a redevelopment plan as stated in Article 47 of this Act, the actions to be taken in relation to the necessary changes to the building shall be carried out under the advice and guidance of the Ministry.
+
+(e) If it becomes necessary to revoke an approved Strata Plan, it shall be carried out under the advice and guidance of the Ministry.
+
+(f) If an application submitted to the Council for a permit in relation to a specific matter under this Act fulfills the conditions stated in this Act and the regulations made hereunder, the Council shall grant the permit within a maximum of 45 (forty-five) days.
+
+(g) If the Council decides that an application submitted to it for a permit in relation to a specific matter under this Act does not fulfill the conditions stated in this Act and the regulations made hereunder, it shall notify the applicant within 10 (ten) days and return all documents submitted by the party to the Council.
+
+122. Sharing Information of the Condominium Registry
+
+If the owner of any unit in the condominium registry changes or if an addition or deletion is made to the registry, the Ministry must be notified within a maximum of 14 (fourteen) days.
+Chapter Fourteen: General Provisions
+
+123. Condominiums Registered under the Land Act
+
+With the commencement of this Act, buildings registered as condominiums under the Land Act are transferred to the system established by this Act. And, the owners of those buildings must complete the matters required to be fulfilled under this Act in relation to those buildings within 12 (twelve) months from the date this Act comes into force.
+
+124. Repealed Articles
+
+With the commencement of this Act, Article 19, and Articles 31 through 36 of the Land Act are repealed.
+
+125. Not to be Considered as Fulfillment of Requirements under Other Laws
+
+The registration of a condominium under this Act is not a reason to believe that the requirements mandated upon the original landowner by another law or regulation in relation to that building have been fulfilled. And, the original landowner is obligated to fulfill the requirements of any law or regulation concerning construction in relation to that building.
+
+126. Making Regulations
+
+(a) Unless otherwise stated in this Act, the regulations to be made under this Act shall be made and implemented by the Ministry.
+
+(b) Unless otherwise stated in this Act, the regulations to be made under this Act shall be made and published in the Government Gazette within 4 (four) months from the date this Act comes into force.
+
+127. Commencement of the Act
+
+This Act shall come into force 3 (three) months from the date it is passed, ratified, and published in the Government Gazette.
+
+128. Definitions
+
+Unless the context in which a phrase or word is used in this Act explicitly suggests otherwise, the following phrases and words are given the meaning provided below in relation to them.
+
+(a) "Ministry" refers to the government ministry to which the responsibility of overseeing matters related to condominiums is assigned at the time.
+
+(b) "Council" refers to the City Councils and Island Councils established under Law No. 7/2010 (Decentralization Act of Maldives).
+
+(c) "Minister" refers to the minister of the government ministry to which the responsibility of overseeing matters related to condominiums is assigned at the time.
+
+(d) "Basic services" refers to the services of water, electricity, and sewerage that are required for daily use by the inhabitants of a building to live in that building.
+
+(e) "Commercial use" refers to commercial activities conducted in accordance with Law No. 18/2014 (Business Registration Act).
+
+(f) "Land Act" refers to Law No. 1/2002 (Maldives Land Act) and its amendments.
+
+(g) "Building Act" refers to Law No. 4/2017 (Building Act) and its amendments.

@@ -1,0 +1,99 @@
+Sale of Goods Act
+
+Name
+
+    This Act shall be cited as the "Sale of Goods Act".
+
+Sale of Goods
+2. A sale of goods is an agreement between the seller and the buyer to transfer the ownership of the goods from the seller to the buyer for a specific price.[1] In this Act, this agreement shall be referred to as the Contract for the Sale of Goods.[1]
+
+Capacity to Contract
+3.
+(a) The parties to a Contract for the Sale of Goods must be persons with the capacity to contract.[1]
+(b) If necessaries are sold and delivered to a person who lacks the capacity to contract or to a minor, that person or minor must pay a reasonable price for such goods.[1]
+
+Existing or Future Goods
+4. The goods sold under a contract may be either existing goods or future goods.[1] In this section, existing goods refer to goods that are owned or possessed by the seller.[1] Future goods refer to goods that have to be manufactured or acquired by the seller after the contract is made.[1]
+
+Price
+5. The price in a contract of sale shall be the price fixed in the contract or determined in a manner agreed upon in the contract.[1]
+
+    The parties to the contract may agree that the price is to be determined by a third party.[1]
+
+Implied Condition as to Title
+7. Even if not stated in a contract, unless a contrary intention appears, there is an implied condition on the part of the seller that he has a right to sell the goods.[1] When there is an agreement to sell, it shall be considered that he has the right to sell the goods at the time when the ownership is to pass to the buyer.[1]
+
+Transfer of Ownership
+8. The ownership of the goods shall be transferred to the buyer at such time as is determined in the contract.[1]
+
+Fitness for Purpose
+9. Goods sold under a contract shall be of a quality reasonably fit for a particular purpose if the buyer has informed the seller of that purpose.[1]
+
+Right to Withhold Delivery
+10. The seller has the right to withhold delivery of the goods until the condition or a part of the conditions in the contract are fulfilled. In such a case, ownership will not be transferred to the buyer until those conditions are fulfilled.
+
+Risk
+11. Unless otherwise agreed, when the ownership of the goods is transferred, the risk of the goods also transfers from the seller to the buyer, whether the goods have been delivered or not. In this section, risk refers to the danger of any potential negative consequence that may exist at the time of the transfer of ownership of the goods.
+
+Duties of Seller and Buyer
+12. It is the duty of the seller to deliver the goods in accordance with the terms of the contract. It is the duty of the buyer to accept and pay for the goods in accordance with the terms of the contract.
+
+Rules as to Delivery
+13. Unless otherwise agreed:
+(a) Delivery of the goods and payment of the price are concurrent conditions.
+(b) The place of delivery is the seller's place of business.
+(c) The buyer is not bound to accept delivery by installments.
+
+Delivery of Wrong Quantity or Defective Goods
+14.
+(a) The buyer is not obliged to accept the goods if the seller delivers a quantity of goods larger or smaller than he contracted to sell.
+(b) If the seller delivers to the buyer a quantity of goods less than he contracted to sell, and the buyer accepts them, the buyer shall pay for them at the contract rate.
+(c) If the seller delivers to the buyer a quantity of goods larger than he contracted to sell, the buyer may accept the goods included in the contract and reject the rest. If the buyer accepts the whole of the goods so delivered, he shall pay for them at the contract rate.
+(d) If the seller delivers to the buyer the goods he contracted to sell mixed with goods of a different description not included in the contract, the buyer may accept the goods which are in accordance with the contract and reject the rest, or he may reject the whole.
+(e) If the goods have a defect that existed before the seller delivered them to the buyer, the buyer may reject the goods.
+
+Legal Acceptance of Goods
+15. The buyer is deemed to have legally accepted the goods if he acts in any of the following ways:
+(a) When he intimates to the seller that he has accepted them.
+(b) When he retains the goods after a reasonable time has elapsed without intimating to the seller that he has rejected them.
+(c) When the buyer, after receiving the goods, does any act in relation to them which is inconsistent with the ownership of the seller.
+
+Option to Rescind the Transaction
+16. Unless otherwise agreed, as long as the sale of goods transaction is concluded and the seller and buyer have not separated, either of them has the option to rescind the transaction.
+
+Unpaid Seller's Rights
+17. In accordance with the provisions of this Act, notwithstanding that the ownership of the goods may have passed to the buyer, the unpaid seller of goods has the following rights:
+(a) A legal lien on the goods for the price while he is in possession of them.
+(b) A right of reselling the goods to another party.[1]
+
+Lien on Goods
+18.
+(a) The seller has a legal lien to retain the goods in the following circumstances:
+(1) Where he has not been given credit.
+(2) Where the goods have been sold on credit, but the term of credit has expired.
+(3) Where the buyer becomes bankrupt.
+(b) The seller's legal lien to retain the goods is terminated when the buyer or his agent lawfully obtains possession of the goods, or when the seller waives his rights.
+
+Sale to a Third Party
+19.
+(a) The seller can resell the goods only if one of the following situations arises:
+(1) Where the goods are of a perishable nature.[1]
+(2) Where he gives notice to the buyer of his intention to resell, and the buyer does not within a reasonable time pay the price.[1]
+(3) Where the seller has expressly reserved a right of resale in case the buyer should make default, and the buyer makes such a default.[1]
+(b) If the seller suffers a loss due to the buyer's breach of contract, the seller may claim damages.
+
+Action for Price
+20. Where the buyer wrongfully neglects or refuses to pay for the goods, the seller may sue him for the price of the goods.
+
+Buyer's Rights in Case of Breach of Contract
+21.
+(a) Where the seller wrongfully neglects or refuses to deliver the goods, the buyer may sue him for damages for non-delivery.
+(b) The damages for non-delivery mentioned in subsection (a) of this section shall be the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or, if no time was fixed, then at the time of the refusal to deliver. It can also be the difference between the agreed price and the cost incurred by the buyer in obtaining similar goods from another party.
+
+Definitions
+22. Unless a different meaning is required by the context:
+(a) "Goods" includes all movable property other than money.[1]
+(b) "Seller" means a person who sells or agrees to sell.[1]
+(c) "Buyer" means a person who buys or agrees to buy.[1]
+(d) "Delivery" means the voluntary transfer of possession of goods from one person to another. This includes the transfer of possession by handing over, by sending through another person, or by dispatching.[1]
+(e) "Credit" means a document in a sale of goods transaction in which there is a promise to pay within a specified period.

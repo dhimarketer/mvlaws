@@ -1,0 +1,269 @@
+Law No. 9/2014 (Penal Code of Maldives) - The Sixth Amendment Law
+Submitted to the 58th session of the People's Majlis on December 9, 2024, and passed.
+Law No. 9/2014 (Penal Code of Maldives) – The Sixth Amendment Law, in accordance with Article 92 of the Constitution, was ratified by the President on December 17, 2024 (16 Jumada al-Aakhir 1446). This bill has been published in the Maldives Government Gazette today.
+Volume: 53 Issue: 230 Maldives Government Gazette
+3
+Law No. 33/2024
+Law No. 9/2014 (Penal Code of Maldives) - The Sixth Amendment Law
+Introduction of amendments to Law No. 9/2014 (Penal Code of Maldives):
+1. Addition of a new chapter after Chapter 230 of the aforementioned law.
+Chapter 240: Computer and Related Offenses
+Article 240: Unauthorized access to a computer system.
+Article 241: Unauthorized access to a computer system to facilitate the commission of another offense.
+Article 242: Unauthorized interception of computer data.
+Article 243: Unauthorized interference with data.
+Article 244: Unauthorized interference with a system.
+Article 245: Misuse of devices.
+Volume: 53 Issue: 230 Maldives Government Gazette
+4
+Article 246: Cyberstalking offenses.
+Article 247: Computer-related forgery offenses.
+Article 248: Computer-related fraud offenses.
+Article 249: Offenses related to infringement of copyright and related rights.
+Article 250: Definitions.
+Classification of Offenses:
+Article 240 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Accessing a computer, program, or data without authorization, or facilitating such access, or for the purpose of accessing any part of the computer system, program, or data, or using any means to access it, whether directly or indirectly, or for the purpose of causing any part of it to be used for the commission of another offense.
+(2) Such an act shall be considered an offense if it is committed with the knowledge that unauthorized access is being gained to the computer, program, or data, with the intent to obtain such access.
+(ށ) Notwithstanding paragraph (a) of this Article, if a person commits an offense related to critical infrastructure in connection with a computer system, program, or data, or any part thereof, without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, or under a power vested by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, unauthorized access to computer data, programs, or systems shall include the following:
+(1) Accessing a computer, program, or data by any person, or by any means, whether directly or indirectly, or by accessing any part of a computer system, program, or data, or by facilitating such access, or by obtaining authorization for access.
+(2) If access is obtained by a person who is not authorized to access the computer, program, or data, with the knowledge of such unauthorized access, and with the intent to obtain such access.
+(ބ) Notwithstanding paragraphs (a) and (ށ) of this Article, if a person commits an act described therein without due diligence, it is not necessary for such act to be related to any specific offense.
+(1) Any computer system, program, or data specified.
+(2) Any type of program or data specified.
+(3) A computer system, program, or data specified.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized access to a computer system to facilitate the commission of another offense.
+Article 241 (a): A person who commits the acts described in Article 240 of this Law shall be guilty of an offense.
+(1) If the act is committed with the intent to facilitate the commission of another offense, or if any person commits such an act to facilitate another offense, such person shall be guilty of an offense.
+(ށ) If the further offense described in paragraph (a) of this Article is committed during the time of unauthorized access as described in Article 240 of this Law, or at a later time, this shall not be considered in the determination of the offense under this Article.
+Classification of Offenses:
+(ނ) The offense described in paragraph (a) of this Article shall be considered a Class 4 misdemeanor.
+Unauthorized Interception of Computer Data
+Article 242 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Intercepting computer data, directly or indirectly, through technical means, whether the transmission is temporary or otherwise, or facilitating such interception or interception.
+(i) Without public disclosure, intercepting computer data transmitted through a computer system or any other similar computer system, or intercepting electromagnetic emissions from such a computer system.
+(ii) Intercepting computer data transmitted without public disclosure, or intercepting electromagnetic emissions from such a computer system.
+(2) If the transmission referred to in sub-paragraph (a) is intercepted, and the person had no authorization to intercept the data, and the interception is committed with the intent to intercept.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with computer data, programs, or systems shall include the following:
+(1) Damaging, deleting, altering, deteriorating, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a program or data:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+Unauthorized Interference with Computer Systems
+Article 241 (a): A person who commits the following acts in the following circumstances shall be guilty of an offense.
+(1) Interfering with a computer system, directly or indirectly, temporarily or otherwise, or facilitating such interference.
+(2) If the act is committed without authorization to interfere with the computer system, and with the knowledge of such lack of authorization, with the intent to interfere.
+(ށ) Notwithstanding the provision of authorization in paragraph (a) of this Article, if a person commits the act without due diligence, it shall be considered an offense.
+Exemption:
+If access is obtained under a court order or a permit granted by law, such access shall not be considered an offense.
+Definitions:
+Article 240 (r): For the purposes of this Article, interference with a computer system shall include the following:
+(1) Damaging, deleting, altering, deterring, or suppressing any program or data.
+(2) Adding any program or data to the content of a computer system.
+(3) Preventing or hindering access to a computer program or data.
+(4) Impairing the reliability of any program or data.
+(5) Altering the content of any program or data, or altering its integrity.
+(6) Altering or impairing the security or accessibility of any program or data.
+(7) If any act described in sub-paragraphs (a) (1) to (6) of this Article is facilitated, assisted, or encouraged, it shall be considered an offense.
+(ބ) For the purposes of this Article, the following circumstances shall not be considered as unauthorized interference with a computer system:
+(1) If the person interfering or facilitating the interference is not a person authorized to access or control the computer or computer system.
+(2) If the person interfering or facilitating the interference does not have authorization to determine whether such interference can occur.
+Classification of Offenses:
+(ޅ) If a person commits an offense described in paragraph (a) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 4 misdemeanor.
+(ކ) In other circumstances, it shall be considered a Class 5 misdemeanor.
+(އ) If a person commits an offense described in paragraph (ށ) of this Article in connection with critical infrastructure related to a computer system, program, or data, or any part thereof, it shall be considered a Class 5 misdemeanor.
+(ވ) In other circumstances, it shall be considered a Class 1 misdemeanor.
+
+

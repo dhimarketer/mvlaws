@@ -1,0 +1,1179 @@
+
+### **Evidence Act**
+
+**Part One - Commencement**
+
+**Chapter One - Introduction**
+
+**Introduction and Name**
+
+1.
+(a) This is the Act to establish the principles to be followed in taking testimony, presenting evidence, admitting evidence, and weighing evidence in civil and criminal cases, the proportion of evidence required to prove a matter, and other general principles concerning evidence.
+(b) This Act shall be cited as the "Evidence Act."
+
+**Purpose of the Act**
+
+2. The purpose of this Act is to achieve the following objectives:
+(a) To detail and establish in law the principles of evidence, which is a fundamental principle required to guarantee the right to a fair trial as guaranteed by Article 42 of the Constitution;
+(b) To state the types of evidence, the manner in which evidence is graded, and the ways in which evidence is classified based on its relevance to the case;
+(c) To establish standards for presenting evidence, admitting evidence, taking testimony, and weighing evidence;
+(d) To determine the proportion of evidence required to prove a matter in civil and criminal cases;
+(e) To state matters that the court will accept as proven facts without the presentation of evidence;
+(f) To state privileged matters that cannot be presented as evidence;
+(g) To determine that the principles of this Act shall, to the relevant extent, apply to investigations conducted by state institutions and cases reviewed by such bodies.
+
+**Glossary**
+
+3.
+(a) The main concepts upon which this Act is based are stated in Chapter Two of this Act.
+(b) The glossary of specific terms and phrases used in this Act, to which a special meaning is given, is stated in Section 151 of this Act.
+
+**Scope of the Act**
+
+4.
+(a) The principles stated in this Act shall apply to the following cases:
+(1) Civil and criminal cases before all courts of the Maldives;
+(2) Cases before all tribunals of the Maldives.
+(b) If a state institution is responsible for taking testimony, presenting evidence, admitting evidence, and weighing evidence in an investigation it conducts or a case it is reviewing, the principles stated in this Act shall, to the relevant extent, apply to the case being investigated or reviewed by that institution. This includes the following types of cases:
+(1) Cases investigated or acted upon by state institutions empowered to investigate and take action on a matter;
+(2) Cases reviewed by a state institution at its own level to investigate a matter and take disciplinary action against a person within that institution.
+(c) Where this Act establishes specific principles regarding the taking of testimony, presentation of evidence, admission of evidence, and weighing of evidence, it is for the purpose of establishing the rules for such matters. In a situation where detailed procedures for such matters are established in the Criminal Procedure Act or the Civil Procedure Act, action shall be taken in accordance with the special procedures prescribed for that matter in the Criminal Procedure Act or the Civil Procedure Act, while upholding the principles of this Act.
+(d) With the exception of the laws stated in Section 149 of this Act, if another law that came into force before this Act or that comes into force after this Act expressly states a specific special principle concerning evidence that is contrary to a principle in this Act, the special principle stated in that law shall prevail over the principle stated in this Act. And, to that extent, the relevant principle of this Act is upheld.
+(e) In a case reviewed by the People's Majlis or a committee of the People's Majlis, if a relevant principle regarding the taking of testimony, presentation of evidence, admission of evidence, and weighing of evidence has been established by the Majlis, that principle shall prevail over this Act. And this Act shall not impede the privilege granted to the People's Majlis under Article 88 of the Constitution to determine its own affairs.
+
+**Interpretation of the Act**
+
+5.
+(a) If the manner in which a specific word or phrase is used in this Act is explained in the glossary of concepts in Chapter Two of this Act, the meaning given to that word or phrase is the interpretation explained in that chapter.
+(b) If the manner in which a specific word or phrase is used in this Act is explained in the glossary in Section 151 of this Act, the meaning given to that word or phrase is the interpretation explained in that glossary.
+(c) In a situation where a word or phrase used in this Act is not defined in the glossary of concepts in Chapter Two of this Act or in the glossary in Section 151 of this Act, if that word or phrase is explained in Act No. 4/2011 (Interpretation Act), the meaning given to that word or phrase is the interpretation stated in that Act.
+
+**Circumstances for Referring to Islamic Sharia and Circumstances Where the Principles of Islam Must Be Given Precedence**
+
+6.
+(a) Unless a special principle is stated in another law passed by the People's Majlis, after the commencement of this Act, the taking of testimony, presentation of evidence, admission of evidence, and weighing of evidence, and with regard to the standards to be observed in proving a matter, and with regard to the burden of proof, shall be in accordance with the principles stated in this Act. And in matters where a specific principle concerning evidence is not established in this Act or any other law, this Act shall not prevent the courts from referring to the manner in which that matter is determined in Islamic Sharia, as stated in Article 142 of the Constitution.
+(b) Although a substantive principle for acting in a particular matter is stated in this Act, if a special principle that must be followed in that matter is established in a principle of Islam, in that situation, the special principle established in the principle of Islam shall be followed.
+(c) Notwithstanding the application of the special principle stated in subsection (b) of this Section, in every matter that does not appear to be clearly included within the scope of such a special principle, action shall be taken in accordance with the principles stated in this Act.
+
+---
+
+### **Chapter Two**
+### **Glossary of Concepts**
+
+**Basis of Concepts**
+
+7\. The words and phrases stated from Section 8 to Section 36 of this Act are the main concepts upon which this Act is based. Those concepts are stated in those sections to preserve the foundation of this Act and to facilitate the achievement of the objectives of this Act to the fullest extent. Every section of this Act shall be read or interpreted in a manner that does not restrict those concepts.
+
+**Evidence**
+
+8\. "Evidence" refers collectively to oral evidence, documentary evidence, and real evidence that is admissible as evidence under this Act to prove or disprove the existence of a particular fact, and to each type of such evidence and to individual matters and things admissible as evidence under each of those types, individually.
+
+**Testimony**
+
+9\. "Testimony" refers to the statement given by a person giving testimony, in the court proceedings, under oath, orally or by gestures.
+
+**Giving Testimony**
+
+10\. "Giving testimony" refers to the answers given to questions during the stages of questioning a person giving testimony in court, or the statement given by the person giving testimony in a manner that answers those questions.
+
+**Taking Testimony**
+
+11\. "Taking testimony" refers to the act of questioning a person giving testimony during the stages of questioning in court, or to such questions asked.
+
+**Person Giving Testimony (Witness)**
+
+12\. "Person giving testimony" (witness) includes the person present in court to give testimony, the person giving testimony in court, the person who has given testimony in court, and the person summoned to appear to give testimony in court.
+
+**Expert Opinion**
+
+13\. "Expert opinion" refers to the opinion given to the court by a person with adequate knowledge, training, or experience to explain to the court the meaning or conclusion symbolized or implied by a particular fact or facts or by particular evidence or a particular matter contained in the evidence, or a matter implied by it.
+
+**Improbability**
+
+14\. "Improbability" refers to the degree of unlikelihood of an event occurring.
+
+**Rule of Improbability**
+
+15\. "Rule of improbability" refers to the principle of accepting that it is improbable that two situations were coincidental, where a person has done a particular thing in two situations, and due to the similarity of the two situations or the similarity of the matters included in those two situations.
+
+**Opinion**
+
+16\. "Opinion" refers to the inference one makes from observing a visible matter or object with one's mind. It also includes the inference one derives from seeing, hearing, or experiencing a fact or facts before them.
+
+**Re-examination**
+
+17\. "Re-examination" refers to the re-questioning of a witness in a case by the party who presented him as a witness after the cross-examination of that witness is concluded, or to such questions asked to him at that stage.
+
+**Sufficient Evidence**
+
+18\. "Sufficient evidence" refers to evidence that is available to the extent that it meets the standard of evidence required to prove a matter, or to the availability of evidence to that extent.
+
+**Documentary Evidence**
+
+19\. "Documentary evidence" refers to a document presented to the court to prove a fact in dispute.
+
+**Cross-examination**
+
+20\. "Cross-examination" refers to the questioning of a witness in a case by the other party or parties in the case on the testimony given by that witness, after the party who presented him as a witness has finished questioning him, or to such questions asked to him at that stage.
+
+**Probability**
+
+21\. "Probability" refers to the degree of likelihood of an event occurring.
+
+**Rule of Probability**
+
+22\. "Rule of probability" refers to the principle of stating that, because the defendant acted in a particular way in a certain past situation, or acted with a certain mindset, in the situation relevant to the ongoing case, he also acted in the same way as he acted in the past situation, or with the same mindset with which he acted in the past situation.
+
+**Confession**
+
+23\. "Confession" refers to the admission by a person accused of a criminal offense to all elements of the offense of which he is accused, without any coercion, while being of sound mind, and of his own free will.
+
+**Hearsay Evidence**
+
+24\. "Hearsay evidence" refers to the testimony given by a witness, not about something he clearly saw, heard, or perceived with his senses, but about a statement made by another person that he saw, heard, or perceived a certain thing or matter, which the witness heard.
+
+**Rule of Credibility**
+
+25\. "Rule of credibility" refers to the principle of presenting evidence to show the degree to which the court can rely on and trust the witness or the testimony he gives, or the principle of presenting evidence to negate that credibility.
+
+**Admission**
+
+26\. "Admission" refers to the agreement, not amounting to a confession, by a party or a person accused of a crime, that a particular fact exists, orally, in writing, or by action.
+
+**Examination-in-chief**
+
+27\. "Examination-in-chief" refers to the questioning of a witness in a case by the party who presented him to give testimony, or to such questions asked to him.
+
+**Fact**
+
+28\. "Fact" refers to, in the sense of "fact," any truth, principle, or matter that needs to be proved in a case, including the truths, principles, and points on which the proof or disproof of a matter before the court depends.
+
+**Real Evidence**
+
+29\. "Real evidence" refers to any physical object presented for the court's inspection and evaluation to prove a particular fact.
+
+**Primary Evidence**
+
+30\. "Primary evidence" refers to evidence on the basis of which the existence of a particular fact is directly proved.
+
+**Secondary Evidence**
+
+31\. "Secondary evidence" refers to evidence that does not directly prove the existence of a particular fact but helps to prove it.
+
+**Leading Question**
+
+32\. "Leading question" refers to a question asked or framed in such a way during the stage of taking testimony that the question itself suggests the desired answer.
+
+**Relevance**
+
+33\. "Relevance" refers to the legal and material connection between a fact required to be proved in a case and the evidence required to prove that fact.
+
+**Standard of Proof**
+
+34\. "Standard of proof" refers to the standard established in this Act as the standard by which a claim in a civil case shall be proved, or a criminal offense or an offense for which a *hadd* or *qisas* punishment is prescribed in Islam shall be proved.
+
+**Probative Value**
+
+35\. "Probative value" refers to the extent to which evidence that appears to be relevant is useful or helpful in proving the existence of a fact.
+
+**Oral Evidence**
+
+36\. "Oral evidence" refers to the testimony given orally by a witness in the courtroom, present in the courtroom, regarding a particular disputed fact.
+
+---
+### **Part Two - Presentation of Evidence**
+### **Chapter Three - Types of Evidence**
+
+**Classification of Evidence Based on the Medium**
+
+37\. Based on the mediums through which evidence is presented to the court, the following types of oral evidence, documentary evidence, and real evidence, presented in one of the following ways, shall be admissible as evidence under this Act:
+(a) Oral evidence shall be admissible in the form of a statement given orally by a witness present in the courtroom.
+(b) Documentary evidence shall be admissible in the form of a document presented to the court as evidence by a party to the case, which testifies to the existence of a particular fact.
+(c) Real evidence shall be admissible in the form of the following types of things:
+(1) Real objects presented as evidence to prove a particular fact, which are not documentary or oral evidence;
+(2) Forensic evidence;
+(3) The result or log produced by a specific machine in a specific way;
+(4) Audio, video, photographs, and similar items;
+(5) The results of scientific proof and analysis;
+(6) Demonstrations, experiments, graphs, and charts made or shown in court; and
+(7) Things made or shown using a machine.
+
+**Classification of Evidence Based on Degree**
+
+38\. Among the evidence admitted by the court, the evidence to be weighed by the court, based on the degree of evidence, is divided into the following two categories:
+(a) Primary evidence;
+(b) Secondary evidence.
+
+**Primary Evidence**
+
+39.
+(a) Primary evidence shall be considered evidence based on which the existence of a particular fact is directly proven.
+(b) For the purpose of subsection (a) of this section, primary evidence includes the following types of evidence:
+(1) Testimony given by a person who saw or heard a particular fact exist;
+(2) A confession made in court by the opposing party;
+(3) Primary documentary evidence.
+
+**Secondary Evidence**
+
+40.
+(a) Secondary evidence shall be considered evidence that does not directly prove the existence of a particular fact but helps to prove it.
+(b) Secondary evidence includes any evidence presented that is not primary evidence and is admissible in the circumstances stated in this Act.
+
+**Classification of Evidence Based on Relevance**
+
+41.
+(a) Among the evidence admitted by the court, the evidence weighed by the court, based on the principle of weighing evidence, is divided into the following two categories:
+(1) Material relevance;
+(2) Legal relevance.
+(b) Evidence shall be considered materially relevant if its admission lends weight to directly proving the existence of a particular fact, and if its admission helps to prove the existence of a particular fact.
+(c) Evidence shall be considered legally relevant if its admission is not prohibited by the Constitution, this Act, or any other law for one of the following reasons:
+(1) It being evidence obtained in violation of the law;
+(2) It being a statement obtained by coercing a person;
+(3) It being evidence that cannot be weighed due to a specific principle in this Act stating otherwise.
+
+---
+### **Chapter Four**
+### **Oral Evidence**
+
+**Presentation of Oral Evidence**
+
+42.
+(a) Oral evidence may be presented to prove any fact, except a fact that must be proven by a document.
+(b) The oral evidence given by a witness in the courtroom shall be testimony given truthfully, in clear terms, stating how he personally experienced the matter being testified to.
+(c) For the purpose of subsection (b) of this section, a person shall be considered to have personally experienced a matter if he has clearly seen, heard, or otherwise clearly perceived a specific thing or matter with his senses.
+(d) For the purposes of subsections (b) and (c) of this section, testimony given by a witness stating a thing or matter he has personally experienced is testimony given as follows:
+(1) If the testimony is to prove a matter that was seen, it must be testimony truthfully describing a matter seen with his own eyes.
+(2) If the testimony is to prove a matter or thing that was heard, it must be testimony truthfully describing a matter or thing he directly heard.
+(3) In addition to the situations in paragraphs (1) and (2) of this subsection, if the matter being testified to is of a nature that can be perceived by the senses or otherwise, it must be testimony truthfully describing the matter he perceived.
+(e) If the testimony given by a witness is an opinion he expresses regarding a particular matter, or the reasons on which his view is based, the testimony must be testimony that truthfully states his view based on the reasons for that matter or those reasons.
+(f) To prove a document generally available in writing, stating an expert's opinion on a particular matter and the reasons on which that opinion is based, that document may be presented to the court in the following circumstances:
+(1) If the person who wrote the document is deceased;
+(2) If the person who wrote the document cannot be found;
+(3) If the person who wrote the document is unable to give testimony;
+(4) If the court believes that bringing the person who wrote the document to give testimony would cause an unreasonable delay;
+(5) If the court believes that bringing the person who wrote the document to give testimony would incur an unreasonable expense.
+
+**Presenting Real Evidence in Relation to Oral Evidence**
+
+43\. In situations where a witness gives testimony in the courtroom regarding the existence of any real object or the condition of that object, the court may, if it wishes to inspect any real object mentioned in the testimony, order that object to be presented to the court.
+
+**Presenting Documentary Evidence During the Stage of Presenting Oral Evidence**
+
+44\. Even during the stage of presenting oral evidence, a document relevant to a fact that needs to be proved in the case may be presented as the documentary evidence needed to prove that case.
+
+---
+### **Chapter Five**
+### **Witnesses**
+
+**A Witness May Not Testify in a Matter Unless They Have Direct Knowledge of It**
+
+45\. A witness may testify to prove a particular fact only if sufficient evidence is presented to show that he has personally experienced that matter.
+
+**Parties Capable of Giving Testimony**
+
+46.
+(a) Unless otherwise stated in this Act, any person capable of giving testimony may give testimony to prove the existence of a particular fact.
+(b) A person who meets the following conditions shall be considered a person capable of giving testimony to prove the existence of a particular fact:
+(1) Being a person who meets the conditions stated in Section 47 of this Act; and
+(2) Being a person capable of understanding that testimony must be given truthfully; and
+(3) Being a person who has the ability to understand or comprehend the question asked or to state an answer to it.
+
+**Requirements of a Witness**
+
+47.
+(a) A witness must meet the following requirements:
+(1) Be a person who has completed 15 (fifteen) years of age;
+(2) Be a person of sound mind;
+(3) Be a person who fulfills the righteousness of giving testimony;
+(4) In the circumstances stated in this Act, except for the court compelling testimony in the manner provided in this Act, be a person who gives testimony of their own free will without any other coercion.
+(b) In addition to the requirements stated in subsection (a) of this section, in matters where a principle of Islam stipulates that a witness must be a Muslim, the witness must be a Muslim.
+
+**Having the Righteousness to Give Testimony**
+
+48.
+(a) Unless the court determines otherwise, persons other than those stated in subsection (b) of this section shall be considered persons who fulfill the righteousness of giving testimony.
+(b) Persons whose truthfulness and fairness are in question shall be considered persons who have lost the righteousness of giving testimony.
+(c) For the purpose of subsection (b) of this section, a person who has been convicted of and is serving a sentence for any of the following offenses shall be considered a person whose truthfulness and fairness are in question:
+(1) The offense of *qazf* (slanderous accusation of unchastity);
+(2) The offense of giving false evidence;
+(3) The offenses of theft, robbery, breach of trust, and plunder;
+(4) The offenses of deceit, fraud, and cheating;
+(5) Offenses of corruption;
+(6) Other offenses involving acts of deceit.
+
+**Testimony of a Person Who Does Not Fulfill the Righteousness to Give Testimony**
+
+49.
+(a) Notwithstanding Section 47(a)(3) of this Act, in a situation where there is no other person to give testimony to a sufficient degree regarding a particular fact, this Act does not prevent the admission of the testimony of a person who does not fulfill the righteousness of giving testimony.
+(b) The principle stated in subsection (a) of this section shall not apply to a person who has been convicted of the offense stated in Section 48(c)(1) of this Act.
+(c) The court shall admit the testimony of a person who does not fulfill the righteousness of giving testimony under this section only if that person meets the other requirements to be met under Section 46 and Section 47 of this Act.
+(d) Testimony taken under this section is not evidence that can be admitted as primary evidence as stated in Section 39 of this Act.
+
+**Testimony of Children**
+
+50.
+(a) Notwithstanding Section 47(a)(1) of this Act, in a situation where there is no other person to give testimony to a sufficient degree regarding a particular fact, this Act does not prevent the admission of the testimony of a child who has not completed 15 (fifteen) years of age.
+(b) The court shall take the testimony of a child under subsection (a) of this section only if the child meets the other requirements to be met under Section 46 and Section 47 of this Act.
+(c) In taking the testimony of a child under this section, the oath-taking required of a witness under Section 94 of this Act shall not be compelled upon the child.
+(d) Testimony taken under this section is not evidence that can be admitted as primary evidence as stated in Section 39 of this Act.
+(e) Notwithstanding Section 47(a)(1) and subsection (b) of this section, if a specific law states that the testimony of children taken in a situation where the conditions stated in those sections are not met shall be admissible by the court, this Act does not prevent the admission of the testimony of children under the age of 15 (fifteen) years in the circumstances stated in that law.
+
+**Circumstances Where Testimony Shall Not Be Taken**
+
+51\. Unless expressly stated otherwise in this Act, if a witness has a conflicting interest with a party to the case or has enmity with a party to the case, their testimony shall not be taken in that case.
+
+**Compelling Testimony**
+
+52\. Unless otherwise stated in this Act, any person capable of giving testimony may be compelled by the court to give testimony.
+
+**Persons Who Cannot Be Compelled to Give Testimony**
+
+53.
+(a) Notwithstanding Section 52 of this Act, in a situation where the court believes that one of the following circumstances exists with respect to a witness, that person shall not be compelled to give testimony:
+(1) Sufficient evidence has already been obtained regarding a particular fact;
+(2) There are other persons who will give testimony to a sufficient degree regarding a particular fact;
+(3) A judge presiding over a case in court has to give testimony regarding that case;
+(4) Except in the circumstances stated in subsection (c) of this section, a defendant in a criminal case has to be a witness for the prosecution in that case;
+(5) If a criminal charge is brought against more than one person as a single charge against all of them, one of them has to give testimony against another of them;
+(6) Persons with diplomatic immunity and persons who are granted immunity by a law from being compelled to give testimony.
+(b) Notwithstanding subsection (a)(5) of this section, if a criminal charge is brought against more than one person as separate charges, one of them may give testimony for or against another of them.
+(c) In circumstances where this Act permits the defendant in a criminal case to be called as a witness by the prosecution, the defendant may give testimony as a witness for the prosecution.
+
+**Refusal to Give Testimony in Criminal Cases**
+
+54.
+(a) If a witness in a criminal case has one of the following relationships with the person accused of the crime, they may refuse to give testimony relevant to the crime of which they are accused, or to provide information about a communication that took place between them and the person accused of the crime, by appearing as a witness in connection with that charge:
+(1) Spouse;
+(2) Parents or guardian;
+(3) A child.
+(b) Even if a person stated in subsection (a) of this section was not aware of this right at the time they were ordered to give testimony, they may refuse to give testimony as soon as they become aware of this right.
+(c) For the purpose of subsection (a)(1) of this section, spouse refers to the person to whom they were married at the time the criminal act took place, including a person who was subsequently divorced.
+
+**Court's Decision on Refusal to Give Testimony**
+
+55.
+(a) When a person refuses to give testimony under Section 54 of this Act, the court shall decide whether or not to compel them to give testimony.
+(b) In making a decision under subsection (a) of this section, the court shall consider the following matters:
+(1) Whether they would suffer any harm if they give testimony;
+(2) Whether the relationship between them and the person accused of the crime would be severely strained if they give testimony;
+(3) When weighing the danger they might face if they give testimony against the harm that might occur if they do not, which matter should be given priority;
+(4) The seriousness of the charge brought against the person accused of the crime;
+(5) The importance of the testimony the witness has to give, and the extent to which that testimony will help to prove the crime;
+(6) Whether the prosecution has another person who agrees to give testimony regarding the fact about which they have to testify;
+(7) The nature of the relationship between the person accused of the crime and the witness;
+(8) Whether the information in the testimony given by the witness is something stated as a secret in reliance on the relationship between them and the person accused of the crime, and whether it is information that must be disclosed.
+
+**Offenses Where Testimony Cannot Be Refused**
+
+56\. Notwithstanding Section 54 of this Act, in a charge of a serious criminal offense, or a charge of an offense against children, or a charge of a sexual abuse offense, or a charge of a domestic violence offense, in a situation where there is no other person to give testimony to a sufficient degree regarding a particular fact, if the principle stated in Section 53 of this Act does not apply with respect to the person stated in that section, the court has the power to compel that person to give testimony in a charge of such an offense.
+
+---
+### **Chapter Six**
+### **Documentary Evidence**
+
+#### **Part One - Types of Documentary Evidence**
+
+**Proving the Contents of a Document**
+
+57\. The contents of a document may be proved by presenting evidence in one of the following two ways:
+(a) Primary documentary evidence;
+(b) Secondary documentary evidence.
+
+**Primary Documentary Evidence**
+
+58.
+(a) For the purpose of Section 57(a) of this Act, primary documentary evidence is the original of a document presented to the court as documentary evidence.
+(b) Except in the exceptional circumstances stated in Section 59(b) and (c) of this Act, the contents of a document can only be proved by presenting primary documentary evidence.
+
+**Secondary Documentary Evidence**
+
+59.
+(a) Secondary documentary evidence is not evidence that will be admitted by the court except in the circumstances stated in subsection (c) of this section.
+(b) Secondary documentary evidence includes the following items:
+(1) A copy stated to be a true copy of the original;
+(2) A copy made from the original of a document using a machine or other means that ensures the original of the document will not be damaged, and the authenticity of which has been verified.
+(c) In the following circumstances, secondary documentary evidence may be presented to prove the existence or non-existence of a document, or to prove the condition of that document, or to prove the contents of that document:
+(1) Where the original of a document is in the possession or under the control of one of the following persons, and that person fails to present the document to the court when ordered by the court to do so:
+i. The person against whom the document is offered to be proved;
+ii. A person in a place where the court's jurisdiction does not extend;
+iii. A person legally obliged to present the document.
+(2) Where the person against whom the document is offered to be proved, or a person representing them, has made a written admission regarding the existence or non-existence of the original of the document, or the condition of the document, or its contents;
+(3) Where the original of the document has been lost or destroyed, or where the document cannot be presented to the court within a reasonable time due to some other reason not involving the negligence or fault of the party presenting the evidence;
+(4) Where the original of a document is not something that can be easily moved from one place to another;
+(5) Where the original of a document is an official state document;
+(6) Where the original of a document is a document for which a certified copy is permitted to be presented to the court as evidence under this Act or another law;
+(7) Where the original of a document consists of numerous documents, and the matter to be proved from those documents is a result that would be apparent from examining all the documents together, and it would be difficult for the court to examine those documents.
+(d) In the circumstances stated in subsections (c)(1), (c)(3), and (c)(4) of this section, secondary evidence presented regarding the contents of the document shall be admissible in court.
+(e) In the circumstance stated in subsection (c)(2) of this section, the written admission as stated in that section shall be admissible in court.
+(f) In the circumstances stated in subsections (c)(5) and (c)(6) of this section, no other secondary evidence except a certified copy of the document referred to in those subsections shall be admissible in court.
+(g) In the circumstance stated in subsection (c)(7) of this section, a person skilled in examining such documents as referred to in that subsection may, after examining the documents, give testimony in court regarding the general result inferred from those documents.
+
+**Proving Handwriting or Signature**
+
+60\. If it is alleged that a document or a specific part of a document was written by, or a document was signed by, a particular person, the party who presented the document to the court must prove that the part alleged to have been written by that person was written by them, or that the document was signed by them.
+
+**Official Documents**
+
+61\. The following documents shall be considered official documents:
+(a) A document created or compiled by a state institution or another state institution containing the actions or activities of that state institution;
+(b) A document kept for the record by a state institution or another state institution of the actions or activities of that state institution;
+(c) A document created or compiled by an official institution of a foreign state containing the actions or activities of that institution;
+(d) A document kept for the record by an official institution of a foreign state of its actions or activities;
+(e) An official record containing the information of a private party maintained by a state institution.
+
+**Private Documents**
+
+62\. Every document other than an official document shall be considered a private document.
+
+**Certified Copy of an Official Document**
+
+63\. For the purpose of this Act, a copy certified as a true copy of an official document shall be considered a valid copy if the relevant state institution has fulfilled the following with respect to that copy:
+(a) The copy of the document bears a stamp stating that the copy is a true copy of the original of the document or part of the document;
+(b) In addition to the stamp mentioned in subsection (a) of this section, the date on which the stamp was affixed, and the name and designation of the employee who affixed the stamp are stated;
+(c) The employee mentioned in subsection (b) of this section is a person authorized to affix the seal of the institution where that employee works, and the seal of that institution is affixed on that copy.
+
+#### **Part Two**
+#### **Electronic Evidence**
+
+**Electronic Evidence, Medium, and Data**
+
+64\. For the purpose of this chapter, the following phrases are given the meanings given below:
+(a) "Electronic evidence" means data stored or recorded on any medium in a computer system or other similar device, or through such a system or device, and which can be identified or understood by a person or a computer system or other similar device, and which can be used to prove or disprove a disputed fact in the trial of a case before the court. This includes data that is displayed, printed, generated, or otherwise output from that system or device.
+(b) "Electronic medium" means the computer system or other similar device on which or through which data is stored or recorded, and also includes the procedures followed in relation to the recording and preservation of electronic evidence.
+(c) "Data" means anything that represents information or a concept, in any form.
+
+**Admissibility of Electronic Evidence in Court**
+
+65.
+(a) The fact that particular evidence is electronic evidence is not, by itself, a valid reason for not admitting it as evidence.
+(b) Unless expressly stated otherwise in this Act, if electronic data is data generated in the course of the normal use of an electronic medium, that data or a statement contained in that data may be admitted as evidence to prove a fact contained in that data.
+(c) Whether the electronic data was generated directly through the electronic medium that generated the data or by using another suitable medium for that purpose, and whether or not a person's participation was directly or indirectly involved in the preparation of that data, the data shall be deemed to have been prepared through the electronic medium that generated the data.
+(d) Even if the electronic data was generated after the commencement of the trial of a civil or criminal case, or after the commencement of the investigation of that case, that data is admissible evidence.
+
+**Proving the Authenticity of Electronic Evidence**
+
+66.
+(a) A party who presents electronic data or evidence to the court must prove the authenticity of that data or evidence. In that regard, the party presenting the electronic data or evidence must present to the court sufficient evidence to believe that the data or evidence is the data or evidence that the party claims it to be.
+(b) To prove the authenticity of electronic data or evidence, the party presenting that data or evidence may submit to the court an affidavit signed by them including the following matters. And for the purpose of subsection (a) of this section, such an affidavit shall be considered by the court as sufficient evidence proving the authenticity of the electronic data or evidence.
+(1) Confirmation that the party has verified the authenticity of the electronic evidence and that the chain of custody of that evidence has been maintained with due care; and
+(2) Sufficient details of the special measures taken and the procedures completed to maintain the authenticity of the chain of custody of the electronic evidence.
+(c) Notwithstanding subsection (b) of this section, if a party challenging the authenticity of electronic data or evidence presented to the court, or the chain of custody of that data or evidence, proves to the court's satisfaction that the authenticity of the electronic data or evidence or its chain of custody has been affected to a sufficient extent by one of the following, the court shall not consider the affidavit mentioned in that section as sufficient evidence proving the authenticity of the electronic evidence:
+(1) The existence of an error or mistake in the electronic data or evidence;
+(2) The electronic data or evidence has been tampered with;
+(3) A deficiency in the procedures for maintaining the chain of custody of the electronic data or evidence;
+(4) Any other reason why the electronic data or evidence cannot be trusted.
+(d) Upon the request of a party challenging the authenticity of electronic data or evidence presented to the court under subsection (c) of this section or its chain of custody, the party who presented the evidence shall provide the following documents:
+(1) A copy of the data or evidence so that an expert appointed by the party challenging the authenticity of the electronic data or evidence or its chain of custody can conduct a forensic analysis of that data or evidence; and
+(2) Sufficient details of all measures taken and procedures completed in obtaining the electronic data or evidence and handling that data or evidence.
+(e) A party challenging the authenticity of electronic data or evidence presented to the court or the authenticity of its chain of custody has the right to call a witness to give testimony regarding the taking of that data or evidence and the authenticity of its chain of custody and to cross-examine that person. And the judge shall decide to call such witnesses and take their testimony only if the court believes that there is a need to call those witnesses and take their testimony.
+(f) Notwithstanding subsection (e) of this section, if the electronic data or evidence was obtained through a service provider located outside the territory of the Maldives, a party challenging the authenticity of that data or evidence or the authenticity of its chain of custody shall have the right to call a witness from the service provider and cross-examine that person only in the following circumstances:
+(1) There is a reasonable suspicion that the service provider had an interest in tampering with the electronic data or evidence;
+(2) There is sufficient evidence to believe that the service provider made a mistake in obtaining or sending the data or evidence or that there was a deficiency in the service provider's procedures for maintaining the chain of custody of the electronic data or evidence;
+(3) It is appropriate to cross-examine a witness presented by the service provider due to a negative perception formed about the service provider based on a reasonable cause;
+(4) There is any other reason why the electronic data or evidence cannot be trusted.
+(g) The right stated in subsection (f) of this section shall be granted to the party challenging the authenticity of the electronic data or evidence or the authenticity of its chain of custody only if the witness belonging to the service provider agrees to appear as a witness for cross-examination, and the party presenting the data or evidence has made a reasonable effort, acceptable to the court, to bring that person to give their testimony.
+
+**Determining the Authenticity of the Electronic Medium and the Weight of Electronic Evidence**
+
+67.
+(a) Unless proven otherwise, the court shall consider an electronic medium on which electronic data is recorded or stored to be an authentic medium in the following circumstances:
+(1) Evidence is presented that the medium functions properly at all times, or even if the medium did not function properly, evidence is presented that such improper functioning did not alter the authenticity of the data recorded or stored on that medium in any way, and there is no other reasonable reason to question the authenticity of that evidence;
+(2) It is proved that the electronic data is data recorded or stored by a party with a conflicting interest to the party presenting the data;
+(3) It is proved that the electronic data is data recorded or stored by a person who is not a party to the case, in the course of their normal business, and that they did so without any influence or power from the party who presented the data.
+(b) In admitting electronic data as evidence in a case and giving it weight, the court shall consider the evidence presented regarding the type and purpose of the data, the truthfulness of the data or the statement in the data, the principles and standards followed in recording or storing that data, and all other circumstances relevant to that data or the statement in that data.
+(c) In determining the weight to be given to electronic data or a statement in that data presented to the court as evidence under subsection (b) of this section, the court shall consider the following matters:
+(1) The time elapsed between the occurrence of a fact included in the electronic data or the statement in that data and the entry of the information regarding that fact into the electronic medium that generated it;
+(2) Whether there is any reason to believe that the person who entered the information mentioned in paragraph (1) of this subsection into the electronic medium, or the person in charge of that work, or the person in charge of maintaining the data prepared through the medium, would have tried to distort or hide the fact in that data.
+
+#### **Part Three**
+#### **Exclusion of Oral Evidence by Documentary Evidence**
+
+**Stating the Terms of a Contract in Writing**
+
+68\. In a situation where a term that the parties to a contract are obliged to follow is written in that contract or another document, no evidence other than the following types of evidence shall be admissible in court:
+(a) A document stating a term required under that contract;
+(b) In a situation where this Act provides that secondary evidence is admissible in court, secondary evidence regarding the matters in that contract or that document.
+
+**Exclusion of Evidence Regarding Oral Agreements**
+
+69.
+(a) Where a term included in a contract is a term that the law requires to be in writing, and it is proved that the term is written in a contract in accordance with Section 68 of this Act, no oral agreement made between the parties to that contract or their representatives, or any statement given by any of them, to amend, contradict, or add to or subtract from that term shall be presented to the court as evidence.
+(b) Notwithstanding subsection (a) of this section, in the following circumstances, an oral agreement made between the parties to a contract mentioned in that section or their representatives, or a statement given by any of them, may be presented as evidence:
+(1) To prove a fact that would render a contract an invalid or void document due to a fact such as the following, or to prove a fact that gives the parties to that contract the right to request the court to so declare:
+i. A person was made a party to the contract by intimidation, misrepresentation, undue influence, or threat of violence;
+ii. The contract is illegal;
+iii. A party to the contract is not a person legally capable of entering into such a transaction or contract;
+iv. The date stated in the contract is incorrect;
+v. The parties to the contract were mistaken about a matter of fact or a matter of law.
+(2) To prove that a separate oral agreement was made on additional terms that do not contradict the terms agreed upon in writing by the parties to the contract;
+(3) To prove that a separate oral agreement was made between the parties regarding a specific condition or conditions that must be fulfilled before the commencement of the obligations under the contract;
+(4) To prove that a separate oral agreement was made between the parties regarding the voiding of the contract or the amendment of a term therein, except in cases where a law requires the terms agreed upon by the parties to a contract to be in writing, or where such a document is registered in accordance with the law;
+(5) To prove a matter that shows the extent to which something used in the document relates to an existing fact.
+
+**Presenting Evidence to Prove a Difficult-to-Understand Word**
+
+70\. If a contract or document contains the following type of word or phrase, additional evidence may be presented to the court to prove the meaning of that word or phrase:
+(a) A word or phrase whose meaning is difficult to understand;
+(b) A word or phrase not commonly used in speaking or writing;
+(c) An abbreviation of a particular phrase or word;
+(d) A word or phrase used specifically for a particular time or occasion;
+(e) A word or phrase used specifically for a particular profession, industry, or business;
+(f) A word or phrase used by people living in a particular region, district, or island.
+
+**Party Who Can Testify That an Agreed Term in a Document Has Been Changed**
+
+71\. If an oral agreement has been made that could change any term agreed upon by the parties in a written contract, evidence to prove that agreement may be presented by the parties to the contract or document, the parties entrusted with protecting their interests, and other parties with an interest in the case.
+
+**Non-Applicability of the Principles Stated from Section 68 to Section 71**
+
+72\. None of the principles stated in Section 68, Section 69, Section 70, and Section 71 of this Act shall apply to a gift made by will.
+
+---
+
+### **Chapter Seven**
+### **Admissions and Confessions**
+
+**Confession in Court Proceedings**
+
+73.
+(a) A confession made before a judge by a person accused or charged in a criminal case during the court proceedings of that case is, unless otherwise stated in this Act or the Criminal Procedure Act, sufficient evidence to prove the guilt of the person who confessed, based solely on that confession.
+(b) For the purpose of this section, a confession of a person accused of a crime shall be admissible only if it is a confession made in accordance with the Criminal Procedure Act.
+
+**Extrajudicial Confession**
+
+74\. A confession made by a person in a place other than the courtroom shall be proved in accordance with the general principle established for proving evidence.
+
+**Admission by a Terminally Ill Person**
+
+75\. An admission made by a terminally ill person regarding the right of another person shall be considered a valid admission.
+
+**Required Characteristics of Persons Making Confessions or Admissions**
+
+76.
+(a) A person who confesses or makes an admission to a matter must, at the time of the confession or admission, meet the following conditions:
+(1) The person must be an adult;
+(2) The person must be of sound mind;
+(3) The confession or admission must be made of their own free will, without any coercion.
+(b) Unless proven otherwise, a confession or admission made by the following persons shall not be considered a valid confession or admission:
+(1) Children who have not reached the age of 15 (fifteen) years;
+(2) Persons of unsound mind;
+(3) A confession or admission made by a guardian or custodian or a person in charge of caring for a person, on behalf of the person under their care.
+
+**Admission by a Party to the Case or an Agent of a Party**
+
+77.
+(a) A statement made in court by a party to a case or a person designated as an agent of that party, who the court believes, upon consideration of all the circumstances of the case, is a person with direct or indirect authority to represent that party, shall be considered a valid admission.
+(b) If a person is representing a party in a case, a statement made by that person shall be considered a valid admission only if they made the statement while their authority to represent that party was in effect.
+(c) A statement made by a person who has a proprietary or financial interest in the matter on which the claim is based, regarding that interest, and if the parties to the case derive a particular interest from a certain group, a statement made by that group, shall be considered a valid admission if the statement was made while such interest was in effect.
+
+**Admission Made by a Person on Their Own Behalf or by Another on Their Behalf**
+
+78\. An admission made by a person regarding a particular matter shall be considered a valid admission. However, such an admission may be used only against them, or against a person they appoint to protect their interests. Such an admission may be used in defense of that person or the person they appoint to protect their interests only in the following circumstances:
+(a) The statement would, in the event of the death of the person who made it, be a significant statement to a third party under Section 118 of this Act;
+(b) The statement is a statement made about the existence of a significant mental or physical condition relevant to the case, and the statement was made at the time the condition arose or is believed to have arisen, and the actions of the person in that condition support the existence of that condition.
+
+**Oral Admission Regarding a Matter in a Document**
+
+79\. An oral admission made by a person regarding a matter contained in a document shall be admissible in court if the party wishing to present the document as evidence is given the opportunity under this Act to present secondary evidence regarding a matter contained in that document, or if the authenticity of the presented document is in question.
+
+**Admission Not Admissible as Evidence in Civil Cases**
+
+80\. If an admission is made on the condition that it will not be used as evidence, or if an admission is made in circumstances where the court believes that the parties to the case have agreed not to present evidence regarding a particular matter, such an admission shall not be presented as evidence in civil cases.
+
+**Confession Made Due to Intimidation or a Promise to Do a Certain Thing Not to Be Presented as Evidence in Criminal Cases**
+
+81.
+(a) If a person accused of a criminal offense has made a confession because a person who the accused believes has power over the charge against them has intimidated them, or because they believe that if they confess, they will gain an advantage in relation to the charge against them, or that a loss they are believed to face will be postponed, even temporarily, and this is proved to the court's satisfaction, such a confession shall not be presented as evidence in criminal cases, unless a relevant law provides otherwise.
+(b) If the court believes that a confession mentioned in subsection (a) of this section was made after the belief held by the accused in making that confession has ceased to exist, that confession may be admitted as evidence in the courtroom.
+
+**Use of a Person's Confession to a Particular Crime Against Them and Other Parties Involved in That Crime**
+
+82\. Where more than one person is charged in connection with a particular crime, if the court admits a confession made by a person involved in committing that crime against themselves and against other persons believed to be involved in it, that confession may be used as evidence against the person who confessed and the other persons mentioned in their confession.
+
+**An Admission Not Considered Sufficient Evidence**
+
+83\. An admission made by a person regarding a particular matter shall not, in itself, be considered sufficient evidence to prove the existence of a fact stated in that admission.
+
+**Retraction of an Admission**
+
+84.
+(a) Except in the circumstances stated in subsection (b) of this section, an admission made by a person before a judge cannot be retracted.
+(b) If a person proves to the court's satisfaction that they made an admission because they were misled about the truth of the matter to which they admitted, or because they were mistaken about the truth of that matter, they may retract that admission. In such a case, no weight shall be given to that admission to prove a matter against them.
+
+**Retraction of a Confession**
+
+85\. A person who has confessed to a criminal offense may retract their confession in the circumstances in which an admission may be retracted as stated in Section 84(b) of this Act.
+
+---
+### **Chapter Eight**
+### **Real Evidence**
+
+**Admissibility of Real Evidence**
+
+86.
+(a) The real evidence stated in Section 37(c) of this Act is admissible as evidence in civil and criminal cases.
+(b) Notwithstanding subsection (a) of this section, real evidence may be presented only if it is shown to be relevant to the case being heard by the court, and if it has not been altered in any way.
+(c) Although specific items that may be presented as real evidence are stated in Section 37(c) of this Act, if the court finds it appropriate to allow the presentation of other items that are not oral or documentary evidence within the category of real evidence in order to uphold justice in the case, this section does not prevent the opportunity to present such items as evidence within the scope established in subsection (b) of this section.
+
+**Demonstration**
+
+87.
+(a) Evidence may be presented by demonstrating a matter through a demonstration, experiment, or inspection to show how a particular thing happens.
+(b) If the matters inferred by the court from a demonstration, experiment, or inspection are relevant to the case, those matters may be presented as evidence needed to prove the case.
+
+**Audio or Video Statement**
+
+88.
+(a) If an interview given by a person accused of a crime in a criminal investigation was given in the presence of their lawyer, or without a lawyer after waiving the opportunity to obtain the assistance of a lawyer in accordance with the law, and if it was given of their own free will without any coercion, the audio or video recording of that interview shall be admitted as evidence in the trial of that crime. And it is not mandatory to write down the words spoken by them in the audio or video recording and have them sign that document.
+(b) The audio or video recording mentioned in subsection (a) of this section is something that the court shall accept as evidence, just like a statement written and signed by a person in the presence of witnesses.
+
+**Presentation of Forensic Evidence**
+
+89.
+(a) Forensic evidence obtained in the manner stated in the Criminal Procedure Act, the Civil Procedure Act, or any other law, and the various reports prepared by experts based on it, are admissible as evidence in the courtroom.
+(b) For the purpose of subsection (a) of this section, "forensic evidence" includes the following information and items:
+(1) Information obtained through science and technology, including fingerprints, DNA information, photographs, internal body photographs, and internal body samples;
+(2) Information obtained from an autopsy performed on a deceased person's body;
+(3) Information identified from the analysis of an object used in committing a crime, or the person who committed the crime, or the victim, or real evidence found at the crime scene.
+(c) A report as mentioned in subsection (a) of this section shall be admissible in court only if it is a report issued with the name and signature of the person who prepared the report.
+(d) Notwithstanding subsection (c) of this section, if the document presented as evidence is a document generated automatically by a computer or a machine stating the result of analyzing something, that document shall be admissible as evidence in court even if it does not have a person's signature.
+
+**Forensic Evidence Obtained in a Foreign Country**
+
+90\. If forensic evidence obtained and presented from foreign countries is obtained and presented in a manner not inconsistent with the principles of this Act, that evidence shall be admitted as evidence on the same principle as forensic evidence obtained and presented from the Maldives.
+
+**Registration and Preservation of Information Identified from Forensic Evidence**
+
+91\. Among the forensic evidence mentioned in this chapter, the fingerprints and DNA information mentioned in Section 89(b) of this Act may be registered and preserved by the court in the manner and for the period prescribed in the regulation made under this Act.
+
+**Condition for Admitting Forensic Evidence**
+
+92\. Forensic evidence presented to the court under this Act shall be admissible in court only if that evidence was obtained in accordance with the principles and procedures stated in the Criminal Procedure Act or any other relevant law.
+
+---
+
+### **Chapter Nine**
+### **Taking of Testimony**
+
+**Determining Witnesses**
+
+93.
+(a) If a party to a case before the court wishes to present certain persons as witnesses, this must be indicated when filing the claim, or when first responding to the claim.
+(b) After the time mentioned in subsection (a) of this section has passed, witnesses may be presented only if a matter not previously noted in the case becomes apparent as the case proceeds, and the court believes that the matter thus noted is relevant to the substance of the case, and that making a decision on it is a fundamental matter that will directly assist in deciding the case, and the court grants that opportunity.
+
+**Giving Testimony Under Oath**
+
+94.
+(a) If a witness in a case being heard in court is a Muslim, their testimony shall be taken after administering the following oath: "I, (name of person), swear by Almighty Allah that in this case being heard in [name of court], in answering the questions put to me in this courtroom and in every word I say, I will speak the truth and will not say anything contrary to the truth."
+(b) If the testimony is given by a non-Muslim, their testimony shall be taken after having them sign the following pledge: "I, (name of person), pledge and affirm that in this case being heard in [name of court], in answering the questions put to me in this courtroom and in every word I say, I will speak the truth and will not say anything contrary to the truth."
+
+**Interpreters**
+
+95.
+(a) A person acting as an interpreter for a witness in a case must be a suitable person for that task. And that person shall do so after pledging to provide a true translation and signing the following pledge: "I, (name of person), will work as an interpreter in this case being heard in [name of court], and will, without any misrepresentation or concealment, to the best of my ability, faithfully interpret the testimony of the witness."
+(b) For the purpose of this section, "interpretation" means to state in another language or dialect, other than the language or dialect spoken by the witness giving oral testimony in a case, or if a witness in a case gives testimony by signs, to state orally the matters expressed by that person by signs in giving that testimony.
+
+**Establishing the Rules for Questioning Witnesses**
+
+96.
+(a) Unless otherwise stated in this Act or in a law relating to criminal procedure or civil procedure, in the event of the following matters arising during the taking of testimony, the court may give such instructions as it deems necessary:
+(1) The manner in which witnesses are to be questioned;
+(2) The manner in which documentary evidence is to be presented when questioning witnesses;
+(3) The manner in which real evidence is to be presented when questioning witnesses;
+(4) The order in which different parties are to question witnesses;
+(5) The manner in which different parties are given the opportunity to question witnesses;
+(6) The manner in which a person behaves or conducts themselves when questioning witnesses.
+(b) The principle stated in subsection (a) of this section shall apply in situations where this Act does not prescribe a specific method for the matter, and the court deems it important to establish a specific method in order to fully comply with a principle stated in this Act.
+
+**Stages of Taking Testimony**
+
+97\. The stages of questioning witnesses are the examination-in-chief, the cross-examination, and the re-examination.
+
+**Stage of Examination-in-Chief**
+
+98\. The first stage of taking testimony is the stage of examination-in-chief. This stage is where the party who presented the witness to give testimony is given the opportunity to have that person give testimony on matters related to the claim they presented and in a manner that favors or supports that claim.
+
+**Stage of Cross-Examination**
+
+99.
+(a) The stage of cross-examination is the stage where, after the party who presented a witness in a case has finished examining them in chief, the other party questions them. This stage is where the party other than the one who presented the witness is given the opportunity to question the witness to ascertain the truth of the testimony given during the examination-in-chief, or to raise questions about any inconsistencies therein, and to obtain information that can be used by that party from their testimony.
+(b) A witness may be cross-examined only on matters included in the testimony they gave during the examination-in-chief.
+
+**Stage of Re-examination**
+
+100.
+(a) The stage of re-examination is the stage where, after the cross-examination of a witness in a case is concluded, the party who presented them as a witness questions them again. This stage is where, if a question from the other party during the cross-examination, or the witness's answer to those questions, gives rise to a matter that does not favor the matters presented by the party who presented them as a witness, or a matter that raises questions, the party who presented the witness is given the opportunity to ask questions regarding those matters to further clarify them.
+(b) A witness may be re-examined only after all parties who wish to cross-examine that person have finished cross-examining them.
+
+**How Questions May Be Asked and Answers May Be Given**
+
+101.
+(a) Unless otherwise stated in this Act, every party to the case may question the witnesses.
+(b) Unless otherwise stated in this Act, or unless the court orders otherwise, a party to the case may question a witness regarding the case in the manner they wish.
+(c) The witness, in giving testimony, may give testimony in short answers to the questions put to them, or may give testimony in the form of an oral statement based on a matter they wish to testify about.
+(d) Notwithstanding subsection (a) of this section, in cases of sexual offenses, the person alleged to have been victimized, and in criminal cases, children, shall be questioned through the defendant's lawyer or the judge.
+
+**Testimony by a Person with a Disability**
+
+102.
+(a) If a witness is a person who cannot communicate clearly due to a physical disability, the court may allow their testimony to be taken through a suitable medium that can clarify what they are saying.
+(b) If a witness is a person who cannot communicate clearly due to a mental disability, and if they are a person who meets the condition stated in Section 46 of this Act, the court may allow their testimony to be taken through a suitable medium that can clarify what they are saying.
+(c) In determining whether a medium used in taking the testimony of a witness in a situation mentioned in subsection (a) or (b) of this section is a suitable medium, the court shall consider whether the medium is absolutely necessary and reliable for taking that testimony.
+(d) For the purpose of this section, the court may be given guidance on the following matters:
+(1) The manner in which a witness under subsection (a) or (b) of this section may be questioned;
+(2) The manner in which the testimony of a person mentioned in subsection (a) or (b) of this section may be taken.
+
+**Attempting to Refresh Memory**
+
+103.
+(a) A witness, in giving testimony in the courtroom, shall not look at any document to refresh their memory without the court's permission.
+(b) A witness, in giving testimony regarding a particular fact or opinion, shall not, at the time of giving testimony in the courtroom, look at any document and seek its assistance without the court's permission to refresh their memory.
+(c) In granting permission for a witness to look at a particular document to refresh their memory, the court shall consider the following matters:
+(1) Whether or not they can refresh their memory on their own regarding the fact or opinion being testified to, without looking at that document;
+(2) The document that the witness wishes to look at or use is a document on the following matters:
+i. When they stated the matters in the document in writing, those matters were fresh in their memory; and
+ii. They had confirmed that the matters in the document were stated truthfully and in accordance with the facts when they stated them in writing.
+
+**Asking Leading Questions in Examination-in-Chief or Re-examination**
+
+104\. A leading question shall not be put to a witness during examination-in-chief or re-examination, except in the following circumstances:
+(a) A question put to a person as described in Section 105 of this Act, with the permission of the court;
+(b) The question is an introductory question to the witness's testimony, not directly related to the substance of the testimony;
+(c) In a situation where all parties to the case are represented by lawyers, no party objects to it, or the question is being asked with the agreement of all parties to the case;
+(d) The question is not a question related to the matters in dispute in the case;
+(e) The question is asked to obtain an answer to a specific question based on the witness's education, training, experience, or knowledge, and the purpose of the question is to obtain their opinion, and that opinion relates to the matter on which testimony has been or is intended to be given.
+
+**Questioning Uncooperative Witnesses**
+
+105.
+(a) In the following circumstances, a person presented by a party to a case to give testimony may, during the examination-in-chief, instead of being questioned in the manner of examination-in-chief, be questioned in the manner of cross-examination, with the permission of the court:
+(1) They give testimony in a manner that is not favorable to the party who presented them as a witness;
+(2) The court notes that they are not cooperating in giving information that they are believed to clearly know, or are reluctant to give testimony in good faith, or are not making as much effort as they should in giving testimony in good faith;
+(3) The witness makes two contradictory statements about the matter on which they are giving testimony.
+(b) The court has the power to consider the questions asked under subsection (a) of this section as questions asked during the stage of cross-examination.
+(c) Questions under subsection (a) of this section shall be asked before the other party or parties cross-examine the witness.
+
+**Scope of Questions in Re-examination**
+
+106\. In the stage of re-examination, a witness may be questioned only about the testimony they gave during the stage of cross-examination.
+
+**Ordering Not to Ask a Question or Not to Give an Answer in Cross-Examination**
+
+107.
+(a) During the stage of cross-examination, the court may order a witness not to answer a question put to them or to stop a particular question from being put to them in the following circumstances:
+(1) The question is misleading;
+(2) The question is asked to annoy, intimidate, upset, or humiliate the witness;
+(3) The question is irrelevant to the matter on which the witness is testifying;
+(4) The question has been asked before.
+(b) For the purpose of subsection (a)(2) of this section, repeatedly asking a question without giving the witness an opportunity to answer after asking the question may be considered an act done to annoy, intimidate, upset, or humiliate the witness.
+(c) In making a decision under subsection (a) of this section, the court may consider the following matters:
+(1) The age of the witness;
+(2) The personality, education, and temperament of the witness;
+(3) The extent to which the witness is cooperating;
+(4) The witness having any mental, physical, or intellectual disability.
+
+**Asking Leading Questions in Cross-Examination**
+
+108.
+(a) During the stage of cross-examination, a leading question may be put to the witness, unless prohibited by the court.
+(b) In prohibiting the asking of a leading question, the court shall consider the following matters:
+(1) The statement made by the witness during the examination-in-chief was not a statement that favored the party who presented them as a witness;
+(2) The interests of the cross-examiner and the witness are aligned;
+(3) It is noted that the witness is sympathetic to the cross-examining party;
+(4) It is noted that the witness's age or any mental, physical, or intellectual disability they have may affect the testimony they give.
+
+**Giving Statements by Officers of an Investigative Body**
+
+109.
+(a) Notwithstanding Section 103 of this Act, if an officer of an investigative body in a criminal case gives testimony in the courtroom regarding a statement they have previously given in writing, they may, based on a matter they wish to testify about, be given the opportunity to view the statement they previously gave in writing in the courtroom. And in giving testimony in relation to that statement, they may answer the questions put to them and give testimony.
+(b) An officer of an investigative body may give testimony under subsection (a) of this section only if the following conditions are met:
+(1) The statement on which their testimony is based is a statement they have given in writing at the time the events in that statement occurred or not long thereafter;
+(2) They have signed that statement;
+(3) A copy of that document has been given to the person accused of the crime.
+(c) Notwithstanding subsection (b) of this section, in a situation where an officer of an investigative body is a witness as described in Section 42 of this Act, this does not prevent them from giving testimony under the relevant sections of this Act in that capacity.
+(d) For the purpose of this section, an officer of an investigative body refers to a person who held the position of an officer of such a body or was performing such a responsibility when the statement was first written. And, even if they have left that position or that body after giving the statement in writing, they are a person who can be brought to court as a witness in a case being heard in court regarding that statement, and questioned about that statement.
+
+**Questioning the Righteousness of a Witness**
+
+110.
+(a) If a party to a case in which a witness is scheduled to give testimony submits to the court that the witness is not a person who fulfills the righteousness of giving testimony, and questions their righteousness to give testimony, the court shall make a decision on the righteousness of the witness.
+(b) In determining the righteousness of a witness under subsection (a) of this section, the court shall consider the following matters:
+(1) Whether or not the reasons submitted to the court questioning the righteousness of the witness's testimony exist as such;
+(2) Whether or not the act committed by the witness is an act that would cause the loss of the righteousness to give testimony;
+(3) If an act that would cause the loss of the righteousness to give testimony has been committed, the time that has elapsed between the time the act was committed and the time the fact being testified to occurred;
+(4) If an act that would cause the loss of the righteousness to give testimony has been committed, the extent to which the nature of that act and the nature of the case being testified to are related;
+(5) If an act that would cause the loss of the righteousness to give testimony has been repeated, the extent to which it has been repeated;
+(6) If there is a matter submitted to the court that supports the fairness and truthfulness of the witness.
+
+**Presenting Contradictory Statements**
+
+111.
+(a) If a person being cross-examined has made another statement in writing or otherwise recorded that is inconsistent with the statement they are making, this may be presented at that time and brought to the court's attention.
+(b) If a statement made by another person regarding the same matter, which contradicts or is inconsistent with the statement made by the person being cross-examined, is recorded in a document or otherwise, this may be presented at that time and brought to the court's attention.
+
+**Bringing Witnesses to Court**
+
+112.
+(a) Witnesses under this Act shall appear in court and give testimony upon an order of the court, after the prosecuting party or the defending party has identified them as witnesses and requested it in court.
+(b) In bringing witnesses to court, the court shall act in accordance with the manner prescribed in the Criminal Procedure Act or the Civil Procedure Act.
+
+**Taking Testimony Without an Order to Appear to Give Testimony**
+
+113.
+(a) In a situation where a person who has not been ordered by the court to appear to give testimony is present in the courtroom with a party to the case, or for the purpose of hearing the case, if they are a person who can be compelled to give testimony under this Act, the court may compel them to give testimony on a particular matter at that time.
+(b) If they do not give testimony at that time in accordance with an order of the court under subsection (a) of this section, the court has the power to act against them in the same manner as would be acted against a person who is required to appear in court by an order to give testimony and fails to do so.
+
+---
+### **Part Three - Weighing of Evidence**
+### **Chapter Ten - Relevance**
+
+**Relevant Evidence**
+
+114\. Evidence shall be considered relevant to a particular fact and particular evidence if, due to the material relevance of legally relevant evidence, the admission of that evidence by the court would assist the court in weighing whether a fact included in the case before the court exists.
+
+**Not to Be Considered an Irrelevant Reason**
+
+115\. The existence of one of the following circumstances is not, in itself, a reason for determining that evidence is not relevant evidence:
+(a) The evidence relates to the degree of credibility of the person who gave the testimony;
+(b) The evidence relates to other admissible evidence;
+(c) The evidence relates to the fact that required evidence has not been found.
+
+**Admissibility of Relevant Evidence**
+
+116.
+(a) Unless otherwise stated in this Act, relevant evidence is admissible in court.
+(b) Evidence that is not relevant evidence is not admissible in court.
+
+---
+### **Chapter Eleven**
+### **Hearsay Evidence**
+
+**Hearsay Evidence**
+
+117.
+(a) Hearsay evidence is not, in itself, evidence that is admissible in court.
+(b) Notwithstanding subsection (a) of this section, if a circumstance of exception exists under this Act, hearsay evidence is evidence that may be admitted in court.
+(c) Hearsay evidence is secondary evidence.
+
+**Admissible Hearsay Evidence**
+
+118\. The types of hearsay evidence that are admissible under this Act are stated below:
+(a) A statement made by a person on their deathbed before death, regarding a particular matter or thing, is evidence that may be presented to prove the existence of that matter. And a person who heard the deceased person speak may, by referring to the deceased person, present that matter as evidence to the court to prove that what they said was a true statement.
+(b) Words spoken suddenly, signs shown, or gestures made as a reaction to a sudden event or a sudden situation, may be presented as evidence to the court by a person who saw those gestures at that time, referring to the person who made them, to prove the existence of that situation.
+(c) If a person has described to someone how a group of people present at the scene at the time an event occurred saw that event, that person may present that account as evidence to the court, referring to the people who told the story, to prove that the event occurred.
+(d) A person who heard someone make a statement against their own financial interest or against their own criminal interest may present that matter as evidence to the court.
+(e) A statement made in an official record by a public employee in the performance of their official duties, or information included in an official record by a person entrusted with a specific responsibility by the law of that country in the performance of that responsibility regarding a fact in the case, which a person saw, may be presented as evidence to the court by that person, stating that they saw that thing in that record, to prove the existence of what was in that record.
+(f) A statement made by a person who saw information contained in accounts regularly maintained in the course of business transactions, stating that they saw that thing in those accounts, may be presented as evidence to the court to prove the existence of what was in those accounts.
+(g) A person who heard a statement made in the media or any other public place to defend against an accusation made against them may present that matter as evidence to the court to state that they made that statement.
+(h) Testimony given by a person in another trial may be presented as evidence to the court against that person in a subsequent trial.
+(i) A statement made by a person, including one of the following matters, under the general practice of business, may be presented as evidence to the court:
+(1) A thing or matter noted by them in a document generally maintained in the course of business or in the performance of their employment responsibilities;
+(2) A document written or signed by them stating that they have received money, property, a security, or any other type of property;
+(3) A document written or signed by them relating to a business transaction;
+(4) A statement stating the date of a letter or any other document that is generally required to be dated, which they have written or signed.
+(j) If a statement is made by a person with special knowledge of a blood relationship, marital relationship, or guardianship relationship between persons, before a dispute arises about such a relationship, that matter may be presented as evidence to the court.
+(k) If a statement is made by a person in a will, agreement, family genealogy document, or any other document stating such matters, regarding a blood relationship, marital relationship, or guardianship relationship between deceased persons, before a dispute arises about such a relationship, that matter may be presented as evidence to the court.
+(l) A statement made by a public employee in the performance of their official duties may be presented as evidence to the court.
+
+**Circumstances in which Hearsay Evidence is Admissible**
+
+119\. Evidence established in Section 118 of this Act as admissible hearsay evidence may be presented only with the permission of the court, in a situation where the court believes that the person to whom reference is made in the testimony as having done a certain thing or said a certain thing is in one of the following circumstances:
+(a) Being a person who cannot be found;
+(b) Being a person in a situation where they are unable to appear in court to give testimony after making a statement;
+(c) Bringing that person to court to give testimony would cause an unreasonable delay;
+(d) Bringing that person to court to give testimony would incur an unreasonable expense;
+(e) Being a deceased person.
+
+---
+### **Chapter Twelve**
+### **The Rule of Opinion**
+
+**Opinion**
+
+120.
+(a) An opinion given by a person that a particular fact exists is not, unless otherwise provided in this Act, in itself an opinion that can be admitted as evidence.
+(b) Notwithstanding subsection (a) of this section, if an opinion is written in a document issued under the authority of a law or regulation, or in an official certificate, or in an official document, stating reasons and based on those reasons by the person who signs the document, that opinion is not an opinion to which the principle stated in subsection (a) of this section applies. And such an opinion is an opinion that may be admitted as evidence.
+(c) Notwithstanding subsection (a) of this section, if an opinion given by a person that a particular matter exists is presented for a purpose other than to prove the existence of that matter, that opinion may be admitted for that purpose.
+(d) Notwithstanding subsection (a) of this section, an expert's opinion obtained in accordance with the principles stated in this Act is not an opinion to which the principle stated in subsection (a) of this section applies. And such an opinion is an opinion that may be admitted as evidence.
+
+**Admitting Opinions Expressed by Non-Experts**
+
+121\. An opinion expressed by a person who is not an expert is an opinion that may be admitted as evidence in the following circumstances:
+(a) The opinion they express is an opinion they express regarding a situation, incident, or thing they saw, heard, understood, or experienced; and
+(b) It is important to know how they understood or inferred it in that incident, situation, or matter.
+
+**Admitting Expert Opinions in Court**
+
+122.
+(a) An expert's opinion is an opinion that may be admitted as evidence in court.
+(b) An expert's opinion shall be admitted in court only in the following circumstances:
+(1) The area in which an expert is said to have received training, experience, or education in a particular field is an area generally recognized by people as such a field of special education, training, or experience;
+(2) The expert is, in their own right, a person who can be considered to have adequate education and experience in a particular field of education, training, or experience, and it can be believed that due to such education and experience, they are of a standard to give that opinion to the court;
+(3) The information to be obtained from the expert is, by the nature of the matter, a matter where the opinion of a third party not involved in the case is important to the court. And it is an opinion that would in itself assist the court in deciding a matter;
+(4) The opinion is not an opinion that could be considered as determining the judgment of the case before the court makes its determination;
+(5) The main facts or principles on which the expert's opinion is based are not an opinion that another expert could contradict or dispute;
+(6) The opinion expressed by the expert is not an opinion given with the intention of prioritizing the interests of a specific party.
+
+---
+### **Chapter Thirteen**
+### **The Rule of Tendency**
+
+**The Rule of Tendency**
+
+123\. The court will admit evidence under the rule of tendency if the admission of that evidence would assist the court in weighing whether a particular fact relevant to the case exists or not, and if the evidence admissible under that rule is such.
+
+**Matters to be Considered in the Rule of Tendency**
+
+124\. In applying the rule of tendency, the court shall consider the following matters:
+(a) The proportion of instances in which they have acted in the same way;
+(b) The length of time that has passed between or during the instances of acting in the same way;
+(c) The degree to which the acts they have committed in similar situations are similar or identical;
+(d) The similarity of the situations in which they have acted in the same way;
+(e) Whether or not a specific pattern of their behavior can be identified when considering their actions, or whether or not the method by which they do a particular thing can be identified;
+(f) If any party has raised doubts and denied the evidence presented under the rule of tendency;
+(g) Whether or not one party is presenting evidence under the rule of tendency to dispute or negate evidence presented by another party under the rule of tendency.
+
+---
+### **Chapter Fourteen**
+### **The Rule of Coincidence**
+
+**Admitting the Rule of Coincidence**
+
+125\. The court will admit evidence under the rule of coincidence if the admission of that evidence would assist the court in weighing whether a particular fact exists or not, and if the evidence admissible under that rule is such.
+
+**Matters to be Considered in the Rule of Coincidence**
+
+126\. In admitting the rule of coincidence, the court shall consider the following matters:
+(a) The time that has passed between two past incidents or the proximity in which the two incidents occurred;
+(b) The degree to which one incident is related to the other;
+(c) The degree to which the events that occurred in one incident occurred in the other;
+(d) The proportion to which those incidents have been repeated;
+(e) The surrounding circumstances in each of those incidents;
+(f) The similar features that can be identified from each of those incidents;
+(g) The main reasons that led to the occurrence of each of those incidents.
+
+---
+### **Chapter Fifteen**
+### **The Rule of Credibility**
+
+**The Principle of the Degree of Credibility**
+
+127.
+(a) Evidence presented under the principle of the degree of credibility is not, in itself, evidence that can be admitted by the court, unless otherwise provided in this Act.
+(b) Evidence presented under the principle of the degree of credibility shall not be admitted by the court, except in the following circumstances:
+(1) Evidence presented during cross-examination;
+(2) Evidence presented to show the degree of credibility that can be placed on a witness in relation to a statement they make during cross-examination;
+(3) Evidence presented to show that a matter denied by the witness during cross-examination is otherwise;
+(4) Evidence that shows the degree of credibility that can be placed on a person accused of a crime.
+
+**Evidence Presented for the Purpose of Negation During Cross-examination**
+
+128.
+(a) The principle of the degree of credibility shall not apply to evidence presented during cross-examination for the purpose of negating a statement made by a witness.
+(b) Evidence may be presented under subsection (a) of this section if that presented evidence assists in proving the existence of a particular fact.
+
+**Evidence Proving Bad Faith**
+
+129.
+(a) The principle of the degree of credibility shall not apply to evidence presented to prove that one of the following matters exists in a witness:
+(1) They are biased towards a particular party or have the intention or purpose of giving false information in speaking in a particular way;
+(2) It is not appropriate for them to have known the matters stated in the testimony they gave;
+(3) They have made the same statement differently on another occasion;
+(4) They have been convicted of a crime of a nature relevant to the case;
+(5) They have knowingly or negligently given false information in a crucial moment where the truth had to be stated.
+(b) Any evidence mentioned in subsection (a) of this section may be presented to the court only if that evidence is based on other sources, separate from the witness, and only if the witness denies the substance of those accusations.
+
+---
+### **Chapter Sixteen**
+### **Privileged Communications**
+
+**Privilege Granted to Communications Between Spouses**
+
+130.
+(a) Unless otherwise specified in this Act or any other law, while a marital relationship exists, information received by the wife from the husband and information received by the husband from the wife, based on that relationship, shall not be compelled to be presented as evidence. And, if such information has been received by a person from one of the spouses, that information shall not be presented as evidence without the permission of the person who gave the information or a person representing them.
+(b) Notwithstanding subsection (a) of this section, this section does not prevent the disclosure of information in connection with a criminal charge brought against a person for a criminal offense committed by one spouse against the other.
+(c) The privilege granted by subsection (a) of this section to communications between spouses shall continue to exist even after the spouses are divorced.
+
+**Information Held by a State Institution**
+
+131\. Information created, held, or maintained by a state institution, the disclosure of which is prohibited or withheld under a relevant law, shall not be presented as evidence without the permission of a relevant person in the institution to which the information belongs.
+
+**Protection Granted to Official Communications**
+
+132\. Confidential information received by a public employee by virtue of their position may be presented as evidence to the court only through the procedure in place in the state institution from which the information was received for disclosing such information, or in a situation where a law permits the disclosure of such information, through the procedure in place in that law for disclosing information.
+
+**Protection Granted to the Person Who Discloses Information About the Commission of a Crime**
+
+133\. A judge or a police officer shall not be compelled to present as evidence information that indicates who the person who provided information about the commission of a crime by a person is, or who reported it, or how the information was received by the judge or police officer.
+
+**Protection Granted to Information Exchanged Between a Lawyer and a Client**
+
+134.
+(a) A lawyer shall not, without the client's permission, disclose any communication that took place between them, or information exchanged, or any information obtained by the lawyer in the course of representing their client, or any part of legal advice given by the lawyer to the client, in connection with a case or matter entrusted to the lawyer by a client.
+(b) Notwithstanding subsection (a) of this section, if a communication took place or a document or information was exchanged between a lawyer and a client for the purpose of committing an illegal act, such information is not protected under subsection (a) of this section.
+(c) The privilege granted under subsection (a) of this section applies to the information mentioned in that subsection whether the lawyer received it directly from the client or not, or from a person they represent or not.
+(d) Even if the client's appointment of the lawyer has come to an end, the privilege granted under subsection (a) of this section to information exchanged between the client and the lawyer shall continue to exist.
+(e) The principles stated in this section shall also apply to the employees and assistants working under the lawyer.
+
+**Protection Granted to Transactions with a Lawyer**
+
+135.
+(a) A person shall not be compelled to disclose to the court information regarding a transaction made between a lawyer and their client.
+(b) Notwithstanding subsection (a) of this section, if a client presents their lawyer as a witness to the court, the court may order that lawyer to disclose information necessary to obtain that testimony or to disclose information to the extent necessary to further detail the evidence.
+(c) Notwithstanding subsection (a) of this section, when it is suspected that a lawyer and their client have conspired to commit an illegal act, the court may compel that lawyer to disclose information to the relevant extent.
+
+**Not Compelling a Journalist to Disclose a Source**
+
+136.
+(a) If any person has given information to a journalist in their capacity as a journalist based on a promise made or an assurance given by that journalist that the source will not be disclosed, no person shall compel that journalist or the place where they are employed to share any information that would disclose or assist in disclosing that person, without the consent of that person.
+(b) Notwithstanding subsection (a) of this section, in cases of terrorism offenses and offenses related to national security, the court may, upon a request by the investigating authority or the Prosecutor General or the accused or the defendant to disclose the journalist's source, order the disclosure of that source in certain circumstances. In that regard, an order to disclose the source may be made only if the following matters are proved to a civil standard, with due consideration to them:
+(1) An act of terrorism or an offense related to national security has been committed, is being committed, or is about to be committed;
+(2) There is an immediate threat to life, body, or property;
+(3) The public interest in disclosing the source outweighs the interest in non-disclosure in that situation;
+(4) The non-disclosure of the journalist's source presents a high possibility of a miscarriage of justice, whereby the suspect or defendant receives an unjust sentence or is unable to present their defense;
+(5) Knowing the journalist's source is essential to the case and directly related to it;
+(6) All possible efforts to know the journalist's source have been made to a reasonable extent without involving the journalist or the media outlet where they work, and the source has not been identified;
+(7) The information disclosed with reference to the journalist's source is not information that is known to be baseless;
+(8) The request to order the disclosure of the journalist's source is not made with the intention of obstructing or hindering the journalist's work.
+(c) In considering whether the matters in subsection (b) of this section are proved to a civil standard, the court shall consider the matters in that subsection that are relevant to the submission of the party who has requested the court to order the disclosure of the journalist's source.
+
+---
+### **Part Four - Standard of Proof and Burden of Proof**
+### **Chapter Seventeen - Standard of Proof**
+
+**Civil Case**
+
+137.
+(a) A claim in a civil case shall be proved on a civil standard.
+(b) Proving a claim on a civil standard in a civil case is when the court, in a situation where it believes that it is more likely that a matter presented by the claimant exists than that it does not, determines that the matter is so proved and concludes the case.
+(c) In deciding a matter on a civil standard, the court may consider the following matters:
+(1) The nature of the case;
+(2) The nature of the defense presented in the case;
+(3) The nature of the matters included in the case or the main principles on which the case is based;
+(4) The seriousness of the matters claimed.
+
+**Criminal Case**
+
+138.
+(a) The court shall determine that a person has been proven guilty of a criminal offense only if it is proved to a criminal standard that they committed that offense.
+(b) Proving a crime to a criminal standard means proving to the court, beyond a reasonable doubt, that the person charged with a criminal offense committed that offense.
+(c) In a criminal case, if the court believes that the defense presented by the defendant is more likely to exist than not to exist, the court shall decide that their defense is proved in their favor.
+
+**Circumstances Where the Civil Standard is Applied in Criminal Cases in Addition to Civil Cases**
+
+139.
+(a) For the purpose of this section, "civil standard" means the standard of the matter being more likely to exist than not to exist.
+(b) In both civil cases and criminal cases, the standard for determining whether a particular point among the individual points presented to the court, or a particular fact among the facts, exists or not, is the civil standard.
+(c) In a civil case, in deciding the case in favor of the claimant or in favor of the defendant, it shall be considered whether, when weighing the totality of the matters that can be proved to a civil standard for each of the two parties individually, the matter is proved to a level consistent with the civil standard in favor of the claimant or in favor of the defendant.
+(d) Notwithstanding subsection (b) of this section, in a criminal case, in deciding the case in favor of the prosecution, it shall be considered whether, when weighing the totality of the matters presented by the prosecution that can be proved individually to a civil standard, that claim is proved to a criminal standard.
+
+**Proving Offenses for which *Hadd* and *Qisas* are Prescribed in Islam**
+
+140.
+(a) Notwithstanding subsections (a) and (b) of Section 138 of this Act, a person shall be proved guilty of an offense for which *hadd* or *qisas* is prescribed in Islam, and the court shall sentence them to the punishment of *qisas* or *hadd* as a punishment for that offense, only if it is proved beyond any doubt that they committed that offense.
+(b) Among the offenses for which *hadd* is prescribed in Islam, the offense of *zina* (fornication/adultery) shall be proved against a person by the testimony of 4 (four) men or by the accused's own confession.
+(c) An offense for which *hadd* is prescribed in Islam, other than the offense of *zina*, or an offense for which *qisas* is prescribed, shall be proved against a person by the testimony of 2 (two) men or by the accused's own confession.
+(d) A court shall determine that a person is proved guilty of an offense for which *hadd* or *qisas* is prescribed under subsection (b) or (c) of this section only if the testimony of the witnesses mentioned in those sections, or the confession made by the accused, is testimony or a confession that meets all the requirements stated in this Act and any other law that defines those offenses for a person who confesses to or a witness who testifies to any of those offenses, or in the absence of such requirements being established in a law, all the requirements stated in Islamic Sharia for a person who confesses to or a witness who testifies to that offense.
+(e) Unless otherwise stated in another law, notwithstanding subsection (a) of this section, even if an offense for which *hadd* or *qisas* is prescribed in Islam is not proved to the standard stated in that subsection, if that offense is proved to the criminal standard stated in Section 138 of this Act, another punishment prescribed in the law for that offense may be given.
+
+**Number of Witnesses**
+
+141\. If a principle of Islam prescribes that a specific number of witnesses are required to prove a matter, that number of witnesses will be required to prove that matter.
+
+**Testimony of Women and Men**
+
+142\. If a principle of Islam prescribes that the testimony of a specific number of men or the testimony of a specific number of women is required to prove a matter, the testimony of that number of men or women will be required to prove that matter. In other circumstances, the testimony of men and women are equal.
+
+**Testimony of Non-Muslims**
+
+143\. Except in matters and circumstances where a principle of Islam prescribes that the testimony of a non-Muslim cannot be presented to prove a matter against a Muslim, in other matters and circumstances, the testimony of a non-Muslim is equal to the testimony of a Muslim.
+
+**Matters Proven Without Presentation of Evidence**
+
+144.
+(a) Matters that are generally known and accepted without dispute in the judicial district where the case is being heard, and matters that are known with certainty and without further proof from a source whose authenticity is not generally questioned, are matters that shall be considered as matters proven to the court without the presentation of evidence.
+(b) For the purpose of subsection (a) of this section, matters proven without the presentation of evidence include the following matters:
+(1) The Constitution of the Republic of Maldives, all laws in force in the Maldives, all laws previously in force, and regulations made under the authority of any of those laws;
+(2) The State Seal, the seal of the executive branch, the seals of the judicial courts of the Maldives, the seals of the institutions within the judicial branch, the seal of the People's Majlis and its committees, any other seal used under the authority of a law, and the seals of the embassies of foreign countries established in the Maldives;
+(3) Persons elected to the office of the President of the Republic and the office of the Vice President of the Republic;
+(4) Persons appointed to the Cabinet of Ministers;
+(5) Persons appointed to independent positions;
+(6) Persons elected to the position of a member of the People's Majlis;
+(7) Persons elected to councils established by law to administer the administrative divisions of the Maldives;
+(8) The national flag, national language, and state religion of the Maldives;
+(9) The natural course of events, the natural division of time, the internationally divided time zones, and the geographical division of the world into continents and countries;
+(10) The official public holidays and occasions declared by the government and the sequence of the seven days of the week;
+(11) International treaties to which the Maldives is a party;
+(12) International organizations of which the Maldives is a member;
+(13) Countries with which the Maldives has established diplomatic relations;
+(14) The judges and registrars of the judicial courts of the Maldives, and the legal practitioners licensed to practice law in the Maldives;
+(15) Any matter that another law requires to be accepted by the court without the presentation of evidence.
+(c) The court may, on its own initiative, consider a particular matter among the matters stated in subsections (a) and (b) of this section to be a matter proven to the court without the presentation of evidence. Or, a party may submit a request, with relevant information, for a particular matter to be accepted as a matter proven to the court without the presentation of evidence.
+
+---
+### **Chapter Eighteen**
+### **Burden of Proof**
+
+**General Principle**
+
+145.
+(a) Unless otherwise stated in this Act or any other law, if a claim is brought alleging the existence of a legal right belonging to oneself or a legal duty to be borne by another person, the party who brings that claim shall prove the existence of that matter.
+(b) In a situation where it is necessary to prove the existence or non-existence of a particular matter, the burden of proving that matter shall, unless otherwise stated in this Act or any other law, lie with the party who alleges the existence or non-existence of that matter.
+(c) Unless otherwise stated in this Act or any other law, the burden of proving a claim shall lie with the party against whom the matter would be proved if no evidence were presented by any of the parties to the case in relation to the matter on which the claim is based.
+(d) If a witness giving testimony on a particular matter cannot prove the matter being testified to without proving another matter, the burden of proving that matter also lies with that witness.
+(e) If a person against whom a criminal charge has been brought alleges that they are entitled to a defense provided for that offense by the Penal Code or any other law that defines that offense, the burden of proving that they are entitled to that defense lies with them. If they fail to prove the existence of such a defense to a civil standard, the court shall determine that they are not entitled to that defense.
+(f) In a matter where it is generally known that a particular thing is in a particular way, it is the responsibility of a person who did or omitted to do that thing in another way to prove for what purpose they did or omitted to do it.
+
+**Special Principle**
+
+146.
+(a) In claims brought alleging that a fundamental right or freedom guaranteed under Chapter Two of the Constitution has been restricted, the burden of proving that the right or freedom was restricted to a reasonable extent in the manner stated in the Constitution is the responsibility of the state or the party that restricted the right or freedom.
+(b) In cases brought concerning dismissal from employment, the burden of proving that the claimant was dismissed from employment for a reasonable cause is the responsibility of the employer.
+
+---
+### **Part Five - Other Matters**
+### **Chapter Nineteen - General Matters**
+
+**Application of the Act to Tribunals and State Institutions**
+
+147\. Unless otherwise stated in another law, all matters stated in this Act as principles to be followed by courts or the judiciary in taking testimony, presenting evidence, admitting evidence, and weighing evidence, which are attributed to courts or the judiciary, and all matters stated regarding the requirements to be met by the evidence admitted by courts or the judiciary, and all principles stated regarding the burden of proof and the standard of proof, shall apply to tribunals to the relevant extent. And to the relevant extent, they shall apply to other bodies among state institutions that review cases.
+
+**Making of Regulations**
+
+148.
+(a) The regulations that need to be made in connection with the responsibilities to be performed by the courts under this Act shall be made by the Supreme Court of the Maldives, in a manner not inconsistent with the principles established in this Act.
+(b) The regulations that need to be made under this Act shall be made and publicly announced within 3 (three) months from the date this Act comes into force.
+
+**Repealed Laws**
+
+149\. Upon the commencement of this Act, the following two laws are repealed:
+(a) Act No. 24/76 (Evidence Act);
+(b) Act No. 14/72 (Women's Testimony Act).
+
+**Commencement of the Act**
+
+150\. This Act shall come into force on the date that is 6 (six) months from the date this Act is passed, ratified, and published in the Government Gazette of the Maldives.
+
+**Definitions**
+
+151\. Unless a different meaning is clearly implied by the way a phrase or word is used in this Act, the following phrases and words are given the meanings given below in relation to those phrases and words:
+(a) "Unavailable persons" means the persons mentioned in Section 118 of this Act.
+(b) "Party" means the claimant or the defendant in a case before the court, collectively, and in a way that refers to each of them individually.
+(c) "Computer" means electronic, magnetic, optical, or electrochemical equipment used for processing information, and similar related items, and items used for calculation, and for matters done using logic, and for storing information, and related or similar items that facilitate communication, and items that can perform such a function in conjunction with such items. However, this meaning does not include the following items:
+(1) Automatic typewriter, typesetter;
+(2) Handheld calculator;
+(3) Non-programmable or non-data-storing items;
+(4) Other items of this type as determined by a relevant state institution and announced through the Government Gazette.
+(d) "Internal body photograph" means an X-ray, scan, or any other photograph showing the inside of the body.
+(e) "Internal body sample" means a sample taken from inside the body by sending an object inside the body or by any other means.
+(f) "Autopsy" means the examination of a deceased person or thing, and the taking of samples from that body for analysis, to determine the cause of death, the injuries sustained by the body, any disease affecting the body, or any other defect.
+(g) "Forensic evidence" means evidence obtained through a forensic procedure.
+(h) "State institution" means all institutions included in the executive, legislative, and judicial branches of government, independent institutions, independent positions, security services, councils elected under the Constitution, and all institutions connected to them. And it includes every place that performs a state responsibility in its operation.
+(i) "Document" means anything on which information of any kind is recorded, including the following mediums:
+(1) Something written or printed (whether it be a chart, a plan, a graph, or a drawing);
+(2) A computer file prepared in a way that is accessible by an electronic medium;
+(3) A photograph;
+(4) A disk, tape, film, or roll on which sound or other such data is stored;
+(5) A film, negative, or any other thing on which an image or other such data is stored.
+(j) "DNA" means deoxyribonucleic acid.
+(k) "DNA information" means the genetic information obtained from DNA analyses conducted using a body sample taken from outside or inside the body or by any other means.

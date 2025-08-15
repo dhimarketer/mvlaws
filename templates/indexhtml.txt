@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Law Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Law Database Search</h1>
+
+    <form method="POST">
+        <input type="text" name="query" placeholder="Enter search term(s)..." value="{{ query }}">
+        <select name="match_type">
+            <option value="any" {% if match_type == "any" %}selected{% endif %}>Match any term</option>
+            <option value="all" {% if match_type == "all" %}selected{% endif %}>Match all terms</option>
+        </select>
+        <button type="submit">Search</button>
+    </form>
+
+
+    {% if results %}
+        <h2>Results for "{{ query }}"</h2>
+        <ul class="results">
+            {% for row in results %}
+                <li>
+                    <strong>{{ row.law_name }}</strong> - 
+                    Article {{ row.article_number }} {% if row.article_title %} : {{ row.article_title }} {% endif %}  
+                    (Sub-article {{ row.sub_article_label }})
+
+                    <p>{{ row.text_content|safe }}</p>
+                    <a href="{{ url_for('view_article', article_id=row.article_id) }}">View Full Article</a> |
+                    <a href="{{ url_for('view_law', law_id=row.law_id) }}">View Full Law</a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% elif query %}
+        <p>No results found for "{{ query }}".</p>
+    {% endif %}
+</body>
+</html>
+

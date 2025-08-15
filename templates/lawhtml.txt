@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Full Law</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    {% if sections %}
+        <h1>{{ sections[0].law_name }}</h1>
+        {% set current_article = None %}
+        {% for sec in sections %}
+            {% if current_article != sec.article_number %}
+                {% set current_article = sec.article_number %}
+                <h2>Article {{ sec.article_number }}{% if sec.article_title %}: {{ sec.article_title }}{% endif %}</h2>
+            {% endif %}
+            <p><strong>Sub-article {{ sec.sub_article_label }}</strong>: {{ sec.text_content }}</p>
+        {% endfor %}
+    {% else %}
+        <p>No content found for this law.</p>
+    {% endif %}
+    <p><a href="{{ url_for('index') }}">← Back to Search</a></p>
+</body>
+</html>
+

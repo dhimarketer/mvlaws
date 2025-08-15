@@ -1,0 +1,1036 @@
+**INCOME TAX ACT**
+**Law Number 25/2019**
+
+*(Unofficial translation, consolidating Law Number 25/2019 and Law Number 15/2021)*
+
+---
+
+### CHAPTER 1: PRELIMINARY
+
+**1. Introduction and citation**
+(a) This Act contains the provisions for the imposition of “Income Tax” in the Maldives, and sets out the relevant rules.
+(b) This Act shall be cited as the “Income Tax Act”.
+
+**2. Persons affected by this Act**
+(a) Any person who is a resident of the Maldives where that person derives income from the Maldives or elsewhere; and
+(b) Any person who derives income from the Maldives, whether or not that person is a resident of the Maldives.
+(c) Any person who derives income from the Maldives where that person is a temporary resident of the Maldives.
+
+### CHAPTER 2: OBLIGATION TO PAY TAX
+
+**3. Income Tax**
+Subject to Section 12 of this Act, tax, referred to as “income tax”, shall be charged in accordance with Section 7, Section 8 and Section 9 of this Act on a person’s income of the following types:
+(a) Remuneration;
+(b) Income derived from any business;
+(c) Income derived from the rental of movable or immovable property;
+(d) Dividends;
+(e) Interest;
+(f) Annuities, pensions, and retirement benefits;
+(g) Beneficiary income;
+(h) Fees for technical services;
+(i) Commissions;
+(j) Royalty;
+(k) Income derived from the disposal of movable, immovable, intellectual or intangible property in respect of which a deduction for capital allowance may be claimed under Section 25 of this Act;
+(l) Gains derived from the disposal of movable, immovable, intellectual or intangible property in respect of which a deduction for capital allowance is not allowed under Section 25 of this Act;
+(m) Income or gains of any other kind, including monies and assets received for no consideration and as proceeds of any criminal or illegal activity, unexplained monies (whether or not recorded in the books of accounts), unexplained investments and expenditures, and unexplained assets.
+
+**4. Withholding Tax**
+Tax, referred to as “withholding tax” shall be tax chargeable on a person’s income that is subject to withholding tax in accordance with Sections 54 and 55 of this Act, except for income specified in Section 12 of this Act.
+
+**5. Obligation to pay income tax**
+Subject to Section 61 of this Act, any person referred to in Section 2 of this Act shall pay tax in accordance with this Act on the person’s taxable income derived during an accounting period ending in any tax year.
+
+**6. Obligation to pay withholding tax**
+The payer of any amount of income derived by a person from which withholding tax is required to be deducted under this Act must deduct withholding tax from the amount of the payment to the person and pay such amount to MIRA in accordance with this Act.
+
+### CHAPTER 3: TAXATION OF INCOME
+
+**7. Individual tax rates**
+(a) The taxable income of an individual shall be charged with income tax under Section 5 of this Act, at the following rates.
+
+| Tax bracket for taxable income derived in an accounting period | Tax rate |
+| :--- | :--- |
+| Not exceeding MVR 720,000/- (Seven Hundred and Twenty Thousand Maldivian Rufiyaa) | 0% (Zero percent) |
+| More than MVR 720,000/- (Seven Hundred and Twenty Thousand Maldivian Rufiyaa) but not exceeding MVR 1,200,000/- (One Million Two Hundred Thousand Maldivian Rufiyaa) | 5.5% (Five point five percent) |
+| More than MVR 1,200,000/- (One Million Two Hundred Thousand Maldivian Rufiyaa) but not exceeding MVR 1,800,000/- (One Million Eight Hundred Thousand Maldivian Rufiyaa) | 8% (Eight percent) |
+| More than MVR 1,800,000/- (One Million Eight Hundred Thousand Maldivian Rufiyaa) but not exceeding MVR 2,400,000/- (Two Million Four Hundred Thousand Maldivian Rufiyaa) | 12% (Twelve percent) |
+| More than MVR 2,400,000/- (Two Million Four Hundred Thousand Maldivian Rufiyaa) | 15% (Fifteen percent) |
+
+(b) The aggregate of tax payable under subsection (a) shall be the aggregate of the amounts of tax payable under each tax bracket specified in subsection (a), computed separately.
+
+**8. Bank tax rate**
+(a) The taxable income of a bank shall be charged with income tax under Section 5 of this Act at the rate of 25% (Twenty-five percent) of its taxable income.
+(b) For the purpose of this Section, the term “bank” refers to commercial banks licensed under the *Maldives Banking Act (Law Number 24/2010)*.
+
+**9. Tax rates for persons other than individuals and banks**
+(a) The taxable income of any person, not being an individual or a bank, shall be charged with income tax under Section 5 of this Act, at the following rates.
+
+| Tax bracket for taxable income derived in an accounting period | Tax Rate |
+| :--- | :--- |
+| Not exceeding MVR 500,000/- (Five Hundred Thousand Maldivian Rufiyaa) | 0% (Zero percent) |
+| More than MVR 500,000/- (Five Hundred Thousand Maldivian Rufiyaa) | 15% (Fifteen percent) |
+
+(b) The aggregate of tax payable under subsection (a) shall be the aggregate of the amounts of tax payable under each tax bracket specified in subsection (a), computed separately.
+(c) Where an entity is a member of a group of entities, the amount of MVR 500,000/- (Five Hundred Thousand Maldivian Rufiyaa) specified in this Section shall be divided between the entities in the group which are liable to tax under this Act, and the result shall replace MVR 500,000/- (Five Hundred Thousand Maldivian Rufiyaa).
+(d) For the purposes of this Section, the term “entity” refers to all types of entities including partnerships but excluding individuals and banks.
+
+**10. Determination of income**
+(a) The total income of a person resident in the Maldives shall consist of income derived from the Maldives and income derived outside the Maldives.
+(b) The total income of a person not resident in the Maldives shall consist of income derived from the Maldives.
+(c) Notwithstanding subsection (a), the total income of a person temporarily resident in the Maldives shall constitute income derived by the person from the Maldives only.
+
+**11. Income derived from the Maldives**
+The following income shall be deemed to be derived from the Maldives.
+(a) Remuneration derived from any employment exercised in the Maldives;
+(b) Remuneration derived from any employment exercised under a contract of service with an office of the Government of the Maldives, wherever may be the place such employment is exercised;
+(c) Income (other than remuneration) derived from any service rendered under a contract with an office of the Government of the Maldives, wherever may be the place such service is rendered;
+(d) Remuneration derived from an employment under a contract of service made with a shipping or aircraft operator, charterer or lessor who is resident in the Maldives, wherever may be the place such employment is exercised;
+(e) Director’s fee derived by directors of a company which is a resident in the Maldives;
+(f) Money received by the partners of a partnership which is resident in the Maldives, from that partnership;
+(g) Income derived by a resident of the Maldives, except for income derived by such resident from its permanent establishment that is outside of the Maldives;
+(h) Business income derived by a non-resident that is of the following nature;
+    (1) income derived from a business carried out through the non-resident’s permanent establishment in the Maldives; or
+    (2) income derived from the sale of goods or merchandise through a permanent establishment of the non-resident in the Maldives, and sale of goods and merchandise of the same or similar kind as those sold through that permanent establishment; and
+    (3) income from business activities of the same or similar kind as those effected through the permanent establishment of the non-resident in the Maldives.
+(i) Income derived from the rental of any immovable property situated or registered in the Maldives;
+(j) Annuity, pension or any other retirement benefit that is paid by the Government of the Maldives or by a resident of the Maldives, in respect of any employment exercised or services rendered in the Maldives;
+(k) Dividend derived from a company resident in the Maldives;
+(l) Interest, royalty or technical service fee derived in the following nature:
+    (1) money paid by a person resident in the Maldives, that does not constitute an expense of their permanent establishment outside of the Maldives; or
+    (2) money paid by a non-resident, in respect of an expense of their permanent establishment in the Maldives.
+(m) Except where subsection (g) or (h) applies, income derived from the disposal of a movable property or any interest therein which is situated or registered in the Maldives, or income derived under an agreement made in the Maldives for the disposal of such property, wherever may be the place the property is delivered to its recipient;
+(n) Except where subsection (g) or (h) applies, profit derived in the following manner from the disposal of an immovable property;
+    (1) the profit is derived from the disposal of an immovable property situated in the Maldives; or
+    (2) the profit is derived from the disposal of a share or any interest in a company, partnership or trust, where at the time of disposal of such share or interest, at any time during the past 365 (three hundred and sixty five) days, more than 50% (fifty percent) of the value of company, partnership or trust is directly or indirectly related to an immovable property situated in the Maldives; or
+    (3) the profit is derived from the disposal of a share or any interest in a company or partnership or trust which is resident in the Maldives; or
+    (4) the profit is derived from the disposal of an option as respects a property specified in subsections 11(n)(1), 11(n)(2) and 11(n)(3), or from the disposal of a right to buy such property.
+(o) Except where subsection (g) or (h) applies, income derived from the disposal of an intellectual or intangible property used or registered in the Maldives or income derived under an agreement made in the Maldives for the disposal of such property;
+(p) Except where subsection (g) or (h) applies, insurance premium received in respect of a resident of the Maldives or property situated in the Maldives;
+(q) Income taxable in the Maldives under an agreement or a treaty made between the Maldives and a foreign jurisdiction or an international organization;
+(r) Income derived by a non-resident shipping or aircraft operator in international transportation that has a permanent establishment in the Maldives, from carrying passengers or livestock or mail or parcels or merchandise or goods on an aircraft or a ship which departs from a place located in the Maldives;
+(s) Commissions derived in respect of services supplied in the Maldives;
+(t) Income derived in respect of performances in the Maldives by public entertainers;
+(u) Income derived from carrying out research and development activities in the Maldives;
+(v) Income derived by a non-resident contractor.
+
+**12. Exempt income**
+Notwithstanding anything in this Act, the following types of income shall be exempt from tax under this Act:
+(a) Dividends received by a resident in the Maldives from a company which is resident in the Maldives;
+(b) Profits distributed, and interest paid on partner’s capital by a partnership which is resident in the Maldives to its partners who are resident in the Maldives;
+(c) Distributions made by a trust which is resident in the Maldives to a beneficiary of the trust who is resident in the Maldives, where:
+    (1) such distribution is included in the taxable income of the trust; or
+    (2) the distribution is paid from the corpus of the trust;
+(d) Income derived by a charitable organization approved by the Commissioner General;
+(e) Income derived by an office of the Government of the Maldives;
+(f) Interest income received in the following manner:
+    (1) interest derived in respect of a security issued by a company listed on the Maldives Stock Exchange;
+    (2) interest that does not constitute income specified in Section 3(b) of this Act (up to a maximum of MVR 5,000/- (five thousand Maldivian rufiyaa) in an accounting period).
+(g) Interest or profit derived in respect of a debt security or similar product which is listed or admitted for trading on a securities exchange licensed by the Maldives Capital Market Development Authority for operation in the Maldives;
+(h) Income exempt from tax under a treaty or an agreement made between the Maldives and a foreign jurisdiction or an international organization;
+(i) Remuneration paid by the Government of a foreign country or territory to a person employed by that Government, if:
+    (1) that person is not a resident of the Maldives or is resident in Maldives for the sole purpose of such employment; and
+    (2) such remuneration is paid by the Government of that foreign country or territory; and
+    (3) such remuneration is subject to tax in that foreign country or territory;
+(j) Remuneration derived by a person under a technical assistance agreement between the Government of the Maldives and a foreign government or international organization approved by the Commissioner General where the person is not a resident of the Maldives or is a resident of the Maldives solely for the purpose of performing duties under such agreement;
+(k) Income derived by a non-resident aircraft or shipping operator, charterer or lessor in international transportation, from the transportation of passengers, livestock, mail, parcels, merchandise or goods to or from the Maldives or from the lease of aircrafts, vessels or equipment which are integral to the seaworthiness of ships or airworthiness of aircrafts, and used in the Maldives, where the Commissioner General determines that an aircraft or shipping operator, charterer or lessor resident in the Maldives is, in circumstances corresponding to the circumstances of the non-resident aircraft or shipping operator, charterer or lessor, exempt from, or not liable to, income tax (or tax similar to income tax) imposed by the laws of the country or territory in which the non-resident aircraft or shipping operator, charterer or lessor is resident;
+(l) Money received as basic pension, retirement pension and annuity under the *Maldives Pension Act (Law number 8/2009)*;
+(m) Payments received under a life insurance policy, not including payments received under a “key person insurance” policy;
+(n) Education grants and scholarships where the Commissioner General is satisfied that the grants and scholarships have been granted to enable or to assist the recipient to pursue education, or if education is undertaken at an educational or research institution approved by the Commissioner General;
+(o)
+    (1) Gifts received by an individual (up to a maximum of MVR 40,000/- (forty thousand) Rufiyaa per an accounting period); or
+    (2) Gifts received by an individual in the following manner:
+        (i) the gift is received from a person related to the individual; or
+        (ii) the gift is a wedding gift; or
+        (iii) the gift is a grant from the government or a charitable organization approved by the Commissioner General.
+    (3) For the purpose of subsection (o)(2), wedding gifts shall be gifts received by either of the persons getting married, not more than 30 (thirty) days before the date of marriage, or on the day of marriage, or not more than 30 (thirty) days after the date of marriage.
+(p) Money received as hibah, bequest or inheritance;
+(q) Money or property received as Zakat through a Government office;
+(r) Payments of dowry, nafaka or halanath;
+(s)
+    (1) Income derived from the disposal of a person’s principal private residence where it is the sole property owned by the person.
+    (2) For the purpose of subsection (s)(1), a person’s principal private residence shall be a place which the person has occupied as the person’s main home for living for a period of not less than 2 (two) years, without any periods of absence, starting from or after the date the person acquires the ownership of that place.
+    (3) Notwithstanding subsection (s)(2), a person shall be deemed to have occupied the place without any periods of absence even if the person is temporarily absent from living in that place for any of the reasons below and if the person does not derive any income from the place by means of lease or otherwise.
+        (i) the person moves out of the place for development or renovation of the place and moves back in upon completion of development or renovation;
+        (ii) The person is required to live away from the place for the purpose of employment;
+        (iii) The person is temporarily absent from the place as a result of living in another place for an extended period of time for the purpose of pursuing education or seeking medical care, and during that period of absence, the place is either unoccupied or a relative of that person occupies the place for the purpose of looking after it.
+    (4) Notwithstanding subsection (s)(3), under the circumstances specified in subsection (s)(3), the exemption under this Section shall be applicable to a person if the place is the person’s principal private residence before and after the period of his temporary absence, and, during that period of temporary absence that person has not claimed a relief under this Section.
+    (5) Where a part of the place specified in this subsection is used for a purpose other than living, such part shall not be included in the definition of principal private residence.
+    (6) The use of a part of the principal private residence for a purpose other than living referred to in subsection (s)(5) shall not include the use of a part of the place without having designated area for that other purpose.
+    (7) The amount qualifying for relief from the disposal of a place specified in subsection (s)(5) shall be calculated:
+        (i) using the formula below if the disposed place can be split into different units and if each such unit can be utilized separately for living or any other purpose;
+> A/B x C
+> Where,
+> A = the number of units that are within the definition of principal private residence
+> B = total number of units in the disposed place
+> C = profit arising from the disposal of the place
+        (ii) using a just and reasonable basis if the disposed place cannot be split as pursuant to subsection (s)(7)(i);
+        (iii) based on the floor area of the disposed place where the place cannot be split as pursuant to both subsections (s)(7)(i) and (s)(7)(ii).
+    (8) Where the disposed place is built on land which is owned by same person, the value of the disposal shall be inclusive of the value of the land.
+    (9) Where a part of the land on which the place specified in subsection (s)(8) is built is disposed of not including the building itself, the part disposed of as such shall not qualify for the exemption specified in this Section.
+    (10)
+        (i) Where the ownership of the place specified in subsection (s)(2) is shared by 2 (two) or more persons, such persons shall qualify for the relief specified in this Section if those persons satisfy the requirements of this Section individually.
+        (ii) Where a person does not qualify for the exemption as specified in subsection (s)(10)(i), the exemption shall not apply to the portion of the income which is attributable to that person from the disposal of the place.
+(t) Tax imposed under any law;
+(u) Grants received under the *Social Protection Act (Law number 2/2014)* and other grants from the Government received by individuals;
+(v) Money received under the “social health insurance scheme” established under the *National Social Health Insurance Act (Law number 15/2011)*.
+(w) The following allowances and benefits derived as remuneration in any non-monetary form:
+    (1) Allowances and benefits specified in Sections 4, 9 and 11 of the *Act on Salaries, and Other Allowances and Benefits of the President and Vice President (Law number 11/2009)*, allowances and benefits specified in Section 27-1 of the *Parliamentary Privileges and Powers Act (Law number 5/2013)* and allowances and benefits specified in Section 13-1 of the *Judges Act of the Maldives (Law number 13/2010)*;
+    (2) Security protection provided by the State to any person via any of the State security services;
+    (3) Medical expenses incurred by the payer of remuneration in respect of injuries that result from work-related incidents
+    (4) Medical check-ups required for the purpose of obtaining or extending work visa, under the *Maldives Immigration Act (Law Number 1/2007)*;
+    (5) The following allowances and benefits provided by the payer of remuneration in a non-discriminatory manner between employees, in a place of work provided by the payer of remuneration;
+        (i) Food and beverages;
+        (ii) Entertainment and sports.
+    (6) Food and beverages provided to employees on special occasions in the employee’s place of work, or not, in a manner that is non-discriminatory among employees and provided on a basis that is not regular;
+    (7) Accommodation provided by the payer of remuneration for the purpose of the payer, to a person for the performance of the person’s duties of employment, in a place that is setup explicitly for employee accommodation, and the setup is such that a person other than an employee can neither be accommodated nor has the right of accommodation in that place.
+    (8) Accommodation provided in the respective establishment, office or post of a State security service, to persons employed in that security service;
+    (9) Accommodation provided by the State to a person carrying out an employment in a place outside of the Maldives, under a contract of service made with an office of the State;
+    (10) Transportation provided by the payer of remuneration for the purpose of the payer, to employees to commute to their primary place of work, where such primary place of work is located on an uninhabited island and the person is not residing in that island;
+    (11) Transportation, food, and accommodation provided to a person to work in a place other than the person’s primary place of work for a period of not more than 1 (one) year, specifically for the purpose of performance of duties of employment;
+    (12) Recreational activities organized by the payer of remuneration in the Maldives in order to build and strengthen employee relations, which are open for participation of employees in a non-discriminatory manner, and the incurred cost of which cannot be allocated distinctly to each individual employee;
+    (13) Interest on a loan or advance issued by the payer of remuneration, as interest free or at a rate that is lower than the ordinary open market rate of interest, which meets the following conditions, (this shall apply to not more than 1 (one) loan or advance at any given time);
+        (i) repayment period of the loan or advance does not exceed 12 (twelve) months; and
+        (ii) the principal amount of the loan or advance does not exceed MVR 50,000 (Fifty Thousand Rufiyaa).
+    (14) Garments to be worn at work provided by the payer of remuneration to employees, that are specifically designed to be worn at work and are not suitable to be worn outside of work on a regular basis;
+    (15) Awards granted by the payer of remuneration, the cumulative value of which does not exceed MVR 5,000/- (Five Thousand Rufiyaa) annually;
+    (16) Allowances and benefits provided by the payer of remuneration in a non-monetary form where the cumulative value does not exceed a total of MVR 1,000 (One Thousand Rufiyaa) per month;
+    (17) Medical insurance required to be provided under the *Maldives Immigration Act (Law Number 1/2007)*.
+(x) The contribution made in respect of an employee by a payer of remuneration to the Retirement Pension Scheme under the *Maldives Pension Act (Law number 8/2009)*;
+(y) Allowances received by diplomats working in a diplomatic mission of the Maldives in a foreign country for the performance of the duties of that employment.
+
+**12-1. Special exemption from payment of tax**
+(a) Notwithstanding anything to the contrary in this Act, the President may, at his discretion, under the circumstances specified in this Section, exempt income derived from specific business projects or industries from being liable to tax.
+(b) The projects and industries eligible for exemption under subsection (a) shall be determined by the President, under the advice of the Cabinet of Ministers.
+(c) The names of the projects or industries, upon being determined eligible for exemption in conformity with subsection (b), shall be published in the Government Gazette.
+(d) An exemption granted under this Section for a project shall only be granted for the period determined by the President under subsection (b).
+(e) The following shall be taken into account in granting an exemption under this Section.
+    (1) The revenue impact on the State resulting from such exemption;
+    (2) The economic and social impact (positive and negative) of such exemption;
+    (3) A measure of attainability of intended objectives as regards such exemption.
+(f) To request the exemption under this Section, respective Ministry mandated to regulate the project or industry shall make a request to the Ministry with the mandate of the finance function of the State, in accordance with the procedures formulated by the latter Ministry.
+(g) In granting an exemption from payment of tax under this Act, the Ministry with the mandate of the finance function of the State may include in the Regulation formulated under this Act by that Ministry, the conditions to be satisfied or procedures to be followed in order to seek such exemption or keep the exemption valid.
+(h) Where the entity being made exempt under this Section is a business, a separate legal entity, exclusively as regards the exempt project, shall be formed under the *Business Registration Act (Law number 18/2014)*.
+(i) Where a person is made exempt under subsection (a), such person shall be audited by MIRA in conformity with the rules set out in the *Tax Administration Act (Law number 3/2010)*, and, the findings of such audit shall be presented to the Minister with the mandate of the finance function of the State and the exempt person.
+(j) The Ministry with the mandate of the finance function of the State shall publish in the Government Gazette a list of all persons made exempt under this Section, with the period of validity of, and reason for, the exemption.
+(k) Where an exemption is granted to a person who is not in the list specified in subsection (j), such business activity shall be added to the list and the revised list shall be published in the Government Gazette within 14 (fourteen) days from the date of effect of such exemption.
+(l) Where any of the following circumstances arises, the President may, at his discretion, revoke an exemption granted under subsection (a).
+    (1) Submission of incorrect information in the request for exemption under this Section; or
+    (2) Ceasing the project which has been exempted under this Section, or, commencement of an additional business activity under the name of project which has been exempted under this Section; or
+    (3) The business exempted under this Section is convicted on indictment for a criminal offence by a court of law; or
+    (4) Fulfilment of the objective of granting the exemption, or, for any reason, with appropriate evidence, it is expected that intended objectives of granting the exemption will not be fulfilled; or
+    (5) There is a financial loss or any other loss to the State, or such loss is expected, not including the tax revenue foregone directly or indirectly as a result of the continuation of the exemption.
+(m) Where the President decides under subsection (l) to revoke an exemption granted, such revocation shall take effect on the date as determined by the President for revocation to take effect.
+(n) The Ministry with the mandate of the finance function of the State shall formulate and publish in the Government Gazette a Regulation which sets out the procedures for granting an exemption under this Section to business projects, within a period of not more than 3 (three) months from the date of effect of the first amendment to the Income Tax Act (Law number 25/2019).
+(o) The Regulation formulated under subsection (n) shall specify the projects or industries which are eligible for exemption under this Section.
+
+**13. Accounting basis**
+(a) A person subject to tax under this Act shall prepare financial statements where the person is required to do so under the Regulation made pursuant to this Act.
+(b) Except where subsection (a) applies, the person shall prepare financial statements in accordance with international accounting standards approved by the Commissioner General, using the accrual basis of financial accounting.
+(c) Notwithstanding subsection (b), a person may prepare financial statements using cash basis where the Regulation made pursuant to this Act permits.
+(d) Notwithstanding that a person has elected cash basis under subsection (c), the person shall apply the provisions prescribed in the Regulation made pursuant to this Act as respects capital expenditure in the computation of the person’s taxable income.
+(e) Notwithstanding anything to the contrary in any accounting standard, where a person prepares financial statements on accrual basis as pursuant to subsection (b):
+    (1) an unrealized gain, including an unrealized foreign exchange gain, shall be included in the computation of the person’s taxable income for an accounting period to the extent that the gain arises in connection with assets and liabilities held on revenue account at the end of that accounting period.
+    (2) an unrealized gain, including an unrealized foreign exchange gain, which arises in connection with assets and liabilities held on capital account at the end of an accounting period shall not be included in the computation of the person’s taxable income for that accounting period.
+    (3) an unrealized loss, including an unrealized foreign exchange loss, may be deducted in the computation of the person’s taxable income for an accounting period in accordance with Section 17 of this Act, to the extent that the loss is incurred in connection with assets and liabilities held on revenue account at the end of an accounting period.
+    (4) an unrealized loss, including an unrealized foreign exchange loss, incurred in connection with assets and liabilities held on capital account at the end of an accounting period shall not be deducted in the computation of the person’s taxable income for that accounting period.
+(f) The assets and liabilities that can be held on revenue and capital account and the manner in which this provision shall apply to hedging and other transactions shall be determined in the Regulation made pursuant to this Act.
+(g) Notwithstanding subsection (b), interest received on a bank debt shall not be deemed as income where the principal amount of such debt or any interest payment thereof is estimated to be irrecoverable, and, such amount is computed based on an accounting standard approved by the Maldives Monetary Authority. An amount not deemed as income as such shall be included in the Interest Income on Suspense Account and shall be subject to tax in the accounting period in which such amount is treated as income in accordance with the accounting standards or in the accounting period during which it was received, whichever is the earlier.
+(h) Notwithstanding the accounting standard based on which the financial statements are prepared, all financial statements shall be prepared and presented in accordance with the Regulation made pursuant to this Act, in Maldivian Rufiyaa or United States Dollar.
+
+**14. Bad debts recovered**
+Any amount derived by a person in full or partial satisfaction of a debt in respect of which a deduction has been made in accordance with Section 23 of this Act shall be treated as income of the person in the accounting period in which it is received.
+
+**15. Recovery of an expense deducted**
+Where a person has claimed a deduction for an amount of expenditure in an accounting period and the person is reimbursed, indemnified or compensated, or, if it is established that such person will be reimbursed, indemnified or compensated, for part or all of that amount in that accounting period or in a later accounting period, the amount of the reimbursement, indemnity or compensation shall be included in the person’s total income in the accounting period in which the reimbursement, indemnity or compensation is received or established to be received.
+
+### CHAPTER 4: DEDUCTIONS
+
+**16. Deduction of expenses**
+(a) If this chapter provides for the deduction of any expense, such expense may be deducted from the taxpayer’s total income in the computation of that person’s taxable income.
+(b) If any section of this Act refers to any expense authorised to be deducted in accordance with this Act, such reference shall be to the expenses specified in this Chapter, permitted to be deducted under subsection (a) of this Section in the computation of taxable income.
+
+**17. General rule**
+(a) In the computation of the taxable income of a person, an expense shall be deducted only if such expense was incurred by that person in that accounting period, and was incurred wholly and exclusively for the purpose of production of that person’s total income.
+(b) Where an expense incurred by a person during an accounting period was not incurred for the sole purpose of deriving total income, the proportion of that expenditure which was incurred for the purpose of deriving total income shall be allowed as a deduction under subsection (a).
+(c) The proportion of expenditure incurred for the purpose of deriving total income referred to in subsection (b) shall be determined in the Regulation made pursuant to this Act.
+(d) This section is subject to Section 32 of this Act.
+
+**18. Zakat**
+Notwithstanding Sections 17 and 32 of this Act, a payment of zakat al-mal by a person to the relevant Government institution shall be deductible in the computation of the person’s taxable income in accordance with the Regulation made pursuant to this Act.
+
+**19. Pension contributions**
+Notwithstanding Sections 17 and 32 of this Act, a payment made by a person to the Maldives Retirement Pension Scheme established under the *Maldives Pension Act (Law Number 8/2009)* shall be deductible in the computation of that person’s taxable income.
+
+**20. Welfare expenses**
+A person who derives income from a business may deduct an amount in respect of expenditure incurred on the welfare of employees if any one of the following conditions is satisfied:
+(a) The expenditure is incurred for the benefit of an employee who is incapacitated on medical grounds; or
+(b) The expenditure is incurred for the benefit of the surviving spouse or child, below the age of 18 (eighteen) years, of a deceased employee; or
+(c) The expenditure is a contribution to a fund established for the benefit of the person’s employees, and the fund fully secures the rights of all employees to receive medical or other welfare support; or
+(d) The expenditure is incurred for the promotion of general employee welfare without discrimination between employees.
+
+**21. Donations**
+(a) Notwithstanding Sections 17 and 32 of this Act, donations made in money by a taxpayer to a State institution or a charitable organization approved by the Commissioner General may be deducted in the computation of the taxpayer’s taxable income for the accounting period in which such donation was made.
+(b) The maximum amount which may be deducted under this Section shall be 5% (Five per cent) of the taxable income derived before the deduction of donation specified in subsection (a) and loss relief granted under Chapter 5 of this Act.
+(c) The procedure on approving charitable organizations under this Act shall be determined in the Regulation made pursuant to this Act.
+
+**22. Interest**
+(a) Interest paid on a loan obtained from any person, except a bank or a non-banking financial institution approved by the Commissioner General, by any person for the purpose of deriving the person’s total income, shall be deductible up to a maximum amount of 6% (six percent) per annum, in the computation of that person’s taxable income.
+(b) This Section is subject to Section 71 of this Act.
+
+**23. Bad debts and provision for doubtful debts**
+(a) A person who derives income from a business is allowed a deduction for the amount of a bad debt only if,
+    (1) the amount of the debt has been included in the person’s total income in the accounting period in which the debt is written off or in an earlier accounting period, or the money was lent in the ordinary course of business conducted by a bank or a non-banking financial institution; and
+    (2) the person has exhausted all reasonable steps to pursue payment of the debt; and
+    (3) the person reasonably believes at the time that the deduction is claimed that the debt is irrecoverable; and
+    (4) the debt is written off as a bad debt in the person’s financial statements for the accounting period in which the deduction is claimed.
+(b) No deduction is allowed under this section in respect of any debt:
+    (1) in respect of which a collateral or guarantee has been determined (to the extent of the value of such collateral or guarantees); or
+    (2) in respect of which the person has initiated recovery proceedings in any Court and the decision of the Court is pending at the end of the accounting period; or
+    (3) that arose before the date of commencement of taxation under this Act.
+
+**24. Head office expenses**
+(a) Where a non-resident person derives income through a permanent establishment in the Maldives, an amount in respect of head office expenses charged to the permanent establishment by that person may be deducted in the computation of the taxable income of the permanent establishment to the extent specified in the Regulation made pursuant to this Act.
+(b) Notwithstanding subsection (a), the maximum amount allowed as a deduction for head office expenses charged to the permanent establishment by the person in any accounting period shall not exceed 3% (three percent) of the total income generated from the general course of business of that permanent establishment.
+(c) Notwithstanding subsection (b), the following head office expenses charged to the permanent establishment, in respect of amounts, if any, paid to the owner of the permanent establishment, or, to any other permanent establishment of the owner of the permanent establishment, that is situated outside the Maldives or, to any other person associated with the owner of the permanent establishment, shall not be deductible in the computation of taxable income.
+    (1) Fee or money paid as a royalty in respect of a patent or right;
+    (2) Commission paid for specific services performed for, or for management services provided to, the permanent establishment.
+(d) For the purposes of this Section, the meaning of “head office expenses” shall include the amounts charged to the permanent establishment in respect of the amounts paid to, or paid in respect of, any person that is an associate of the owner of the permanent establishment.
+
+**25. Capital allowance**
+(a) If a person has incurred capital expenditure on an asset that the person has acquired for the purpose of deriving total income, the person may deduct capital allowance in respect of that asset in accordance with the Regulation made pursuant to this Act.
+(b) The Regulation made pursuant to this Act shall determine:
+    (1) the types of assets that fall within subsection (a);
+    (2) the types of assets that fall outside subsection (a), including land, goodwill, and intangible assets which are not capable of definitive valuation;
+    (3) the methods for valuation of assets for the computation of capital allowance;
+    (4) the rate of capital allowance applicable to an asset or class of assets;
+    (5) the method for calculation of any balancing charge or balancing allowance resulting from the disposal of an asset;
+    (6) any other matter required for the purpose of deducting capital allowance as specified in subsection (a).
+(c) In determining the rate of capital allowance under subsection (b)(4) for a building developed using funds from a housing loan issued by a bank licensed under the *Maldives Banking Act (Law number 24/2010)* or non-banking financial institution licensed under the *Maldives Monetary Authority Act (Law number 6/81)*, the terms of the repayment period set for such loan shall be taken into consideration, and the Regulation made pursuant to this Act shall prescribe additional measures as regards to such determination.
+
+**26. Expenses incurred before commencement of business**
+(a) Expenditure incurred by a person prior to the commencement of business for the purpose of deriving total income, shall be deemed as capital expenditure incurred on the date of commencement of business.
+(b) The extent to which expenditure referred to in subsection (a) is deductible and the method to be used for such deduction shall be determined in the Regulation made pursuant to this Act.
+(c) Any income derived by the person in connection with the business before the date of commencement of the business shall first be offset from any deductions allowed under this Section in the accounting period in which the business is commenced. Where such income exceeds the amount of expenditure that is deductible under this section, the amount of excess shall be treated as income derived during that accounting period.
+
+**27. Deduction from withholding tax of non-residents**
+(a) Where non-resident withholding tax has been paid under Section 57 of this Act from income derived by a non-resident through a permanent establishment in the Maldives, such income for which non-resident withholding tax was accounted for shall be deductible in the computation of the taxable income of that permanent establishment.
+(b) Where the taxpayer has elected to apply subsection (a), no other amount shall be deducted in respect of such income in the computation of that person’s taxable income.
+
+**28. Special deduction against rent from immovable property**
+(a) A person who derives rent from immovable property situated in the Maldives and prepares financial statements on cash basis under Section 13(c) of this Act may elect to claim a deduction against the person’s total rental income from immovable property for that tax year pursuant to this Section, in the computation of the person’s taxable income.
+(b) In the computation of taxable income, a person who elects to claim a deduction under this Section may deduct an amount equal to 20% (twenty percent) of the amount of total rental income received in that accounting period as expenditure incurred in deriving the person’s rental income.
+(c) Where a taxpayer makes the election under subsection (a), he shall not be allowed any other deduction in the computation of his taxable income in respect of expenditure incurred to derive that person’s rental income.
+(d) Where a taxpayer has made the election under subsection (a), such election shall not be changed without the approval of the Commissioner General until the expiry of 5 (five) years from the accounting period in which such election was made.
+(e) The manner in which an election made under subsection (a) may be changed shall be prescribed in the Regulation made pursuant to this Act.
+
+**29. Calculation of balancing allowance and balancing charge**
+(a) The tax written down value of an asset may be deducted from the income specified in Section 3(k) of this Act in a manner prescribed in the Regulation made pursuant to this Act.
+(b) Insurance compensation or any other form of consideration derived from the disposal of an asset shall constitute part of the total income and in such cases subsection (a) shall apply.
+
+**30. Calculation of capital gain or loss**
+(a) The amount of gain specified in Section 3(l) of this Act shall be the amount by which the consideration received on disposal of the property referred to in that Section exceeds the cost base of the property at the time of its disposal.
+(b) Where the cost base of a property specified in Section 3(l) is greater than the consideration received on disposal of that property, the excess amount may be deducted in the computation of taxable profit in accordance with Section 34 of this Act.
+(c) For the purposes of this section, “cost base” on disposal of a property refers to the aggregate total of:
+    (1) the amount of expenditure incurred by the person in acquiring or improving the property; and
+    (2) expenditure incurred directly in connection with the disposal of the property.
+(d) The Regulation made pursuant to this Act shall prescribe:
+    (1) the method of calculation of the cost base for any of the following property being disposed:
+        (i) property acquired before the date of commencement of taxation under this Act;
+        (ii) property acquired or sold between related parties;
+    (2) any other matter for the purpose of implementing this section.
+(e) Notwithstanding subsections (a), (b) and (d) of this Section, gain or loss arising in any of the following manners shall not be taken into account in determining an individual’s taxable income, except for in the computation of business income:
+    (1) Where the total consideration received from the disposal of a property or similar properties at any given time is not more than MVR 40,000/- (forty thousand), and, the total consideration received from all such transactions does not exceed MVR 100,000/- (one hundred thousand) in an accounting period;
+    (2)
+        (i) from the disposal of the sole immovable property owned by an individual which also constitutes the individual’s principal private residence;
+        (ii) *Explanation: For the purpose of subsection 30(e)(2)(i), the disposal of the sole immovable property owned by an individual which also constitutes the individual’s principal private residence shall have the same meaning as assigned to it under Section 12(s) of this Act.*
+    (3) from the transfer of movable, immovable, intellectual or intangible property to the individual’s spouse or child or mother or father;
+    (4) from the disposal of the individual’s personal clothes, home furniture, household appliances and loose tools;
+    (5) from the transmission of movable, immovable, intellectual or intangible property on the death of the individual to another person.
+
+**31. Deduction allowed only once**
+Notwithstanding that an amount of expenditure may be deductible under more than one section of this Act, the expenditure shall be deducted only once, and the total amount of the deduction shall not exceed the total amount of expenditure incurred.
+
+**32. Non-deductible expenses**
+(a) No deduction shall be allowed for the following expenditure in computing a person’s taxable income:
+    (1) Domestic or private expenditure;
+    (2) capital expenditure except capital expenditure referred to in Section 26(a) of this Act and capital expenditure included in the calculation referred to in Section 30 of this Act (not including capital allowance deductible in accordance with Section 25 of this Act);
+    (3) Expenditure incurred to derive income to which Section 12 applies;
+    (4) Income tax payable in the Maldives or outside the Maldives;
+    (5) Input tax deductible by a person registered under the *Goods and Services Tax Act (Law No. 10/2011)*;
+    (6) Subject to Sections 23, 36 and 39(b)(2) of this Act, provisions for expenditure or loss;
+    (7) Fines or other amounts payable in respect of any failure to comply with any law or regulation made pursuant to a law;
+    (8) Any bribe given to another person;
+    (9) A premium payable to an issuer under a life insurance policy, other than a premium payable:
+        (i) by a person who is carrying on a business; and
+        (ii) under a key person insurance policy that covers the life of a key employee in that business; and
+        (iii) the proceeds of such policy are payable to the person who carries on the business and constitute part or the whole of the total income of that person;
+    (10) Where the person is a partnership;
+        (i) interest paid on any partner’s capital; and
+        (ii) profit of the partnership distributed to the partners.
+    (11) Any amount of excessive compensation determined under the Regulation made pursuant to this Act;
+    (12) Employee withholding tax deductible under Section 54 of this Act and non-resident withholding tax deductible under Section 55 of this Act which have not been paid to MIRA as required under this Act;
+    (13) any expenditure incurred before the date of commencement of taxation under this Act.
+(b) For the purposes of this Section, “domestic or private expenditure” of a person shall include:
+    (1) Expenditure incurred in the maintenance of the person or any other person and any person’s residence or other non-income producing asset;
+    (2) The cost of commuting to and from the person’s residence and place of work;
+    (3) The cost of clothing worn to work, except where that clothing is specifically designed to be worn at work and not generally suitable to be worn outside of work;
+    (4) Where the person derives income from carrying on a business, the cost of education of the person that is not directly relevant to the business and the cost of education leading to a degree or other tertiary qualification, whether or not it is directly relevant to the business; and
+    (5) Where the person derives remuneration, the cost of education of the person whether or not it is directly relevant to the person’s employment, except cost of trainings directly related to the person’s employment;
+    (6) *[Repealed]*.
+
+### CHAPTER 5: LOSSES
+
+**33. Loss relief in future accounting periods**
+(a) Where a person who derives business income has incurred a loss for any accounting period, that person may deduct such loss against the person’s taxable income for future accounting periods.
+(b) Where under subsection (a) the person deducts such loss in the computation of the person’s taxable income for future accounting periods:
+    (1) if the taxable income before loss relief under this Section for the accounting period in which such loss is being deducted is greater than 0 (zero), the amount of loss being deducted shall not exceed an amount equal to that amount greater than 0 (zero); and
+    (2) if the taxable income before loss relief for the accounting period in which such loss is being offset is less than or equal to 0 (zero), no amount shall be deducted in respect of such loss.
+(c) Where loss is carried forward to be set off against the taxable income of future accounting periods as pursuant to subsection (a), such loss shall be carried forward for a period of not more than 5 (Five) years from the end of the accounting period in which the loss was incurred.
+(d) Losses shall be deducted as pursuant to subsection (a) in the order in which they are incurred, that is, an earlier loss shall be deducted before a later loss.
+(e) Subsection (a) to (d) shall apply where the following conditions are satisfied.
+    (1) in case of a company (other than a company listed on the Maldives Stock Exchange), only if, from the beginning of the accounting period in which the loss is incurred to the end of the accounting period in which the loss or part thereof is deducted from the taxable income of that period, the same shareholder or shareholders continuously own more than 50% (fifty percent) of the ordinary share capital of the company and the company conducts the same line of business during that period.
+    (2) in case of a partnership, only if, from the beginning of the accounting period in which the loss is incurred to the end of the accounting period in which the loss or part thereof is deducted from the taxable income of that period, the same partners continuously own more than 50% (fifty percent of the capital of the partnership and the partnership conducts the same line of business during that period.
+    (3) in case of a trust, only if, from the beginning of the accounting period in which the loss is incurred to the end of the accounting period in which the loss or part thereof is deducted from the taxable income of that period, the same trustees own more than 50% (fifty percent) of the interest in capital or income of the trust and the trust conducts the same line of business during that period.
+
+**34. Capital loss**
+(a) Any amount of a loss calculated in accordance with Section 30(b) of this Act shall only be deducted from gains calculated in accordance with that section in the same accounting period as that in which the loss was incurred, or, to the extent that the loss exceeds those gains, such excess may be set off against the gains calculated in accordance with Section 30 of this Act in subsequent accounting periods.
+(b) Capital loss may be carried forward under subsection (a) to be deducted from capital gains in the computation of taxable income of subsequent years for a period of not more than 5 (five) years from the end of the accounting period in which it was incurred.
+(c) Capital loss shall be deducted as pursuant to subsection (a) in the order in which the capital loss was incurred, that is, an earlier loss shall be set off before a later loss.
+
+**35. Rules on loss relief**
+(a) For the purposes of this Section, “loss” means the amount by which deductions allowed under this Act (except for deductions allowed under Sections 18 and 21 of this Act) exceed a person’s total income.
+(b) The amount of loss deducted under Section 33 of this Act shall not exceed the amount of total loss for that period.
+(c) Subject to Chapter 13 of this Act, this Section shall only apply to losses arising after the date of commencement of taxation under this Act.
+(d) A person shall not set off a loss against another person’s taxable income if the loss or a part thereof arose from any transaction or arrangement entered into by the person or any other person to reduce the person’s liability to tax under this Act.
+
+### CHAPTER 6: SPECIAL PROVISIONS FOR CERTAIN ENTITIES
+
+**36. Bank**
+(a) Notwithstanding Section 23 of this Act, in the calculation of taxable income of a bank, a deduction is allowed for specific provisions for doubtful debts in respect of loans or advances, of an amount not exceeding the amount calculated in accordance with the following formula:
+> (5% × a) – b
+> where:
+> “a” is the book value of loans and advances issued by the bank at the last day of the bank’s accounting period; and
+> “b” is the amount of the provision for doubtful debts allowed as a deduction in the computation of taxable income of the preceding accounting period.
+
+(b) A deduction shall not be allowed for any provisions for doubtful debts in respect of any investments made by a bank, except an amount calculated under subsection (a).
+(c) Where an amount deducted under subsection (a) is recovered in an accounting period, such amount shall be deemed to be income derived in that accounting period.
+
+**37. Partnership**
+(a) A partnership shall pay tax on its taxable income under this Act in its name and as if it were a separate legal entity.
+(b) Partners of a general partnership shall be jointly and severally liable to meet all of the obligations imposed on the partnership under this Act.
+
+**38. Trust**
+(a) A trust shall pay tax under this Act on its taxable income as if it were a separate legal entity.
+(b) Notwithstanding anything to the contrary specified in the deed of trust, the taxable income of a trust shall be taxable in accordance with the provisions of this Act.
+(c) The trustees of a trust shall be jointly and severally liable to meet all of the obligations imposed on the trust under this Act.
+
+**39. Insurance business**
+(a) This Section shall apply to any person that carries on the business of insurance.
+(b) The taxable income for an accounting period of a person that carries on the business of insurance other than life insurance business shall be ascertained in accordance with the provisions in this Act and adjusted by:
+    (1) adding to the person’s total income:
+        (i) the balance of a reserve for unexpired risks at the beginning of the accounting period; and
+        (ii) the amount of estimated claims reported but not paid at the beginning of the accounting period; and
+        (iii) the amount of claims incurred but not reported at the beginning of the accounting period where that amount has been reasonably estimated using a generally accepted actuarial method approved by the Commissioner General.
+    (2) Deducting from the person’s total income:
+        (i) the balance of a reserve for unexpired risks at the end of the accounting period;
+        (ii) a reasonable estimate of claims reported but not paid in that accounting period; and
+        (iii) the amount of claims incurred but not reported at the end of the accounting period where that amount has been reasonably estimated using a generally accepted actuarial method approved by the Commissioner General.
+(c) Any amount of expected net recoveries in respect of claims made (whether under a reinsurance contract or otherwise) shall be included as income in the calculation of taxable income of a person carrying on insurance business.
+(d) For the purposes of this section, “reserve for unexpired risks” refers to the amount of the expected value of future claims attributable to the unexpired period of insurance policies in force at a particular time, estimated using an actuarial method approved by the Commissioner General, less the amount of the person’s unearned premium reserve at that time, and, the reserve for unexpired risks at the beginning of the person’s first accounting period after the date of commencement of taxation under this Act shall include the balance of the person’s reserve for unexpired risks at the date of commencement of taxation under this Act.
+(e) The method of calculation of taxable income of a person that carries on the following types of businesses shall be determined in the Regulation made pursuant to this Act:
+    (1) life insurance, taking account of generally accepted actuarial methods; and
+    (2) life insurance and insurance other than life insurance.
+
+**40. International transportation business**
+(a) Notwithstanding anything to the contrary in this Act, income specified in Section 11(r) of this Act shall be subject to income tax at the rate of 2% (two percent) of the gross income of that accounting period.
+(b) This Section shall not apply to any of the income specified below.
+    (1) Income exempted under Section 12 of this Act;
+    (2) The following income:
+        (i) income derived from a passenger who transits in the Maldives in the course of a journey between two places outside of the Maldives; or
+        (ii) income derived from a transhipment of livestock, mail, parcel, merchandise or goods.
+
+### CHAPTER 7: SUBMISSION OF TAX RETURN AND PAYMENT OF TAX
+
+**41. Requirement to file tax return and pay tax**
+(a) Unless otherwise specified in this Act, every person who is within the charge to tax under this Act, shall submit a tax return and pay tax to MIRA in a manner prescribed in this Act, in respect of the person’s taxable income for the accounting period ending in that given tax year.
+(b) Unless otherwise specified in this Act, every person who is within the charge to tax under this Act, shall submit an interim payment return and make an interim payment to MIRA for every tax year, in a manner prescribed in this Act.
+(c) The return specified in subsection (a) shall be submitted to MIRA using the return forms prescribed by MIRA, and where required under the Regulation made pursuant to this Act financial statements audited by an auditor licensed by the relevant regulatory authority shall accompany the return.
+(d) Persons required to prepare financial statements under the Regulation made pursuant to this Act shall prepare the returns specified in subsection (a) and (b) and pay tax as pursuant to those subsections in a manner prescribed in the Regulation made pursuant to this Act, in Maldivian Rufiyaa or United States Dollar.
+(e) Where a person is required to submit a tax return under this Act, the Commissioner General may, at his discretion, require the submission of information pertaining to income specified in Section 12 of this Act derived by such person, to MIRA, together with the return specified in subsection (a).
+
+**42. Deadline for submission of tax return and payment of tax**
+Tax return shall be submitted and tax shall be paid under Section 41 of this Act on or before the following dates:
+(a) First interim payment and the first interim return: 31 July of that tax year;
+(b) Second interim payment and the second interim return: 31 January of the immediately following tax year;
+(c) Final payment and final tax return: 30 June of the immediately following tax year.
+
+**43. Calculation of interim payments**
+(a) Each of the two interim payments payable by a person under Section 41 of this Act for the person’s first tax year in which the person is liable to pay tax under this Act (referred to in this section as “the first tax year”) shall be equal to one-half of the amount of tax payable for the accounting period ending in that tax year, estimated by the person.
+(b) For the tax year that immediately follows the first tax year, and for every tax year thereafter, each of the two interim payments payable by a person under Section 41 of this Act shall be equal to one-half of the total tax payable for the previous tax year.
+(c) For the purpose of subsection (b), if the amount of tax paid for the previous tax year was from the taxable income of an accounting period shorter than 12 (twelve) months or longer than 12 (twelve) months, the amount of interim payments required under Section 41 of this Act shall be the amount derived when one-half of the amount of tax payable by the person in the previous tax year is multiplied by the following fraction:
+> 365 / a
+> where “a” is the number of days in the accounting period ended in the previous tax year.
+
+(d) Notwithstanding subsection (b), where a person has reasonable grounds to expect that the tax payable for a tax year will be less than the tax payable for the previous tax year, that person may make a reasonable estimate of the amount of interim tax payable under Section 41 of this Act in accordance with the Regulation made pursuant to this Act.
+(e) Where subsection (d) applies, if the total amount of tax payable for the tax year to which the estimated amount of interim payment relates is greater than the total interim payments estimated by the person by more than 20%, it shall be deemed that the person is liable to interim tax under subsection (b) and that the person has not paid the interim payment in full before the deadline.
+(f) The amount of withholding tax deducted, pursuant to Section 54 or 55 of this Act, from the income of a person for an accounting period ending in a tax year may be deducted from an interim payment payable for that period, in accordance with the Regulation made pursuant to this Act. However, where the person elects Section 27(a) of this Act, the amount of withholding tax deducted under Section 55 of this Act shall not be deducted from the interim payments payable by that person for that period.
+
+**44. Final payment**
+The final payment of tax required to be paid under Section 42(c) of this Act, shall be the total amount of tax payable by the person for that tax year less the sum of the following amounts:
+(a) The total of the interim payments made by the person for that tax year; and
+(b) In accordance with the Regulation made pursuant to this Act, the amount remaining after withholding tax deducted from the person’s income pursuant to Section 54 and Section 55 is deducted in accordance with Section 43 of this Act.
+
+**45. Self-assessment**
+The self-assessed amount of tax (including any amount of loss) calculated by a person and included in the tax return submitted under this Act shall be deemed as the amount of tax payable by the person for the period to which such return is related.
+
+**46. Amending tax return**
+(a) Where a person believes that there are omissions or the amounts declared are not correct in a tax return filed under Sections 41(a) and 57 of this Act, the person may correct the return by submitting an amended tax return before the expiry of 12 (twelve) months from the dates specified in Sections 42(c) and 58 of this Act.
+(b) Where the Commissioner General believes that the self-assessed amount of tax payable calculated in a person’s tax return or amended tax return contains an “arithmetic error” or a “typographical error”, the Commissioner General may decide to correct such error.
+(c) Where the Commissioner General decides to correct an error pursuant to subsection (b), the taxpayer shall be notified of such that in writing providing with the reasons.
+
+**47. Payment of tax whether or not a tax return is filed**
+A person shall make interim and final payments of tax under Section 42 of this Act, in relation to the relevant accounting period whether or not the person has filed a tax return or amended tax return with respect to that period.
+
+**48. Commissioner General may require tax returns in certain cases**
+(a) This Section applies where the Commissioner General has reasonable grounds to believe that a person may commit or has committed any of the following events and a loss in tax revenue may result therefrom:
+    (1) leave the Maldives;
+    (2) cease to be resident in the Maldives;
+    (3) terminate a permanent establishment in the Maldives;
+    (4) transfer any funds or assets out of Maldives;
+    (5) to do any other thing stipulated in the Regulation made pursuant to this Act.
+(b) Where subsection (a) applies, the Commissioner General may by notice require a person to deliver a tax return or returns relating to an accounting period or periods, within a period specified in the notice by the Commissioner General.
+(c) Notwithstanding anything to the contrary in this Act, the amount of tax assessed as a result of the application of this section shall be due and payable within 7 (seven) days from the date on which the return is required to be delivered.
+(d) Notwithstanding subsection (c), the amount of tax assessed as a result of the application of this section shall be paid before the occurrence of any of the events referred to in subsection (a).
+(e) Even where a person has filed a tax return pursuant to this section, the person shall file an additional tax return in accordance with the Regulation made pursuant to this Act if the Commissioner General requires the person to do so.
+
+**49. Circumstances where an interim payment and interim return are not required**
+Notwithstanding Section 42 of this Act, there is no obligation under Section 41(b) of this Act where the total amount of the interim payment payable under Section 43 of this Act is not more than MVR 20,000/- (twenty thousand Rufiyaa), and the amount of tax payable for the previous tax year was not more than MVR 20,000/-, or the person is subject to Section 50(a) of this Act.
+
+**50. Circumstances where a tax return is not required to be filed**
+(a) Notwithstanding Section 41 of this Act, a person is not required to file a tax return for a tax year where:
+    (1) the person’s total income for the year is less than the amount specified in the Regulation made pursuant to this Act; or
+    (2) the person’s total income for the year is derived solely from one employer; or
+    (3) the person is not a resident of the Maldives and does not have a permanent establishment in the Maldives and derives from the Maldives income described in Section 50-1 or Section 55 of this Act.
+(b) Notwithstanding subsection (a)(2), a person whose total income for a tax year is derived solely from one employer may elect to file a tax return in accordance with Section 41 of this Act.
+(c) Notwithstanding subsection (a)(3), a person who is not a resident of the Maldives and who derives income from the Maldives described in Sections 55(a)(1), 55(a)(7) and 55(a)(8) of this Act may elect to file a tax return in accordance with Section 41 of this Act.
+
+**50-1. Taxation of offshore indirect transfers**
+(a) Where a person enters into any of the following transactions, and, an amount pertaining to such transaction is paid either to a non-resident (payee) or to a person the residency status of whom cannot be determined (payee), the payer (withholding agent) shall withhold as tax 10% (ten percent) of the gross amount of the payment.
+    (1) Entering into any of the transactions specified in Section 11(n)(1) to Section 11(n)(4) of this Act with a non-resident;
+    (2) Entering into a transaction which falls within Section 11(o) of this Act with a non-resident.
+(b) The deadline for the payment by the withholding agent of tax withheld under subsection (a) to MIRA shall be earlier of the following dates.
+    (1) The date on which the withholding agent becomes the owner of any asset as a result of any of the transactions specified in subsection (a)(1) or (a)(2);
+    (2) The date on which the payment pertaining to the transaction is paid to the payee.
+(c) The amount of tax withheld under subsection (a) shall be paid to MIRA by the deadline specified in subsection (b), using the form prescribed by MIRA for that purpose.
+(d) Tax as specified in this Section shall be paid to MIRA in the manner specified in this Section by the withholding agent even if the withholding agent fails to withhold, at the time of making the payment to the payee, the amount of tax pursuant to this Section.
+(e) The following shall apply where an amount is paid to a payee by the withholding agent after having failed to withhold the applicable tax amount.
+    (1) The withholding agent and the payee shall be jointly and severally liable to pay the amount of tax applicable under this Section;
+    (2) Where the result of any of the transactions specified in subsections (a)(1) and (a)(2) is the transfer of ownership of an asset to the withholding agent, the obligation of payment of tax shall be transferred to the payee from the time of transfer of ownership of the asset.
+(f) Where the withholding agent withholds the amount of tax as according to this Section and pays such amount to MIRA, it shall be deemed that the amount withheld has been paid to the payee by the withholding agent.
+(g) Where the withholding agent pays the amount of tax to MIRA pursuant to subsection (d) after having failed to withhold the tax from the payment, the withholding agent is entitled to recover an equal amount from the payee.
+(h) The payee shall be deemed to have paid tax in the following circumstances.
+    (1) The withholding agent has withheld the amount of tax pursuant to this Section from the payment made to the payee;
+    (2) Tax has been paid pursuant to subsections (d) or (e).
+(i) The payee is entitled to a tax credit in that accounting period in an amount equal to the amount of tax deemed as paid under subsection (h).
+(j) Notwithstanding anything to the contrary in this Section, where Section 11(n) of this Act applies and the withholding agent or payee fails to pay the tax payable under this Section for a tax year by the deadline for filing the tax return for that tax year, the owner of the immovable property from which the company, partnership or trust, of which shares or interested were alienated, derived their value, shall pay the tax at the rate specified in subsection (a).
+(k) For the purposes of subsection (j), the person who holds the lease of an immovable property under a finance lease shall be deemed to be owner of that immovable property.
+
+**51. Some circumstances where no interim or final tax is required**
+Notwithstanding anything to the contrary in this Act, no interim or final tax payments shall be payable by persons specified in Section 50(a)(2) of this Act or in respect of income subject to tax under Section 55 of this Act or income derived from transactions subject to tax under 50-1 of the Act.
+
+**52. Death of a taxpayer**
+(a) Where a person who is liable to file a tax return or pay any amount of tax for a tax year dies during that year, the person who assumes the charge of the deceased person’s tax obligations as required by the law or under Islamic Shariah, shall file a tax return and pay the amount of tax payable up to the date of death of the deceased person, in accordance with the Regulation made pursuant to this Act.
+(b) Where any tax return of, or any tax payable by, the deceased person is outstanding at the date of death, the person who assumed the charge of the deceased person’s tax obligations as determined under subsection (a) shall be responsible to file such returns and pay the amount of tax outstanding, together with any penalties that may apply.
+(c) Where a person liable to pay tax dies, no fines shall accrue from the date of death of the deceased person until a person(s) is appointed by a court of law under subsection (a) as the person in charge of the deceased person’s tax obligations.
+
+### CHAPTER 8: WITHHOLDING TAX
+
+**53. Types of withholding tax**
+Withholding tax charged under this Act is divided into the following 2 (two) categories:
+(a) Withholding tax required to be paid by an employer on behalf of an employee in accordance with Section 54 of this Act, from a payment of remuneration paid from an employer to an employee (“employee withholding tax”).
+(b) Withholding tax required to be paid by a person in accordance with Section 55 of this Act on behalf of a non-resident person, from a payment made to the non-resident person (“non-resident withholding tax”).
+
+**54. Employee withholding tax**
+(a) Where an employer pays remuneration (whether or not in cash) to an employee, the employer (or any person acting on behalf of the employer) shall deduct employee withholding tax from the gross amount of each payment made each month in the following manner:
+
+| Remuneration subject to withholding tax (per month) | Tax rate |
+| :--- | :--- |
+| Not exceeding MVR 60,000 (Sixty Thousand Maldivian Rufiyaa) | 0% (Zero percent) |
+| More than MVR 60,000 (Sixty Thousand Maldivian Rufiyaa) but not exceeding MVR 100,000 (Hundred Thousand Maldivian Rufiyaa) | 5.5% (Five point five percent) |
+| More than MVR 100,000 (Hundred Thousand Maldivian Rufiyaa) but not exceeding MVR 150,000 (One Hundred and Fifty Thousand Maldivian Rufiyaa) | 8% (Eight percent) |
+| More than MVR 150,000 (One Hundred and Fifty Thousand Maldivian Rufiyaa) but not exceeding MVR 200,000 (Two Hundred Thousand Maldivian Rufiyaa) | 12% (Twelve percent) |
+| More than MVR 200,000 (Two Hundred Thousand Maldivian Rufiyaa) | 15% (Fifteen percent) |
+
+(b) The aggregate of employee withholding tax to be deducted under this Section shall be the aggregate of the amounts of tax payable under each tax bracket for remuneration subject to withholding tax specified in subsection (a) computed separately.
+(c) For the purposes of any provision of this Act which relates to employee withholding tax, remuneration subject to withholding tax refers to the total remuneration received by an employee in a month after the deduction of the amount contributed to the Maldives Retirement Pension Scheme referred to in Section 19 of this Act from the employee’s remuneration for that month.
+(d) Where an employer (or any person acting on behalf of the employer) makes more than one payment of remuneration to any employee in any month, withholding tax shall be deducted from the total of the amounts of payments of remuneration made to the employee in that month.
+(e) Notwithstanding any other provision in this Act, where a person derives remuneration from more than 1 (one) employer, the Regulation made pursuant to this Act shall specify, in respect of that remuneration:
+    (1) *[Repealed]*
+    (2) the frequency of, and the deadlines for, filing employee withholding tax returns;
+    (3) the manner of calculation of employee withholding tax and the deadline for payments of employee withholding tax to MIRA; and
+    (4) other matters related to employee withholding tax.
+(f) Notwithstanding any other provision in this Act, where the amount of remuneration paid by an employer (or any person acting on behalf of the employer) is different from the regular amount of remuneration paid to the employee, or where the amount of remuneration varies monthly because of the nature of the employment or any other reason, the Regulation made pursuant to this Act shall specify the procedure for the payment of withholding tax in respect of such remuneration.
+(g) This Section shall not apply to income specified in Section 12 of this Act.
+
+**55. Non-resident withholding tax**
+(a) Where a person that carries on any business in the Maldives makes any payment of the following kinds to a person who is not resident in the Maldives, the person shall deduct non-resident withholding tax from the gross amount of the payment at the rate of 10% (ten percent) of the gross amount of the payment:
+    (1) Rent in relation to immovable property situated in the Maldives;
+    (2) Royalty;
+    (3) Interest *(other than interest paid or payable to a bank or non-banking financial institution approved by MIRA)*;
+    (4) Dividends;
+    (5) Fees for technical services;
+    (6) Commissions paid in respect of services supplied in the Maldives;
+    (7) Payments made in respect of performances in the Maldives by public entertainers;
+    (8) Payments made for carrying out research and development in the Maldives;
+    (9) *[Repealed]*
+    (10) Insurance premium paid to a non-resident insurer.
+(b) Where a person conducting business in the Maldives makes a payment to a contractor that is not a resident of the Maldives, a total of 5% (five percent) of the gross amount of the payment shall be deducted as non-resident withholding tax.
+(c) For the purposes of this section:
+    (1) Where at the time of payment in respect of the services specified in subsection (a) and (b) it cannot be determined whether or not the person who receives the payment is resident in the Maldives, it shall be deemed that the person is not a resident in the Maldives and non-resident withholding tax shall be deducted accordingly.
+    (2) royalty paid for the use of, or the right to use of a copyright in a software shall be royalty paid for the use of, or right to use of the following types of copyright:
+        (i) a copyright in bespoke software, or
+        (ii) a copyright that the payer has the right to exploit, or
+        (iii) a copyright in software that the payer has the right to copy, modify, reverse engineer or decompile.
+    (3) “Non-resident contractor” refers to a person not resident in the Maldives who undertakes, under a contract, agreement, or arrangement (other than as an employee):
+        (i) to perform services of any kind in the Maldives; or
+        (ii) to supply the use of, or right to use, in the Maldives any services of another person.
+    (4) “Reinsurance premium” refers to premium paid to a person who enters into a contract of insurance with an insurer under which the insurer is secured, fully or partially, by the person against a risk.
+    (5) “Public entertainer” refers to a stage, radio, television or internet artiste, a musician, an athlete or an individual exercising any profession or vocation of a similar nature.
+(d) For the purposes of this Section:
+    (1) “Commissions paid in respect of services supplied in the Maldives” shall not include commission charged by a bank for money transfers and deposits via the bank and commission charged by a bank for use of a card issued by the bank.
+    (2) “Royalty” shall not include inter-carrier charges paid by one telecommunication service provider to another telecommunication service provider.
+    (3) “Insurance premium” shall not include re-insurance premium.
+(e) This Section shall not apply to payments of the following nature:
+    (1) Payments made by a State institution;
+    (2) Payments made to a non-resident by persons mandated under *Law Number 15/2011 (National Social Health Insurance Act)* to carry out the social protection schemes and programmes established under that law;
+    (3) Payments exempt under Section 12 of this Act.
+
+**56. Payment deemed to be after withholding tax deduction**
+(a) Where a payment is subject to Section 54 or 55 of this Act and the payer fails to deduct the correct amount of withholding tax from the gross amount of the payment, the amount actually paid to the recipient of the payment shall be deemed to have been made after the deduction of the correct amount of withholding tax.
+(b) The method of calculation of the amount of withholding tax payable where subsection (a) applies shall be specified in the Regulation made pursuant to this Act.
+
+**57. Obligation to file withholding tax return and pay withholding tax**
+(a) A person liable to deduct withholding tax pursuant to Sections 54 and 55 of this Act shall submit a tax return to MIRA for each month in accordance with the provisions of this Act, and pay to MIRA the amount of withholding tax calculated in accordance with Sections 54 and 55 of this Act.
+(b) Subsection (a) shall apply even if the person who makes a payment subject to withholding tax fails to deduct the amount of withholding tax pursuant to Sections 54 and 55 of this Act.
+(c) The return specified in subsection (a) shall be submitted to MIRA using the return form prescribed by MIRA.
+(d) The tax return specified in subsection (a) shall be presented, and the amount of withholding tax shall be paid, in a currency specified under the Regulation made pursuant to this Act.
+
+**58. Due date for the submission of withholding tax return and payment of withholding tax**
+A person who is required to file a withholding tax return and pay withholding tax under Section 57 of this Act, shall submit the withholding tax return and pay withholding tax to MIRA by the 15th day of the month following the month in which a payment subject to withholding tax under Section 54 or 55 of this Act was made.
+
+**59. Employee withholding tax return**
+(a) Where an employer or a person acting on behalf of an employer (referred to in this Section as “the payer”) is required to deduct withholding tax from the remuneration payable to the payer’s employees under Section 54 of this Act, the payer shall submit a return (“Employee Withholding Tax Return”) to MIRA by the due date specified in Section 58 of this Act.
+(b) The Payer shall submit a withholding tax reconciliation return to MIRA for every tax year, in a manner prescribed in the Regulation made pursuant to this Act.
+(c) The tax returns specified in subsections (a) and (b) shall be submitted using a return form prescribed for that purpose by MIRA.
+
+**60. Non-resident withholding tax return**
+(a) Where in any month, a person conducting business in the Maldives or a person acting on behalf of such person, makes a payment of an amount referred to in Section 55(a) and (b) of this Act to a person who is not a resident in the Maldives, the payer shall submit a return (“Non-resident Withholding Tax Return”) to MIRA by the due date specified in Section 58 of this Act.
+(b) The tax return specified in subsection (a) shall be submitted using a return form prescribed for that purpose by MIRA.
+
+**61. Non-resident withholding tax is a final tax**
+Subject to Section 50(c) of this Act, where Section 55 of this Act applies, Section 5 of this Act shall not apply and the amount of non-resident withholding tax imposed under Section 55 of this Act shall be the final and full amount of the tax liability of the non-resident person in respect of the income that was taxed in accordance with Section 55 of this Act.
+
+**62. Withholding tax certificate**
+(a) Where a person who has deducted an amount as withholding tax under Sections 54 and 55 of this Act requests, a certificate which shows the following information shall be issued by MIRA within 7 (seven) days from the date of such request, and, such person shall be responsible for providing the withholding certificate to the taxpayer of withholding tax on request. However, if the person who has deducted withholding tax objects to such request by the taxpayer of withholding tax, MIRA shall issue the certificate to the taxpayer upon a request to MIRA with proof of an earlier request to the person who deducted withholding tax.
+    (1) The name of the recipient of the income subject to withholding tax;
+    (2) The name of the payer of the income subject to withholding tax;
+    (3) *[Repealed]*
+    (4) The total amount of withholding tax paid to MIRA;
+    (5) The year to which the information required under this Section relates;
+    (6) The date of issuance of the certificate.
+(b) Where the person whose income was subject to the deduction of withholding tax, requests for a certificate specified in subsection (a), such certificate shall be provided to such person by the person making the payment of withholding tax before the 30th of April of the tax year immediately following the tax year to which the certificate relates.
+
+**63. Deduction of withholding tax from subsequent payments**
+(a) Where any amount of withholding tax that is required to be deducted from a payment in accordance with this Act is not deducted, the payer may deduct such amount from any further amounts payable to the person by the payer.
+(b) Subsection (a) shall not affect the application of any other provision of this Act.
+
+### CHAPTER 9: REGISTRATION
+
+**64. Obligation to register**
+(a) A person specified in Section 2 of this Act as being within the scope of this Act (other than persons specified in Section 61 of this Act and persons specified in the Regulation made pursuant to this Act) shall apply to MIRA to be registered for the purposes of this Act, within the period specified in Section 65 of this Act.
+(b) Notwithstanding subsection (a), the Commissioner General may, at his discretion, register a person with MIRA based on information obtained under Section 21(b) of the *Tax Administration Act (Law number 3/2010)* or by any other means, and notify the person of such registration, and the registration of a person with MIRA as such does not relieve the person of any fines or penalties which may be applicable to that person as a result of failure to act in accordance with Section 65 of this Act.
+
+**65. Application for registration**
+(a) Persons to whom Section 64 of this Act applies shall apply for registration with MIRA within the following periods:
+    (1) A person who derives income from the Maldives at the date of entry into force of this Act, irrespective of whether or not that person is a resident of the Maldives, shall apply for registration within 60 (sixty) days from that date.
+    (2) An employer of an employee who works in the Maldives at the date of entry into force of this Act shall apply for registration of both the employer and the employee within 60 (sixty) days from that date.
+    (3) A person who is a resident of the Maldives and derives income from outside the Maldives at the date of entry into force of this Act shall apply for registration within 60 (sixty) days from that date.
+    (4) A person who begins to derive income from the Maldives after the date of entry into force of this Act shall apply for registration within 30 (thirty) days from the date such income was first derived.
+    (5) A person who commences business in the Maldives under a permit to conduct business after the date of entry into force of this Act shall apply for registration within 30 (thirty) days from the issuance of such permit from the relevant authority.
+    (6) A person who becomes an employer of an employee who works in the Maldives after the date of entry into force of this Act shall apply for registration of both the employer and the employee within 30 (thirty) days from the date that the person became the employer.
+    (7) A person who is a resident of the Maldives and begins to derive income from outside the Maldives after the date of entry into force of this Act shall apply for registration within 30 (thirty) days from the date such income was first derived.
+(b) Notwithstanding subsection (a), where a person is required to pay any tax or file any return under this Act, that person shall register with MIRA before the due date for the first payment of tax or the submission of first return.
+(c) Notwithstanding subsection (a), where an employer is required to pay any tax or file any return under Section 57 of this Act in respect of an employee, that employer shall register the employee with MIRA before the due date for the first payment of tax or submission of first return.
+(d) At the date of application for registration of an employee under subsection (b) and (c), if the employee is registered with MIRA under subsection (a), subsections (b), (c) and (e) shall not apply to that employee.
+(e) Income or payments that are subject to tax under this Act and are derived or made before the date of registration of the person deriving the income or making the payment, such income or payment shall be subject to tax notwithstanding that they were derived or made before that person’s registration.
+
+### CHAPTER 10: TAX AVOIDANCE
+
+**66. General anti-avoidance rule**
+(a) This Section shall apply where the Commissioner General has reasonable grounds to believe that one of the purposes of any arrangement or transaction entered into in any accounting period was the avoidance of tax or obtaining of a reduction in tax liability.
+(b) The Commissioner General may void an arrangement or transaction entered into by any person where such person has obtained a tax advantage from or under such tax avoidance arrangement or transaction, whether by issuing an assessment in accordance with Section 39 of the *Tax Administration Act (Law number 3/2010)* or otherwise.
+
+**67. Arrangements or transactions between associates**
+(a) This Section shall apply in respect of an arrangement or transaction between two persons, in the following circumstances:
+    (1) Such arrangement or transaction was entered into between two persons who were associates;
+    (2) the terms on which the arrangement or transaction was entered into between the persons were not arm’s length terms;
+    (3) had the arm’s length conditions been made or imposed:
+        (i) the amount of the income of one of those persons for an accounting period would be greater; or
+        (ii) the amount of any deduction that may be allowed to one of those persons for an accounting period would be less; or
+        (iii) the amount of any loss of one of those persons for an accounting period would be less; or
+        (iv) the amount of any tax credits of one of those persons for an accounting period would be less.
+(b) Where this Section applies to any person in an accounting period, the taxable income of that person shall be computed in accordance with the arm’s length terms, irrespective of the actual terms of such arrangement or transaction.
+(c) Where this Section applies to a person and such person has not computed the person’s taxable income in accordance with subsection (b), MIRA may make one or more of the following adjustments:
+    (1) increase the amount of the income of the person specified in subsection (a)(3)(i);
+    (2) reduce the amount of the deduction that may be allowed to the person specified in subsection (a)(3)(ii);
+    (3) reduce the amount of loss of the person specified in subsection (a)(3)(iii);
+    (4) reduce the amount of tax credit allowed for the person specified in subsection (a)(3)(iv).
+(d) Where a person carries on business through a permanent establishment, this Section shall apply as if the person and the permanent establishment are separate and distinct persons.
+
+**68. Transfer pricing documentation**
+(a) This Section shall not apply where:
+    (1) the arrangement or transaction undertaken by a business categorized as either a micro, small or medium sized business under the *Law on Small and Medium Enterprises (Law number 6/2013)*: or
+    (2) the arrangement or transaction is made in respect of an exempt income;
+    (3) the arrangement or transaction is made exempt under the Regulation made pursuant to this Act.
+(b) Every person liable to income tax under this Act, shall prepare and maintain documentation (herein referred to as “transfer pricing documentation”) in respect of transactions and arrangements entered into between associates and the documentation shall include the following information:
+    (1) details of the commercial and financial relations between the two parties involved as respects the transaction; and
+    (2) the terms and conditions made or imposed between the two parties involved as respects the transaction or arrangement; or
+    (3) an explanation as to why the terms of the transaction are concluded as at arm’s length; and
+    (4) any other information as may be prescribed in the Regulation made pursuant to this Act.
+(c) The transfer pricing documentation required to be maintained under subsection (b) shall be prepared and finalized by the due date for the submission of tax return for the accounting period to which the transaction or arrangement relates, and submitted to MIRA by the prescribed deadline.
+
+**69. Disposition in favour of minor to be disregarded**
+(a) Where any income producing property is transferred to a person who has not reached the age of 18 on the first day of any tax year, the income derived from that property shall be treated as being derived by the transferor.
+(b) Where subsection (a) applies the transferee shall not be personally responsible for complying with any of the requirements imposed under this Act, and it is the responsibility of the person who transferred the property to comply with the requirements imposed under this Act.
+(c) For the purposes of this Act, where a person who has not reached the age of 18 on the first day of any tax year derives any income, such income shall be treated as income derived by the person who is appointed as the person’s legal guardian.
+
+**70. Controlled foreign entities**
+(a) This Section applies when a company, partnership, trust or other entity that is not a resident of the Maldives (referred to in this Section as a “foreign entity”) is controlled by 5 (five) or fewer residents of the Maldives.
+(b) The taxable income of the foreign entity specified in subsection (a) shall be calculated in accordance with the provisions of this Act.
+(c) Each person that is a resident of the Maldives and holds 10% (ten percent) or more in the share capital of the foreign entity shall include in its taxable income its share of the taxable income of the foreign entity, calculated using the following formula:
+> (resident shareholder's interest / Total interest of all the shareholders) x Taxable income
+>
+> (1) “Resident shareholder’s interest” shall mean:
+>    (i) where the foreign entity is a company, partnership or other legal entity, the greater of the average of share capital of the person who is a resident in the Maldives throughout the accounting period and the average of the voting rights of the person who is a resident of the Maldives, calculated on a daily basis.
+>    (ii) where the foreign entity is neither a company, nor a partnership, nor another legal entity, the average of the interest of the person who is a resident of the Maldives, in the capital of the entity throughout the accounting period, calculated on a daily basis.
+>    (iii) where the foreign entity is a fixed trust, the average of the interest of the beneficiary of the trust during the accounting period, who is a resident of the Maldives, and where the foreign entity is a discretionary trust, the average of the interest of the settlor of the trust throughout the accounting period, who is a resident of the Maldives.
+>
+> (2) “Total interest of all the shareholders” shall mean:
+>    (i) where the foreign entity is a company, partnership or other legal entity, the average of share capital of the entity during the accounting period, or, the average of the voting rights of the entity, calculated on a daily basis.
+>    (ii) where the foreign entity is neither a company, nor a partnership, nor another legal entity, the average of the interests in the capital of the entity of all persons who held such interests during the accounting period, calculated on a daily basis.
+>    (iii) where the foreign entity is a trust, the number of trustees that are residents of the Maldives;
+>
+> (3) “Taxable income” shall mean the full amount of income, after having deducted from the total income the deductions authorized under this Act and loss relief pursuant to Section 33 of this Act.
+
+(d) Any amount included in a resident’s taxable income under this Section shall not be included in the person’s taxable income when the foreign entity distributes any of that income to the person.
+(e) For the purpose of counting residents under subsection (a), a person and its associates shall be treated as one person.
+(f) For the purpose of subsection (c), the sum of the interests of all the associates who hold interest in the share capital of the entity shall be taken into account in determining whether or not 10% (ten percent) or more in the share capital of a foreign entity are held.
+
+**71. Thin capitalisation**
+(a) This Section shall not apply to:
+    (1) banks specified in Section 8 of this Act;
+    (2) insurance businesses or finance leasing businesses or housing finance businesses or non-banking financial institutions licensed to conduct financing business under the *Maldives Monetary Authority Act (Law number 6/81)*;
+    (3) persons categorized as micro, small or medium sized businesses under the *Law on Small and Medium Enterprises (Law number 6/2013)*; and
+    (4) State-Owned Enterprises (SOEs), of which the Government of the Maldives directly holds majority of the ordinary share capital.
+(b) Where the total amount of interest paid, except to a bank licensed under the *Maldives Banking Act (Law number 24/2010)* or to an insurance business or finance leasing business or housing finance business licensed under the *Maldives Monetary Authority Act (Law number 6/81)*, exceeds the interest capacity of a person for that period, such excess amount shall not be deducted in the computation of taxable profit of that person for that period.
+(c) The amount of interest disallowed under subsection (b) may be carry forwarded and deducted in the computation of taxable income for subsequent periods in such that the total amount of interest deducted does not exceed the interest capacity of the person for that period.
+(d) Where subsection (c) applies, a person shall carry forward the amount of interest disallowed to be deducted in subsequent periods up to a maximum of 10 (ten) years from the last day of the accounting period in which such amount was initially disallowed.
+(e) In the computation of taxable income for an accounting period, interest under subsections (b) and (c) shall be deducted in the following order:
+    (1) The amount of interest disallowed (an earlier amount of interest disallowed shall be deducted before a later amount of interest disallowed).
+    (2) The amount of interest deductible in the computation of taxable income for that accounting period.
+(f) For the purposes of this Section:
+    (1) “Interest” means interest on all forms of debt, payments economically equivalent to interest and expenses incurred in connection with the raising of finance, including arrangement fees and guarantee fees.
+    (2) “Interest capacity” refers to 30% (thirty percent) of a person’s tax-EBITDA in any given accounting period.
+    (3) “Amount of interest disallowed” refers to the amount of interest that cannot be deducted under subsection (b) as a result of such amount exceeding the person’s interest capacity.
+    (4) “Debt” refers to any loan, financial instrument, finance lease, financial derivative, or arrangement that gives rise to interest, coupons, discounts or any other finance charges deductible in the computation of a person’s taxable income.
+    (5) “TAX-EBITDA” refers to the amount of profit or loss before the deduction of loss relief as pursuant to Section 33 of this Act, increased by the following amounts:
+        (i) amount of interest deductible, subject to Section 22 of this Act; and
+        (ii) capital allowance deductible under Section 25 of this Act.
+
+### CHAPTER 11: TAX CREDIT
+
+**72. Credit for foreign tax paid**
+(a) Where any person resident in the Maldives has paid tax in a foreign country or territory on any part of the person’s income which arises from a source outside Maldives and which is also chargeable to tax under this Act in any accounting period, that person shall be entitled to deduct from the amount of tax imposed under this Act an amount equal to the lesser of:
+    (1) the amount of foreign tax paid;
+    (2) tax payable in the Maldives from the net amount of foreign sourced income.
+(b) For the purposes of subsection (a):
+    (1) “foreign tax” means tax imposed by the laws of a foreign country or territory which is of a similar character to income tax imposed under this Act.
+    (2) “Net foreign sourced income” means income derived from outside the Maldives in respect of which foreign tax has been paid, which is included in the person’s total income, less any deductions allowed under this Act that relate exclusively to the derivation of that income. The manner in which this amount shall be computed, shall be prescribed in the Regulation made pursuant to this Act.
+    (3) “Tax payable in the Maldives” means tax payable by the person calculated in accordance with Section 7, 8 or 9 of this Act.
+(c) Subsection (a) shall be applied separately with respect to each type of income listed in Section 3 of this Act and each country or territory from which each type of income was derived.
+(d) Any deduction allowed in accordance with subsection (a) for any accounting period shall be made not later than 2 (two) years after the end of that period.
+(e) Where the amount of any deduction allowed to a person under this section is excessive or insufficient by reason of an adjustment of the amount of tax payable either in the Maldives or elsewhere, that person or the Commissioner General may amend the amount of the deduction within 2 years from the time when the adjustment to the amount of tax payable was made.
+(f) Subsections (d) and (e) shall apply notwithstanding Section 46 of this Act.
+(g) Tax credit applicable under any double tax avoidance agreement shall be deducted in accordance with the provisions of the *Tax Administration Act (Law number 3/2010)*.
+
+### CHAPTER 12: GENERAL PROVISIONS
+
+**73. Non-monetary consideration**
+(a) For the purposes of this Act, an amount of income or expenditure includes non-monetary amounts.
+(b) A non-monetary amount in respect of a transaction shall be valued at its open market value at the time of occurrence of the transaction.
+(c) For the purposes of subsection (b), the open market value of income or expenditure shall be calculated in the following manner.
+    (1) The open market value of a good or service or benefit shall be the ordinary open market value of such good or service or benefit at the time it was acquired.
+    (2) Where the open market value of a good or service or benefit cannot be established under subsection (c)(1), the open market value shall be the price calculated based on the prices at which a similar good or service or benefit is available in the ordinary open market at that point in time while taking into account any differences in the good or service or benefit being compared.
+    (3) For the purposes of subsection (c)(2), whether or not a good or service or benefit is similar to another good or service or benefit shall be determined based on the quality, appearance, amount, functionality and reputation of the good or service or benefit, and the quality of the material used in the good or service or benefit.
+    (4) Where the open market value of a good or service or benefit cannot be established under subsection (c)(1) and subsection (c)(2), the open market value shall be calculated by using a generally accepted valuation method approved by the Commissioner General.
+
+**74. Proration**
+(a) All references made in this Act to an accounting period is to a period of 365 (three hundred and sixty-five) days, and the 29th day of February in a leap year shall not be counted in the determination of the length of an accounting period.
+(b) For the purposes of Section 54 of this Act, the number of days in a month shall be the number of days in that month of the Gregorian calendar. In counting the number of days in the month of February in a leap year, however, the 29th day shall not be included.
+(c) Where a specific amount is prescribed in this Act for an accounting period and such accounting period is longer or shorter than a period of 12 (twelve) months, that amount shall be prorated based on the number of days in that period.
+
+**75. Act to be read together with Tax Administration Act**
+This Act shall be read together with the *Tax Administration Act (Law Number 3/2010)*, and any word or expression in this Act shall have the same meaning as that is defined in the Tax Administration Act, unless the word or expression is defined in this Act or the context otherwise requires a specific, distinct meaning.
+
+**76. Administration of this Act and formulating Regulations**
+(a) The provisions contained in this Act shall be administered by MIRA.
+(b) A Regulation shall be made pursuant to this Act by MIRA’s Board to facilitate the efficient administration of this Act, to set out the rules to be followed by all persons within the scope of this Act, and to implement the provisions of this Act.
+(c) The Regulation made pursuant to this Act shall be made and publicised in the Government gazette before the commencement of taxation under this Act.
+
+**77. Delegation of powers of the Commissioner General**
+Where the Commissioner General is empowered to carry out any action under this Act, that action may be carried out by any staff of MIRA to whom the Commissioner General has delegated that power.
+
+**78. Commencement of Act and imposition of tax**
+(a) This Act shall enter into force upon passing, ratification and publication in the Government Gazette of the Maldives.
+(b) Taxation under this Act shall commence on 1 January 2020.
+(c) Notwithstanding subsection (b), taxation on income specified in Section 3(a) of this Act shall commence on 1 April 2020.
+
+**79. Definitions**
+Unless the context of any word or phrase specified in this Act requires otherwise, the following words and phrases shall have the following meanings:
+(a) “Gift” means anything transferred from one person to another, at the person’s own free will, in the form of money or otherwise, without any consideration.
+(b) “Charitable organization” means any body, association or public institution which satisfies the following conditions:
+    (1) the body, association or public institution is established for the promotion of Islam, relief of the poor, medical relief or education or any other object of similar general public utility prescribed in the Regulation made pursuant to this Act; and
+    (2) the body, association or public institution is not run for the financial benefit of a specific person.
+(c) “Accounting period” means the period determined in the Regulation made pursuant to this Act.
+(d) “Retirement benefit” means any payment received under a retirement scheme except money received as a pension under the Maldives Retirement Pension Scheme established in pursuance to the *Maldives Pension Act (Law Number 8/2009)*.
+(e) “Royalty” means a payment of any kind received as a consideration for the following purposes:
+    (1) the use of, or right to use, a copyright, patent, plant variety right, trademark, design or model, plan, secret formula or process, or other similar property or right;
+    (2) extraction, removal or exploitation of, or the right to extract, remove, or otherwise exploit, any naturally formed mineral, oil, gas or any other resource of similar nature;
+    (3) the use of, or the right to use, any:
+        (i) cinematograph film;
+        (ii) film, videotape or other electronic recording used for television broadcasting;
+        (iii) tape or other electronic recording used for radio broadcasting;
+        (iv) film, video or other electronic recording used for internet broadcasting.
+    (4) the supply of scientific, industrial, or commercial knowledge or information;
+    (5) the use of, or the right to use, industrial, commercial or scientific equipment or information concerning industrial, commercial or scientific experience;
+    (6) transmission via satellite, cable, optic fibre or any other similar technology;
+    (7) the supply of assistance that enables the application or use of anything or any right specified in any of subsections (e)(1) to (e)(6);
+    (8) the total or partial forbearance of the use of, or the grant of a right to use, property or a right specified in any of subsections (e)(1) to (e)(3);
+    (9) the total or partial forbearance of the supply of knowledge or information specified in any of subsections (e)(4) to (e)(6).
+(f) “International transportation” refers to transportation by an aircraft or a vessel except transportation by an aircraft or a vessel from a place in the Maldives to another place in the Maldives.
+(g) “Internationally recognised accounting standards” refers to International Financial Reporting Standards, International Financial Reporting Standards for Small and Medium sized Entities, International Accounting Standards issued by International Accounting Standards Board, and any other internationally recognised accounting standard approved by the Commissioner General.
+(h) “Beneficiary income” means any amount paid by a trust to a beneficiary of the trust other than a distribution of the corpus of the trust.
+(i) “Bank” refers to any financial institution which includes in its function, accepting of cash deposits that can be transferred from one person to another through checks.
+(j) “Company” means a body corporate, wherever incorporated or registered, and includes a cooperative society but does not include a limited liability partnership.
+(k) “Group of entities” refers to entities which are required under the Regulation made pursuant to this Act to submit consolidated financial statements to MIRA.
+(l) “Control” means:
+    (1) the circumstance where a person or any of its associates (herein referred to as the first person) can be directly or indirectly required by another person (herein referred to as the second person) to act in accordance with the directions of the second person, in which case the second person shall be treated as controlling the first person; or
+    (2) in relation to any person and a company,
+        (i) the circumstance in which a person or any person controlling such person holds the majority share capital of the company or majority of the issued share capital of the company or possesses the majority of voting rights of the company, or hold the right to possess the majority of voting rights of the company; or
+        (ii) the circumstance in which a person or any person controlling such person manages the operations of the company or may directly or indirectly manage the operations of the company or holds the right to directly or indirectly manage the operations of the company; or
+        (iii) where the total income of the company is distributed amongst all shareholders of the company, the circumstance in which a person derives or obtains the right to derive the majority of the distributed income of the company based on the number of shares of the company’s capital issued to such person, irrespective of any interest of such person in the company in respect of any loans that may have been issued to the company by such person; or
+        (iv) the circumstance in which a person acquires or obtains the right to acquire the majority of the capital of the company upon the dissolution of the company or in the event of any such occurrence.
+    (3) in relation to any person and a partnership, the circumstance in which the person or any of its associates directly or indirectly possesses the majority of the voting rights with respect to decision making of the partnership or holds directly or indirectly an interest of more than 50% (fifty percent) of the capital of the partnership, in which case the person shall be treated as controlling the partnership;
+    (4) For the purposes of this definition, the following rights and powers attributable to the first person shall be attributable to the second person:
+        (i) a right or power that another person possesses on behalf of the first person;
+        (ii) a right or power that another person may be required to exercise at the direction of, or on behalf of, the first person;
+        (iii) a right or power of any company or companies controlled by first person or first person together with any associates;
+        (iv) a right or power of any associate or associates of the first person and of any associate of an associate of the first person;
+    (5) For the purpose of this definition, a minor child shall be treated as being under the control of the child’s parents or guardian.
+(m) “Capital allowance” refers to the amount attributable to each period when the capital expenditure incurred on an asset is apportioned over a specific period.
+(n) “Capital Market Development Authority” refers to the Capital Market Development Authority established under Section 3 of the *Maldives Securities Act (Law Number 2/2006)*.
+(o) “Commissioner General” refers to the Commissioner General of Taxation appointed under the *Tax Administration Act (Law Number 3/2010)*.
+(p) “Cooperative society” means a cooperative society wherever incorporated or registered.
+(q) “Appointed person” means a person who holds or does something for another person by acting for, and on behalf of the other person
+(r) “Arm’s length terms”, means the terms on which a transaction or an arrangement would have been made, or might reasonably be expected to have been made, if it had been made between persons that are not associates and in comparable circumstances.
+(s) “Arrangement” means any agreement, contract, plan, or understanding, whether legally binding or not, including all steps and transactions by which it is carried into effect.
+(t) “Interest” means any payment (excluding the principal amount), under a debt security or loan or swap or derivative arrangement or a transaction in respect which a payment that is economically equivalent to interest is payable, and any commitment, guarantee or service fee paid in respect of a loan or swap or derivative arrangement, including discounts, premiums, passive interest and profit received in respect of any Islamic financial instrument.
+(u) “Remuneration” means, salary, wages, allowances and benefits derived by an employee or director or partner as consideration for services rendered by the employee or director or partner, and includes any compensation for loss of employment or service, restrictive covenant payment, and entry or exit inducement payment.
+(v) “Excessive compensation” means an amount which the Commissioner General considers is excessive in relation to the consideration provided for it where:
+    (1) the person claims a deduction under this Act for the amount paid; and
+    (2)
+        (i) the payment is made to a relative of the individual; or
+        (ii) where the person is a company, the payment is made to a director or shareholder of the company, an associate of the company or an associate of a director or shareholder of the company; or
+        (iii) where the person is a partnership, the payment is made to a partner or an associate of the partnership, or an associate of a partner of the partnership.
+(w) “Employer” means a person that makes a payment of income referred to in Section 3(a) of this Act to an employee.
+(x) “Withholding tax” means, any tax required to be deducted from the income of a person by the payer of that income in accordance with this Act.
+(y) “Business” means any activity carried out with a view to make profit and includes:
+    (1) trading of goods;
+    (2) manufacturing activity;
+    (3) professional, commercial, technical or personal services;
+    (4) granting rights in relation to movable or immovable property,
+but does not include any employment.
+(z) “Business income” means income derived from an activity within the definition of “business” specified in subsection (y) and includes payments derived as compensation under a “key person insurance” policy taken for any special employee of the business.
+(aa) “MIRA” means the Maldives Inland Revenue Authority established under the *Tax Administration Act (Law Number 3/2010)*.
+(bb) “Employee” means a person who is engaged to provide labour services to another person under a contract of service, a director of a company, a partner of a partnership, and includes a person who is elected or appointed to any office or position, whether temporary or permanent or for a specified term, any person holding a position under a contract of service, and any person holding a position of the State for which the person is remunerated by the State, but does not include an independent contractor engaged by another person to provide services under a contract for services.
+(cc) “Person” includes an individual, company, partnership, cooperative society, trust and body of persons, but, except for the purposes of Section 54 of this Act, does not include any State office or any State institution.
+(dd) “Finance lease” refers to any lease under which substantially all the risks and rewards incidental to ownership of an asset is transferred to the lessee.
+(ee) “Child” includes a grandchild, stepchild and an adopted child.
+(ff) “State institution” includes all offices and institutions of the executive, legislative or judicial power of the State, institutions formed under the constitution or any Act, island councils, atoll councils and city councils, and does not include state owned enterprises or separate legal entities run with the principal purpose of conducting commercial business.
+(gg)
+    (1) “Permanent establishment” means a fixed place of business through which the business of an enterprise is wholly or partly carried on.
+    (2) The term “permanent establishment” includes especially:
+        (i) a place of management;
+        (ii) a branch;
+        (iii) an office;
+        (iv) a factory;
+        (v) a workshop;
+        (vi) a mine, an oil or gas well, a quarry or any other place of exploration or extraction of natural resources, including vessels and ships and platforms used for the exploration or extraction of natural resources;
+    (3) The term “permanent establishment” also encompasses:
+        (i) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only if such site, project or activities last more than 90 (ninety) days *[90 (ninety) days shall be counted inclusive of the days for which the similar or connected projects or activities are being carried on by the person or associate(s)]*.
+        (ii) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only if activities of that nature continue for a period or periods aggregating more than 183 (one hundred and eighty three) days in any 12 (twelve) month period commencing or ending in the tax year concerned *[183 (one hundred and eighty three) days shall be counted inclusive of the days for which the similar or connected projects or activities are carried on, or the days for which similar or connected services are supplied on by the associate(s)]*.
+        (iii) The exploration or extraction of natural resources, or reaping of benefits associated with natural resources, including fishing, but only if such project or activities last a period or periods aggregating more than 90 (ninety) days in any 12 (twelve) month period commencing or ending in the tax year concerned.
+    (4) Installation or substantial use of mechanical or scientific equipment or machinery for the purposes of or under a contract or agreement for a period aggregating more than 90 (ninety) days, shall be deemed to constitute a permanent establishment.
+    (5) Notwithstanding subsections (gg)(1) and gg(2), but subject to subsection (gg)(7), where a person (herein referred to as the “agent”) is acting in the Maldives on behalf of an enterprise (herein referred to as the “first person”), and, in doing so, habitually concludes contracts, or habitually plays the principal role leading to the conclusion of contracts that are routinely concluded without material modification by the first person, and these contracts are:
+        (i) in the name of the first person; or
+        (ii) for the transfer of the ownership of, or for the granting of the right to use, property owned by the first person or the first person has the right to use; or
+        (iii) for the provision of services by the first person, the first person shall be deemed to have a permanent establishment in Maldives in respect of any activities which the agent undertakes for the first person.
+    (6) Notwithstanding subsections (gg)(1) to (gg)(5), an insurance enterprise shall, except in regard to re-insurance, be deemed to have a permanent establishment in the Maldives if it collects premiums in the territory of Maldives or insures risks situated therein through a person other than an independent agent.
+    (7) Where the agent acting in the Maldives on behalf of the first person carries on business in the Maldives as an independent agent and acts for the first person in the ordinary course of that business, the agent shall be deemed to have a permanent establishment in the Maldives. Where, however, the agent acts exclusively or almost exclusively on behalf of one or more enterprises to which it is closely related, that agent shall not be considered to be an independent agent for the purposes of this subsection.
+(hh) “Maldives” means the territory of Maldives as defined in Article 3 of the Constitution of the Republic of Maldives.
+(ii) “Income derived from the Maldives” means income specified in Section 11 of this Act, irrespective of whether the income is derived by a person resident in the Maldives or by a person not resident in the Maldives.
+(jj) “Maldives Stock Exchange” means the stock exchange established under Chapter 3 of the *Maldives Securities Act (Law Number 2/2006)*.
+(kk) “Resident” means:
+    (1) in the case of an individual, any person:
+        (i) whose permanent place of living is in the Maldives; or
+        (ii) who is present in the Maldives or intends to be present in the Maldives for an aggregate of 183 (One Hundred and Eighty-Three) days or more in any 12 (Twelve) month period commencing or ending during a tax year; or
+        (iii) who is an employee or official of the Government of the Maldives and is posted overseas during a tax year;
+    (2) in the case of a company, a company:
+        (i) that is incorporated in the Maldives; or
+        (ii) that has its head office in the Maldives; or
+        (iii) the control and management of which is in the Maldives.
+    (3) in the case of a partnership, a partnership:
+        (i) that is formed in the Maldives; or
+        (ii) the control and management of which is in the Maldives.
+    (4) in the case of a trust:
+        (i) a trust that is formed or settled in the Maldives: or
+        (ii) a heritage trust of a deceased person who was resident in the Maldives; or
+        (iii) a trust that was operated in the Maldives at point in time during a tax year.
+    (5) any State office.
+(ll) ” Person not resident in the Maldives” and “non-resident” mean a person who is neither a “resident” nor “a person temporarily resident in the Maldives”, as defined in this Section.
+(mm) “Person temporarily resident in the Maldives” means individuals resident in the Maldives under subsection (kk)(1) who satisfy the following conditions:
+    (1) a foreigner permitted to stay in the Maldives under the *Maldives Immigration Act (Law number 1/2007)*; and
+    (2) a person who is not married to a Maldivian.
+(nn) “Disposal” means:
+    (1) the loss of ownership of property whether as a result of any sale, gift, transfer, or otherwise; or
+    (2) the permanent loss of possession of property whether as a result of destruction of the property or otherwise.
+    (3) the permanent discontinuation of use of property or permanent cessation of business in which the property was used, or dissolution of business;
+    (4) the cessation of the owner of the property being within the charge to tax with respect to a business in which the property is used.
+(oo) “Relative” of a person means:
+    (1) the person’s spouse;
+    (2) the person’s child, parent, grandparent or sibling;
+    (3) the spouse of a person referred to in subsection 79 (oo)(2).
+(pp) “Limited liability partner” means a partner of a limited liability partnership.
+(qq) “Limited liability partnership” means a limited liability partnership defined in Section 4(a) of the *Partnership Act (Law Number 13/2011)*.
+(rr) “Loan” means an amount (whether or not in money) given at any time by a person (referred to as the “first person”) to another person (referred to as the “second person”) under the terms of which the second person has an obligation to pay an amount at a future time, and includes accounts payable and obligations arising under finance leases, promissory notes, bills of exchange and bonds.
+(ss) “Associate” means each of two persons where one person:
+    (1) controls, or is controlled by, the other, or both persons are controlled by the same person or persons; or
+    (2) is a relative of the other person; or
+    (3) is a partnership and the other person is a partner in that partnership; or
+    (4) is a partner in a partnership and the other person is a partner in the same partnership; or
+    (5) is a trust and the other person is a beneficiary of that trust; or
+    (6) is a trust and the other person is a settlor of the trust.
+(tt) “Director’s fee” means any benefit received, whether or not in money, in respect of the performance of any duties as a director or otherwise as the holder of the office of director.
+(uu) “Dividend” means any income derived from shares or otherwise in respect of share of profit that does not constitute return on debt.
+(vv) “Fees for technical services” means any payment in consideration for rendering managerial, technical or consultancy services or a service of similar nature, that does not constitute remuneration for employment.
+(ww) “Tax year” means the period from 1 January to the 31 December of the Gregorian calendar year.
+(xx) “Taxable income” means the amount of income derived by a person after deducting expenses authorised under this Act and loss relief as permitted under Section 33 of this Act from the total income of a person during an accounting period.
+(yy) “Partnership” means:
+    (1) a partnership to which the *Partnership Act (Law Number 13/2011)* applies; and
+    (2) 2 (two) or more persons that share the gross receipts and expenses, or the profit or loss, of an activity, whether or not they use a separate name and whether or not the persons have joint or common rights in any property that produces the receipts.
+(zz) “Total income” means the total income, other than income specified under Section 12 of this Act, derived by a person during an accounting period before subtraction of any deductions.
+(aaa) “General partnership” means a general partnership defined in section 3(a) of the *Partnership Act (Law Number 13/2011)*.
+
+**80. Payment**
+(a) Any reference in this Act to payment means a transfer of funds, crediting a person’s account (including a current account), amounts recorded as payables in the books of accounts of a person, an offset in the payer’s accounting records against an amount owing to the payer, or otherwise dealing with an amount in the interest or on behalf of the payee.
+(b) Notwithstanding subsection (a), for the purpose of charging employee withholding tax under Section 54 of this Act and non-resident withholding tax under Section 55 of this Act, the time of payment to a non-resident or the time of payment of remuneration to an employee, shall be the time at which the payment was actually made or the time at which the payment became payable, whichever is the earlier.
+(c) Notwithstanding subsection (b), the Regulation made pursuant to this Act shall provide the manner in which withholding tax shall be charged in circumstances where it cannot be determined whether or not an amount is payable in the period to which it relates, or where the exact amount payable cannot be determined, because of the nature of the payment concerned.
+
+**81. Timing of residence**
+A person shall be deemed to have commenced residence in the Maldives in the tax year in which the person becomes a resident of the Maldives on the earliest of:
+(a) in the case of an individual:
+    (1) the day on which the person first has a permanent place to live in the Maldives; or
+    (2) the first day of the 183 (one hundred and eighty-three) day period specified in the definition of “resident” in Section 79(kk); or
+    (3) who is an employee or official of the Government of the Maldives and is posted overseas during the tax year, the earliest of:
+        (i) the day that the person commences employment or work overseas; or
+        (ii) the dates determined under subsections (a)(1) and (a)(2);
+(b) in the case of a company:
+    (1) the day on which the company was incorporated; or
+    (2) the day on which the company established its head office in the Maldives; or
+    (3) the day on which the control and management of the company was first exercised in the Maldives.
+
+**82. Series of transactions**
+For the purposes of this Act, a transaction is entered into indirectly by two or more persons if there is a series of transactions which are linked and those persons are parties to one or more of the transactions in the series, whether or not they are parties to the same transaction.
+
+**83. Appointed person**
+In this Act, unless the context otherwise requires, if a person holds something or does something as an appointed person for another person, the other person shall be treated as holding or doing the thing.
+
+**84. Use of singular and plural**
+In this Act, words in the singular include the plural and words in the plural include the singular.
+
+**85. Repealed Acts**
+(a) The following Acts shall be repealed from the date of commencement of taxation under this Act and the taxation systems imposed under those acts shall be continued under this Act.
+    (1) *The Business Profit Tax Act (Law number 5/2011); and*
+    (2) *The Bank Profit Tax Act (Law number 9/85).*
+(b) The following sections of the following acts shall be repealed from the date of commencement of taxation under this Act.
+    (1) *Tax imposed under Section 18(d) of the Maldivian Land Act (Law number 1/2002);*
+    (2) *Tax imposed under Section 9(g) of the Maldivian Land Act (Law number 1/2002) amended via the Fourth Amendment to the Maldivian Land Act (Law number 4/2015);*
+    (3) *Tax imposed under Section 19(e) of the Maldivian Land Act (Law number 1/2002) amended via the Sixth Amendment to the Maldivian Land Act (Law number 39/2015);*
+    (4) *Remittance tax imposed under Chapter 11 of the Employment Act (Law number 2/2008) amended via the Fifth Amendment to the Employment Act (Law number 22/2016).*
+(c) *The Law on Taxation of Petroleum Companies Operating in Maldives (Law Number 1/89)* shall be repealed from the date of commencement of taxation under this Act.
+
+### CHAPTER 13: TRANSITIONAL PROVISIONS
+
+**86. Persons to whom the transitional provisions apply**
+This Chapter applies to the following persons to whom this Act applies.
+(a) Persons subject to tax under the *Business Profit Tax Act (Law Number 5/2011)*, immediately before the date of commencement of this Act; and
+(b) Persons subject to tax under the *Bank Profit Tax Act (Law number 9/85)*, immediately before the date of commencement of this Act.
+
+**87. Relief from registration**
+Notwithstanding anything to the contrary in this Act, a person registered with MIRA under the *Tax Administration Act (Law number 3/2010)* need not be registered under this Act, unless otherwise is required under the Regulation made pursuant to this Act.
+
+**88. Continuation of obligations**
+Notwithstanding Section 85(a), the implementation of those acts and the application of the following aspects as regards those acts, for the periods until the commencement of taxation under this Act, shall be carried out in the manner in which such aspects would have been applied if those acts were in effect.
+(a) rights and privileges granted under those acts;
+(b) obligations and responsibilities specified under those acts;
+(c) carrying out of audits, investigations and assessments to verify and determine the accuracy of the amount of tax paid under those acts and determination of fines and penalties;
+(d) recovery of tax, fines, interest and other monies receivable under those acts;
+(e) relief from penalties.
+
+**89. Deadline for payment of tax under repealed acts**
+Notwithstanding anything to the contrary in the *Business Profit Tax Act (Law number 5/2011)* and *Bank Profit Tax Act (Law number 9/85)*, a person subject to this Chapter shall end the latest accounting period subject to tax under any of the aforementioned acts before the date of commencement of taxation under this Act and a new accounting period shall be commenced on the date of commencement of taxation under this Act.
+
+**90. Settlement of interim payment**
+Notwithstanding Section 43(a) of this Act, and subject to all the provisions in Section 41 of this Act, where a person who was subject to the *Business Profit Tax Act (Law number 5/2011)* and *Bank Profit Tax Act (Law number 9/85)* before the date of commencement of taxation under this Act has to make interim payments under Section 41 of this Act, such interim payments shall each be equivalent to one-half of the person’s tax liability for the person’s last accounting period which was subject to tax under those acts.
+
+**91. Tax paid in excess**
+Any amount paid in excess of the amount liable under the *Business Profit Tax Act (Law number 5/2011)* or *Bank Profit Tax Act (Law number 9/85)* shall be treated as an amount paid in excess under this Act.
+
+**92. Set off of loss**
+(a) Any balance of loss determined under the *Business Profit Tax Act (Law number 5/2011)* which was not set off under Section 11 of that Act may be setoff under Section 33 of this Act.
+(b) For the purpose of Section 33 of this Act where subsection (a) applies, the accounting period in which the loss was incurred shall be the period in which such loss was computed under the *Business Profit Tax Act (Law number 5/2011)*.
+
+**93. Capital loss**
+Where, at the end of the last accounting period which was subject to tax under the *Business Profit Tax Act (Law number 5/2011)*, a person has any balance of realized loss which arose in connection to assets and liabilities held on capital account which has not been set off against a realized gain on such capital account, that amount of realized loss may be deducted in the computation of the person’s taxable income in accordance with Section 34 of this Act.
+
+**94. Capital allowance**
+(a) Where Section 25(a) of this Act applies to an asset in respect of which an amount has been deducted as capital allowance under the *Business Profit Tax Act (Law number 5/2011)* or as depreciation under the *Bank Profit Tax Act (Law number 9/85)*, the amount of capital expenditure incurred on that asset shall be the amount of capital expenditure determined for the calculation of capital allowance and depreciation attributable to that asset under those Acts.
+(b) Capital allowance deducted under the *Business Profit Tax Act (Law number 5/2011)* or depreciation deducted under the *Bank Profit Tax Act (Law number 9/85)* shall be deemed to be capital allowance deducted under Section 25 of this Act.
+
+**95. Lease of immovable property**
+(a) Where a person who has made an election under Section 9 of the *Business Profit Tax Act (Law number 5/2011)* in respect of income derived by that person from the lease of immovable property, and if that person is entitled to the provisions of Section 28 of this Act in the person’s first tax year under this Act, such person shall be deemed to have made an election under Section 28 of this Act.
+(b) This Section shall not apply to a person who will be eligible to change the election made by that person under Section 9 of this Act if the *Business Profit Tax Act (Law number 5/2011)* was still in effect on the date of commencement of taxation under this Act.
+(c) Where subsection (a) applies, the period specified in Section 28(d) of this Act shall be counted starting from the accounting period in which an election was made under Section 9 of the *Business Profit Tax Act (Law number 5/2011)*.
+
+**96. Provision for bad debts and other liabilities**
+(a) Section 23(b)(3) of this Act shall not apply to amounts included in the computation of taxable profit under the *Business Profit Tax Act (Law number 5/2011)* or the *Bank Profit Tax Act (Law number 9/85)*.
+(b) Where in the latest accounting period before the date of commencement of taxation under this Act, an amount has been deducted under Section 9(3) of the Bank Profit Tax Regulation, the value of “b” in the formula specified in Section 36(a) of this Act shall be the amount determined in accordance with Section 9(3) of that Regulation.
+
+**97. Account balance**
+Where any reference has to be made to any balance in a person’s account on the date of commencement of taxation under this Act or at the end of the preceding accounting period, the account balance at the end of the last accounting period subject to tax under the *Business Profit Tax Act (Law number 5/2011)* or the *Bank Profit Tax Act (Law number 9/85)* shall be used.
+
+**98. First interim payment of banks under this Act**
+Notwithstanding Section 42 of this Act, the first interim payment required under Section 41 of this Act for the first accounting period of a bank ending on or after the date of commencement of taxation under this Act, shall be paid on or before the 30th of September falling within the bank’s first accounting period.
+
+**99. Formulation of the Regulation on transitional provisions**
+All other requirements and obligations of a taxpayer arising as regards the change of the tax system imposed under the *Business Profit Tax Act (Law number 5/2011)* or the *Bank Profit Tax Act (Law number 9/85)* to this Act shall be determined in the Regulation made pursuant to this Act.

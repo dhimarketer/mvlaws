@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Full Article</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    {% if sections %}
+        <h1>{{ sections[0].law_name }} - Article {{ sections[0].article_number }}{% if sections[0].article_title %}: {{ sections[0].article_title }}{% endif %}</h1>
+        <ul class="results">
+            {% for sec in sections %}
+                <li>
+                    <strong>Sub-article {{ sec.sub_article_label }}</strong>
+                    <p>{{ sec.text_content }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No content found for this article.</p>
+    {% endif %}
+    <p><a href="{{ url_for('index') }}">← Back to Search</a></p>
+</body>
+</html>
+

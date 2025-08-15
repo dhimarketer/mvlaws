@@ -1,0 +1,507 @@
+#!/usr/bin/env python3
+"""
+Law Text File Reformatting Script
+Converts law text files to proper format for database parsing
+
+This script addresses common issues in law text files:
+1. Missing or unclear article titles
+2. Sub-articles with zero length content
+3. Improper numbering and structure
+4. Inconsistent formatting
+"""
+exit
+import os
+import re
+from pathlib import Path
+from typing import List, Dict, Tuple, Optional
+
+class LawReformatter:
+    def __init__(self, laws_dir: str = "laws"):
+        self.laws_dir = Path(laws_dir)
+        self.backup_dir = Path("laws_backup")
+        
+    def create_backup(self):
+        """Create backup of original files before reformatting"""
+        if not self.backup_dir.exists():
+            self.backup_dir.mkdir()
+        
+        print(f"📁 Creating backup in {self.backup_dir}")
+        
+        # Copy all .txt files to backup
+        for txt_file in self.laws_dir.glob("*.txt"):
+            backup_file = self.backup_dir / txt_file.name
+            with open(txt_file, 'r', encoding='utf-8', errors='ignore') as src:
+                with open(backup_file, 'w', encoding='utf-8') as dst:
+                    dst.write(src.read())
+        
+        print(f"✅ Backup created with {len(list(self.laws_dir.glob('*.txt')))} files")
+    
+    def detect_law_structure(self, content: str) -> Dict:
+        """Detect the structure and format of a law file"""
+        lines = content.split('\n')
+        
+        # Detect article patterns
+        article_patterns = {
+            'article_numbered': r'^Article\s+(\d+[-\d]*)\s*[:\-]?\s*(.+)?$',
+            'section_numbered': r'^(\d+[-\d]*)\s*[:\-]?\s*(.+)?$',
+            'roman_numbered': r'^([IVX]+)\.\s*(.+)?$',
+            'letter_numbered': r'^([a-z])\.\s*(.+)?$',
+            'bullet_numbered': r'^•\s*(.+)$',
+            'dash_numbered': r'^-\s*(.+)$'
+        }
+        
+        detected_patterns = []
+        for pattern_name, pattern in article_patterns.items():
+            matches = sum(1 for line in lines if re.match(pattern, line, re.IGNORECASE))
+            if matches > 0:
+                detected_patterns.append((pattern_name, matches))
+        
+        # Detect sub-article patterns
+        sub_article_patterns = {
+            'parentheses': r'^\(([a-z0-9]+)\)',
+            'letter_dot': r'^([a-z0-9]+)\.',
+            'number_dot': r'^(\d+)\.',
+            'dash_letter': r'^-\s*([a-z0-9]+)',
+            'bullet_letter': r'^•\s*([a-z0-9]+)'
+        }
+        
+        detected_sub_patterns = []
+        for pattern_name, pattern in sub_article_patterns.items():
+            matches = sum(1 for line in lines if re.match(pattern, line, re.IGNORECASE))
+            if matches > 0:
+                detected_sub_patterns.append((pattern_name, matches))
+        
+        return {
+            'article_patterns': detected_patterns,
+            'sub_article_patterns': detected_sub_patterns,
+            'total_lines': len(lines),
+            'has_chapters': any('CHAPTER' in line.upper() for line in lines),
+            'has_parts': any('PART' in line.upper() for line in lines)
+        }
+    
+    def extract_law_title(self, content: str, filename: str) -> str:
+        """Extract a proper law title from content or filename"""
+        lines = content.split('\n')
+        
+        # Strategy 1: Look for markdown headers
+        for line in lines[:20]:  # Check first 20 lines
+            if line.strip().startswith('#'):
+                title = line.strip('#').strip()
+                if title and len(title) > 3:
+                    return title
+        
+        # Strategy 2: Look for all-caps titles
+        for line in lines[:20]:
+            line = line.strip()
+            if line and line.isupper() and len(line) > 5 and len(line) < 100:
+                # Skip obvious non-titles
+                if not any(word in line.upper() for word in ['CHAPTER', 'PART', 'SECTION', 'ACT NUMBER']):
+                    return line
+        
+        # Strategy 3: Look for lines that contain law-related keywords
+        for line in lines[:20]:
+            line = line.strip()
+            if line and any(word in line.lower() for word in ['act', 'law', 'code', 'regulation', 'decree']):
+                if len(line) < 200:
+                    return line
+        
+        # Strategy 4: Clean up filename
+        base_name = filename.replace('.txt', '').replace('.md', '')
+        # Remove common prefixes/suffixes
+        base_name = re.sub(r'^(Law|Act|Code)\s+', '', base_name, flags=re.IGNORECASE)
+        base_name = re.sub(r'\s+(Law|Act|Code)$', '', base_name, flags=re.IGNORECASE)
+        base_name = re.sub(r'(English|Eng)$', '', base_name, flags=re.IGNORECASE)
+        return base_name.strip()
+    
+    def reformat_article_structure(self, content: str, structure_info: Dict) -> str:
+        """Reformat the article structure to be more consistent"""
+        lines = content.split('\n')
+        reformatted_lines = []
+        
+        current_article = None
+        current_sub_article = None
+        article_counter = 1
+        
+        for line_num, line in enumerate(lines):
+            line = line.strip()
+            if not line:
+                continue
+            
+            # Check if this is an article marker
+            article_match = None
+            
+            # Try different article patterns
+            patterns_to_try = [
+                r'^Article\s+(\d+[-\d]*)\s*[:\-]?\s*(.+)?$',
+                r'^(\d+[-\d]*)\s*[:\-]?\s*(.+)?$',
+                r'^([IVX]+)\.\s*(.+)?$',
+                r'^([a-z])\.\s*(.+)?$'
+            ]
+            
+            for pattern in patterns_to_try:
+                article_match = re.match(pattern, line, re.IGNORECASE)
+                if article_match:
+                    break
+            
+            if article_match:
+                # This is an article marker
+                article_num = article_match.group(1)
+                article_title = article_match.group(2).strip() if len(article_match.groups()) > 1 and article_match.group(2) else None
+                
+                # Generate proper article title if missing
+                if not article_title:
+                    article_title = f"Article {article_num}"
+                
+                # Format the article header
+                reformatted_lines.append(f"Article {article_num}: {article_title}")
+                reformatted_lines.append("")  # Empty line for spacing
+                
+                current_article = article_num
+                current_sub_article = None
+                article_counter += 1
+                continue
+            
+            # Check if this is a sub-article marker
+            sub_article_match = None
+            sub_patterns = [
+                r'^\(([a-z0-9]+)\)',
+                r'^([a-z0-9]+)\.',
+                r'^(\d+)\.',
+                r'^-\s*([a-z0-9]+)',
+                r'^•\s*([a-z0-9]+)'
+            ]
+            
+            for pattern in sub_patterns:
+                sub_article_match = re.match(pattern, line, re.IGNORECASE)
+                if sub_article_match:
+                    break
+            
+            if sub_article_match and current_article:
+                # This is a sub-article marker
+                sub_label = sub_article_match.group(1)
+                
+                # Extract content after the marker
+                marker_length = len(sub_article_match.group(0))
+                sub_content = line[marker_length:].strip()
+                
+                # Format sub-article
+                if sub_content:
+                    reformatted_lines.append(f"({sub_label}) {sub_content}")
+                else:
+                    reformatted_lines.append(f"({sub_label})")
+                
+                current_sub_article = sub_label
+                continue
+            
+            # Regular content line
+            if current_article:
+                if current_sub_article:
+                    # This is content for the current sub-article
+                    reformatted_lines.append(f"    {line}")
+                else:
+                    # This is content for the current article (no sub-article)
+                    reformatted_lines.append(f"    {line}")
+            else:
+                # This is content before any article (preamble)
+                reformatted_lines.append(line)
+        
+        return '\n'.join(reformatted_lines)
+    
+    def add_missing_article_titles(self, content: str) -> str:
+        """Add missing article titles based on content analysis"""
+        lines = content.split('\n')
+        reformatted_lines = []
+        
+        current_article = None
+        article_content = []
+        
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            
+            # Check if this is an article marker
+            if line.startswith('Article '):
+                # Process previous article if exists
+                if current_article and article_content:
+                    reformatted_lines.extend(self._generate_article_title(current_article, article_content))
+                    article_content = []
+                
+                current_article = line
+                reformatted_lines.append(line)
+                reformatted_lines.append("")
+                continue
+            
+            # Check if this is a sub-article marker
+            if re.match(r'^\([a-z0-9]+\)', line):
+                reformatted_lines.append(line)
+                continue
+            
+            # Regular content
+            if current_article:
+                article_content.append(line)
+                reformatted_lines.append(f"    {line}")
+            else:
+                reformatted_lines.append(line)
+        
+        # Process the last article
+        if current_article and article_content:
+            reformatted_lines.extend(self._generate_article_title(current_article, article_content))
+        
+        return '\n'.join(reformatted_lines)
+    
+    def _generate_article_title(self, article_line: str, content_lines: List[str]) -> List[str]:
+        """Generate a meaningful title for an article based on its content"""
+        # Extract article number
+        article_match = re.match(r'^Article\s+(\d+[-\d]*):?\s*(.+)?$', article_line)
+        if not article_match:
+            return []
+        
+        article_num = article_match.group(1)
+        existing_title = article_match.group(2).strip() if article_match.group(2) else None
+        
+        if existing_title:
+            return []
+        
+        # Analyze content to generate title
+        content_text = ' '.join(content_lines[:3])  # Use first 3 lines
+        
+        # Look for key phrases that might indicate the article's purpose
+        key_phrases = [
+            'offence', 'offense', 'punishment', 'penalty', 'fine', 'imprisonment',
+            'prohibited', 'prohibits', 'shall be', 'must', 'required', 'duty',
+            'responsibility', 'authority', 'power', 'right', 'entitled'
+        ]
+        
+        # Find the first key phrase
+        title = None
+        for phrase in key_phrases:
+            if phrase in content_text.lower():
+                # Extract sentence containing the phrase
+                sentences = re.split(r'[.!?]', content_text)
+                for sentence in sentences:
+                    if phrase in sentence.lower() and len(sentence.strip()) > 10:
+                        title = sentence.strip()
+                        break
+                if title:
+                    break
+        
+        if not title:
+            # Fallback: use first meaningful sentence
+            sentences = re.split(r'[.!?]', content_text)
+            for sentence in sentences:
+                sentence = sentence.strip()
+                if len(sentence) > 10 and not sentence.startswith('('):
+                    title = sentence
+                    break
+        
+        if title:
+            # Clean up the title
+            title = re.sub(r'\s+', ' ', title)  # Remove extra whitespace
+            title = title[:100]  # Limit length
+            
+            # Update the article line
+            return [f"Article {article_num}: {title}", ""]
+        
+        return []
+    
+    def fix_sub_article_content(self, content: str) -> str:
+        """Fix sub-articles with zero length content"""
+        lines = content.split('\n')
+        reformatted_lines = []
+        
+        current_sub_article = None
+        sub_article_content = []
+        
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            
+            # Check if this is a sub-article marker
+            sub_match = re.match(r'^\(([a-z0-9]+)\)\s*(.+)?$', line)
+            if sub_match:
+                # Process previous sub-article if exists
+                if current_sub_article and not sub_article_content:
+                    # Previous sub-article had no content, look ahead for content
+                    reformatted_lines.append(f"({current_sub_article}) [Content to be added]")
+                
+                current_sub_article = sub_match.group(1)
+                sub_content = sub_match.group(2).strip() if sub_match.group(2) else None
+                
+                if sub_content:
+                    reformatted_lines.append(f"({current_sub_article}) {sub_content}")
+                    sub_article_content = [sub_content]
+                else:
+                    sub_article_content = []
+                
+                continue
+            
+            # Regular content
+            if current_sub_article:
+                sub_article_content.append(line)
+                reformatted_lines.append(f"    {line}")
+            else:
+                reformatted_lines.append(line)
+        
+        # Process the last sub-article
+        if current_sub_article and not sub_article_content:
+            reformatted_lines.append(f"({current_sub_article}) [Content to be added]")
+        
+        return '\n'.join(reformatted_lines)
+    
+    def standardize_numbering(self, content: str) -> str:
+        """Standardize article and sub-article numbering"""
+        lines = content.split('\n')
+        reformatted_lines = []
+        
+        article_counter = 1
+        sub_article_counter = 1
+        
+        for line in lines:
+            line = line.strip()
+            if not line:
+                reformatted_lines.append("")
+                continue
+            
+            # Standardize article numbering
+            if line.startswith('Article '):
+                # Extract existing number and title
+                match = re.match(r'^Article\s+(\d+[-\d]*):?\s*(.+)?$', line)
+                if match:
+                    existing_num = match.group(1)
+                    title = match.group(2).strip() if match.group(2) else ""
+                    
+                    # Use existing number if it's reasonable, otherwise use counter
+                    try:
+                        if int(existing_num) > 0 and int(existing_num) < 1000:
+                            new_num = existing_num
+                        else:
+                            new_num = str(article_counter)
+                    except ValueError:
+                        new_num = str(article_counter)
+                    
+                    reformatted_lines.append(f"Article {new_num}: {title}")
+                    article_counter += 1
+                    sub_article_counter = 1  # Reset sub-article counter
+                else:
+                    reformatted_lines.append(line)
+                continue
+            
+            # Standardize sub-article numbering
+            sub_match = re.match(r'^\(([a-z0-9]+)\)\s*(.+)?$', line)
+            if sub_match:
+                existing_label = sub_match.group(1)
+                content = sub_match.group(2).strip() if sub_match.group(2) else ""
+                
+                # Use existing label if it's reasonable, otherwise use counter
+                if re.match(r'^[a-z]$', existing_label.lower()):
+                    new_label = existing_label.lower()
+                elif re.match(r'^\d+$', existing_label):
+                    new_label = str(sub_article_counter)
+                else:
+                    new_label = str(sub_article_counter)
+                
+                if content:
+                    reformatted_lines.append(f"({new_label}) {content}")
+                else:
+                    reformatted_lines.append(f"({new_label})")
+                
+                sub_article_counter += 1
+                continue
+            
+            # Regular content
+            reformatted_lines.append(line)
+        
+        return '\n'.join(reformatted_lines)
+    
+    def reformat_law_file(self, file_path: Path) -> bool:
+        """Reformat a single law file"""
+        try:
+            print(f"📖 Reformatting: {file_path.name}")
+            
+            # Read the file
+            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                content = f.read()
+            
+            # Detect structure
+            structure_info = self.detect_law_structure(content)
+            
+            # Extract law title
+            law_title = self.extract_law_title(content, file_path.name)
+            
+            # Add law title header if not present
+            if not content.startswith(law_title):
+                content = f"{law_title}\n\n{content}"
+            
+            # Reformat article structure
+            content = self.reformat_article_structure(content, structure_info)
+            
+            # Add missing article titles
+            content = self.add_missing_article_titles(content)
+            
+            # Fix sub-article content
+            content = self.fix_sub_article_content(content)
+            
+            # Standardize numbering
+            content = self.standardize_numbering(content)
+            
+            # Write the reformatted content back
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write(content)
+            
+            print(f"✅ Reformatted: {file_path.name}")
+            return True
+            
+        except Exception as e:
+            print(f"❌ Failed to reformat {file_path.name}: {e}")
+            return False
+    
+    def reformat_all_laws(self):
+        """Reformat all law files in the laws directory"""
+        print("🔧 Law Text File Reformatting Script")
+        print("=" * 50)
+        
+        # Create backup first
+        self.create_backup()
+        
+        # Get all .txt files (excluding backup and TODO folders)
+        law_files = []
+        for file_path in self.laws_dir.glob("*.txt"):
+            if "TODO" not in str(file_path) and "backup" not in str(file_path):
+                law_files.append(file_path)
+        
+        print(f"📚 Found {len(law_files)} law files to reformat")
+        print("=" * 50)
+        
+        success_count = 0
+        for file_path in law_files:
+            if self.reformat_law_file(file_path):
+                success_count += 1
+        
+        print(f"\n🎯 Successfully reformatted {success_count}/{len(law_files)} laws")
+        print(f"💾 Original files backed up in: {self.backup_dir}")
+        
+        if success_count < len(law_files):
+            print("⚠️  Some files failed to reformat. Check the errors above.")
+        
+        return success_count
+
+def main():
+    """Main function"""
+    reformatter = LawReformatter()
+    
+    # Check if laws directory exists
+    if not reformatter.laws_dir.exists():
+        print(f"❌ Laws directory not found: {reformatter.laws_dir}")
+        return
+    
+    # Run the reformatting
+    success_count = reformatter.reformat_all_laws()
+    
+    if success_count > 0:
+        print(f"\n✨ Reformatting complete! {success_count} files processed.")
+        print("📝 You can now re-run the parsing script to extract properly formatted articles.")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,1148 @@
+*Maldives Telecommunications Act**
+
+**PART ONE**
+**PRELIMINARY ARTICLES**
+
+**Introduction and Name**
+1.
+(a) This is the law that outlines the methods and principles for organizing and conducting all matters related to telecommunications in the Maldives, issuing licenses to telecommunications service providers, all matters concerning them, and all other related principles.
+(b) This Act shall be cited as the "Maldives Telecommunications Act".
+
+**Purpose of the Law**
+2.
+The main purposes of this Act are as follows.
+(a) To protect the interests of the Maldives in matters related to telecommunications and to create an environment conducive to the provision of telecommunications services by doing the following:
+(1) Making telecommunications services accessible to all people living in the Maldives, and making them services provided at an economically viable price, in a robust and reliable manner, to a standard that meets the economic and social needs of the Maldives; and
+(2) Promoting, expanding, and developing the telecommunications industry of the Maldives, encouraging matters that facilitate this, and making the telecommunications services provided in the Maldives services of good quality, internationally comparable, and of a standard that meets the needs of society.
+(b) To establish and promote a competitive environment for the provision of telecommunications services at national and international levels;
+(c) To achieve the objectives of the national policy for the telecommunications industry;
+(d) To achieve the objectives of this Act by issuing licenses to telecommunications service providers and formulating a framework for organizing and conducting all matters of the telecommunications industry; and
+(e) To grant the power to the "Communications Authority of Maldives" to achieve the objectives of the national telecommunications policy and to organize and conduct all matters of the telecommunications industry, as stated in this Act.
+
+**PART TWO**
+**ISSUING LICENSES**
+
+**Activities Requiring a License**
+3.
+(a) No person shall, except with a valid license, temporary permit, or special exemption issued under this Act, do any of the following:
+(1) Possess, operate, or use any network facility;
+(2) Provide a telecommunications service;
+(3) Possess or use radio communication equipment; or
+(4) Offer for trade, sell, possess for trade, import into the Maldives, or export from the Maldives any type of telecommunications or radio communication equipment.
+(b) If a person violates subsection (a) of this Article, the Authority has the discretion to impose a fine not exceeding MVR 5,000,000 (five million) Rufiyaa, depending on the severity of the offense. The Authority also has the discretion to impose a fine not exceeding MVR 100,000 (one hundred thousand) Rufiyaa for each day or part of a day the violation continues.
+
+**Issuance of Licenses and Permits**
+4.
+(a) Licenses or temporary permits for the activities mentioned in Article 3 (a) of this Act shall be issued by the Authority in accordance with established procedures.
+(b) The procedures and regulations for issuing the licenses and permits mentioned in subsection (a) of this Article shall be made and published by the Authority for public information.
+
+**Types of Licenses**
+5.
+The following types of licenses may be issued under Article 3 (a) of this Act.
+(a) Individual License:
+(1) Carrier License;
+(2) Service Provider License.
+(b) Class License.
+
+**License Conditions**
+6.
+(a) Without prejudice to the general nature of the conditions contained in a license, the Authority may determine conditions related to the following matters:
+(1) The manner in which the service is provided;
+(2) The standard that ensures the minimum level of service provided to service recipients;
+(3) Interconnection;
+(4) Facility sharing;
+(5) Control of interference and obstructions;
+(6) Fulfilling environmental protection responsibilities and adhering to technical standards;
+(7) Fulfilling international responsibilities, and complying with this Act, regulations made under this Act, codes of conduct determined by the Authority, directions, and guidelines;
+(8) Universal service obligation;
+(9) Inspection, checking, and testing of facilities;
+(10) Practical procedures for financial and accounting maintenance;
+(11) Providing information to the Authority;
+(12) Service prices and price control;
+(13) Network coordination;
+(14) Confidentiality of service recipient's information;
+(15) Consolidation of telecommunications services and products;
+(16) Preventing and prohibiting actions that obstruct business competition and unfair business transactions;
+(17) Regulating the conduct of a licensee holding a dominant position in the telecommunications business;
+(18) Prohibiting the transfer of a license to another party;
+(19) Compliance with international treaties;
+(20) Requirements for capitalization and network rollout; and
+(21) Matters concerning performance bonds.
+
+**Amending License Conditions**
+7.
+The Authority has the discretion to amend or revoke a condition contained in a license. Amendments or revocations to conditions specified in licenses shall be made in a manner that does not prejudice the general nature of the license.
+
+**Exclusive License**
+8.
+(a) An exclusive license to provide any telecommunications service or to establish a network facility may be determined by the President of the Republic, upon the advice of the Cabinet of Ministers, if it is a matter that will not adversely affect competition in the telecommunications sector and is beneficial to the national interest.
+(b) The Authority has the discretion to amend, change, abolish, or include additional conditions in the terms of an exclusive license, after obtaining written permission from the President of the Republic and with due regard to the circumstances at the time.
+
+**Suspension or Revocation of an Individual License**
+9.
+(a) In any of the following circumstances, an individual license may be suspended or revoked by the Authority after giving written notice to the licensee:
+(1) Failure of the individual licensee to pay a required fee;
+(2) The licensee's violation of a condition specified in an individual license;
+(3) The licensee's violation of this Act, or a regulation made under this Act, or any other law; or
+(4) The licensee's failure to act in accordance with a directive issued by the Authority or the Minister.
+(b) Unless otherwise determined by the Authority, a notice sent to a licensee informing of the suspension or revocation of the license shall take effect 14 (fourteen) days after the date the notice is sent.
+(c) In suspending or revoking an individual license under subsection (a) of this Article, the Authority has the discretion to suspend or revoke a specific part of the license in such a way that it does not prejudice the parts of the license that are not suspended or revoked.
+(d) Fees and other monies paid for licenses suspended or revoked under subsection (b) of this Article shall not be refunded to the party that paid the fee or money.
+(e) Unless otherwise determined by the Authority, upon the suspension or revocation of an individual license under subsection (b) of this Article, or upon the expiration of the term of an individual license, the activities permitted by that license under Article 4 (a) and (b) of this Act must cease immediately.
+(f) If a person violates subsection (e) of this Article, the Authority has the discretion to impose a fine not exceeding MVR 1,000,000 (one million) Rufiyaa, depending on the severity of the offense. The Authority also has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the violation continues.
+(g) Without prejudice to this Article, the Authority shall suspend or revoke the license of an individual licensee only if, after taking all possible remedial measures under this Act, the issue is not rectified, or if such measures are not appropriate in the circumstances.
+
+**Surrender of an Individual License to the Authority**
+10.
+(a) A licensee may surrender an individual license to the Authority by giving written notice to the Authority at any time, in accordance with the conditions specified in the license, or if no such conditions are specified.
+(b) A license shall be deemed to have been surrendered to the Authority under subsection (a) of this Article on the date the written notice of surrender is sent to the Authority, or on a later date if specified in the notice.
+
+**Class License**
+11.
+The Authority may issue a class license after determining the following matters in accordance with the regulations made under this Act regarding the conditions contained in a class license, the amendments made to it, the creation of a class license, and the issuance of a class license. The Authority shall determine these matters and issue a class license only if the matter for which the license is issued does not fall under an exclusive license or require an individual license.
+(a) The telecommunications services that can be provided or the telecommunications equipment that can be used under the license by persons who have fulfilled the conditions of the class license;
+(b) The conditions of the class license; and
+(c) The conditions that a person must fulfill to obtain a license under a class license.
+
+**Public Notification of Class License Matters**
+12.
+Information regarding the creation of a class license and its conditions, and any changes to the conditions, shall be made available to the public and shall be published publicly.
+
+**Registration of Licenses**
+13.
+The Authority shall maintain a register containing the licensees, the licenses, and their conditions.
+
+**PART THREE**
+**TELECOMMUNICATIONS CONTROL**
+
+**CHAPTER ONE**
+**PRICING AND ACCOUNTING**
+
+**Service Tariffs**
+14.
+(a) A licensee shall publicly publish its service tariffs in accordance with this Act, regulations made under this Act, decisions of the Authority, and the conditions of the license.
+(b) The document published by a licensee stating its services and their prices shall include the following:
+(1) Details of the service provided by the party;
+(2) The individual prices of the service;
+(3) Other services and goods provided in connection with the service; and
+(4) Other information as directed by the Authority.
+(c) If a licensee wishes to introduce a new telecommunications service or a service price not included in its published service tariffs as stated in subsection (b) of this Article, the licensee must obtain a written approval for that service or price from the Authority.
+
+**Bundling**
+15.
+(a) No person shall offer to provide various telecommunications services by bundling their prices together in such a way that the services are not available at individual prices, except after obtaining a written permit from the Authority.
+(b) The Authority may, under a principle determined by it, direct a licensee to offer a service, which is part of a bundled telecommunications service provided at a single price, at a separate price.
+
+**Price Control**
+16.
+(a) The Authority may, by a decision or a license condition, determine in writing and direct a licensee to comply with measures taken by the Authority to control prices, or to not charge more or less than the price published by the licensee for the purpose of price control.
+(b) A licensee shall change the price of a service it provides in accordance with a principle or formula specified in the license. Prices may be changed otherwise if a regulation or a permit from the Authority allows or directs such a change. Such a directive by the Authority shall be based on the following main principles:
+(1) Prices must be fair and not be unduly discriminatory;
+(2) Except for services designated as basic services, the prices of services should be set to minimize cross-subsidization, in proportion to the cost of providing the service;
+(3) Prices should not be such that they undermine the competitive opportunities of other service providers.
+(c) Without prejudice to subsection (b) of this Article, licensees may be directed by a directive from the Authority or by inclusion in the license conditions to change their prices or tariffs in accordance with a specific formula.
+
+**Accounting Practices**
+17.
+(a) The accounts of a licensee shall be maintained in accordance with an accounting system determined by the Authority.
+(b) The accounting principles determined by the Authority under subsection (a) of this Article shall not contradict generally accepted accounting principles and practices. The accounting principles so determined may include methods for accounting for the costs and prices of different services or types of services separately.
+(c) The Authority may make a record-keeping regulation specifying the procedures for maintaining the records of licensees' accounts and may direct compliance with that regulation.
+(d) The record-keeping regulation made under subsection (c) of this Article may specify the details of how it is to be done.
+(e) Licensees shall carry out the matters specified for them in the record-keeping regulation in accordance with that regulation.
+(f) The Authority may, by a directive or by conditions specified in a license, direct a dominant party in various telecommunications businesses to maintain its accounts in a manner that shows the accounts of each business separately.
+
+**CHAPTER TWO**
+**INSPECTION OF TELECOMMUNICATION SERVICE PROVIDERS AND FACILITIES BY THE AUTHORITY**
+
+**Inspection of Service Providers and Facilities**
+18.
+(a) To ascertain whether a licensee is acting in accordance with the license conditions, the Authority may, after giving the party reasonable prior written notice, enter and inspect its offices, telecommunications networks, equipment used for providing services, and facilities located in buildings and places established in the Maldives.
+(b) A licensee shall, for the Authority's use, provide the necessary equipment to inspect the places where its telecommunications networks, service-providing equipment, and facilities are established, or to conduct necessary tests to check if those facilities are in good order, in accordance with the technical standards determined by the Authority.
+(c) If the Authority wishes to inspect a place as per subsection (a) of this Article and requests, with reasonable notice, that a person representing the licensee be present at the place where the inspection is being conducted, the licensee shall make such arrangements.
+(d) The Authority may, with reasonable notice, direct a licensee in writing to demonstrate that its telecommunications equipment complies with the technical standards specified in this Act or in a regulation made under this Act and is operated in accordance with such standards.
+(e) For the purpose of subsection (a) of this Article, the licensee shall provide suitable testing equipment and personnel. And it shall act in accordance with the directives issued by the Authority under this Article.
+(f) The power granted to the Authority under subsection (a) of this Article shall not be used in a way that disrupts the operations conducted in the offices, buildings, or places of the licensee.
+
+**CHAPTER THREE**
+**FAIR COMPETITION AND BUSINESS CONDUCT**
+
+**Anti-Competitive Practices**
+19.
+(a) Licensees shall not engage in any activity which, in the opinion of the Authority, has the purpose of, or the effect or likely effect of, substantially lessening or reducing competition in any telecommunications market.
+(b) In determining whether an act by a licensee has the purpose of or the effect of substantially lessening competition as stated in subsection (a) of this Article, the Authority shall have regard to the following:
+(1) Economic principles and terms used in business;
+(2) International characteristics affecting the business;
+(3) The effect of the act on the number of competitors in the business and their respective market shares;
+(4) The extent to which the act affects barriers to entry into the business;
+(5) The effect of the act on the range of services available in the business;
+(6) The effect of the act on the ability of competitors and potential competitors to compete effectively in the business.
+(c) Without prejudice to the general objectives of subsection (a) of this Article, an act by a licensee shall be deemed to be an act as described in subsection (a) of this Article in the following circumstances:
+(1) Entering into any agreement, whether legally enforceable or not, which has the purpose or effect, or likely effect, of substantially lessening competition in a telecommunications market, or agreeing to do any of the following with such purpose or effect:
+(hh) Price fixing of a good or service in a telecommunications business;
+(ii) Dividing a telecommunications market or a part of a market between two or more licensees, who are close in terms of geographical area or type of customer, to conduct business among themselves;
+(nn) Depriving or preventing any person, including suppliers, customers, and competitors, from acquiring or supplying goods or services.
+(2) Making the provision of a telecommunications service, equipment, discount, or credit conditional on the person acquiring the service also acquiring another service or equipment from the licensee or another party; or
+(3) Giving an undue preference to a person or receiving an unfair advantage from another person in a manner which, in the opinion of the Authority, may eliminate or unduly reduce competition.
+
+**Dominant Party in the Market**
+20.
+(a) Without prejudice to the powers conferred on the Authority under Article 19 of this Act, the Authority may direct dominant parties among licensees to take measures to stop and rectify any act that eliminates or unduly reduces competition in a telecommunications business, or has or may have an adverse effect on it.
+(b) Directives issued by the Authority under subsection (a) of this Article shall not conflict with the purposes of this Act.
+(c) For the purpose of this Article and other Articles of this Act, a dominant party among licensees shall be considered a party that has the market power to act without being constrained by the actions of another party (including its competitors, potential competitors, and customers) in carrying out its desired actions.
+(d) In determining whether a licensee is a dominant party in the market, the Authority shall have regard to the following matters and any other matters it deems fit:
+(1) The market share acquired by the licensee;
+(2) The extent to which the licensee has the power to implement pricing and other decisions without hindrance from competitors; and
+(3) Barriers to entry into the relevant telecommunications business, including product differentiation and brand loyalty.
+
+**Non-discrimination by Dominant Parties in the Market**
+21.
+(a) Without impeding the operations mentioned in Article 19 (a) and subsection (c) of this Article, a party holding a dominant position in a telecommunications business shall not discriminate among persons acquiring telecommunications services or goods with regard to the price of the service or goods sold by that party or the conditions under which such a service is provided. However, this Article does not prevent discrimination in price if the difference is a reasonable one based on the cost incurred in providing the service to the person requesting it.
+(b) Without prejudice to subsection (a) of this Article, and in accordance with subsection (c) of this Article, and without impeding the matters in Article 26 (a) of this Act, a party holding a dominant position in a telecommunications business shall not discriminate in its dealings between a person who acquires a service or good and provides it to the public, and a person who does not provide a service or good to the public.
+(c) The matters mentioned in subsections (a) and (b) of this Article are prohibited in circumstances where the Authority believes that such an act may have an adverse effect on competition in a telecommunications business.
+
+**Mergers or Consolidations of Businesses**
+22.
+(a) No person shall, directly or indirectly, by acquiring a share in the capital of a company, or by acquiring the assets of any person, purchase or acquire another business if such an act would or may substantially lessen competition in the telecommunications market.
+(b) In determining whether the purchase or acquisition of another business by a person may have an adverse effect on competition in the telecommunications market, for the purpose of subsection (a) of this Article, regard shall be had to the following matters in addition to those stated in that subsection:
+(1) Barriers to entry into the business;
+(2) The degree of market concentration;
+(3) The extent of countervailing power in the market;
+(4) The extent to which the acquisition of the business empowers the person to permanently raise business prices to an unreasonable level or to increase profit margins;
+(5) The extent to which substitutes for the competitive goods or services are available or are likely to become available in the business;
+(6) The extent to which the business environment is changing. This includes business progress, innovation, and the diversity of available goods and services;
+(7) The extent to which the acquisition of the business may result in the removal of a strong competitor from the market;
+(8) When two companies in the same sector merge, the extent and nature of the merger.
+
+**Granting of Permission**
+23.
+(a) If an act by a licensee is an act that would, or may, unduly reduce competition in a telecommunications business, and may contravene any article of this Act, the licensee may apply to the Authority for permission before carrying out such an act.
+(b) Without contravening any article of this Chapter, if the Authority believes there is a national interest in granting permission for the act requested by the licensee, the Authority may grant the licensee permission to carry out the act.
+(c) Before granting the permission mentioned in subsection (a) of this Article, the Authority may direct the licensee to prepare and submit a document stating the actions the licensee must take after obtaining the permission.
+(d) The Authority shall maintain a register of the permissions granted under subsection (a) of this Article and the matters for which permission has been granted.
+
+**Misleading, Deceptive, and Fraudulent Conduct**
+24.
+A licensee shall not engage in any conduct that the Authority believes to be misleading, deceptive, or fraudulent in acquiring or providing a telecommunications service or good, or in promoting, marketing, or advertising such service or good.
+
+**Compensation**
+25.
+(a) If a person suffers a loss due to a violation of Article 14, Article 19, and Article 21 of this Act, or due to a violation of a license condition, or due to a violation of a directive issued in connection with those articles, the person who suffered the loss may apply for compensation or for any other appropriate penalty to be imposed on the party that caused the loss.
+(b) No application under subsection (a) of this Article shall be made after 3 (three) years from the date of the violation of a matter referred to in Article 14, Article 19, and Article 21 of this Act, or from the date the Authority fines the party for violating any of those articles.
+
+**CHAPTER FOUR**
+**DIRECTIONS AND GUIDELINES OF THE AUTHORITY**
+
+**Directions Issued by the Authority to Licensees**
+26.
+(a) The Authority may direct licensees to act in a certain way to achieve the following:
+(1) To ensure that public telecommunications services are provided in a continuous manner and at a good standard;
+(2) To ensure that the technical and safety requirements for operating telecommunications facilities are met;
+(3) Without prejudice to this Article, to ensure that licensees maintain fairness and a sound code of conduct in their business;
+(4) Directives that are essential for the Authority to carry out its functions, exercise its powers, or in a matter of public interest.
+(b) A directive issued under subsection (a) of this Article shall not conflict with any article or the purposes of this Act.
+(c) The Authority may direct a licensee to do or not to do a specific thing or a type of thing related to a matter specified in a directive issued under subsection (a) of this Article.
+(d) A directive issued under subsection (a) of this Article may specify that it should be acted upon as soon as possible. And the Authority may revoke the directive whenever it deems fit.
+(e) Before issuing a directive to a licensee under subsection (a) of this Article, a notice may be given to that party. If the Authority deems it best to give a notice, the Authority shall send a notice to that party stating the following:
+(1) The directive proposed by the Authority and the requirement to comply with it; and
+(2) That if there is an objection to the proposed directive, or if a further opinion is to be submitted, a specified time will be given to submit such an objection or opinion, and that the opinions and objections submitted within the specified time will be considered.
+(f) Licensees shall respect and comply with the directives issued by the Authority under this Article.
+
+**Guidelines**
+27.
+(a) To practically assist and facilitate the implementation of this Act, the Authority may, in circumstances it deems fit, make guidelines to facilitate the implementation of the articles of this Act.
+(b) Guidelines made by the Authority shall not conflict with any article or the purposes of this Act.
+(c) Guidelines may be made to specify how the following matters will be carried out:
+(1) Among the work done by the Authority, the principles and standards it will use in issuing licenses, the standards and principles the Authority considers in issuing licenses, and other matters considered in issuing licenses;
+(2) How to operate network facilities and other telecommunications equipment;
+(3) Matters related to the provision of telecommunications services;
+(4) Matters to be done in operating a network facility or providing telecommunications services, or the two matters mentioned above;
+(5) How any item used in the telecommunications sector should be used, produced, designed, or its performance;
+(6) Matters concerning anything that may interfere with a radio communication;
+(7) Frequency determination and frequency coordination.
+(d) The Authority shall publicly publish the guidelines made under this Article and send a copy of the guidelines to the Minister.
+
+**CHAPTER FIVE**
+**INDUSTRY CODES OF CONDUCT AND BASIC PRINCIPLES**
+
+**Formulation and Development of Industry Codes of Conduct**
+28.
+(a) A licensee or an association or party representing the telecommunications industry may formulate and develop industry codes of conduct to be followed in implementing the articles of this Act. The codes of conduct so formulated and developed shall not conflict with any law or regulation of the Maldives, or any article or purpose of this Act. A copy of such codes of conduct shall be sent to the Authority.
+(b) If the Authority deems an association or party to be a representative of the telecommunications industry, the Authority may, by written notice, direct or request that association or party to do the following:
+(1) Prepare a code of conduct to be followed in telecommunications activities; and
+(2) Submit a copy of the code of conduct to the Authority within the period specified in the notice.
+
+**Registration of Industry Codes of Conduct with the Authority**
+29.
+If the following conditions are met in the industry codes of conduct, the Authority may officially register such codes of conduct and grant permission to implement them.
+(a) The Authority believes that the association or party that formulated the code of conduct is a representative of the telecommunications industry;
+(b) The code of conduct developed by the association or party that formulated it is a code of conduct that serves the interests of many parties in the telecommunications industry;
+(c) The association or party that formulated the code of conduct submits a copy of it to the Authority; and
+(d) The Authority believes that there is no conflict with this Act, its purposes, and the laws and regulations of the Maldives in the organization and implementation of the matters contained in the code of conduct, and that the association or party that formulated the code of conduct has published a draft copy of the formulated code of conduct and has given the public and industry participants a reasonable opportunity to review and comment on the standards and to propose amendments and ideas they deem fit.
+
+**Direction to Comply with Officially Registered Codes of Conduct**
+30.
+(a) If a party involved in the telecommunications industry violates an industry code of conduct officially registered with and approved by the Authority, the Authority may issue an official warning to the violating party, directing them not to violate the code of conduct.
+(b) If a party fails to comply with a directive issued by the Authority as per subsection (a) of this Article, the Authority has the discretion to impose a fine on that party not exceeding MVR 1,000,000 (one million) Rufiyaa, depending on the severity of the offense. The Authority also has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the violation continues.
+
+**Industry Standards Determined by the Authority**
+31.
+(a) In the following circumstances, the Authority may, by a written instrument, determine an industry standard and establish it as a standard that applies to the participants of the telecommunications industry, and a standard that must be complied with in all activities of the telecommunications industry conducted by such participants, including licensees, and all related matters.
+(1) Failure to comply with a directive or request issued by the Authority as per Article 35 (b) of this Act, or the Authority's refusal to officially register and approve the industry code of conduct in relation to that matter; or
+(2) The Authority believes that an officially registered code of conduct does not provide adequate safety to the community or has failed to adequately regulate the matters it was intended to regulate.
+(b) An industry standard determined by the Authority under subsection (a) of this Article shall be a standard that the Authority believes is necessary to be determined to provide adequate safety to the community in relation to an issue or issues, or to regulate the conduct of the relevant participants in the telecommunications industry in relation to an issue or issues.
+
+**Amendment and Revocation of Industry Standards**
+32.
+If the Authority believes that it is necessary to amend or revoke an industry standard registered with the Authority in order to provide adequate safety to the community in relation to an issue or issues, or to regulate the conduct of the relevant participants in the telecommunications industry, the Authority has the power to amend and revoke that standard by a written instrument.
+
+**Compliance with Industry Standards**
+33.
+(a) If industry standards are standards that are officially registered and approved under this Chapter and apply to participants operating in a specified area of the telecommunications industry, the participants operating in that area of the telecommunications industry shall comply with those standards.
+(b) If any party violates an industry standard established under this Chapter, the Authority has the discretion to issue an official warning to that party.
+
+**PART FOUR**
+**INTERCONNECTION**
+
+**CHAPTER ONE**
+**INTERCONNECTION**
+
+**Requirements for Interconnection**
+34.
+(a) If directed by the Authority, a carrier or a service provider shall interconnect the telecommunications services it provides and the telecommunications networks it owns or maintains with the services and networks of other parties. The parties to be interconnected include licensees and parties exempted from obtaining a license under this Act.
+(b) The licensee shall work to carry out the interconnection as quickly as possible and to charge a price for the interconnection that is reasonable in relation to the costs incurred.
+(c) A licensee shall provide the facilities and services required for interconnection to other telecommunications service providers referred to as the parties to be interconnected in subsection (a) of this Article.
+(d) Unless expressly stated otherwise, for the purpose of this Chapter, the following words and phrases shall have the meanings given to them below.
+(1) "Interconnection" means the establishment of a connection between networks, services, or network elements in a way that allows for the transmission of a communication, message, or signal. This includes a connection to a network or service, and a connection between networks, services, or between a network and a service.
+(2) "Service" means all parts of the service.
+
+**Authority to Determine Interconnection Conditions**
+35.
+(a) The Authority may determine the conditions for interconnection between two or more parties to do the following, without prejudice to subsection (b) of this Article.
+(1) Interconnecting the telecommunications networks or telecommunications services of licensees under this Act and parties exempted under this Act;
+(2) At any time that is technically feasible, without excluding any particular service or network facility, making an interconnection with a part of a telecommunications network or making it accessible to such networks for a telecommunications facility or service;
+(3) Matters related to the provision of a telecommunications service under subsection (a) or (b) of this Article.
+(b) The Authority may determine the establishment of an interconnection in the following circumstances:
+(1) When a party requesting an interconnection has repeatedly negotiated with the party with whom interconnection is sought to a reasonable extent, but no agreement could be reached on the terms of interconnection, and that party applies to the Authority to establish an interconnection; or
+(2) Even if an interconnection has not been requested, the Authority believes that establishing an interconnection is in the public interest. (This includes a determination to resolve doubts in cases where the parties have agreed on interconnection.)
+(c) The conditions for determining an interconnection may include reasonable and fair technical, material, or financial conditions as deemed fit by the Authority, after consulting with the relevant parties among the licensees.
+(d) When the Authority determines the establishment of an interconnection, the prices for that interconnection shall be based on a reasonable and fair basis, taking into account the relevant costs incurred due to the interconnection. In this regard, the Authority has the power to choose the most reasonable and fair principle in its view from among the principles for calculating the costs of interconnection and to act in accordance with that principle.
+
+**Submission and Publication of Interconnection Agreements to the Authority**
+36.
+(a) Within 14 (fourteen) days of an interconnection agreement being made, the parties to the agreement shall send a copy of the agreement to the Authority.
+(b) An interconnection agreement may be published by the Authority on its behalf if the following conditions are met:
+(1) The Authority deems it to be a matter of public interest; and
+(2) Before publishing the agreement, the parties to the agreement have been given the opportunity to express their views on the parts of the agreement that should not be published.
+
+**Guidelines on Interconnection**
+37.
+(a) The Authority may, after consulting with the relevant parties among the licensees, determine guidelines to ensure that interconnection is conducted with ease and reliability.
+(b) Licensees shall respect and continue to comply with the guidelines made under subsection (a) of this Article.
+
+**CHAPTER TWO**
+**FACILITY SHARING**
+
+**Responsibility for Facility Sharing**
+38.
+(a) To reduce the impact on the environment and to prevent anti-economic practices, as a general rule, one carrier shall cooperate with another carrier in sharing physical or technical telecommunications facilities on fair terms.
+(b) If a licensee requests to share a network facility or other facility with another licensee, both the requesting party and the requested party shall negotiate and make every effort to reach a fair agreement agreeable to both parties, ensuring the requested party receives fair compensation for the sharing and use of the facility.
+(c) The shared facilities may include a place, building, or area used by the licensee.
+(d) If licensees fail to reach an agreement on facility sharing within a reasonable period, the Authority may do the following:
+(1) Determine the conditions for facility sharing in accordance with Article 39 of this Act or otherwise;
+(2) As part of the conditions determined under subsection (a) of this Article, determine a way to provide fair compensation for the losses incurred by the requested party due to the sharing of the facility;
+(3) Include in the compensation mentioned in subsection (b) of this Article the additional costs incurred for providing the service or for sharing or using the facility; and
+(4) In calculating, choose a method that the Authority deems fair from among the various cost calculation methods and act in accordance with that method.
+(e) For the purpose of this Chapter, "facility" means, including the following:
+(1) Cables, wires, telecommunication lines, ducts, conduits, and manholes;
+(2) Towers, antennas, poles, and masts;
+(3) Land, buildings, and equipment on which radio communication facilities are installed;
+(4) A reasonable amount of space in the exchange building or at the site of the accepting party for the installation of the equipment of the party requesting an interconnection with the network facilities of the licensee, between the licensee's exchange building or site and another licensee;
+(5) In-building risers, cable trays, cable points, and other items that need to be installed to provide a telecommunications network service at a reasonable standard; and
+(6) Additional services that must be provided to the building, place, or area where the shared facility is located for the parties sharing the facility to use it at a reasonable standard.
+
+**Authority to Direct Facility Sharing**
+39.
+(a) The Authority may, on conditions it determines, direct a licensee to share or participate in the sharing of or coordinate the sharing of a facility it uses or owns with another licensee in the following circumstances:
+(1) When a licensee requests to share a facility used or owned by another licensee, and despite negotiations between the two parties and reasonable efforts in the Authority's view, no agreement is reached on how to share the facility; or
+(2) The matter has been determined by the Authority to be a matter of public interest.
+(b) Before issuing a directive for the public interest under subsection (a) of this Article, the Authority shall give licensees or other parties the opportunity to submit proposals and opinions on the matter and shall consider the submitted opinions and proposals in deciding whether it is a matter of public interest.
+(c) In directing the sharing of a facility due to public interest under subsection (a) of this Article, the Authority shall consider the following:
+(1) Whether the facility is a 'bottleneck' facility;
+(2) Whether it is feasible to use or build another facility instead of that facility;
+(3) Whether there is another technically feasible alternative to that facility;
+(4) The importance of the facility for the provision of the service provided by the licensee;
+(5) Whether there is additional capacity in the facility, considering its current and future use by its owner or licensee;
+(6) Whether the joint use of the facility by multiple parties will enhance the reliable and complete provision of services; and
+(7) The difficulties and benefits to the licensee and the public, and the additional time and cost incurred if the facility is not shared.
+
+**Declaration of Services and Facilities**
+40.
+(a) Without impeding the matters in Chapter One of Part Four of this Act, the Authority may declare a telecommunications service, a network facility, or any other facility or service for providing telecommunications services to be an essential service or facility.
+(b) The provider of a service declared as an essential service under this Article (the service provider) shall fully fulfill the obligations specified in this Article. The obligations so determined shall include the following:
+(1) When a licensee requesting a service (the service-seeking party) submits a written request for the service, to provide the service on a non-discriminatory, equal basis, and on reasonable terms;
+(2) To ensure that the service declared as an essential service is provided to the service-seeking party at an operational and technical standard that is equivalent to or better than the standard at which the service provider receives the service for its own use;
+(3) To ensure that the system for identifying and resolving a problem with an interconnected service is of the same or better standard than the system the provider uses for itself;
+(4) To grant permission to establish an interconnection with the service provider's facilities;
+(5) To provide billing information related to the provision of a service declared as an essential service; and
+(6) In addition, to act in accordance with the service provision responsibilities and standards determined by the Authority in writing.
+
+**PART FIVE**
+**UNIVERSAL SERVICE OBLIGATION**
+
+**Universal Service Providers**
+41.
+The Authority may direct a carrier or carriers to provide a universal service.
+
+**Universal Service Obligation**
+42.
+(a) The universal service obligation is the responsibility to provide a basic service, as determined by the Authority, of good quality, reliably, and continuously, to a standard acceptable to the Authority, to all persons within the territory of the Maldives, in a reasonable and fair manner.
+(b) For the purpose of this Part, "basic service" means the services determined by the Minister, or by the Authority as directed by the Minister, as a basic service under this Act.
+(c) The Authority shall inform the service providers of the basic services determined under subsection (b) of this Article and publish them for public information.
+
+**Financial Assistance for Providing a Universal Service**
+43.
+The Authority may, in regulations made under this Act, establish the methods and principles for the financial participation of licensees in the expenses incurred by the universal service provider in fulfilling the universal service obligation and in administering the fund specified in Article 44 (a) of this Act.
+
+**Universal Service Fund**
+44.
+(a) To collect and manage the financial assistance collected under Article 43 of this Act for the carrier or carriers bearing the universal service obligation before it is handed over to the carrier or carriers, the Authority may establish and maintain a fund.
+(b) The cost of administering the fund established by the Authority under subsection (a) of this Article may be covered from the fund.
+(c) The Authority may entrust the administration and management of the fund established under subsection (a) of this Article to another party. If the fund is entrusted to another party, the Authority shall determine the terms for the administration of the fund.
+
+**Review**
+45.
+The Authority shall, before the end of each financial year, review the current situation, prepare a report stating which services are included in the universal services and how the work of this Part is progressing, and send it to the People's Majlis and the Minister.
+
+**PART SIX**
+**SERVICES TO BE PROVIDED TO THE SERVICE RECIPIENT AND PROTECTION OF THEIR COMMUNICATIONS**
+
+**CHAPTER ONE**
+**SERVICE QUALITY**
+
+**Service Provided to the Service Recipient**
+46.
+(a) A licensee shall deal with the service recipient in a reasonable manner and shall take reasonable steps to rectify matters in response to complaints made by service recipients.
+(b) If a person violates subsection (a) of this Article, the Authority has the discretion to impose a fine not exceeding MVR 100,000 (one hundred thousand) Rufiyaa, depending on the severity of the offense.
+(c) The Authority may, as a license condition or in the form of a directive, direct a licensee to establish a code of practice on how to deal with service recipients.
+
+**Performance Standards**
+47.
+(a) The Authority may make standards regarding the following matters and direct licensees to act in accordance with those standards:
+(1) The period between receiving a request to connect a specified telecommunications service to a service recipient and connecting that service;
+(2) The period taken to resolve a problem from the time a service recipient reports a difficulty in receiving a specified type or types of telecommunications service or any other problem.
+(b) If a licensee violates a standard established under this Chapter, the Authority may determine the procedure for the licensee to compensate the service recipient for the loss incurred, the amount for which the licensee is responsible as compensation, or the amount that can be given as credit to the service recipient, and the procedure for determining such matters, or the required course of action.
+(c) The Authority has the discretion to amend or revoke the standards made under this Chapter at any time.
+
+**Resolving Disputes with Service Recipients**
+48.
+(a) The Authority has the discretion to use the powers conferred on it under this Act to resolve complaints and issues submitted by service recipients regarding a violation by a licensee of the code of practice or standard for dealing with the service recipient established under this Chapter, or regarding the service provided to the service recipient and the protection that must be afforded to the service recipient.
+(b) The Authority may determine methods or a procedure for making, receiving, and dealing with complaints from parties dissatisfied with the conduct or operations of a licensee.
+
+**CHAPTER TWO**
+**PROTECTION OF COMMUNICATIONS AND CONFIDENTIALITY OF COMMUNICATIONS**
+
+**Responsibility for Confidentiality of Communications**
+49.
+(a) Parties active in the telecommunications sector, including the Authority and licensees, and their officers, employees, agents, and contractors, shall not disclose any information or document related to the following matters, obtained in the course of their employment within the telecommunications service sector:
+(1) Any document or thing relating to any ongoing or past transaction (this includes information received by the service provider or information yet to be sent to the intended recipient);
+(2) A person to whom a service provider provides or plans to provide a telecommunications service; or
+(3) A person's personal information or communication.
+(b) A person who violates subsection (a) of this Article may be dismissed from employment by the employer. And if a person violates subsection (a) (1) and (2), the Authority has the discretion to impose a fine on the person who committed the act not exceeding MVR 100,000 (one hundred thousand) Rufiyaa, depending on the severity of the offense. And if a person violates subsection (a) (3), the Authority has the discretion to impose a fine on the person who committed the act not exceeding MVR 1,000,000 (one million) Rufiyaa, depending on the severity of the offense.
+
+**Exemption**
+50.
+(a) This Act does not prevent the disclosure of information in the circumstances set out below. Disclosure of information in any of these circumstances shall not be considered a violation of Article 49 (a) of this Act.
+(1) Information that is publicly available;
+(2) Information for which written permission for disclosure has been given by its owner;
+(3) Information disclosed by an employee engaged in the administration of this Act to another such employee for the purpose of carrying out their duties;
+(4) The information or document is provided by the Authority, a service provider, or an officer, employee, agent, or contractor of the telecommunications service sector, and the information is provided in the performance of their official duties;
+(5) Disclosure of information obtained about a service recipient in the course of providing a service by a licensee, for the purpose of the license or network facility issued to that party;
+(6) Disclosure of information to an agency with the power to conduct a criminal investigation, under a court order or as provided by law, for the purpose of preventing or investigating a criminal offense;
+(7) Disclosure of information to security services under a court order or as provided by law, in a situation that endangers national security;
+(8) The information or document is provided in compliance with a law;
+(9) Information disclosed in a civil or criminal trial;
+(10) Information required to be provided to the Authority as specified in this Act, a regulation made under this Act, or in the license conditions;
+(11) If the information or document provided contains information of another person or persons, permission has been obtained to provide and use such information or document to another party;
+(12) Information disclosed to the main statistical authority of the state for inclusion in statistics;
+(13) Information required to be disclosed under an agreement signed between the Maldivian Government and the government of a foreign country, or under an international treaty that the Maldives is obliged to comply with.
+
+**PART SEVEN**
+**USE OF LAND AND INSTALLATION OF NETWORK FACILITIES**
+
+**Maintenance of Network Facilities**
+51.
+A carrier may enter and be upon any land on which a network facility is installed for the purpose of repairing, installing, or maintaining that network facility, or for removing such a facility when it becomes necessary.
+
+**Impact of Work on Land on Network Facilities**
+52.
+(a) No act shall be carried out that may cause any damage to a telecommunications equipment, a network facility, or anything connected to it or a connection.
+(b) If any person proposes to carry out any work that may in any way affect a telecommunications equipment, a network facility, or anything connected to it or a connection, that person shall do the following:
+(1) Give the carrier written notice of the intention to carry out such work; and
+(2) Take all necessary safety measures to ensure that no damage is caused to any telecommunications equipment, network facility, or anything connected to it on, above, or near the land during such work.
+(c) The written notice mentioned in subsection (b) (1) of this Article shall be sent 14 (fourteen) days before the person starts the work. If the affected facility is a critical network facility, the notice shall be sent 3 (three) months in advance.
+(d) If, during the work mentioned in this Article, any damage is caused to telecommunications equipment/apparatus, a network facility, or anything connected to it due to the negligence of the person carrying out the work in taking the safety measures mentioned in subsection (b) (2) of this Article, the cost of repairing such damage shall be paid by the person who carried out the work to the carrier.
+
+**Other Regulations Made Under this Act**
+53.
+(a) If a carrier participates or proposes to participate in an activity specified in this Part, the carrier shall act in accordance with the relevant industry codes registered with the Authority, industry standards, and other regulations made under this Act.
+(b) The Authority may make relevant regulations to carry out the matters specified in this Part.
+
+**Meaning of the Word Land**
+54.
+In this Part, "land" includes the sea (places that are not dry land).
+
+**PART EIGHT**
+**TECHNICAL STANDARDS**
+
+**CHAPTER ONE**
+**TECHNICAL STANDARDS AND CERTIFICATION**
+
+**Technical Standards**
+55.
+(a) The Authority may determine the technical standards and regulations to be followed in relation to the items and matters specified in this Article and in carrying out matters related to them. This may include standards and regulations related to the following items and matters:
+(1) All types of telecommunications equipment used by service providers and installers and sold by traders;
+(2) All types of telecommunications services, including services provided by service providers;
+(3) The generation of radio frequency energy, whether intentionally or unintentionally, from equipment other than that used in a telecommunications service, in a manner that would cause interference to telecommunications equipment or a service; and
+(4) Interference from a telecommunications service equipment or service to equipment not used in providing a telecommunications service.
+(b) The standards and regulations determined by the Authority under subsection (a) of this Article shall be standards and regulations determined to achieve the following matter or matters:
+(1) To reduce or eliminate radio interference that occurs or may occur to telecommunications apparatus or a service;
+(2) To operate telecommunications networks in a robust, reliable, and trustworthy manner;
+(3) To maintain the reliability of a telecommunications network or other network facilities without loss;
+(4) For the health and safety of persons operating a telecommunications network or other network facility, persons employed in connection with such a facility, persons using a service provided by such a facility, and any person who may be affected in any way by the operation of such a facility;
+(5) To ensure that telecommunications equipment complies with internationally or industry-accepted standards;
+(6) To ensure the availability of telecommunications equipment that is accessible to persons with disabilities and meets their special needs;
+(7) To make the equipment used to connect two telecommunications networks or any other network facility or a telecommunications service an item that can be connected without issue, and to ensure that services such as Caller ID and emergency number services can be provided;
+(8) To ensure that the equipment used by a service recipient on a network or network facility is interoperable;
+(9) To ensure that a good quality of service is provided in the provision of telecommunications services;
+(10) To do all things necessary to achieve the purposes of this Act.
+(c) The Authority shall determine such standards as mentioned in subsection (a) of this Article after reasonably consulting with the parties active in the telecommunications industry on the matter.
+(d) All parties active in the telecommunications industry and licensees shall comply with the technical standards and regulations determined by the Authority as per subsection (a) of this Article.
+(e) If a person uses a telecommunications equipment or any other equipment or similar system to cause interference to a network connection, that person may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense.
+(f) If any telecommunications equipment or other such equipment that could pose a risk to public safety is used, the person who used it may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense. And the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day the act continues without cessation.
+
+**Conditions to be Fulfilled for an Item to be Approved**
+56.
+The Authority has the discretion to do the following when it deems fit:
+(a) To test or inspect, or to direct the testing or inspection of, any authorized equipment or facility before it is put into use to ensure that it is made in accordance with the specified standards and regulations;
+(b) To determine in writing the standards used for testing, the test equipment used for that purpose, and the method of doing so;
+(c) If the Authority finds that an authorized equipment or facility is a telecommunications equipment or facility made or produced in accordance with the specified standards and regulations, to issue a certificate stating that the equipment or facility complies with the standards determined by the Authority and is accepted by the Authority;
+(d) To issue a label to be affixed to the authorized equipment or facility, indicating that it has been inspected and approved in accordance with the standards and regulations determined by the Authority;
+(e) To determine the information that must be used or provided on specified special telecommunications equipment and in advertising;
+(f) To determine and state in writing that telecommunications equipment and services, and other items providing telecommunications services, cannot be imported into the Maldives or kept for sale in the Maldives unless they comply with the standards and regulations determined by the Authority and are inspected and bear a document or label to that effect;
+(g) To require the party requesting permission to bear the cost of testing to determine whether an authorized equipment or facility is a telecommunications equipment or facility made in accordance with the standards and regulations determined by the Authority; and
+(h) To delegate the carrying out of the matters specified in subsections (a) and (d) of this Article to another association, company, or institution (even if it is a foreign company, association, or institution).
+
+**CHAPTER TWO**
+**NUMBERING AND ELECTRONIC ADDRESSING**
+
+**Numbering Plan**
+57.
+(a) The Authority has the power to administratively manage, plan, issue, distribute, and determine the ownership and control of the numbering plan of the Maldives and the electronic addresses used in providing telecommunications services.
+(b) The electronic addresses specified in subsection (a) of this Article include all internet addresses and domains belonging to the Maldives.
+(c) To determine the numbers for telecommunications services provided in the Maldives and to create the numbers and codes to be used in providing telecommunications services, the Authority shall prepare a plan called the 'Numbering Plan'. The Authority shall work to make the Numbering Plan an entity containing numbers and codes that can be used in the best, least wasteful, and most equitable manner.
+(d) The Numbering Plan shall detail the numbers to be used in providing the telecommunications services of the Maldives.
+(e) The Authority may determine regulations and standards to organize the matters of the Numbering Plan.
+(f) The Authority may change the Numbering Plan as it deems fit and whenever it deems fit.
+
+**Acting in Accordance with the Numbering Plan**
+58.
+To act in accordance with the Numbering Plan, licensees shall do the following:
+(a) Comply with the directives issued by the Authority regarding the Numbering Plan and act in accordance with the Numbering Plan;
+(b) Upon request by the Authority or when needed for any other similar matter, determine and change numbers and codes within the Numbering Plan in consultation with the Authority;
+(c) Upon request by the Authority, provide opinions, advice, and information to the Authority, stating the changes that seem necessary to the Numbering Plan in relation to the service provided by the service provider, the matters that need to be added, and the matters that need to be changed; and
+(d) As requested by the Authority, facilitate the easy transfer of numbers provided by service recipients from one party to another, and if a service recipient wishes to move to another service provider to obtain the service, facilitate a way for this to be done easily.
+
+**Electronic Address**
+59.
+(a) The Authority may make regulations regarding the creation, use, and determination of electronic addresses in the provision of telecommunications services.
+(b) The Authority may create and implement a plan for the purpose of creating electronic addresses.
+
+**Integrated Public Number Database**
+60.
+(a) The Authority may designate a specific party (even if it is a service provider) to operate an Integrated Public Number Database or an Integrated Public Electronic Database.
+(b) The party mentioned in subsection (a) of this Article shall provide this service to all parties on an equal and non-discriminatory basis, just as it receives the service itself.
+(c) The Authority may determine the manner in which a party as specified in subsection (a) of this Article shall carry out the responsibilities assigned to it under this Article, or specific ways to fulfill that responsibility.
+
+**PART NINE**
+**MANAGEMENT OF RADIO FREQUENCY SPECTRUM**
+
+**Management Principles**
+61.
+All matters of managing the radio frequency spectrum of the Maldives shall be conducted by the Authority. In this regard, the Authority shall work to reduce waste and promote competition in the management and allocation of the commonly used spectrum in the Maldives.
+
+**Prohibited Acts**
+62.
+(a) A frequency in the spectrum shall not be used except in the following ways:
+(1) Having a "Spectrum Assignment" under this Part of this Act in one's possession;
+(2) The frequency being used is a frequency authorized under a class assignment;
+(3) The frequency being used is a frequency authorized under a temporary permit issued by the Authority.
+(b) If a person acts contrary to a matter specified in this Part of this Act, that person may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense. And the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the violation continues.
+
+**Spectrum Plan**
+63.
+(a) The Authority may formulate and publish a Spectrum Plan, covering the whole spectrum or a part of it, stating how the spectrum will be used and how it will be distributed, allocated, or determined.
+(b) The Authority has the discretion to make changes to the Spectrum Plan, taking into account the current situation and international decisions.
+(c) In making a Spectrum Plan, the Authority shall give priority to the following matters:
+(1) The spirit and purpose of this Act;
+(2) The effects of such a Spectrum Plan on current service users; and
+(3) Relevant international standards, treaties, agreements, and the International Telecommunication Union's radio regulations and standards that the Maldives has ratified and is implementing.
+(d) The Authority shall consult with the telecommunications service sector and parties that the Authority believes will be directly affected by such a Spectrum Plan.
+(e) A Spectrum Plan may state the regulations and standards for spectrum allocation. This may include the following regulations and standards:
+(1) Regulations and standards for spectrum allocation by auction;
+(2) Regulations and standards for spectrum allocation by tender;
+(3) Regulations and standards for spectrum allocation at a specified price.
+
+**Frequency Band Plans**
+64.
+(a) The Authority may make and publish frequency band plans. Such plans shall relate to one or more frequency bands and shall be plans made for general use or for a specific purpose (including for a specific place or area) as specified in the plan.
+(b) A frequency band plan shall not conflict with a spectrum plan.
+(c) Notwithstanding anything to the contrary in this Act, in the event of a disaster as specified in Article 112 of this Act, the Authority may determine a specific frequency band plan for use in that situation.
+(d) The Authority has the power to determine a special frequency band plan for use in military engagements under subsection (a) of this Article and to authorize the Maldives National Defence Force to use such a plan.
+
+**Spectrum Assignment**
+65.
+(a) The Authority may, in allocating spectrum to a specific party, grant permission to that party to use a frequency or frequencies in accordance with the conditions specified in the permit issued for that purpose.
+(b) A permit to use the spectrum under subsection (a) of this Article shall be granted only if the frequency bands for which the permit is granted have been determined by the Authority and the spectrum band granted under the permit is in accordance with the Spectrum Plan.
+(c) A permit granted for the use of the spectrum under subsection (a) of this Article may be subject to conditions and a fee or subscription may be charged for it, as deemed fit by the Authority.
+(d) A permit for the use of the spectrum may be renewed for a party to whom it was previously granted if the Authority believes that granting the permit to that party is in the national interest, in accordance with subsections (a), (b), and (c) of this Article.
+
+**Persons to Whom Spectrum Assignment is Given**
+66.
+The Authority may, in writing, determine that a spectrum assignment be given to parties that fulfill specific conditions.
+
+**Spectrum Re-allocation**
+67.
+(a) The Authority has the discretion to re-allocate spectrum designated for a specific purpose for another purpose.
+(b) In re-allocating spectrum under subsection (a) of this Article, the amount received by the parties receiving the spectrum may be determined.
+
+**Resumption of Spectrum After Allocation**
+68.
+(a) A spectrum assignment that has been issued may be resumed by the Authority in connection with a change made to the Spectrum Plan.
+(b) If a spectrum assignment issued upon payment of a fee has to be resumed under this Article before the expiry of the period for which the spectrum was issued, compensation of an amount commensurate with the fee paid to obtain or use the spectrum shall be given to the person or party to whom the permit was granted.
+(c) In cases where a spectrum assignment is not renewed, the compensation mentioned in this Act need not be given.
+
+**Class Assignment**
+69.
+(a) The Authority may establish a class assignment, by way of a general permit, for a frequency or frequencies for a specific purpose or purposes.
+(b) A class assignment given under subsection (a) of this Article may be subject to conditions and a fee or subscription may be charged for it, as deemed fit by the Authority.
+
+**Satellite Positions**
+70.
+The Authority may determine and change the orbital positions and parameters of satellites registered for use by the Maldives or for which a license for use has been issued.
+
+**Register**
+71.
+The Authority shall maintain a register of the following matters:
+(a) Spectrum plans and frequency band plans;
+(b) Spectrum assignments;
+(c) Determined satellite orbital positions and parameters.
+
+**Interference**
+72.
+(a) No person shall knowingly use, without legal permission, any equipment (whether it is used for providing a telecommunications service or not) that may, directly or indirectly, cause interference to a telecommunications service or telecommunications apparatus used or provided legally with permission in the Maldives or outside the Maldives.
+(b) When the Authority directs the user of interfering equipment (whether it is used for providing a telecommunications service or not) in writing to take certain actions to stop the interference and gives a specific period to do so, the party to whom the directive is addressed shall act in accordance with the directive.
+(c) If a person violates subsection (a) of this Article, or fails to comply with a directive issued under subsection (b) of this Article, that party may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense. And the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the non-compliance with a directive under subsection (b) continues.
+(d) To prevent undesirable and harmful interference to telecommunications service networks, other such services, and telecommunications services, the Authority may, in a regulation, determine the limits of conducted or radiated interference from any equipment used without fulfilling the conditions for which a license is issued under Article 4 of this Act.
+(e) The powers of the Authority specified in Chapter One of Part Eight of this Act also include the equipment referred to in subsection (d) of this Article.
+(f) The Authority may direct the party to whom an assignment has been issued to bring the equipment referred to in subsection (d) of this Article for testing to determine whether it is within the limits specified in the regulation made under that subsection.
+
+**Certificates for Operators, and Approval of Such Persons**
+73.
+The Authority may establish a framework for examining, certifying, and authorizing a person to do the following:
+(a) To operate a special apparatus or a particular class of apparatus designated for radio communication;
+(b) To hold a specified position in a radio communication station; and
+(c) To do any act that the Authority deems necessary or desirable to achieve the objectives specified in Article 55 (b) of this Act.
+
+**PART TEN**
+**ADMINISTRATIVE ACTION, JURISDICTION, AND ENFORCEMENT OF AUTHORITY'S DIRECTIVES**
+
+**CHAPTER ONE**
+**ADMINISTRATIVE ACTION AND JURISDICTION**
+
+**Administrative Action**
+74.
+(a) The measures specified in this Part of this Act are measures that may be taken in addition to the measures specified in other parts of this Act.
+(b) If a company commits an act prohibited under this Act, or if it is proven that such an act was committed with the cooperation, assistance, or participation of a director of such a company or a person playing a leading role in the management of the company, it shall be deemed that the director or senior person committed the act.
+(c) If a person violates a regulation made under this Act, or the conditions under which a license or assignment is issued, or a directive issued under this Act, or any article of this Act, and no specific measure is prescribed for it in another article of this Act, the Authority has the discretion to impose a fine on the person who committed the act, in addition to confiscating the item used to commit the act, not exceeding the amounts specified below:
+(1) MVR 100,000 (one hundred thousand) Rufiyaa for the first offense for which action is taken;
+(2) MVR 500,000 (five hundred thousand) Rufiyaa for the second offense for which action is taken;
+(3) MVR 1,000,000 (one million) Rufiyaa for each subsequent offense for which action is taken;
+(4) And in addition to the fines in subsections (1), (2), and (3) of this paragraph, the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day the violation continues.
+(d) The Authority shall not impose a fine unless the following conditions are met:
+(1) The fine imposed is commensurate with the nature and circumstances of the offense or the situation that led to the fine; and
+(2) The Authority is satisfied that the party on whom a fine is imposed for violating this Act has been given a reasonable opportunity to rectify the reason for the fine and the party has been given a reasonable opportunity to rectify the act that led to the fine or to comply with the violated license conditions, or if a provision of this Act has been violated, to rectify such violation; and
+(3) The party on whom a fine is imposed for violating this Act has been given a reasonable opportunity to present its defense, and the Authority has made a decision regarding the fine after considering the party's submissions.
+
+**Conduct of Employees, Agents, and Directors**
+75.
+(a) In a case under this Act concerning the actions of a company, to demonstrate the state of mind of such a company, the following shall suffice:
+(1) The act on behalf of the company was committed within the scope of the actual or apparent authority of a director (or an officer of that level), an employee, or an agent of the company; and
+(2) The act on behalf of the company was committed upon the instruction or with the permission of a director (or an officer of that level), an employee, or an agent of the company.
+(b) An act committed by a director (or other officer), an employee, or an agent of a company, within the scope of their authority or what is believed to be their authority, or an act committed by another person under their instruction, shall, for the purpose of this Act, be deemed to be an act in which the company also participated, unless it is proven that the company took reasonable measures to prevent such an act.
+(c) In a case under this Act concerning the actions of a person, to demonstrate the state of mind of such a person, the following shall suffice:
+(1) The relevant act was committed by an agent or employee of that person, within the scope of the actual or apparent authority of that agent or employee; or
+(2) The employee or agent is a person of sound mind.
+(d) An act committed on behalf of a person by an employee or agent, within the scope of the actual or apparent authority of that agent or employee, or an act committed upon an instruction or direction given, shall, for the purpose of this Act, be deemed to be an act committed by that person. It shall be deemed otherwise only if that person can prove that reasonable measures were taken to prevent such an offense by their employee or agent.
+(e) The state of mind of a person in subsections (a) and (c) of this Article includes the person's intention, thoughts, experience, belief, or desire, and the reasons that form the person's intention, thoughts, experience, belief, or desire.
+
+**Communicating Using an Unlawful Telecommunications Facility**
+76.
+If a person knowingly or with reasonable belief communicates through a telecommunications facility operated in violation of this Act, that person may be fined an amount not exceeding MVR 500,000 (five hundred thousand) Rufiyaa by the Authority, depending on the severity of the offense.
+
+**Unauthorized Access to a Computer Using Telecommunications**
+77.
+(a) If any person intentionally uses a telecommunications service or a telecommunications network to gain unauthorized access to a program installed on a computer or to acquire stored information without authorization, that person may be fined an amount not exceeding MVR 500,000 (five hundred thousand) Rufiyaa by the Authority, depending on the severity of the offense.
+(b) For the purpose of subsection (a) of this Article, the intention of the person committing such an offense need not be to acquire the following:
+(1) A specific program or information;
+(2) A specific type of program or a specific kind of information;
+(3) A program or information on a specific computer.
+
+**Unlawful Interception of a Communication Link**
+78.
+(a) It is prohibited to do the following except with permission under this Act or another law:
+(1) To intercept or attempt to intercept any kind of communication link or to encourage any person to do so; (This does not include interception of a communication link by the security services under a court order or as provided by law.)
+(2) To use equipment to obtain information about the contents of a communication, the parties who sent it, or the sender's address;
+(3) To disclose or attempt to disclose to another person information obtained by establishing a telecommunications link in violation of this Article or information obtained in a manner that is believed to be in violation of this Article;
+(4) To use or attempt to use information obtained by establishing a telecommunications link in violation of this Article or information obtained in a manner that is believed to be in violation of this Article.
+(b) It is prohibited for a person to intentionally disclose or attempt to disclose information obtained by intercepting a communication link with permission in accordance with this Act, if the intentional disclosure or attempt to disclose the information is not permitted by this Act or any other law.
+(c) If a person commits an act mentioned in subsections (a) and (b) of this Article, that person may be fined an amount not exceeding MVR 500,000 (five hundred thousand) Rufiyaa by the Authority, depending on the severity of the offense.
+(d) An officer of the Authority shall not be held liable for any act done in good faith in the performance of their official duties in connection with a matter in subsection (a) or (b) of this Article.
+
+**Intentional Damage to an Installed Telecommunications Facility**
+79.
+If a person, through an intentional act, or due to carelessness or negligence, damages any telecommunications equipment or any part of it, or removes it from its installed location, or otherwise disrupts its function, the person who committed such an act may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense.
+
+**False or Misleading Distress Signal or Message**
+80.
+If a person, with the intent to deceive, sends or attempts to send a false signal or message containing false information using a telecommunications network, purporting it to be for obtaining immediate rescue or for identification in a distress situation, the person who committed the act may be fined an amount not exceeding MVR 10,000 (ten thousand) Rufiyaa by the Authority, depending on the severity of the offense.
+
+**Unauthorized Entry into Certain Premises**
+81.
+It is prohibited to enter or remain on any land under the control of a telecommunications service provider without permission or a reasonable cause. A person who does either of these acts may be fined an amount not exceeding MVR 10,000 (ten thousand) Rufiyaa by the Authority.
+
+**Obstruction of the Authority's Work**
+82.
+If any person intentionally obstructs the Authority in carrying out its duties under this Act, the person who committed the act may be fined an amount not exceeding MVR 500,000 (five hundred thousand) Rufiyaa by the Authority, depending on the severity of the offense.
+
+**Action Against Officers of the Authority**
+83.
+If an officer of the Authority commits any of the following acts, the person who committed the act may be fined an amount not exceeding MVR 500,000 (five hundred thousand) Rufiyaa by the Authority, depending on the severity of the offense:
+(a) Intentionally destroying, sending to a party other than the intended recipient, or altering any communication received for sending or delivery to a specific party;
+(b) Verbally communicating or incorrectly copying a communication that is believed to be incorrect or has been altered;
+(c) Intentionally delaying the sending of a communication or intentionally intercepting, detaining, or delaying an ongoing communication;
+(d) Except in the performance of their duty, as required by law, or as directed by a court, copying or disclosing any communication to a party other than the one to whom it is addressed for the purpose of sending it.
+
+**Use of Substandard Equipment**
+84.
+(a) If a person knowingly or without a reasonable excuse sends a radio signal using substandard equipment, the person who committed the act may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense. And after imposing such a fine, the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the substandard equipment continues to be used.
+(b) For the purpose of this Chapter, "substandard equipment" means telecommunications equipment or radio communication equipment that contravenes the technical standards determined or the procedural frameworks established in accordance with this Act.
+(c) A person who commits any of the following acts may be fined an amount not exceeding MVR 100,000 (one hundred thousand) Rufiyaa by the Authority:
+(1) Using substandard equipment;
+(2) Possessing substandard equipment for the purpose of installing, using, or operating it, knowing or believing it to be substandard; or
+(3) Offering to supply, supplying, or possessing for the purpose of supplying substandard equipment.
+(d) Any document issued by the Authority, certifying that a particular piece of equipment is substandard, shall be considered, in any case under this Act, as evidence that the equipment is substandard, unless proven otherwise.
+
+**Right to Receive Public Telecommunications Service**
+85.
+If any agreement contains a provision that obstructs or prejudices the right of a person renting or occupying a property to obtain a telecommunications service, that provision is void.
+
+**CHAPTER TWO**
+**ENFORCEMENT OF AUTHORITY'S DIRECTIVES**
+
+**Authorization of Officers by the Authority**
+86.
+The Authority may, in writing, authorize the following parties to enforce the powers conferred on the Authority under Chapter Three and Chapter Four of this Part. And the parties mentioned below are also included where reference is made to the Authority in the said chapters.
+(a) An authorized government employee (including police officers); or
+(b) An authorized employee of the Authority.
+
+**Search and Seizure on Suspicion of an Offense**
+87.
+(a) The Authority may, in conjunction with the bodies investigating criminal cases, do the following:
+(1) Order the arrest of persons suspected of committing an offense under this Act for investigation;
+(2) If the Authority has reasonable grounds to believe that an item to be seized is in a land, building, or a land, sea, or air transport vehicle as per subsection (5) of this paragraph, the Authority may enter or board such a place or thing and search and inspect it;
+(3) Even if the item to be seized as per subsection (5) of this paragraph is in a cupboard, shelf, box, or a closed container, or a similar item, whether fixed or not, if the Authority has reasonable grounds to believe that the item to be seized is there, the Authority may open it by force, search, and inspect it;
+(4) If the Authority has reasonable grounds to believe that a person is in possession of an item of the type mentioned in subsection (5) of this paragraph, the Authority may search and inspect that person's body;
+(5) To search, inspect, seize, remove, and keep the following items on behalf of the Authority:
+(hh) Any item that the Authority believes could be used to commit an act that would be an offense under this Act;
+(ii) Any item that is believed to have been used to commit an act that would be an offense under this Act, or that contains evidence and circumstances of such an act, or that the Authority believes contains evidence and circumstances that would lead to the belief that such an act was committed;
+(nn) Any item used with the intention of committing a crime or for the purpose of committing a crime;
+(rr) Any item that the Authority believes is essential for the investigation of an offense under this Act or an item containing such an item.
+(6) To enter and inspect places where any type of telecommunications equipment, radio communication equipment, or equipment that can be used for telecommunication purposes, which requires written notification to the Authority, is manufactured or kept for sale, and to inspect such items.
+(b) In a search and inspection conducted by the Authority under subsection (a) of this Article, access shall be given to information stored on a computer or otherwise. For the purpose of this Article, giving access to information means providing all things necessary to fully and openly obtain the required passwords, encryption codes, decryption codes, software or hardware, and any other such information.
+
+**Confiscation and Seizure of Property upon Commission of an Offense**
+88.
+If any equipment or item is used in violation of this Act or in a manner that appears to be a violation, the Authority or a relevant government officer may apply to the court for a court order to confiscate and seize that item.
+
+**CHAPTER THREE**
+**POWER OF THE AUTHORITY TO OBTAIN AND GATHER INFORMATION**
+
+**Discretion to Obtain Information and Documents**
+89.
+(a) The discretion vested in the Authority as specified in this Article may be exercised over the following parties (including licensees):
+(1) A person who possesses or is believed to possess any information or any document required for the Authority to exercise a power or fulfill a responsibility under this Act;
+(2) A person who can provide evidence that the Authority believes is required for it to exercise a power or fulfill a responsibility in accordance with this Act.
+(b) Unless expressly prohibited by a specific law, the Authority may, in writing, direct any person to do the following:
+(1) To provide all information required by the Authority within the period specified in a written document sent by the Authority, in the manner specified in that document;
+(2) To send all required documents (in their physical or electronic form) within the period specified in a written document sent by the Authority, in the manner specified in that document;
+(3) To prepare copies of all required documents in conformity with the original within the period specified in a written document sent by the Authority, in the manner specified in that document;
+(4) If the written document is sent to an individual, for that person to go to a place designated by the Authority at a time specified in the written document and give evidence orally or in writing (in its physical or electronic form);
+(5) If the party to whom the written document is sent is a legal person, for a senior officer responsible for that entity to go to a place specified in the written document at a time specified in the written document and give evidence orally or in writing (in its physical or electronic form) in a meeting held between that person and the Authority; or
+(6) If the party to whom the written document is sent is a partnership, for a partner or an employee on behalf of that partnership to appear before the Authority and give evidence orally or in writing (in its physical or electronic form) at a place specified in the written document at a time specified in the written document.
+
+**Acting as Directed by the Authority**
+90.
+(a) All parties shall act in accordance with Article 89 (b) of this Act.
+(b) If any person, without a reasonable cause, refuses to act as determined by the Authority in accordance with Article 89 (b) of this Act, that person may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority. And the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the violation of that article continues.
+(c) If a person, in acting as determined by the Authority in accordance with Article 89 (b) of this Act, intentionally or with gross negligence, acts in the following manner, that person may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority. And the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the violation of that article continues.
+(1) Refusing to give or disclose the required information, document, or evidence and corroboration;
+(2) Submitting information, a document, or its copy, or evidence and corroboration that is in any way false or misleading.
+(d) When a document under subsection (c) of this Article is submitted to the Authority, if the submitting party is a person or a company, the person or a responsible senior officer of the company shall not be guilty under subsection (c) of this Article if a written document, signed and stating the following, is submitted:
+(1) Stating that the submitted document or its copy is, to the knowledge of the submitter, based on false or misleading information;
+(2) Stating that the information provided or referred to in the submitted documents or their copies is, to the knowledge of the submitter, based on false or misleading information.
+(e) For the purpose of this Article, a document or information includes information recorded electronically or in any other form. And for the purpose of this Article, requiring a party to give information or submit a document includes the responsibility to establish a reasonable system to inspect and clarify the document or to provide the passwords, encryption codes, decryption codes, and software required to print the documents and information contained in the document in written form on paper, and to provide all means necessary to fully and openly obtain the recorded information.
+
+**Keeping Documents and Copies under the Authority's Custody**
+91.
+(a) A document submitted to the Authority for its use under this Chapter may be kept under the Authority's custody until the Authority's use of it is finished.
+(b) If the Authority, after inspecting a document or its copy sent or required to be submitted to it under this Chapter, wishes to make and keep a copy of such a document or its copy, or wishes to extract a specific part from such a document, it may do so.
+(c) The Authority shall maintain a record of all information, evidence and corroboration received, or documents submitted to it under Article 89 (b) of this Act and make it available to the public.
+
+**Disclosure of Information**
+92.
+(a) The Authority shall not disclose any information or document under this Chapter except in the following manner:
+(1) Acting in accordance with subsection (b) of this Article; and
+(2) The Authority deems it necessary to disclose a document or information about an account for the public interest.
+(b) The Authority shall consider the following matters:
+(1) To give a reasonable opportunity for all submissions made by a person regarding the disclosure of information or documents that the person sends or is required to submit to the Authority under this Chapter;
+(2) To consider all submissions made by a person regarding the disclosure of information or documents that the person sends or is required to submit to the Authority before making a decision on the disclosure of the documents.
+(c) Unless an agreement between a person and another party expressly states that a piece of information or a document submitted by that person to the Authority under this Chapter is a secret and should not be disclosed to another party, no civil action or claim for civil damages can be brought against the person who submitted such information or document in a manner not contrary to such an agreement.
+
+**Non-use of Information for Filing Criminal Charges**
+93.
+Information obtained as a result of a person giving information or submitting a document or its copy in any of the following ways, or as a result of that person giving information, shall not be used as evidence or corroboration to file a criminal charge against the person who has given or submitted such information.
+(a) Giving information or testimony or submitting a document or its copy;
+(b) Obtaining information, a document, or such an item as a result of giving information or testimony or submitting a document or its copy.
+
+**CHAPTER FOUR**
+**INFORMATION GATHERING**
+
+**Information Gathering**
+94.
+(a) The Minister has the discretion to direct the Authority to conduct an inquiry into any matter required for the implementation of this Act in accordance with the main purposes of this Act.
+(b) To direct the Authority on how to act in a particular matter as per subsection (a) of this Article, the Minister has the discretion to direct the following:
+(1) To seek the advice of a specific person, party, or persons or parties on how the inquiry should be conducted;
+(2) To have regard to a specific matter or matters in conducting the inquiry.
+(c) The Authority shall act in accordance with the manner determined for action under this Article.
+
+**Circumstances in which an Inquiry may be held**
+95.
+In matters that the Authority deems important enough to warrant an inquiry, and for the public interest or for parties who are licensed or are expected to be licensed in accordance with this Act, an inquiry may be held in accordance with subsections (a) and (b) of this Article.
+(a) To respond to a person's written request for an inquiry;
+(b) The Authority's own desire to conduct an inquiry.
+
+**Public Notification of an Inquiry**
+96.
+(a) If the Authority holds an inquiry, it shall make a public announcement in a reasonable manner, stating the following:
+(1) That the Authority is holding an inquiry;
+(2) The period during which the inquiry will be held;
+(3) The subject of the inquiry;
+(4) That a period of at least 28 (twenty-eight) days will be given to receive public submissions, stating the method for seeking public opinion on the subject of the inquiry;
+(5) The issue on which the Authority wishes the public submissions to be based;
+(6) The address or addresses to which public submissions should be sent.
+(b) The Authority is not required to publish the matters specified in subsection (a) of this Article at the same time.
+(c) The Authority shall have regard to submissions sent by the public that meet the following conditions:
+(1) Submissions of the type specified in the announcement and submitted in the manner specified in the announcement; and
+(2) Submissions received by the Authority within the time specified in the announcement.
+
+**Administrative Framework for an Inquiry**
+97.
+(a) In this Article, "inquiry" means an inquiry held under this Chapter, in accordance with this Chapter.
+(b) An inquiry shall be held in accordance with the articles of this Chapter when the Authority deems fit.
+(c) When an inquiry is held, any other related hearing or part of an inquiry shall be held openly and in a free environment where the public can participate.
+(d) For the purpose of an inquiry, the Authority may use all powers conferred on it under Chapter Three of this Part for the purpose of investigation or information gathering.
+(e) The Authority may hold hearings for the purpose of an inquiry.
+
+**Confidential Inquiry**
+98.
+(a) When the Authority deems fit, a meeting for an inquiry or a part of such a meeting may be held in secret if the following conditions are met:
+(1) The documents reviewed or the information provided or the issue noted in the meeting for the inquiry or a part of such a meeting is a matter that needs to be considered in secret;
+(2) Conducting the inquiry or the subject of the inquiry or a part of such a subject openly would hinder the implementation of this Act.
+(b) When an inquiry is held openly, if the Authority deems that the evidence and corroboration submitted for the inquiry or the written submissions sent to the Authority should be kept secret, the Authority may act as follows:
+(1) Direct that the evidence and corroboration submitted for the inquiry not be published; or
+(2) Prohibit the disclosure of the evidence and corroboration submitted for the inquiry.
+(c) If a part of an inquiry is to be conducted in secret, the following may be done:
+(1) Announce the parties who will participate in a meeting of the inquiry or a part of such a meeting;
+(2) Direct that the disclosure of evidence and corroboration submitted to a meeting of the inquiry or a part of such a meeting be prohibited.
+(d) No person shall refuse to comply with the actions in subsections (b) and (c) of this Article without a reasonable cause.
+(e) If a person refuses to comply with the actions in subsections (b) and (c) of this Article without a reasonable cause, that person may be fined an amount not exceeding MVR 1,000,000 (one million) Rufiyaa by the Authority, depending on the severity of the offense. And the Authority has the discretion to impose a fine not exceeding MVR 20,000 (twenty thousand) Rufiyaa for each day or part of a day the violation of any of those articles continues.
+
+**Preparation of a Report on the Inquiry**
+99.
+(a) After an inquiry, the Authority shall publish a report containing the information and results obtained. A copy of the report so published shall be sent to the Minister.
+(b) The report prepared by the Authority shall be published within 30 (thirty) days after the conclusion of the inquiry.
+(c) The report prepared by the Authority shall not contain the following information and matters:
+(1) Confidential information;
+(2) Anything that might prejudice the fairness of a trial against a person;
+(3) The personal or private information of any person (including deceased persons);
+(4) A matter that is the main principle for acting as stated in Article 98 (b) or (c) of this Act.
+
+**Protection from Civil Suits**
+100.
+A person shall not be liable to pay compensation for any loss suffered by another person as a result of a statement, document, or information given by that person to the Authority in good faith for the purpose of an inquiry.
+
+**CHAPTER FIVE**
+**INVESTIGATION BY THE AUTHORITY**
+
+**Matters that can be Considered under this Chapter**
+101.
+The following matters shall be considered under this Chapter:
+(a) A matter that violates this Act;
+(b) A matter that violates a determination made by the Authority under this Act;
+(c) A matter that violates a standard determined by the Authority;
+(d) A matter concerning the provision, non-provision, or inability to provide a telecommunications service;
+(e) A matter concerning the connection or inability to connect a service to the apparatus or equipment of a service recipient;
+(f) A matter concerning the work or powers of the Authority.
+
+**Submitting a Complaint**
+102.
+(a) A person or a complainant may submit a complaint to the Authority regarding the matters specified in Article 101 of this Act.
+(b) Complaints submitted shall meet the following requirements:
+(1) The complaint shall be submitted in writing; and
+(2) The party to whom the complaint is directed shall be clearly stated.
+(c) When the Authority deems fit, it shall take reasonable steps to provide the following:
+(1) A person wishes to submit a complaint;
+(2) To provide the necessary assistance for a person to submit a desired complaint or to submit that complaint in writing.
+
+**Investigation by the Authority**
+103.
+(a) The Authority may investigate a matter referred to in Article 101 of this Act as follows:
+(1) The Authority believes that a person has violated this Act in a matter in Article 101 of this Act;
+(2) The Authority believes that a person has violated a directive issued by the Authority to act in accordance with this Act in a matter in Article 101 of this Act;
+(3) A complaint has been submitted in accordance with Article 101 of this Act;
+(4) The Authority believes that a matter needs to be investigated.
+(b) If the Minister requests the Authority, the Authority shall investigate the following matters:
+(1) A matter in Article 101 of this Act;
+(2) Any matter related to telecommunications services, radio communication, or the telecommunications industry.
+
+**Matters to be Considered Before Investigation**
+104.
+(a) When a person submits a complaint in accordance with Article 102 of this Act, the Authority may seek information from the party to whom the complaint is directed to clarify the matter, while acting as follows:
+(1) To determine whether the Authority has the power to investigate the matter of the submitted complaint;
+(2) To determine whether to investigate the matter under the power conferred on the Authority.
+(b) If the Authority does not wish to investigate or further investigate a matter of a submitted complaint, the Authority shall, as soon as possible, in a manner it deems fit, inform the complainant and the party to whom the complaint is directed of the Authority's decision regarding the complaint and the reasons for it.
+
+**Method of Investigation**
+105.
+(a) Before the Authority begins to investigate a complaint, it shall inform the party to whom the complaint is directed.
+(b) The manner in which investigations under this Part shall be conducted shall be stated in a regulation made by the Authority.
+(c) For the purpose of the investigation, the Authority may obtain information from any party it requires and may clarify information in the most appropriate manner it deems fit.
+(d) A decision that a matter that could prejudice the interests of the complainant or the party to whom the complaint is directed has been proven as a result of an investigation conducted by the Authority shall be made only after giving both parties a period of at least 30 (thirty) days to present their views on such a complaint.
+(e) A decision on an investigation conducted by the Authority shall be made after considering the submissions of the complainant and the party to whom the complaint is directed.
+(f) This Article does not require the Authority to give the complainant or the party to whom the complaint is directed the opportunity to attend investigations conducted in accordance with subsection (d) of this Article.
+
+**Investigation Report**
+106.
+(a) After conducting an investigation in accordance with Article 103 (a) of this Act, the Authority may, if it so wishes, prepare a report and send it to the Minister.
+(b) After conducting an investigation in accordance with Article 103 (b) of this Act, the Authority shall prepare a report and send it to the Minister.
+(c) The report prepared under subsections (a) and (b) of this Article shall include the following:
+(1) The manner in which the investigation was conducted;
+(2) The findings obtained by the Authority as a result of the investigation;
+(3) The evidence and corroboration on which the information and findings in subsection (2) of this paragraph are based;
+(4) Matters that the Authority deems fit or that the Minister has directed in relation to the investigation conducted or in connection with it.
+
+**Publication of the Report**
+107.
+(a) If the Minister deems that the publication of an investigation report is a matter of national interest, the Minister may direct the publication of a report of an investigation conducted by the Authority.
+(b) A report of an investigation conducted by the Authority or a part of it shall not be published or disclosed in the following circumstances:
+(1) If its publication or disclosure would reveal a secret of a person or a company; or
+(2) In a situation that could obstruct an ongoing investigation in connection with a criminal case; or
+(3) In a situation that could prejudice the fairness of a trial against a person; or
+(4) In a situation that endangers national security.
+(c) In publishing a report or a part of a report by the Authority, if the personal or private information of any person (even if deceased) is disclosed to an unreasonable extent, it shall not be included in such a report and published.
+
+**PART ELEVEN**
+**MISCELLANEOUS PROVISIONS**
+
+**CHAPTER ONE**
+**MATTERS OF NATIONAL INTEREST**
+
+**Responsibilities of Licensees**
+108.
+(a) If it becomes known that any unlawful act is being committed or is about to be committed using the telecommunications networks and equipment owned or operated by a licensee or the telecommunications services provided by that party, all possible steps shall be taken to stop it.
+(b) If the Authority requests in writing a licensee to do the following, the licensee shall provide assistance to do such things:
+(1) To prevent the commission or attempted commission of a crime specified in a law and to enforce the law;
+(2) To protect national security and safety.
+(c) Officers, employees, contractors, or agents of a licensee shall not be held liable in any criminal case, or for compensation for any loss incurred as a result of an act done or omitted in good faith in the performance of the responsibilities specified in subsections (a) and (b) of this Article.
+
+**Responsibilities of the Authority**
+109.
+(a) In performing its duties or exercising the powers conferred on it, the Authority shall take all possible steps to prevent any unlawful act from being committed using telecommunications networks and equipment.
+(b) In performing its duties or exercising the powers conferred on it, the Authority shall have regard to the following:
+(1) To prevent the commission or attempted commission of a crime specified in a law of the Maldives and to enforce the law;
+(2) To protect national security and safety.
+(c) Officers, employees, contractors, or agents of the Authority shall not be held liable in any criminal case, or for compensation for any loss incurred as a result of an act done or omitted in good faith in the performance of the responsibilities specified in subsections (a) and (b) of this Article.
+
+**Interception Capability**
+110.
+(a) The Minister may decide to establish the capability required to intercept a communication link in a manner permitted by law, by a licensee or licensees.
+(b) A decision made under subsection (a) of this Article may specify the technical conditions for doing so.
+
+**Special Powers in a State of Emergency**
+111.
+(a) In a state of emergency, for the safety and security of the people, the President of the Republic may do the following:
+(1) Suspend the license of a licensee;
+(2) Bring the network facilities and the telecommunications equipment owned or operated by a licensee under temporary control in the most appropriate manner deemed fit by the President of the Republic;
+(3) Bring any telecommunications service provided by a licensee under temporary control in the most appropriate manner deemed fit by the President of the Republic;
+(4) Completely or partially stop the use of a network facility, telecommunications equipment, or telecommunications service by a licensee, a specific party, or the general public;
+(5) Order that no communication be made regarding any act done by a licensee, a person, or the general public, or that it be intercepted or detained, or that its records be handed over to an authorized official;
+(6) Order the seizure of a service recipient's telecommunications equipment.
+(b) This Act does not prevent the use of telecommunications and all telecommunications facilities and networks to make a distress call.
+
+**Action in a Disaster**
+112.
+In the event of internal unrest, a state of emergency, or a disaster, a practical project may be formulated, with the advice of the agencies determined by the Authority, for a licensee or licensees to operate and maintain telecommunications links, provide services, and undertake the work necessary for the restoration of telecommunications equipment, networks, and services to their previous state, in a manner directed by the Authority, to ensure the uninterrupted and long-term provision of telecommunications services and to return to the previous state.
+
+**Discretion Vested in the Maldives National Defence Force**
+113.
+Notwithstanding anything to the contrary in this Act, the Maldives National Defence Force has the discretion to carry out matters related to frequency jamming and other necessary actions to protect national security and safety in special electronic warfare operations conducted by it and in the situations specified in Article 112 of this Act, in consultation with the Authority.
+
+**CHAPTER TWO**
+**MATTERS TO BE CONSIDERED INTERNATIONALLY**
+
+**Standards to be Followed by Signatories to "Intelsat" and "Inmarsat"**
+114.
+(a) The Minister may determine and inform a telecommunications service provider appointed or representing the government of the standards to be followed by it as a signatory to the Agreement Relating to the International Telecommunications Satellite Organization and the Convention on the International Maritime Satellite Organization or any other such international treaty or organization.
+(b) Telecommunications service providers shall act in accordance with the directive issued as per subsection (a) of this Article.
+
+**Acting in Accordance with International Treaties**
+115.
+(a) For the purpose of this Article, the Minister may determine that a specific treaty or a specific part of a treaty is an instrument that a specific group among the licensees must comply with. The determination so made shall be published for public information.
+(b) A party from among the licensees mentioned in subsection (a) of this Article shall act in accordance with the obligations to be fulfilled by the Maldives under a treaty or a part of a treaty when acting in the following manner:
+(1) Operating telecommunications networks or telecommunications equipment;
+(2) Providing telecommunications services.
+(c) For the purpose of this Article, "treaty" means the following, including any type of agreement made between the Maldivian Government and the government, authority, or official of a foreign country:
+(1) A treaty to which the Maldives is a party; or
+(2) An agreement made between the Maldives and a foreign country.
+
+**CHAPTER THREE**
+**DEALING WITH INTERNATIONAL TELECOMMUNICATION OPERATORS**
+
+**Code of Conduct**
+116.
+(a) The Authority may determine a code of conduct to regulate or stop the transactions conducted by a carrier or a telecommunications service provider with international telecommunication operators in order to prevent or reduce undesirable acts that may be committed by such operators.
+(b) Carriers or telecommunications service providers shall act in accordance with the code of conduct determined as per subsection (a) of this Article.
+(c) If a provision of an agreement formulated by a carrier or a telecommunications service provider conflicts with the code of conduct in subsection (a) of this Article, such a provision of the agreement shall not be enforceable.
+
+**International Telecommunication Operators**
+117.
+For the purpose of this Chapter of this Act, "international telecommunication operators" means the parties that provide telecommunications services connecting the Maldives with places outside the Maldives.
+
+**Unacceptable Code of Conduct**
+118.
+For the purpose of this Chapter, an international telecommunication operator shall be deemed to have committed an undesirable act if it commits an act such as those in subsections (a), (b), and (c) of this Article.
+(a) Using a power vested in the operator in the telecommunications business to do something in a way that conflicts or may conflict with the national interest;
+(b) Using any legal right or legal status vested in the operator under the law of a foreign country to do something in a way that conflicts with the national interest;
+(c) In addition to the matters in subsections (a) and (b) of this Article, doing something that conflicts with the national interest.
+
+**CHAPTER FOUR**
+**GENERAL ARTICLES**
+
+**Network Facilities and Issued Licenses Operating at the Commencement of the Act**
+119.
+(a) Network facilities established and operating under a valid permit at the time of the commencement of this Act shall be deemed to be established and operating in accordance with this Act.
+(b) A license issued by a relevant government ministry or agency in relation to telecommunications services or network facilities at the time of the commencement of this Act shall be deemed to be a license issued in accordance with this Act and an instrument that can be acted upon under this Act, as long as it does not conflict with this Act.
+
+**Making and Implementing Regulations**
+120.
+(a) All regulations that need to be made under this Act shall be made and implemented by the Authority.
+(b) The regulations that need to be made under this Act shall be made and published for public information within 3 (three) months from the date of commencement of this Act.
+(c) The Authority has the discretion to make and implement a relevant regulation for a matter, in a manner that does not conflict with this Act, to enforce this Act or to state the procedures and methods for carrying out a matter or matters specified in this Act, when it deems fit. The regulations so made may include the following:
+(1) The manner of operating and controlling telecommunications services and network operations;
+(2) Operating telecommunications or radio communication equipment;
+(3) Preventing and controlling interference of telecommunications equipment by means of electric or radio signals;
+(4) The conditions and regulations for sending and/or receiving communication links by means of telecommunications;
+(5) The rates to be determined and all rents and fees;
+(6) The period for which communications and documents related to telecommunications services must be kept and the conditions for their maintenance;
+(7) The types of licenses, exemptions, and assignments that may be issued or granted under this Act, the form they should take, the conditions that may be set for them, and the prices and fees for issuing or renewing such an instrument upon its expiry;
+(8) The ways in which the voting rights or the ownership or control of the shares of a licensee or a specific type of licensee may be transferred to another party;
+(9) The principles for controlling the prices of services provided by dominant parties active in the telecommunications business; and
+(10) The responsibilities to be borne in relation to basic telecommunications services, the establishment of a fund for providing basic services, the determination of the contribution to be paid by service providers for providing basic services, and the procedural standards required for their administration and management.
+
+**Punishment for Criminal Offenses**
+121.
+In addition to the administrative action taken under this Act against a party who commits an act prohibited under this Act or who violates this Act, this Act does not prevent the filing of criminal charges and the determination of criminal punishment against that party under a law that defines criminal offenses.
+
+**Conflicting Law**
+122.
+If an article of Law No. 16/2010 (Broadcasting Act) conflicts with an article of this Act, the article of this Act shall prevail over that article.
+
+**Commencement of the Act**
+123.
+This Act shall commence on the date of expiry of 4 (four) months from the date of its passing, ratification, and publication in the Government Gazette of the Maldives.
+
+**Repealed Laws**
+124.
+Upon the commencement of this Act, the following laws are repealed.
+(a) Law No. 35/78 (Law on Amateur Transmitting Station License);
+(b) Law No. 36/78 (Law on Ship Station License);
+(c) Law No. 37/78 (Law on Fixed Transmitting Station License);
+(d) Law No. 38/78 (Law on Registration of Communication Frequency).
+
+**Definitions**
+125.
+Unless the context otherwise requires, the following terms and expressions in this Act shall have the meanings given below.
+(a) "Authority" means the 'Communications Authority of Maldives' established under a law.
+(b) "Class Assignment" means a permit issued by the Authority for the general use of a frequency or frequencies for a specific purpose or purposes.
+(c) "Class License" means a general license issued to carry out specific activities determined by the Authority.
+(d) "Carrier" means a party that has a carrier license.
+(e) "Carrier License" means a license issued under Article 5 (a) (1) of this Act to own network facilities or to carry out the operations of network facilities for the purpose of providing telecommunications services.
+(f) "Communication" means the following:
+(1) To communicate between two persons, or between a person and a thing, or between two things; and
+(2) In the form of speech, music, and other audio means; or
+(3) By means of text; or
+(4) By means of a visible image (moving or otherwise); or
+(5) By means of any other signal; or
+(6) By any other means; or
+(7) Communicating using a matter or matters included among the matters specified in this Article.
+(g) "Customer Equipment" means any substance or equipment, or hardware or software used or intended to be used or installed in connection with a telecommunications service, and any item used by the service recipient within the network area, including other items specified as customer equipment in regulations made under this Act.
+(h) "Universal Service" means a service or facility determined by the Authority under Article 42 of this Act.
+(i) "Exclusive License" means a carrier license or a service provider license issued on an exclusive basis.
+(j) "Frequency Band Plan" means a frequency band plan developed under Article 64 of this Act.
+(k) "Fund" means the universal service fund established under Article 44 of this Act.
+(l) "Individual License" means an individual license issued to a specific person to conduct a specific activity. The license so issued may contain conditions for conducting a specific activity. And until otherwise specified, this also includes "Carrier License" and "Service Provider License".
+(m) "Interconnection Agreement" means an agreement related to a matter specified in Article 34 of this Act.
+(n) "License" means a license issued under this Act. And the licenses so issued also include class licenses.
+(o) "Licensee" or "Licensed Party" means a party that has an individual license or a party that has been issued a license to conduct the activities determined under this Act.
+(p) "Network Facility Activity" means the installation, repair, replacement or modification of network-related items, and other necessary activities in the course of such work.
+(q) "Minister" means the minister of the ministry to which the responsibility of organizing and conducting communication services is assigned at the time.
+(r) "Ministry" means the ministry to which the responsibility of organizing and conducting communication services is assigned at the time.
+(s) "Network Boundary" means the network boundary specified in a decision issued in writing by the Authority for the purpose of this Act. If a network boundary is not so specified, the network boundary shall be:
+(1) The first socket installed in private residences to provide a telecommunications service; or
+(2) The main distribution box installed in a building; or
+(3) A place agreed upon by the service recipient and the licensee as the network boundary, unless the Authority determines otherwise in writing.
+(t) "Network Facility" or "Network Facilities" means a physical structure's substance or substances used for the purpose of providing a telecommunications service or in connection with such a service, excluding the equipment of the service recipients.
+(u) "Numbering Plan" means a numbering system determined under Article 57 (b) of this Act.
+(v) "Radio Communication" means radio signals sent and/or received from one place to another for the purpose of communication.
+(w) "Radio Communication Equipment" means radio, radio transmitter, receiver, antenna used or intended to be used in connection with radio communication, the framework used for their installation, other related apparatus and equipment, and any equipment used to generate and transmit any kind of radio signal, even if not for the purpose of establishing a radio communication.
+(x) "Service Provider" means a party that has a service provider license.
+(y) "Service Provider License" means a license issued under Article 5 (a) (2) of this Act to provide telecommunications services.
+(z) "Spectrum" means the area required for frequencies to establish radio communications.
+(aa) "Spectrum Assignment" means a contract made regarding the allocation of a frequency band by the Authority to another party under Article 65 (a) of this Act.
+(bb) "Spectrum Plan" means a project for determining spectrums formulated under Article 63 of this Act.
+(cc) "Telecommunication" means the exchange, transmission, and reception of any kind of sign, signal, writing, photo, sound, or any kind of intelligence through wire, radio, optical, or other electromagnetic systems.
+(dd) "Telecommunications Equipment" means network facilities and equipment used by the service recipient.
+(ee) "Telecommunications Industry" means an industry that includes the following in the provision of telecommunications services:
+(1) Providing service as a carrier;
+(2) Providing service as a service provider;
+(3) Providing a good or service in connection with a telecommunications service;
+(4) Importing or manufacturing equipment required by the service recipient or other telecommunications equipment;
+(5) Establishing, repairing, operating a telecommunications network or telecommunications equipment, or establishing a connection for a telecommunications service.
+(ff) "Telecommunications Business" means any business that provides or acquires telecommunications services or telecommunications equipment.
+(gg) "Telecommunications Network" means a system or systems used to exchange communications by means of guided or unguided electromagnetic energy, between fixed locations, between moving locations, or between fixed and moving locations, on a point-to-point or point-to-multipoint basis, within the territory of the Maldives, or between the Maldives and territories outside the Maldives.
+(hh) "Telecommunications Officer" means any person employed in connection with a telecommunications service, any member of the Authority, or a contractor or employee of the Authority, or any person who has official duties in connection with a telecommunications service.
+(ii) "Telecommunications Service" means a communication service provided to the public by means of a telecommunications network.
+(jj) "Service provided to the public" includes a service provided to guests in a tourist resort, hotel, or similar place of accommodation.
+(kk) "Universal Service Obligation" means the obligation specified in Article 42 of this Act.
+(ll) "Persons" or "Party" means individuals, registered and unregistered entities, associations, partnerships, and legal persons.
+(mm) "Maldives National Defence Force" means the military force established under Article 5 of Law No. 1/2008 (Armed Forces Act).

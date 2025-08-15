@@ -1,0 +1,619 @@
+Goods and Services Tax Act
+
+Chapter One
+Introduction
+
+1. Introduction and Name
+
+(a) This is the Act that stipulates the principles of levying "Goods and Services Tax" in accordance with this Act on the price of goods sold and services provided in the Maldives.
+
+(b) This Act shall be cited as the "Goods and Services Tax Act".
+
+Chapter Two
+Glossary of Concepts
+
+2. GST
+
+For the purpose of this Act, GST refers to the Goods and Services Tax levied under this Act on the price of goods sold and services provided in the Maldives. Hereinafter in this Act, "GST" shall refer to the Goods and Services Tax.
+
+3. Goods
+
+(a) For the purpose of this Act, goods refer to goods or items sold by a business operating in the Maldives.
+
+(b) The following types of goods are not included in the definition provided in subsection (a) of this Article.
+(1) Any right or interest granted under a law or a contract;
+2. Money.
+
+4. Service
+
+For the purpose of this Act, service refers to all matters not included as goods.
+
+5. Consideration
+
+Consideration refers to anything given, an act done, or an act forborne by a person or another person on their behalf, as the price paid for acquiring a good or receiving a service.
+
+6. Exempt Goods and Services
+
+Exempt goods and services refer to goods and services that are exempted from the GST levied under this Act, in accordance with this Act.
+
+7. Zero-Rated Goods and Services
+
+Zero-rated goods and services refer to goods and services for which the applicable GST rate is stipulated in this Act as 0% (zero percent).
+
+8. Input Tax
+
+Input tax refers to the tax payable under this Act by the recipient of goods or services to the provider of those goods or services, in a transaction occurring between two registered parties.
+
+9. Output Tax
+
+Output tax refers to the tax to be collected under this Act from the recipient of goods or services, in relation to goods or services provided by a registered party.
+
+10. GST Accounting Basis
+
+GST accounting basis refers to the basis upon which the amount of GST payable to MIRA under this Act is determined. It includes the invoice basis, payment basis, and hybrid basis.
+
+(a) Invoice basis refers to the basis where the output tax payable to MIRA by a registered party under this Act is calculated based on the tax invoices issued by that party, and the input tax reclaimed by that party from MIRA is calculated based on the tax invoices received by that party.
+
+(b) Payment basis refers to the basis where the output tax payable to MIRA by a registered party under this Act is calculated based on the money received by that party from the purchaser of goods or recipient of services, and the input tax reclaimed by that party from MIRA is calculated based on the money paid by that party to the seller of goods or provider of services.
+
+(c) Hybrid basis refers to the basis where the output tax payable to MIRA by a registered party under this Act is calculated based on the tax invoices issued by that party, and the input tax reclaimed by that party from MIRA is calculated based on the money paid by that party to the seller of goods or provider of services.
+
+11. Registered Person
+
+A registered person refers to persons required to be registered with MIRA under this Act, and persons who voluntarily register with MIRA under Article 53 of this Act.
+
+Chapter Three
+Levying of GST
+
+12. Obligation to Levy GST
+
+This Act mandates the levying and payment of GST, from the date of commencement of this Act, on the price of goods and services specified in this Act as being subject to GST, at the rates and in the manner prescribed in Articles 15 and 16 of this Act.
+
+13. Taxable Activity
+
+(a) For the purpose of this Act, a taxable activity refers to any business conducted continuously or on a permanent basis for the purpose of providing a good or service.
+
+(b) Notwithstanding subsection (a) of this Article, the following activities are not included as a taxable activity:
+(1) Employment performed or work done for a salary or wage under an employment agreement;
+(2) Employment performed or work done by a public official;
+(3) Employment performed or work done as a member of a company's board of directors;
+(4) Any of the exempt goods and services specified in Article 20 of this Act.
+
+14. Types of GST
+
+The GST to be levied under this Act is divided into the following two main categories:
+
+(a) GST levied on goods and services in the tourism sector;
+
+(b) GST levied on goods and services in other sectors.
+
+15. Goods and Services of the Tourism Sector
+
+(a) The following shall be considered as goods and services of the tourism sector:
+(1) Goods and services sold by tourist resorts, integrated tourist resorts, resort hotels, hotels, tourist guesthouses, picnic islands, private islands, tourist vessels, yacht marinas, and other such places operating with a license from the Ministry of Tourism;
+(2) Goods sold and services provided by shops, diving schools, spas, water sports facilities, and other such places established in the locations mentioned in subsection (a)(1) of this Article, excluding shops and cafes operated specifically for employees in those locations;
+(3) Goods sold and services provided by parties licensed by the Ministry of Tourism to provide tour operator services;
+(4) Goods sold and services provided to foreign tourist vessels arriving in the Maldives by agents responsible for the affairs of such vessels;
+(5) Goods sold and services provided by operators of domestic air transportation services to parties other than Maldivian citizens.
+
+(b) GST shall be levied on the price of goods and services specified in subsection (a) of this Article at the following rates during the following periods:
+(1) 3.5% (three point five percent) from the date of commencement of this Act until 31 December 2011;
+(2) 6% (six percent) from 1 January 2012 until 31 December 2012;
+(3) 8% (eight percent) from 1 January 2013 until 31 October 2014;
+(4) 12% (twelve percent) from 1 November 2014 until 31 December 2022;
+(5) 16% (sixteen percent) from 1 January 2023 until 30 June 2025;
+(6) 17% (seventeen percent) from 1 July 2025 onwards.
+
+(c) If a tourist vessel is chartered for a specific period, the GST for that transaction shall be calculated based on the charter price.
+
+(d) If a tourist resort, resort hotel, hotel, tourist guesthouse, picnic island, or private island, in its entirety or a specific part or parts, or a specific villa or room or rooms thereof, is leased for a specified period and at a specified price, under a strata scheme or otherwise, the GST for that transaction shall be calculated based on the total price so specified.
+
+(e) The Commissioner General is empowered to establish, in the regulations made under this Act, the administrative procedures to be introduced for the transitional phase of changing from one GST rate to another, in connection with the changes to the GST rates during the periods specified in subsection (b) of this Article.
+
+16. GST Levied on Goods and Services in Sectors Other Than Tourism
+
+Excluding the goods and services specified in Article 15 of this Act, GST shall be levied on the price of goods sold and services provided in other sectors at the following rates during the following periods:
+
+(a) 3.5% (three point five percent) from the date of commencement of this Act until 31 December 2011;
+(b) 6% (six percent) from 1 January 2012 until 31 December 2022;
+(c) 16% (sixteen percent) from 1 January 2023 onwards.
+
+17. Time of Supply
+
+(a) Unless expressly stated otherwise in this Article, for the purpose of this Act, the time a good or service is supplied shall be considered the earlier of the following two times:
+(1) The time the tax invoice for the price of that good or service is prepared;
+(2) The time the purchaser of the good or recipient of the service pays the price of that good or service, in whole or in part.
+
+(b) Notwithstanding subsection (a) of this Article, if a good is sold or a service is provided under an agreement where its price is paid in installments over specified periods, each installment payment under that agreement shall be considered a separate transaction subject to GST. And for each such transaction, the time the good was sold or the service was provided shall be the earlier of the time the installment payment is received and the time that payment becomes due.
+
+(c) The time of supply for the following types of taxable activities shall be determined in accordance with the regulations made under this Article of this Act:
+(1) Goods sold and services provided to related parties;
+(2) Goods and services for which the transaction price is received through a coin or token-operated machine, meter, or any other device;
+(3) Goods and services for which the transaction price is received through a voucher or similar instrument;
+(4) Goods and services for which the transaction price is received through points awarded under a loyalty scheme.
+
+18. Purpose of Determining the Time of Supply
+
+The time of supply for a good sold or a service provided is specified in Article 17 of this Act to determine the periods within which the GST paid by the purchaser of the good or recipient of the service must be remitted to MIRA by the seller of the good or provider of the service under Article 24 of this Act.
+
+19. Price of a Good or Service
+
+For the purpose of levying GST under this Act, the price at which a good was sold or a service was provided shall be the price calculated using the following principles:
+
+(a) If the consideration for a good sold or a service provided is paid in money, the price of that good or service shall be the amount remaining after deducting the amount of GST from the total amount of money paid as consideration.
+
+(b) If the consideration for a good sold or a service provided is paid with something other than money, the price of that good or service shall be the amount remaining after deducting the amount of GST from the market value of the item received as consideration.
+
+(c) If a good was sold or a service was provided on the condition that the price would be paid in money later, the price of that good or service shall be the amount remaining after deducting the amount of GST from the price that would have been charged if the payment were made immediately.
+
+(d) The price of goods sold or services provided in connection with the following types of taxable activities shall be determined in accordance with the regulations made under this Article of this Act:
+(1) Goods sold and services provided to related parties;
+(2) Items and services for which the transaction price is received through a coin or token-operated machine, meter, or any other device;
+(3) Items and services for which the transaction price is received through a voucher or similar instrument;
+(4) Items and services for which the transaction price is received through points awarded under a loyalty scheme.
+
+Chapter Four
+Goods and Services Exempt from Tax
+
+20. Goods and Services Exempt from GST
+
+The levying of GST under this Act is exempt for the price of the following goods and services:
+
+(a) Electricity services provided by an entity registered with a relevant government authority or a state institution to provide electricity services;
+
+(b) Water services provided by an entity registered with a relevant government authority or a state institution to provide water services;
+
+(c) Postal services provided by an entity registered with a relevant government authority or a state institution to provide postal services;
+
+(d) Sewerage services provided by an entity registered with a relevant government authority or a state institution to provide sewerage services;
+
+(e) Education services provided by an institution registered with a relevant government authority or a state institution to provide education services;
+
+(f) Health services provided by a facility registered with a relevant government authority or a state institution to provide health services;
+
+(g) Services specified in the regulations made under this Act, which are necessary for the provision of the services mentioned from (a) to (f) of this Article and facilitate the provision of those services as such;
+
+(h) Types of medicine approved for sale as medicine by the relevant government authority, and medical devices specified in the regulations made under this Act, sold by pharmacies registered with a relevant government authority or a state institution;
+
+(i) Items sold by a charitable association or organization registered with a relevant government authority or a state institution, from among items received by that association or organization as donations or charity;
+
+(j) Financial services specified in the regulations made under this Act;
+
+(k) Rent received from the lease of immovable property;
+
+(l) International transport services;
+
+(m) Goods and services sold to parties exempted from GST by another law;
+
+(n) Money collected as fines.
+
+(o) Flats, land, or buildings sold by the government, or by the government through a third party, under social housing projects conducted in accordance with a principle determined by the government that gives the government the power to control prices. If, after the commencement of the 1st amendment to Act No. 10/2011 (Goods and Services Tax Act), any party has paid GST in relation to a good exempted under this subsection, the money paid by that party as GST shall be refunded to that party within 30 (thirty) days from the commencement of the 2nd amendment to Act No. 10/2011 (Goods and Services Tax Act).
+
+(p) Daycare services provided by a daycare facility registered with a relevant government authority or a state institution.
+
+21. Consequence of GST Exemption
+
+The consequence of being exempt from GST is:
+
+(a) No GST shall be levied on a service, good, or item specified in Article 20 of this Act;
+
+(b) Even if a party providing a good or service specified in subsections (a) to (m) of Article 20 has paid GST to another registered party for any goods or services acquired to provide that good or service, no amount of the GST so paid shall be reclaimed from MIRA;
+
+(c) A tax invoice shall not be issued in relation to a good, item, or service specified in Article 20. And even if another invoice is issued in relation to a good, item, or service specified in that Article, GST shall not be included in that invoice.
+
+Chapter Five
+Goods and Services Subject to Zero-Rate GST
+
+22. Goods and Services subject to Zero-Rate GST
+
+GST is payable at 0% (zero percent) for the following goods and services:
+
+(a) Basic goods specified in Schedule 1;
+
+(b) Goods and services exported from the Maldives;
+
+(c) The sale of a going concern by its owners to another party, provided that the business is not terminated and continues to operate as a going concern.
+
+23. Consequence of Zero-Rating
+
+As the GST for the services and goods specified in Article 22 of this Act is set at a zero-rate, the consequence of levying GST at a zero-rate on any of those services or goods is:
+
+(a) The recipient of such a service or the purchaser of such a good has no GST to pay in relation to that transaction;
+
+(b) If GST has been paid in accordance with this Act to another registered party for any goods or services acquired to provide such a good or service, the GST so paid may be reclaimed from MIRA.
+
+Chapter Six
+Tax Period
+
+24. Tax Period
+
+(a) The tax period for registered persons shall be determined as follows:
+(1) Once every 3 (three) months, if the total value of goods and services supplied by the registered person within a month is less than MVR 1,000,000 (one million);
+(2) Once every 1 (one) month, if the total value of goods and services supplied by the registered person within a month is MVR 1,000,000 (one million) or more.
+
+(b) Notwithstanding subsection (a)(1) of this Article, this Act does not prevent persons falling within the category specified in that subsection from opting for a 1 (one) month tax period with the permission of the Commissioner General.
+
+(c) Unless expressly stated otherwise in this Act, a tax period shall end on the last day of a calendar month.
+
+25. Alignment of Tax Period
+
+If the end date of the tax period of a registered person under this Act does not coincide with the end date of their financial year, the Commissioner General is empowered to determine that the end date of the final tax period for that year shall be the same date as the end of that person's financial year.
+
+26. Notification of Certain Circumstances
+
+(a) If any of the following circumstances occur before the end of a tax period, the Commissioner General must be notified of it within 30 (thirty) days from the date of the occurrence.
+(1) Death of the registered person;
+(2) Bankruptcy of the registered person;
+(3) If the registered person is a company, the company decides to wind up, or a petition for winding up the company is filed in court;
+(4) The person is declared insolvent under the law or by the person themselves;
+(5) The business of the registered person is transferred to another party in accordance with the law, or the business is merged with the business of another party;
+(6) The business of the registered person ceases for any reason.
+
+(b) If a circumstance as described in subsection (a) of this Article occurs, the end date of the tax period shall be considered the date on which the circumstances mentioned in that subsection occurred.
+
+(c) In the event of a circumstance as described in subsection (a) of this Article, MIRA is empowered to determine in the regulations made under this Act the parties who must notify MIRA of the occurrence.
+
+Chapter Seven
+GST Return
+
+27. GST Return
+
+For each tax period, the registered person shall, after calculating the amount payable to MIRA as GST in accordance with this Act and the regulations made hereunder, prepare and submit a GST return to MIRA in accordance with those regulations.
+
+28. Due Date for GST Return Submission
+
+(a) The GST return required to be submitted under Article 27 of this Act shall be submitted by one of the following two dates:
+(1) Submission of the GST return before the 28th day of the month following the end of a tax period;
+(2) If the Commissioner General decides to postpone the due date for submitting the GST return for a valid reason, the date determined by the Commissioner General.
+
+(b) If a registered person dies, or the business of a registered person ceases, the GST return for that portion of the ongoing tax period at the time the event occurred shall be submitted by the person legally responsible for doing so on or before the 28th day of the calendar month following the end of that tax period.
+
+29. Information to be Included in the GST Return
+
+The tax return submitted by a registered person shall include the following information in accordance with the format prescribed by the Commissioner General:
+
+(a) Name of the registered person;
+(b) Taxpayer Identification Number (TIN);
+(c) The tax period;
+(d) The total value of goods and services supplied by that person;
+(e) If any deduction is permitted under Article 36 of this Act, the amount corresponding to that deduction;
+(f) The amount payable as output tax;
+(g) The amount allowed to be deducted for input tax;
+(h) The amount of tax payable to MIRA by the registered person after any adjustments to the tax amount;
+(i) Additional information specified in the regulations made under this Act.
+
+30. Preparer of the GST Return
+
+Unless proven otherwise, a GST return submitted under this Act in the name of a registered person shall be deemed to have been prepared directly by that person or with their authorization.
+
+31. Payment of GST upon Submission of GST Return
+
+A registered person shall, before the expiry of the deadline for submitting the GST return required for each tax period in accordance with this Act, calculate the GST payable by that person for that period in accordance with this Act and pay it to MIRA.
+
+32. Overpaid GST
+
+(a) In a situation where a registered person pays an amount to MIRA as GST that is in excess of the amount payable, they may apply to MIRA to reclaim that money.
+
+(b) Upon receiving an application mentioned in subsection (a) of this Article, MIRA may decide on one of the following two courses of action:
+(1) If they owe no other money to MIRA, refund that amount to them; or
+(2) Deduct that amount from the GST payable by them in the subsequent tax period.
+
+33. GST Becoming a Debt
+
+Money payable as GST under this Act is a debt owed to the state by the person liable to pay it, from the time the payment becomes due until the money is received by MIRA. And MIRA is empowered to recover that debt money for the state in accordance with the Tax Administration Act.
+
+Chapter Eight
+How GST is Calculated
+
+34. GST Accounting Basis
+
+(a) Unless stated otherwise in this Act, the GST accounting basis shall be the invoice basis.
+
+(b) Notwithstanding subsection (a) of this Article, if a registered person applies in writing to the Commissioner General, and if they meet the conditions specified in subsection (c) of this Article, they may be granted permission to calculate GST based on one of the following bases other than the invoice basis:
+(1) Payment basis;
+(2) Hybrid basis.
+
+(c) Permission to calculate GST based on a basis other than the invoice basis for the calculation of GST payable under this Act shall be granted only if one of the following conditions is met:
+(1) Being a Local Council or a government agency; or
+(2) Being a non-profit service provider; or
+(3) Being a registered person whose annual taxable income does not exceed MVR 2,000,000 (two million).
+
+35. Documents to be Submitted upon Change of GST Accounting Basis
+
+(a) If a registered person's GST accounting basis changes, the information specified in the regulations made under this Act must be submitted to MIRA in the format specified in those regulations.
+
+(b) The information required to be submitted under subsection (a) of this Article shall be submitted before the due date for the GST return of the tax period that was ongoing when the permission to change the GST accounting basis was granted or when the change of basis became necessary.
+
+36. Deductions
+
+(a) If the tax levied under Act No. 2/99 (Maldives Tourism Act) is included in the total value of services subject to GST in a tax period, that amount may be deducted from the total value of the service.
+
+(b) If the business run by a registered person is a business that operates after acquiring goods or services from another registered person, the GST shall be paid to MIRA for that business after deducting the input tax paid by that person for acquiring those goods or services from the amount of output tax payable by them to MIRA.
+
+(c)
+(1) If the amount due to a registered person in relation to goods or services provided by them is written off from the books as a bad debt under a principle determined by the Commissioner General, the GST corresponding to that amount may be deducted from the output tax payable by that person.
+(2) If any part or all of an amount deducted as per subsection (c)(1) of this Article is subsequently recovered by the registered person, the GST corresponding to the amount so recovered must be included in the tax return for the tax period in which the money was received, and that amount must be paid.
+(3) Where a registered person has made a transaction on credit and has claimed input tax in relation to that transaction, if the debt, in whole or in part, is not paid by the due date, the GST so claimed must be included in the tax return for that tax period and that amount must be paid.
+(4) If a registered person has paid GST as per subsection (c)(3) of this Article, and if the debt, in whole or in part, is subsequently paid, the GST corresponding to the amount of money so paid may be deducted from the output tax payable by that person.
+
+37. Offsetting Input Tax from Output Tax
+
+(a) A registered person may, in the GST return submitted under Article 27 of this Act, offset from the output tax the amount that this Act permits to be offset as input tax for a tax period.
+
+(b) If a registered person has acquired a good or service for the purpose of conducting a taxable activity, the entire amount of money they paid as input tax in relation to that good or service may be offset from their output tax.
+
+(c) Notwithstanding subsections (a) and (b) of this Article, money paid as input tax in relation to a good or service exempted from GST under Article 20 of this Act shall not be offset from output tax.
+
+(d) If a tax invoice has not been issued under Article 41 of this Act to the purchaser of goods or recipient of services in relation to goods sold or services provided by a registered person, no amount shall be offset from the output tax as input tax under this Article.
+
+(e) If an amount permitted by this Act to be offset as input tax in a tax period has not been offset from the output tax when submitting the GST return for that period, this Article does not prevent that unclaimed input tax amount from being offset against their output tax within 12 (twelve) months from the date it should have been offset.
+
+38. How to Treat a Disputed Price
+
+If a dispute arises between a registered person and the purchaser of a good or recipient of a service regarding the price of the good sold or service provided, the disputed amount must be shown on a debit note or a credit note. If an agreement is reached on that amount after the period for paying GST for that transaction has passed, any adjustment required to the GST paid for that past period must be made in the following tax period.
+
+39. Money Received as Reimbursement, by Judgment, Award, or Agreement
+
+If a registered person receives money in relation to a good sold or a service provided, as a reimbursement, under a court judgment, arbitral award, or out-of-court settlement, and if that money includes an amount on which GST is payable as specified in this Act, GST shall be paid on that amount.
+
+40. Discrepancy in Accounts
+
+If the Commissioner General finds a discrepancy between the amount paid by a registered person and the amount payable by that person when determining the amount of GST payable, and if that discrepancy is due to an underpayment of the amount payable, it shall be considered an amount payable by that person. And if the discrepancy is due to an overpayment of the amount payable, the Commissioner General shall grant that person permission to deduct such excess amount from the GST payable in the following tax period.
+
+Chapter Nine
+Tax Invoice
+
+41. Issuing a Tax Invoice
+
+(a) After selling a good or providing a service to another party liable to pay GST, a registered person must, if requested by the purchaser of the good or recipient of the service, issue a tax invoice to that party within 28 (twenty-eight) days.
+
+(b) Only one invoice shall be issued for each transaction as per subsection (a) of this Article.
+
+42. Information to be Included in a Tax Invoice
+
+(a) Unless expressly stated otherwise in this Act, a tax invoice prepared by a registered person must include the following information:
+(1) The words "Tax Invoice" written in a clearly visible manner;
+(2) The name, address, and TIN of the seller of the goods or provider of the service;
+(3) The name, address, and TIN of the purchaser of the goods or recipient of the service;
+(4) Invoice number;
+(5) Date the invoice was issued;
+(6) The quantity and description of the goods sold or a description of the service provided;
+(7) The price of the good or service, exclusive of the amount of GST payable on the good or service;
+(8) The amount of GST payable on the good or service;
+(9) The total price payable for the good or service, inclusive of GST, or a statement indicating that the GST amount is included in the price of the good or service.
+
+(b) If the price payable for a good sold or a service provided by a registered person, including GST, is less than MVR 5,000 (five thousand), this Article does not prevent the preparation of a tax invoice without the information specified in subsection (a)(3) of this Article.
+
+43. Issuing a Receipt Instead of a Tax Invoice
+
+If the purchaser of a good sold or the recipient of a service provided by a registered person is a party other than a registered person, the person selling the good or providing the service has the option to issue a receipt instead of a tax invoice for that transaction. A receipt issued in this manner must include the following information:
+
+(a) The name, address, and TIN of the registered person;
+(b) Date of payment;
+(c) Receipt number;
+(d) The quantity and description of the goods or a description of the service;
+(e) The price of the good or service, exclusive of the amount of GST payable on the good or service;
+(f) The amount of GST payable on the good or service;
+(g) The total price payable for the good or service, inclusive of GST, or a statement indicating that the GST amount is included in the price of the good or service.
+
+44. Credit Note
+
+If, after selling a good or providing a service and preparing a tax invoice for that transaction, the price of the transaction is reduced or lowered for any reason, a credit note must be issued to the purchaser of the good or recipient of the service. A credit note issued in this manner must include the following information:
+
+(a) The words "Credit Note" written in a clearly visible manner;
+(b) The name, address, and TIN of the seller of the goods or provider of the service;
+(c) The name, address, and TIN of the purchaser of the goods or recipient of the service;
+(d) Date the credit note was issued;
+(e) Credit note number;
+(f) Reason for issuing the credit note;
+(g) The tax invoice number and date, the amount of GST stated in that invoice, the amount of GST calculated in relation to the change in price, and the difference between these two amounts.
+
+45. Debit Note
+
+If, after selling a good or providing a service and preparing a tax invoice for that transaction, the price of the transaction is increased or raised for any reason, a debit note must be issued to the purchaser of the good or recipient of the service. A debit note issued in this manner must include the following information:
+
+(a) The words "Debit Note" written in a clearly visible manner;
+(b) The name, address, and TIN of the seller of the goods or provider of the service;
+(c) The name, address, and TIN of the purchaser of the goods or recipient of the service;
+(d) Date the debit note was issued;
+(e) Debit note number;
+(f) Reason for issuing the debit note;
+(g) The tax invoice number and date, the amount of GST stated in that invoice, the amount of GST calculated in relation to the change in price, and the difference between these two amounts.
+
+46. Treatment of Credit Notes and Debit Notes in GST Calculation
+
+When a registered person calculates the amount of tax payable for a tax period, credit notes and debit notes prepared by that person shall be treated in the same manner as tax invoices are treated as specified in this Act.
+
+47. Providing a Copy
+
+If the original of any of the following documents, issued by a registered person to a purchaser of a good or recipient of a service, is lost, and a copy is requested from the registered person, a copy shall be made from the copy held by that person, stamped and signed to indicate that it is a copy, and then issued to the purchaser of the good or recipient of the service:
+
+(a) Tax Invoice;
+(b) Receipt;
+(c) Credit Note;
+(d) Debit Note.
+
+48. Record Keeping
+
+(a) Registered persons must keep the documents specified in the regulations made under this Act for a period of 5 (five) years.
+
+(b) If the numbers on tax invoices, receipts, credit notes, and debit notes prepared for the purpose of this Act are not generated by software, those documents must contain a pre-printed serial number.
+
+49. Supplying a Good or Service to More Than One Person
+
+(a) If a registered person has supplied a good or service to more than one person, a single tax invoice shall be prepared in the names of all those persons.
+
+(b) The amount of GST included in a tax invoice prepared under subsection (a) of this Article can be claimed as input tax only by the person stated in the invoice as the recipient of the service.
+
+50. Not Preparing More Than One Document for a Single Transaction
+
+(a) It is an offense under this Act to prepare more than one tax invoice, receipt, debit note, or credit note for a single transaction.
+
+(b) Notwithstanding subsection (a) of this Article, this Article does not prevent the preparation of a new tax invoice, receipt, debit note, or credit note after canceling a tax invoice, receipt, debit note, or credit note that was made for a completed transaction.
+
+Chapter Ten
+Registration
+
+51. Obligation to Register
+
+(a) Among the persons conducting a taxable activity in the Maldives on the date this Act comes into force, the following persons must apply for registration with MIRA within 30 (thirty) days from the date of commencement of this Act:
+(1) Persons whose total value of goods sold and services provided in the past 12 (twelve) months exceeds MVR 1,000,000 (one million);
+(2) Persons who estimate that the total value of goods they will sell and services they will provide in the next 12 (twelve) months will exceed MVR 1,000,000 (one million);
+(3) Notwithstanding subsections (a)(1) and (2) of this Article, persons who provide the goods and services specified in Article 15 of this Act;
+(4) Persons who import goods into the Maldives at the time this Act commences.
+
+(b) If, for any person who starts conducting a taxable activity in the Maldives after the commencement date of this Act, the total value of goods sold and services provided in the 12 (twelve) months ending at the end of any month exceeds MVR 1,000,000 (one million), they must apply for registration with MIRA before the end of the month following that month.
+
+(c) If, for any person who has been conducting a taxable activity in the Maldives since before the commencement date of this Act, the total value of goods sold and services provided in the 12 (twelve) months ending at the end of any month exceeds MVR 1,000,000 (one million), they must apply for registration with MIRA before the end of the month following that month.
+
+(d) If it is estimated that, for any person who starts conducting a taxable activity in the Maldives after the commencement date of this Act, the total value of goods sold and services provided in the 12 (twelve) months starting from any month will exceed MVR 1,000,000 (one million), they must apply for registration with MIRA before the end of the month following the month in which the estimate was made.
+
+(e) If it is estimated that, for any person who has been conducting a taxable activity in the Maldives since before the commencement date of this Act, the total value of goods sold and services provided in the 12 (twelve) months starting from any month will exceed MVR 1,000,000 (one million), they must apply for registration with MIRA before the end of the month following the month in which the estimate was made.
+
+(f) Persons who begin providing a good or service specified in Article 15 of this Act after the commencement date of this Act must apply for registration with MIRA within 30 (thirty) days from the date of commencing that business.
+
+(g) Persons who begin importing goods into the Maldives after the commencement date of this Act must apply for registration with MIRA within 30 (thirty) days from the date of commencing importation.
+
+(h) The amount of GST shall not be included when considering the monetary amounts specified in subsections (a)(1), (a)(2), (b), (c), (d), and (e) of this Article.
+
+(i) GST on goods and services for which GST becomes newly applicable in connection with the 1st amendment to Act No. 10/2011 (Goods and Services Tax Act) shall begin to be levied from the 1st day of the month following the month in which a period of 2 (two) months from the commencement date of the 1st amendment to Act No. 10/2011 (Goods and Services Tax Act) is completed.
+
+52. Commencement of Levying GST
+
+Unless stated otherwise in this Act, persons who apply for registration with MIRA after the commencement date of this Act shall begin levying GST in accordance with this Act from a date determined by the Commissioner General, as per the regulations made under this Act.
+
+53. Applying for Voluntary Registration
+
+Even if a particular person is not required to register with MIRA under Article 51 of this Act, licensed businesses and licensed services have the option to voluntarily apply to the Commissioner General to be registered as a registered person.
+
+54. Applying for Registration
+
+An application to MIRA for registration as a registered person under this Act shall be made in the manner specified in the regulations made under this Act.
+
+55. Applying to Cancel Registration
+
+(a) Among the persons registered with MIRA under Article 51 of this Act, the following persons may apply to have their registration canceled in the following circumstances:
+(1) Persons whose total value of goods sold and services provided in the past 12 (twelve) months, at the end of any month, was less than MVR 500,000 (five hundred thousand);
+(2) Persons who estimate that the total value of goods they will sell and services they will provide in the next 12 (twelve) months will be less than MVR 500,000 (five hundred thousand);
+(3) Persons who, after ceasing a taxable activity, do not intend to restart that activity within the next 12 (twelve) months.
+
+(b) Persons applying to cancel their registration under subsection (a) of this Article shall cease paying GST in accordance with this Act from a date determined by the Commissioner General.
+
+(c) If the registration of any registered person is canceled, GST must be paid, in accordance with the regulations, on the goods in their possession at that time for which input tax has been claimed.
+
+(d) Notwithstanding subsection (c) of this Article, if a registered person is an importer of goods into the Maldives, and if that person's registration expires or is canceled, an account of the imported goods in that person's possession at that time must be submitted to MIRA. Goods included in an invoice submitted in this manner shall only be sold by issuing a tax invoice. And the tax received from the sale of those same goods must be duly paid by issuing a tax invoice.
+
+56. Persons to be Registered
+
+(a) When a person conducting a taxable activity in the Maldives is registered with MIRA under any of the subsections from (a) to (g) of Article 51 of this Act, they shall be registered in the name of a person, as well as in the name of one of the following legal personalities:
+(1) Company;
+(2) Partnership;
+(3) Cooperative Society;
+(4) Association.
+
+(b) In a situation deemed appropriate by the Commissioner General, when a licensed business or a licensed service is registered with MIRA in accordance with Article 51 of this Act, the Commissioner General is empowered, in accordance with the regulations made under this Act, to order the owner of that business or service to also register with MIRA.
+
+57. Requirement to Pay GST for Conducting Business or Providing Services without Registration
+
+(a) If a person who is required to be registered with MIRA under this Act sells a good or provides a service without being registered, that person shall be considered a person liable to pay GST as if they were a registered person under this Act.
+
+(b) If, among the licensed businesses or licensed services in the Maldives, a person registered with MIRA under Article 51 of this Act conducts a taxable activity even after the license or permit issued to them by the relevant government authority has been canceled by that authority, that person shall be considered a person liable to pay GST as if they were a registered person under this Act.
+
+58. Requesting De-registration
+
+(a) If a person who was conducting a taxable activity in the Maldives ceases that activity, they must, within 10 (ten) days of ceasing that activity, apply to the Commissioner General in the manner specified in the regulations made under this Act to request the cancellation of their registration as a registered person.
+
+(b) Upon receiving such a request as in subsection (a) of this Article, the registration as a registered person shall be canceled in accordance with the regulations made under this Act. And the person shall be notified of such cancellation within 15 (fifteen) days.
+
+59. Notifying Changes to Registration Information
+
+If any of the following events occur, the registered person must notify MIRA of the event within 30 (thirty) days from the date of its occurrence:
+
+(a) A change in the name, address, or the type and nature of the business being conducted by the registered person;
+
+(b) If the registered person is a company, a change to the company's memorandum or articles of association;
+
+(c) A person registered under this Act entering into a partnership with another registered person;
+
+(d) A person registered under this Act merging with another registered person;
+
+(e) The establishment in a foreign country of a company or business association in which a person registered under this Act has a share or financial interest, or in which their shareholders or directors have a financial interest.
+
+Chapter Eleven
+Miscellaneous
+
+60. Reading this Act with the Tax Administration Act
+
+This Act shall be read together with Act No. 3/2010 (Tax Administration Act). And every word or phrase used in this Act shall, unless expressly stated otherwise, be interpreted in the manner that word or phrase is interpreted in that Act.
+
+61. Coincidence with a Public Holiday
+
+If a date by which a specific act is required to be done under this Act falls on an official public holiday, that act shall then be done on the first official working day following that public holiday.
+
+62. Currency for GST Payment
+
+(a) GST on taxable activities specified in Article 15 of this Act shall be paid in United States Dollars or in a foreign currency accepted by the Maldives Monetary Authority and determined by the Commissioner General.
+
+(b) Notwithstanding subsection (a) of this Article, the Minister of Finance may determine that GST be paid in Maldivian Rufiyaa.
+
+(c) GST on taxable activities specified in Article 16 of this Act shall be paid in Maldivian Rufiyaa.
+
+63. Amending a GST Return
+
+After submitting a GST return under Article 27 of this Act, a registered person may, within 12 (twelve) months from the due date for submitting that return, submit an amendment to that return by means of a written notification to MIRA, in accordance with the regulations made under this Act.
+
+64. Commencement of the Act
+
+This Act shall come into force 1 (one) calendar month after the day it is passed, ratified, and published in the Government Gazette.
+
+65. Repealed Law
+
+The tax system operating under Act No. 19/2010 (Act on Levying Tax on the Price of Goods and Services Sold by Tourist Service Providers) is, from the date of commencement of this Act, transferred under this Act and established as a system operating under this Act, and from that date, that Act is repealed.
+
+66. Schedule
+
+The schedule to this Act is an important part of this Act. This Act is complete with its schedule.
+
+67. Making and Enforcing Regulations
+
+(a) If this Act assigns the making of a regulation from among the regulations to be made under this Act to a specific authority, that regulation shall be made and enforced by that authority. All other regulations shall be made and enforced by MIRA.
+
+(b) All regulations to be made under this Act shall be made and published in the Government Gazette within 30 (thirty) days from the date this Act is ratified and published in the Gazette.
+
+68. Definitions of Words and Phrases
+
+Unless expressly stated otherwise in this Act:
+
+"Accounts" means the balance sheet, profit and loss account, schedules and notes related to the accounts, directors' report, auditors' report related to the accounts, and all other documents included with or within those documents.
+
+"Public official" means any person holding a government post and receiving a salary or wage from the state budget.
+
+"Commissioner General" means the Commissioner General of Taxation appointed under Act No. 3/2010 (Tax Administration Act).
+
+"Bad debt" means "bad debts" or debts that are written off from the accounts as uncollectible in accordance with international accounting standards.
+
+"MIRA" means the Maldives Inland Revenue Authority established under Act No. 3/2010 (Tax Administration Act).
+
+"Person" includes an individual, a company, a partnership, a trust, and a body of persons.
+
+"Business" includes the activity of buying and selling goods, manufacturing activities conducted on a commercial basis, the activity of providing a professional service, or any other activity conducted to provide a service, or any other such activity, carried on for the purpose of earning an income.
+
+"Local Council" means a council established under Act No. 7/2010 (Decentralization Act of Maldives).
+
+"GST return" means the return prepared and submitted under Article 27 of this Act.
+
+"Tax invoice" means the document issued under Article 41 of this Act by a registered person to another person who pays GST, after selling a good or providing a service to that person.
+
+"Tax period" means the period determined under Article 24 of this Act for the payment of GST.
+
+"TIN" means the Taxpayer Identification Number assigned by MIRA to a person upon their registration with MIRA as a registered person.
+
+"Postal service" in the meaning given to this phrase does not include courier services.
+
+"Tourists" means persons entering the Maldives on a tourist visa issued under Act No. 1/2007 (Maldives Immigration Act).
+
+"Daycare" means the service provided for a fee by an individual or a legal personality for the care of children, children or persons with disabilities, or sick persons, during daytime hours, as a form of care for those children or persons.
+
+Schedule 1
+Basic Goods with a Zero-Rate
+(The content of Schedule 1 was not included in the provided text.)

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-08-14T23:47:59.827806",
+  "database": "laws.db",
+  "structure_valid": true,
+  "integrity_valid": true,
+  "completeness_valid": false,
+  "search_valid": false,
+  "overall_valid": false
+}

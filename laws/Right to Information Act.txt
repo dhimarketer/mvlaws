@@ -1,0 +1,872 @@
+Right to Information Act
+
+Chapter One
+Introduction and Commencement
+
+Introduction and Title
+1.
+(a) This is an Act to establish the extent of the right to seek and obtain information in the Maldives, and to determine the principles by which every person is granted the right to seek and obtain information created, held, or maintained by State institutions, in order to conduct all affairs of the State in a transparent and accountable manner.
+
+(b) This Act shall be cited as the "Right to Information Act."
+
+Objective
+2.
+The objective of this Act is to specify the rights afforded to every person in relation to the following matters and to define the scope of those rights:
+
+(a) To establish the right to seek and obtain information held by a State institution.
+
+(b) To stipulate that the right to seek and obtain information from a State institution shall be denied only in circumstances expressly stated in this Act, and to establish the principle of disclosing such information in the interest of public welfare, if the harm to the public interest from non-disclosure outweighs the harm from disclosure.
+
+(c) To encourage the publication of information held by State institutions to the widest possible extent.
+
+(d) To grant every person the right to ensure that information maintained about them by a State institution is complete, true, and not misleading.
+
+(e) To establish appropriate principles to facilitate the implementation of the matters stated above.
+
+Chapter Two
+Scope of the Right
+
+General Right to Information
+3.
+(a) Unless otherwise stated in this Act, it is incumbent upon any State institution to which a request for information is made under this Act, to inform the person requesting the information, within a reasonable period, whether or not the said information is held by that State institution, or from which State institution the information can be obtained, and to provide such notification accordingly.
+
+(b) If information held by a State institution is required to be disclosed under this Act, it is also incumbent upon that State institution, unless otherwise stated in this Act, to disclose that information within a reasonable period.
+
+(c) Notwithstanding any provision in a law that was in force before this Act or a law that comes into force after this Act, stating that information held by a State institution may only be disclosed in accordance with a specific procedure or that its disclosure is prohibited, the principles set forth in this Act shall prevail. The decision to disclose or not to disclose such information shall be made in accordance with the provisions established in this Act.
+
+The Right to Seek and Obtain Information
+4.
+(a) Seeking and obtaining information held by a State institution, in accordance with the principles set forth in this Act, is a legally enforceable right granted to every person who requests it.
+
+(b) The term "enforceable legal right" in subsection (a) of this section means that a person may request to obtain the information in accordance with the principles set forth in this Act or through a court of law, and that a legal or judicial order may be issued to grant such a request, and the benefits of such an order may be sought.
+
+State Institutions That Have Ceased to Operate
+5.
+If a functioning State institution ceases to operate, the responsibility for the information created, maintained, or held by that State institution shall be borne by one of the following parties:
+
+(a) If the functions of a State institution have been transferred to another State institution, the institution to which the functions were transferred.
+
+(b) If the functions of that State institution have been transferred to two or more State institutions, the State institution that holds the required information.
+
+(c) If the functions of that State institution have not been transferred to another State institution, the party that is currently maintaining the information.
+
+Chapter Three
+Requesting Information
+
+Submitting a Request for Information
+6.
+(a) A request for information held by a State institution shall be submitted in writing to the Information Officer of that State institution, including the following:
+
+(1) A clear statement that the request is made under this Act.
+
+(2) Sufficient detail of the information requested to enable its identification.
+
+(3) An address to which various documents to be sent under this Act should be delivered.
+
+(4) Payment of any fee prescribed by that institution for viewing or providing the information, accompanying the request, or a confirmation of agreement to pay such a fee upon request by the State institution.
+
+(5) The name, address, and a contact number of the person requesting the information.
+
+(b) If a person requesting information is unable to submit a written request as described in subsection (a) of this section due to a physical disability or illiteracy, the information mentioned in subsection (a) may be presented orally to the Information Officer of a State institution. In such a case, the Information Officer shall write down the request, sign it, have a witness present who shall also sign the request, obtain the thumbprint of the person who made the oral request on the written document, and provide a copy of the written request to the person who made the oral submission.
+
+(c) A State institution may prepare and introduce a specific form for requesting information under this Act. However, such a form shall not be a cause for unreasonable delay in obtaining the information, nor shall it create an unreasonable difficulty in obtaining the information.
+
+(d) In the event that the form mentioned in subsection (c) of this section has not been introduced, or if the form is unavailable, a request for information may be submitted without using a form.
+
+(e) The form mentioned in subsection (c) of this section shall not require the provision of any information other than that specified in subsection (a) of this section.
+
+(f) Upon submission of a request for information, the institution to which the request was made shall issue a receipt confirming that the request has been received.
+
+Timeframe for Acting on a Request for Information
+7.
+(a) Every request submitted under this Act for information shall be acted upon without delay, and if the information is to be provided under this Act, it shall be provided to the requesting party at the earliest possible opportunity. In no circumstances shall this period exceed 21 (twenty-one) days.
+
+(b) Notwithstanding subsection (a) of this section, if a request is made for information necessary to avert a danger to a person's liberty or life, the information shall be released to that person within 48 (forty-eight) hours at the latest.
+
+(c) If providing the requested information requires the study of a large volume of information, or if a large amount of information has been requested, and if dedicating time to either of these tasks would cause a significant disruption to the normal operations of the State institution, the institution to which the request was made has the right to extend the 21 (twenty-one) day period mentioned in subsection (a) of this section by an additional 14 (fourteen) days, in writing, before the expiry of the initial period, for the aforementioned reasons.
+
+(d) For the purpose of this Act, failure to comply with the timeframes and procedures in subsections (a), (b), and (c) of this section, as specified in those subsections, shall be considered a refusal to provide information.
+
+Incomplete, Incorrect, or Frivolous Requests
+8.
+(a) When a request for information held by a State institution is submitted, if some of the information required to be included in the request by this Act is incomplete, the State institution may reject the request for that reason. However, the request shall only be rejected after informing the requesting party of the issue, providing an opportunity to complete the missing information in the request, and even after offering assistance to complete the information, if the party refuses to do so.
+
+(b) If a request submitted to a State institution is of the same nature as a previous request made by the same party to which a response has already been provided, and if no reasonable change has occurred to that information since the response was given, or if a reasonable period has not passed, the State institution has the discretion not to act on the request, after informing the requesting party in writing of this reason.
+
+Transferring a Request Submitted to One State Institution to Another
+9.
+(a) When a request for information is submitted to a State institution, if one of the following circumstances exists, the State institution shall transfer the request to the relevant State institution:
+
+(1) The requested information is not among the information held within the State institution to which the request was submitted, and the State institution knows from which State institution the information can be obtained; or
+
+(2) Although the requested information is held by the institution to which the request was submitted, it is more appropriate for another State institution to disclose it; or
+
+(3) The institution to which the request is to be transferred has no objection to the transfer.
+
+(b) When a request is transferred to another State institution in accordance with subsection (a) of this section, the party who submitted the request must be notified in writing. The notification must also state that the request has been transferred, the date of transfer, and the reason for the transfer.
+
+(c) If a request is to be transferred to another State institution in accordance with subsection (a) of this section, the transfer must be completed within 7 (seven) days of the request being received by the initial institution.
+
+Information Stored in a Medium Other Than Writing
+10.
+If a person submits a request for information that is not stored in a specific written document, but is information that needs to be extracted from information held in some other medium, the State institution shall accept the request as a request for information in a written document. For the purpose of this Act, that information shall also be considered to be in the form of a written document.
+
+Chapter Four
+Responding
+
+Deciding on Requests for Information
+11.
+(a) Upon receiving a request for information, the Information Officer of the State institution shall complete the following actions:
+
+(1) Determine if the requested information can be provided immediately, at a later date, or if its disclosure is not permitted.
+
+(2) Determine if any fee is required for the release of the information.
+
+(3) Determine if the information cannot be released within 21 (twenty-one) days.
+
+(b) If, within 21 (twenty-one) days of a person submitting a request for information, no notification regarding the request has been sent to the requesting party, it shall be deemed for the purpose of this Act that the State institution has refused to release the requested information.
+
+Responding to a Request
+12.
+If a State institution receives a request for information, it shall respond to the request in writing, in the following manner:
+
+(a) If the request is accepted, a statement of acceptance, the total amount of the fee payable for releasing the information in the request, and the manner in which the information will be released.
+
+(b) If the request cannot be accepted, a statement of non-acceptance and the reason for it.
+
+(c) Whether the information in the request is available at that State institution or not.
+
+(d) If the information in the request is available at the State institution but cannot be released, the reason for non-disclosure.
+
+(e) If the information in the request cannot be released within 21 (twenty-one) days, the reason why it cannot be done.
+
+(f) A statement that, in connection with a response provided under subsections (b), (c), (d), or (e) of this section, the person who submitted the request has the right to appeal in accordance with this Act.
+
+Refusal to Provide Requested Information
+13.
+(a) When a request for information is submitted to a State institution, the Information Officer of that State institution may decide not to release the information in the following circumstances:
+
+(1) It is information exempted under this Act, and the information does not fall under any of the circumstances specified in Article 20 of this Act; or
+
+(2) The request is for information that is available for any person to view under normal procedure, either with or without a fee, at that State institution or any other State institution; or
+
+(3) It is information that is made publicly available for viewing without any fee, in accordance with the policies and customs of that State institution; or
+
+(4) It is information that is available for purchase under normal procedure.
+
+(b) Notwithstanding subsection (a)(1) of this section, if information exempted under this Act is exempted due to specific information contained within it, the State institution shall not decide to withhold the information if the remainder of the information can be released after redacting that part.
+
+(c) If a State institution decides not to release information under subsection (a) of this section, the reason for such a decision shall be communicated in writing to the person who requested the information.
+
+(d) In a situation where an Information Officer refuses to release information as described in subsection (a)(2) of this section, the Officer shall inform the person who requested the information of the place or State institution or procedure through which the information can be obtained.
+
+Postponing the Release of Information
+14.
+(a) If information requested by a person cannot be provided at the time of the request under the following circumstances, a time may be set for when the information can be released, and the release of the information may be postponed until that time:
+
+(1) It is information that must be publicly published under this Act or another law, and the time for doing so has not yet arrived.
+
+(2) It is information that must be submitted to the People's Majlis, and the time for submitting the information has not yet arrived.
+
+(3) It is information that must be submitted to a specific party under a law, in connection with an ongoing matter, or in connection with a planned matter, and the time for submitting the information to that party has not yet arrived.
+
+(b) If an Information Officer decides to postpone the release of information under subsection (a) of this section, the officer shall inform the person who submitted the request in writing that this has been done, the reason for doing so, and the date on which the information will be made available.
+
+(c) When a person who submitted a request for information is notified that the release of information has been postponed in accordance with subsection (b) of this section, that person has the right to submit a complaint to the Review Committee of the State institution within 14 (fourteen) days of receiving the notification.
+
+(d) If, in relation to a complaint submitted in accordance with subsection (c) of this section, the decision of the Review Committee of the State institution is also to postpone the release of the information, this shall be communicated in writing to the person who submitted the complaint. That person has the right to appeal the matter to the Information Commissioner within 14 (fourteen) days of receiving the notification.
+
+Methods of Providing Information
+15.
+(a) Information requested by a person may be provided to that person in one of the following ways:
+
+(1) If it is information that is available for viewing, by giving that person a reasonable opportunity to study or view the information;
+
+(2) By providing a copy of the information;
+
+(3) If it is information that is compiled to be heard or seen, with or without the use of another device, by giving the person the opportunity to listen to or view it;
+
+(4) If it is information written in shorthand or recorded, by preparing a copy that conveys the meaning of the information and providing a copy of it.
+
+(b) When submitting a request for information, if the person who submitted the request has specified a method from among the methods in subsection (a) of this section for providing the information, the information shall be released in the manner requested.
+
+(c) Notwithstanding subsection (b) of this section, if any of the following circumstances arise in releasing the information in the requested manner, the information may be released in a manner other than that requested:
+
+(1) The work required to provide the information in the desired manner would cause a disruption to the normal work of the State institution.
+
+(2) A situation arises where, in the process of providing the information in the requested manner, the original of the item may be damaged or its preservation may become difficult.
+
+(3) A copyright issue may arise.
+
+(d) If the manner in which information is requested and the manner in which it can be released differ in accordance with subsection (c) of this section, and if this results in an increase in the fee for releasing the information, this shall be explained to the person who requested the information. The information shall be provided in that manner only if the person who requested the information agrees to receive it in that way, even if the fee is higher.
+
+(e) If information is prepared in more than one language, it shall be provided in the language chosen by the person who requested the information. However, if the information is prepared in Dhivehi or English, or in both languages, providing the information available in either of those two languages shall be considered as having complied with the principle in this subsection.
+
+Chapter Five
+Correcting Information
+
+Right to Request Correction of One's Information
+16.
+When a person is shown information from a State institution for viewing or is given a copy of it, and after viewing it, the person submits a request stating that there is something to be corrected in it in the following circumstances, the State institution shall investigate the truth of the matter and correct the information in accordance with the truth:
+
+(a) The information contains the personal data of the party who requested to obtain the information.
+
+(b) The information is necessary for use in connection with various administrative tasks carried out by the State institution.
+
+(c) The information is, in the view of the person to whom the information pertains, incorrect, untrue, incomplete, or information that could lead to a misunderstanding.
+
+Refusal to Correct Information Held by a State Institution
+17.
+When a person requests to have information held by a State institution corrected, the State institution may decide not to do so in the following circumstances:
+
+(a) The State institution is certain that the information is complete, correct, and in a state where none of its fundamental aspects can be misunderstood.
+
+(b) The State institution is certain that the request to correct the information contains something that is untrue or could lead to a misunderstanding.
+
+(c) The correction of the requested information can only be done by following a specific procedure in a specific law, and that procedure has not been followed.
+
+Inclusion of a Noting Phrase
+18.
+If a State institution refuses to correct information about a person held by it under this Act, following a request submitted by a person on the grounds that it is incorrect, untrue, or incomplete, the person may be asked to include a "specific phrase" in the information regarding one of the following two matters:
+
+(a) That a particular matter is, in the view of the person submitting the request, incorrect, untrue, or misleading information; or
+
+(b) If the information is untrue or incorrect, what the person states is the correct or complete version of the information.
+
+Chapter Six
+Regarding Fees
+
+Charging Fees
+19.
+(a) The circumstances under which a fee may be charged for releasing information by a State institution under this Act, and the rates at which fees may be charged in those circumstances, shall be stated in a regulation made under this Act.
+
+(b) In releasing information by a State institution under this Act, a fee may be charged in accordance with the regulation mentioned in subsection (a) of this section.
+
+(c) In determining the circumstances and rates for charging a fee in accordance with the regulation mentioned in subsection (a) of this section, the following principles shall be adhered to:
+
+(1) The fee charged to a person shall not be an amount greater than the cost incurred to convert the information into the format in which it is to be released to that person.
+
+(2) The fee shall not be a charge for the work of searching for, viewing, collecting, and verifying the information.
+
+(3) The fee shall not be an amount that becomes an obstacle for financially disadvantaged persons to obtain information that they are entitled to receive.
+
+(4) If a person requests their own personal information, or information concerning a matter of general public benefit, no fee shall be charged for it.
+
+(d) When a State institution provides information, if a fee is payable for providing the information within the required period, but the information is provided after the deadline for providing it has passed, no fee shall be charged for providing the information.
+
+(e) If the information requested from a State institution is information that must be released under this Act, the Information Officer of the State institution shall, upon the request for the information, inform the requesting party of the fee that will be incurred.
+
+(f) The regulation made under subsection (a) of this section shall also state the following:
+
+(1) The method for determining the fee.
+
+(2) Parties from whom a fee will not be charged.
+
+(3) Parties who are exempted from paying a fee.
+
+(4) The maximum amount that can be charged as a fee.
+
+Chapter Seven
+Prioritizing Public Interest and Exceptional Cases
+
+Prioritizing Public Interest
+20.
+(a) Every article in this chapter shall be read in a way that allows for the upholding of the principle stated in this article, and in a way that does not restrict that principle.
+
+(b) Notwithstanding any other provision in any article of this chapter, if, upon a request for specific information, the disclosure of that information would better serve the public interest than refusing to disclose it, and if the interest protected by disclosing the information is greater than the interest protected by not disclosing it, that information shall be released by the State institution.
+
+(c) When deciding not to release specific information under this Act on the grounds that its disclosure would be detrimental to the public interest, the following shall not be considered matters that would be detrimental to the public interest:
+
+(1) The information contains matter that would make it difficult for a State institution to be held accountable if people knew how it had acted.
+
+(2) The information contains matter that would diminish trust in a State institution.
+
+(3) It appears that its meaning could be misinterpreted because some of the information contained within it is missing.
+
+Releasing Part of the Information
+21.
+If a part of the information that must be released upon request contains information that must be exempted under this Act, the part that can be released shall be released after redacting that part from the information.
+
+Information Received with the Condition of Confidentiality
+22.
+The disclosure of the following information is exempted by this Act:
+
+(a) Information that, if disclosed, would constitute a criminal offense under any law of the Maldives.
+
+(b) Information that, if disclosed, could lead to a lawsuit against the government for breach of confidentiality.
+
+(c) Information that, if disclosed, would likely impede the government's ability to obtain similar information in the future.
+
+(d) The following types of information, if, considering the justice and fairness of the situation, its disclosure is not in the best interest:
+
+(1) Information that, if disclosed, could undermine the government's ability to maintain and manage the nation's economy.
+
+(2) Information that, if disclosed before the required time, would cause an adverse effect on a specific person or group.
+
+(3) Information that would undermine the privilege of a judicial court or the People's Majlis.
+
+(4) Information contained in a trial held without public access in legally permissible circumstances.
+
+(5) Personal, legal, or judicial information that could harm the identity or dignity of a child under the age of 18 (eighteen).
+
+(6) Information in cases of various sexual abuses and other similar crimes against women or children under 18 (eighteen) years of age, which could reveal the identity of the victim or harm their identity or dignity.
+
+Personal Information
+23.
+(a) If information that a State institution is required to release is the personal information of a third person, the Information Officer of that State institution shall not release that information except with the consent of that third party.
+
+(b) Notwithstanding subsection (a) of this section, if it is deemed important for the maintenance of the public interest to release such personal information of a third person, that information may be released for that reason and to that extent without the consent of the third party, but with the permission of the Review Committee established in that State institution under this Act.
+
+Legal Privilege
+24.
+(a) If information that must be released is information that has legal privilege based on a legal investigation or an ongoing trial, the State institution has the discretion not to release that information.
+
+(b) Notwithstanding subsection (a) of this section, if the party who benefits from the legal privilege waives that privilege, the principle mentioned in this article shall no longer apply to that information.
+
+Commercial Information
+25.
+A State institution has the discretion not to release the following types of information if their disclosure would cause irreparable harm:
+
+(a) Information that was obtained with an agreement not to disclose it, and which contains one of the following characteristics:
+
+(1) It includes a trade secret.
+
+(2) If the information were disclosed, it would adversely affect the commercial or financial interests of that third party.
+
+(b) Information that was sought, obtained, or known through a relationship with another state or an international organization, or through an agreement, or ongoing talks, or an exchange of documents, and the disclosure of which would adversely affect, or could be perceived to adversely affect, the relationship established by the Maldives with that state or organization.
+
+(c) The requested information is an agreement or transaction between two private individuals or two private companies, which was obtained, held, or maintained in the course of the official work of the State institution, and its disclosure would reveal the personal, financial, debt-related, or trade secrets of either of the two parties.
+
+Health and Safety
+26.
+If the requested information is such that its disclosure would pose a risk to a person's health, life, or safety, the State institution has the discretion not to release that information.
+
+Information Related to Enforcement Agencies
+27.
+(a) Information related to the following matters is exempted from disclosure under this Act:
+
+(1) Information that could obstruct an ongoing investigation into an allegation that a person has committed an act in violation of the law.
+
+(2) Information that could reveal the identity of a confidential informant.
+
+(3) Information that must be kept confidential in the implementation or enforcement of a law.
+
+(4) Information that could cause harm to a person's life or safety.
+
+(5) Information that could obstruct the fair conduct of an ongoing trial concerning a person.
+
+(6) Information that would nullify the usefulness of a valid procedure established to prevent, detect, investigate, or deal with acts contrary to the law.
+
+(7) Information that could harm the security of a building, a place, or a vessel.
+
+(8) Information that could obstruct the arrest of a person who needs to be arrested on suspicion of a crime or facilitate the escape of a detained person.
+
+(b) The following information is not information that is permitted to be withheld under subsection (a) of this article:
+
+(1) Information that reveals that an investigation of a matter has gone beyond the scope defined in the law.
+
+(2) Information that indicates the general procedure by which enforcement agencies act in relation to acts contrary to the law.
+
+(3) Information that indicates the success rate of various programs conducted to stop acts contrary to the law.
+
+(4) Information that has been provided to the person under investigation through normal procedure.
+
+Law Enforcement
+28.
+A State institution has the discretion not to release the following types of information if their disclosure would cause irreparable harm to:
+
+(a) The establishment of justice.
+
+(b) The assessment or collection of a required tax or duty.
+
+(c) The implementation of procedures for controlling persons entering the Maldives.
+
+(d) Determining whether to file a civil or criminal lawsuit in relation to a matter or whether any legal action needs to be taken.
+
+Defense and Security
+29.
+If there is a risk that the disclosure of information falling within the scope of a matter that could endanger national security as defined in the Constitution would cause irreparable harm, a State institution has the discretion not to release such information. The principle stated in this article shall not apply to the following matters:
+
+(a) Matters related to administration and management.
+
+(b) Work awarded on a contract or tender basis.
+
+(c) The employment and dismissal of staff.
+
+(d) Other information, the disclosure of which does not include a matter that could endanger national security.
+
+General Economic Interest
+30.
+A State institution has the discretion not to release the following types of information if their disclosure would cause irreparable harm to:
+
+(a) The government's ability to advance the nation's economy in a beneficial way.
+
+(b) The legally valid commercial or financial interests of a State institution.
+
+Policy Making and Implementation
+31.
+(a) A State institution has the discretion not to release the following types of information if their disclosure would cause irreparable harm:
+
+(1) Information that would hinder the formulation of government policy in a way that achieves results.
+
+(2) Information where the disclosure before the scheduled time would diminish the benefits of implementing a policy.
+
+(3) Information that would obstruct the application of standards used for testing or auditing a matter.
+
+(b) The principles in subsection (a) of this article shall not apply to technical information, statistics, and studies and analyses of matters.
+
+Cabinet Records
+32.
+(a) A State institution has the discretion not to release the following information:
+
+(1) A document prepared for submission to the Cabinet.
+
+(2) A document currently submitted to the Cabinet.
+
+(3) A draft copy of a document prepared for submission to the Cabinet or a copy or duplicate of information that has been submitted.
+
+(4) Information that, if disclosed, would reveal a Cabinet decision, the details of discussions that took place in the Cabinet, or who said what in those discussions.
+
+(b) In the following circumstances, a Cabinet document is not an exempted document:
+
+(1) A document containing administrative details, financial details, and statistical details prepared for submission to the Cabinet or for discussion in the Cabinet.
+
+(2) Information on a case submitted to the Cabinet that has been fully concluded.
+
+(3) A document for which 10 (ten) years have passed since its submission.
+
+(c) In this article, the definition of Cabinet includes a committee of the Cabinet and a sub-committee of a Cabinet committee.
+
+Time Limit
+33.
+The principles in Articles 22, 26, 27, 28, 29, and 30 of this Act shall not apply to information that is over 10 (ten) years old.
+
+Procedure for Disclosing a Third Party's Information
+34.
+(a) When a request is submitted to a State institution to obtain information related to a third party, which is protected by Articles 23, 24, 25, and 26 of this Act, if the Information Officer of the State institution intends to release the information, the Officer must notify the third party of the intention to release the information within 5 (five) days from the date the request was received.
+
+(b) Upon receiving a notification in accordance with subsection (a) of this section, if the third party has an objection to the disclosure of the information, they must inform the Information Officer of this orally or in writing within 7 (seven) days from the date of the notification.
+
+(c) When deciding whether to release the information, the Information Officer may decide to release or not to release the information, taking into account the reasons for the third party's objection.
+
+(d) If the Information Officer decides to release the information despite the third party's objection, the officer shall inform the third party in writing that this has been done and the reason for doing so. The Information Officer shall also state in that letter that if the party is dissatisfied with the matter, they have the opportunity to appeal in the manner specified in this Act. The letter must also state how to contact the party to whom the appeal should be made.
+
+(e) Information to which a third party objects shall only be released by the Information Officer after it has been determined through the appeal and review process that releasing it is the most appropriate course of action.
+
+Chapter Eight
+Disseminating Information about the Act
+
+How to Use the Act
+35.
+The Information Commissioner shall prepare, in an easily understandable manner, the practical procedures for seeking various information under this Act, and make them available to the public in the widest possible scope and with ease of access.
+
+Information Officer
+36.
+(a) The head of every State institution shall appoint an Information Officer or Information Officers who will bear the responsibility of releasing information to the public under this Act. The name, position, and contact information of the Information Officer or Officers shall be made publicly available to the citizens in the widest possible scope.
+
+(b) The Information Officer or Information Officers under subsection (a) of this section shall be appointed from among the employees working in that institution. It is not a matter that this Act obstructs for those parties, in their capacity as Information Officers, to perform other duties of that institution in addition to the responsibilities they carry out under this Act.
+
+(c) In addition to performing other responsibilities stated in this Act, Information Officers shall also do the following:
+
+(1) In accordance with the principles determined by the Information Commissioner under Article 38 of this Act, establish policies and principles for how information of that State institution will be maintained, archived, and released in every State institution, and foster a spirit of implementing and enforcing these principles.
+
+(2) Information Officers in every State institution shall bear the primary responsibility for releasing information requested under this Act, assist parties requesting information, and make the decisions that need to be made under Articles 11, 12, 13, 14, and 15 of this Act in relation to requests submitted under this Act.
+
+(d) An Information Officer may seek the assistance of another employee in that State institution to deliver the results of this Act in the most complete manner.
+
+(e) If an Information Officer of a State institution requests the assistance of any employee under subsection (d) of this section, that person must provide that assistance. And, for the purpose of investigating any matter contrary to this Act that has occurred, the employee whose assistance was requested shall also be considered as if they were an Information Officer.
+
+Responsibility to Proactively Disclose
+37.
+Every State institution shall, on its own initiative, publish the following information for the benefit of the citizens, at least once a year, or at a more frequent interval determined by the State institution, in a way that is easily accessible to the citizens, without being limited to these matters alone:
+
+(a) Details of the State institution's role, responsibilities, structure, and duties.
+
+(b) Details regarding services provided or being provided directly to the public.
+
+(c) Details indicating the procedure for filing a complaint regarding an action taken by the State institution, and details of complaints received so far.
+
+(d) Easily understandable details of the procedure followed in maintaining documents.
+
+(e) The type of information held or maintained by the State institution, information published publicly, and the procedure to be followed in requesting information.
+
+(f) The responsibilities and duties of the senior officials of the State institution, the scope of the power and authority vested in them, and the principles followed within that scope in making decisions.
+
+(g) The laws, regulations, policies, principles, and standards followed in carrying out the responsibilities of the State institution.
+
+(h) Details of decisions made that affect the public, the reasons for those decisions, the interpretations derived from those decisions, and details indicating the relevant background.
+
+(i) The way in which citizens can submit their opinions on policies related to the activities of a State institution, criticize policies, and influence the formulation of policies.
+
+(j) Details of the budget allocated to the State institution, planned works, planned expenditures, and expenditures made.
+
+(k) The salary and benefits provided to each employee of the State institution individually.
+
+(l) The standards followed in carrying out the work of the State institution.
+
+(m) The process or method for making decisions made by the State institution, the standards for accountability, and the way in which supervision and accountability are structured.
+
+Standards Related to the Responsibility of Publishing Information
+38.
+The Information Commissioner shall do the following:
+
+(a) Determine the minimum and maximum standards for State institutions to follow when disclosing information.
+
+(b) If requested for advice regarding matters of publishing information by State institutions, provide that advice.
+
+Maintaining Information
+39.
+(a) Every State institution shall be a State institution that maintains information in a manner that facilitates the duty of disclosing and providing information, and adheres to relevant general standards.
+
+(b) Every State institution shall establish reasonable procedures for a person who needs to correct an incorrect point in their information to be able to do so.
+
+(c) After consulting with State institutions, the Information Commissioner shall, at specified intervals, publicly announce and publish general standards regarding the protection and maintenance of information in State institutions, as well as archiving, disposal, and release.
+
+Training Staff
+40.
+In order to fully implement this Act, the Information Commissioner shall provide adequate training on the right to seek and obtain information and the principles of this Act to relevant staff designated in every State institution.
+
+Review Procedure
+41.
+(a) In every State institution, there shall be a Review Committee to receive and review complaints submitted by parties dissatisfied with the decision of the Information Officer or Information Officers of that State institution. This committee shall consist of persons of a higher rank than the Information Officer.
+
+(b) If a party is dissatisfied with the decision of an Information Officer or Information Officers of a State institution, they may submit a request to the Review Committee of that State institution to review the matter again within 30 (thirty) days from the date the decision was made or the date the decision should have been made.
+
+(c) The Review Committee mentioned in subsection (a) of this section may accept a complaint even after the deadline for submitting complaints mentioned in subsection (b) of this section has passed. This is if the committee believes that the complaint was not submitted within that period due to a valid reason.
+
+(d) If the complaint submitted relates to the information of a third party, the complaint shall be decided after hearing the third party's statement.
+
+(e) Complaints submitted to the Review Committee shall generally be decided within 30 (thirty) days. A case that cannot be concluded within that period due to special circumstances shall be decided within an additional 15 (fifteen) days.
+
+(f) The decision on a complaint submitted to the Review Committee shall be communicated in writing by the committee to all parties involved in the complaint.
+
+Reporting to the Information Commissioner
+42.
+Every State institution, under the initiative of its Information Officer, shall prepare an annual report based on, but not limited to, the following information, and send it to the Information Commissioner once every year:
+
+(a) The number of requests for information submitted, the number of requests to which a response was given, the number of requests for which information was provided, and the number of requests for which information was refused.
+
+(b) Which article or part of this Act had to be used most frequently to refuse requested information.
+
+(c) The number of appeals submitted after a refusal to provide information.
+
+(d) The number of times a fee was charged and the total amount of fees collected.
+
+(e) Activities and actions undertaken on its own initiative in fulfilling the responsibility of disclosing information.
+
+(f) Activities and actions undertaken in relation to the maintenance of information.
+
+(g) Activities and actions undertaken to train staff.
+
+Chapter Nine
+The Position and Responsibilities of the Information Commissioner
+
+Establishment of the Office of the Information Commissioner
+43.
+(a) An office by the name of "Office of the Information Commissioner" shall be established on the day this Act comes into force.
+
+(b) The Office of the Information Commissioner is an independent legal entity with the power to sue and be sued in its own name, the status to conduct transactions in its own name, and a separate seal.
+
+(c) In establishing the Office of the Information Commissioner mentioned in subsection (a) of this section, priority shall be given to making arrangements for the use of existing resources and staff in the State.
+
+Appointment of the Information Commissioner
+44.
+(a) A person shall be appointed as the Information Commissioner by the President of the Republic, in the manner specified in this article.
+
+(b) Each time an Information Commissioner is to be appointed, the President of the Republic shall submit at least one name to the People's Majlis.
+
+(c) The name submitted by the President of the Republic to the People's Majlis under subsection (b) of this section shall be a name selected from among those who respond to a public announcement. When the President of the Republic sends the proposed name to the People's Majlis, the names of other individuals who responded to the public announcement shall also be sent to the Majlis for its information.
+
+(d) From the name or names submitted by the President of the Republic to the People's Majlis under subsection (b) of this section, a person who is approved by a majority of the members present and voting in a session of the People's Majlis shall be appointed by the President of the Republic to the post of Information Commissioner.
+
+(e) For the appointment of the first Information Commissioner after this Act comes into force, the President of the Republic shall submit a name to the People's Majlis in the manner specified in this article within 15 (fifteen) days of this Act coming into force. The People's Majlis shall make a decision on the appointment of a person to that post within 30 (thirty) days of the President of the Republic submitting the name to the People's Majlis for appointment to that post.
+
+Qualifications Required for the Information Commissioner
+45.
+The person appointed to the post of Information Commissioner must meet the following qualifications:
+
+(a) Be 35 years of age.
+
+(b) Not be a person who has been convicted by a court of a crime for which a hadd is prescribed in Islamic law, or a crime of treason, or a crime of bribery.
+
+(c) Not be a person holding a political post elected or appointed under the Constitution or a law.
+
+(d) Not be a member of a political party or a person active in a political party.
+
+(e) Be a person who holds a first degree and has at least 7 (seven) years of work experience.
+
+(f) Not be a person who holds another job in addition to the job of Information Commissioner.
+
+Term of Office
+46.
+(a) The term of office of the Information Commissioner appointed under this Act is 1 (one) term of 5 (five) years from the date of his appointment.
+
+(b) Notwithstanding subsection (a) of this section, except in the case of removal under Article 48 of this Act, the People's Majlis may approve the extension of the term of office of a person appointed to the post of Information Commissioner for a period not exceeding an additional 5 (five) years.
+
+Appointment upon Vacancy
+47.
+If the post of Information Commissioner becomes vacant, a person shall be appointed to the post within a maximum of 60 (sixty) days of the vacancy, in accordance with Article 44 of this Act.
+
+Removal of the Information Commissioner from Office
+48.
+The Information Commissioner may be removed from office only if a relevant committee of the People's Majlis finds that the Information Commissioner has committed an act unbecoming of the post of Information Commissioner, or that a situation has arisen that prevents him from performing the duties of the post, or that he lacks the capacity to perform the duties of the post, and the committee submits a proposal to the People's Majlis to remove him from office, which is passed by a majority of the members present and voting in a session of the Majlis.
+
+Resignation of the Information Commissioner from Office
+49.
+If the Information Commissioner wishes to resign, he shall submit a written statement to that effect to the President of the Republic, and upon receipt of that letter by the President of the Republic, the Information Commissioner is deemed to have vacated the post.
+
+Salary and Allowances
+50.
+(a) The salary and allowances of the Information Commissioner shall be the same as the salary and allowances of the President of the Human Rights Commission.
+
+(b) The salaries and allowances to be given to the employees of the Office of the Information Commissioner shall be determined by the Minister of Finance and Treasury, on the advice of the Information Commissioner.
+
+Employment, Transfer, and Dismissal of Office Staff
+51.
+The Information Commissioner has the power to employ the necessary staff for the Office of the Information Commissioner to implement his powers, and to appoint additional staff, provide training, give promotions, and dismiss from their posts, in a manner not inconsistent with the budget approved by the People's Majlis each year for the operation of the office.
+
+Financial Matters
+52.
+(a) The funds necessary for the Information Commissioner to fully carry out his responsibilities shall be released to the Office of the Information Commissioner each year from the state budget approved by the People's Majlis. Accordingly, the Information Commissioner shall send the budget of the Office of the Information Commissioner to the Ministry of Finance and Treasury for inclusion in the state budget, in accordance with the Public Finance Act and the regulations made under that Act.
+
+(b) Any financial aid given to the Office of the Information Commissioner by any person, group, or foreign government shall not be used except to carry out the responsibilities of the office.
+
+(c) A financial statement prepared after auditing the accounts of the income, expenditure, assets, and financial liabilities of the Office of the Information Commissioner, in consultation with the Auditor General and in accordance with the regulations made by the Auditor General, shall be sent to the President of the Republic and the People's Majlis along with the annual report referred to in Article 55 of this Act.
+
+General Duties
+53.
+In addition to carrying out the responsibilities specified in this Act, the Information Commissioner has the power to do the following:
+
+(a) The power to monitor and report on the extent to which State institutions comply with this Act.
+
+(b) To identify actions that can be taken generally, without specifying a particular State institution, to reform matters of information publication, and to separately identify actions that can be taken by a particular State institution.
+
+(c) To participate in, conduct, and support the provision of training to government employees for the implementation of this Act.
+
+(d) If acts that are considered to be contrary to this Act are occurring, to inform the relevant authorities of those matters.
+
+(e) To publicize the purpose of this Act and the objectives it seeks to achieve, and to publicize on a wide scale and inform individual persons of the rights afforded to them.
+
+Accountability to the Majlis
+54.
+Whenever the People's Majlis or a relevant committee of the Majlis requires, the Information Commissioner shall appear before the Majlis or that committee. The Information Commissioner shall answer questions posed by the Majlis or that committee truthfully and to the best of his knowledge.
+
+Annual Report
+55.
+(a) An annual report covering the work done by the Office of the Information Commissioner shall be sent by the Office of the Information Commissioner to the President of the Republic and the People's Majlis by the end of February of each year.
+
+(b) The annual report mentioned in subsection (a) of this section shall include the following matters that occurred during the period of the report:
+
+(1) The activities conducted by the Information Commissioner during the year.
+
+(2) The expenditure accounts audited by the Auditor General or a chartered or public accounting firm authorized by him.
+
+(c) The Office of the Information Commissioner shall publish the report mentioned in subsection (a) of this section within 14 (fourteen) days of sending it to the President of the Republic and the People's Majlis.
+
+(d) Notwithstanding subsection (a) of this section, whenever the Information Commissioner wishes, he may prepare a separate report on a specific issue he determines and submit it to the President of the Republic and the People's Majlis.
+
+Chapter Ten
+Enforcement by the Information Commissioner
+
+Appealing to the Information Commissioner
+56.
+(a) If a party is dissatisfied with a decision made after a review under this Act, that party may appeal to the Information Commissioner within 90 (ninety) days from the date the decision was made, or within 90 (ninety) days from the date the decision should have been made.
+
+(b) Notwithstanding the period for appealing to the Information Commissioner under subsection (a) of this section as stated in that subsection, he has the power to accept an appeal that the Information Commissioner deems was not filed within that period for a reasonable cause or a valid excuse, even after the period has passed.
+
+Submitting a Complaint to the Information Commissioner
+57.
+Without restricting or diminishing the principles stated in Article 15 of this Act, the person requesting information has the power to submit a complaint directly to the Information Commissioner in the following circumstances:
+
+(a) The opportunity to obtain desired information from a State institution is not available because an Information Officer has not been appointed in that particular State institution.
+
+(b) A State institution refuses to accept a request for information submitted to it without a valid reason.
+
+(c) An Information Officer refuses or neglects to give a receipt confirming that a request for information submitted under this Act has been received.
+
+(d) An Information Officer has not responded to a request for information submitted within the period specified in this Act.
+
+(e) An Information Officer or the State institution to which the Information Officer belongs has not complied with an order issued by the Information Commissioner.
+
+(f) An Information Officer or the State institution to which the Information Officer belongs has violated any other procedure specified in this Act regarding the seeking of information.
+
+Power to Not Accept a Complaint
+58.
+(a) The Information Commissioner has the power not to accept a complaint submitted in accordance with Article 57 of this Act in the following circumstances:
+
+(1) The complaint is not based on any foundation.
+
+(2) The complaint involves a matter too minor to be considered.
+
+(3) The procedures specified in Article 41 of this Act have not been fully utilized to seek a solution to the complaint.
+
+(b) If the Information Commissioner determines that a complaint submitted to him under this article must be accepted, he has the power to investigate the complaint himself or through a person he appoints, and to decide on the complaint in accordance with this Act.
+
+How to Deal with Appeals and Complaints
+59.
+(a) In investigating a complaint or appeal submitted to the Information Commissioner, it is the responsibility of the State institution to which the Information Officer belongs to prove the following:
+
+(1) That the requested information was not provided based on a reason specified in the law; or
+
+(2) That the State institution has acted in accordance with the provisions of this Act.
+
+(b) An appeal or complaint submitted to the Information Commissioner shall be investigated and concluded within 30 (thirty) days, in accordance with this Act. If for any reason the complaint or appeal cannot be concluded within that period, the Information Commissioner has the power to extend the period by an additional 15 (fifteen) days, after informing the party who submitted the complaint or appeal of the reason.
+
+(c) If a complaint or appeal submitted to the Information Commissioner pertains to information that protects the interests of a third party, that third party has the right to be heard in the investigation of the matter.
+
+(d) Unless otherwise stated in this article, all matters related to an appeal or complaint shall be heard in an open meeting.
+
+(e) Notwithstanding subsection (d) of this article, if, in connection with a complaint or appeal being investigated under this Act, it becomes necessary to examine information that is exempted from disclosure under this Act, the Information Commissioner may hear the complaint or appeal in a closed meeting or a meeting not open to the public.
+
+(f) The decisions of the Information Commissioner shall be announced in an open meeting.
+
+(g) After investigating a complaint or appeal submitted to the Information Commissioner, the decision on the matter shall be sent in writing to all parties involved in the case.
+
+Powers Granted to the Information Commissioner
+60.
+In relation to an appeal or complaint submitted to the Information Commissioner, the Commissioner has the following powers:
+
+(a) To summon the relevant parties.
+(b) To take statements from the parties summoned in relation to the matter.
+(c) To take testimony from persons who agree to give evidence in relation to the matter.
+(d) To request information.
+(e) To request documents.
+(f) To order the submission of documents.
+(g) To order the submission of information.
+(h) To order that a specific document or specific information be sent to the Information Commissioner.
+(i) To inspect and study specific information.
+(j) To accept evidence.
+(k) To accept written evidence.
+(l) To accept written statements.
+(m) To order that information held in a specific State institution be sent.
+(n) If a specific person has been identified as a witness, to order him to appear.
+(o) To identify a specific document and order its submission.
+(p) To enter a State institution.
+(q) To inspect and search a State institution in order to find relevant information, and if such information is found, to seize the document or medium in which the information is contained.
+(r) To enforce any other powers given to the Information Commissioner in the regulations made under this Act.
+
+How an Appeal or Complaint May Be Concluded
+61.
+(a) After investigating an appeal or complaint submitted to the Information Commissioner under this Act, the matter may be decided in one of the following ways:
+
+(1) That the appeal or complaint is not based on any foundation.
+(2) To order a specific State institution to disclose specific information.
+(3) To order a specific State institution to release specific information.
+(4) To order that specific information be released to a person requesting it in the manner they request.
+(5) When a specific person requests specific information, to order that the information be released in a reasonable manner instead of the manner stated as needed for that information.
+(6) To determine that the decision made after investigating a complaint submitted to a specific State institution is correct.
+(7) To order the publication of specific information or a specific class of information.
+(8) To order the strengthening of the document management system of a specific State institution or to order the amendment of relevant procedures.
+(9) To fine an Information Officer who has acted in contravention of this Act.
+(10) To fine a party who has contravened a lawful order made by the Information Commissioner.
+(11) To order a State institution to take disciplinary action against an Information Officer who repeatedly contravenes the principles stated in this Act.
+(12) If a person is suspected of having committed an offense stated as a crime in this Act, to order the police to investigate the matter, and if the Information Commissioner deems it necessary to prosecute him after the police investigation, to send the case to the Prosecutor General.
+
+(b) A decision made by an Information Commissioner in accordance with this Act shall be a valid decision unless it is altered otherwise by a judicial court. It shall also be a binding decision.
+
+Investigating a Matter on Own Initiative
+62.
+(a) If it is noted by the Information Commissioner that a particular State institution is not acting in accordance with this Act, the Information Commissioner has the power to investigate and decide on that matter concerning that State institution on his own initiative, without a request or complaint from a specific party.
+
+(b) The Information Commissioner shall conclude a specific matter investigated under subsection (a) of this section within a reasonable period and shall take one of the measures specified in Article 61 of this Act regarding that matter.
+
+(c) After investigating a matter in accordance with subsection (a) of this section, if a particular State institution is not acting in accordance with this Act, the Information Commissioner shall order that State institution to rectify the matter. The Information Commissioner shall also inform the State institution of the steps to be taken to rectify the matter.
+
+Delegation of Power
+63.
+(a) The powers granted to the Information Commissioner to investigate matters under Articles 58, 60, and 62 of this Act may be delegated in writing to another party whom he deems capable for the task.
+
+(b) Notwithstanding subsection (a) of this section, the power granted to the Information Commissioner under this Act to make a decision in investigating a matter and to order rectification or amendment is not a power that can be delegated to another party.
+
+Power of Appeal
+64.
+(a) If a party is dissatisfied with a decision made by the Information Commissioner under this Act, the dissatisfied party has the opportunity to appeal the matter to the High Court within 30 (thirty) days from the date the decision was made or the date the decision should have been made. In such a case, the party filing the case against the Information Commissioner must prove that the law was complied with.
+
+(b) A decision made by the Information Commissioner under this Act can only be reviewed by a judicial court in the stage of an appeal made under this article.
+
+Compliance with Decisions
+65.
+If 45 (forty-five) days have passed without an appeal being filed against a decision of the Information Commissioner and without the decision being complied with, the Information Commissioner may request the Prosecutor General's Office to send the matter to a judicial court to take action against that party in accordance with the procedure for disobedience to a legally made order.
+
+Protection
+66.
+(a) No civil or criminal proceedings shall be brought against the Information Commissioner or an employee of the Office of the Information Commissioner for any act done or omitted in good faith in the official capacity of carrying out the responsibilities of the Information Commissioner, in exercising the powers granted to the Information Commissioner, or within the scope of power granted by or in accordance with a law.
+
+(b) If a person, having received information that a clear violation of the law is occurring, acts in contravention of a law, an administrative procedure, or an employment agreement and discloses that information, no action shall be taken against that person and no punishment shall be given. This is provided that he did so in the true intention of exposing an ongoing criminal act and not for any other interest.
+
+(c) The disclosure by a person of information about an unlawful act, a crime, or an act of corruption, or information that such an act is about to occur, or information that a group of people are planning such an act, is not an act for which any civil or criminal action can be taken or punishment given against him.
+
+(d) When a person requests information under this Act, and a State institution, believing in good faith that it is information that can be lawfully released under this Act, releases the information, no charge of defamation or, in a case where confidentiality must be maintained, no charge of breach of confidentiality can be brought against the person who released the information.
+
+(e) If, when a person requests information under this Act, a State institution, believing it to be valid information that can be given under this Act, provides that information, the person who decided to provide the information and the person who assisted in providing the information shall not be guilty in that situation.
+
+(f) If an act done or an action taken by a State institution is an action taken or an act done in good faith to enforce the matters required to be enforced under this Act, the person who did it shall have no personal liability.
+
+Power to Fine
+67.
+(a) If an Information Officer commits any of the following acts, the Information Commissioner shall fine that Information Officer an amount not exceeding MVR 5,000 (five thousand).
+
+(1) Refusing to accept a request for information without a valid reason.
+(2) Failing to provide information within the period specified in this Act without a valid reason.
+(3) Refusing to provide information with malicious intent.
+(4) Providing incomplete information, or information that misrepresents the truth, or incorrect information.
+
+(b) If it is noted by the Information Commissioner that an Information Officer is repeatedly violating this Act, the Information Commissioner shall order the State institution to which he belongs to take disciplinary action against him at the level of that State institution.
+
+(c) If a person commits any of the following acts, the Information Commissioner has the power to fine that person an amount not exceeding MVR 25,000 (twenty-five thousand).
+
+(1) Obstructing a State institution or an Information Officer from performing a duty that must be performed in accordance with this Act.
+(2) Obstructing the Information Commissioner from performing a duty that must be performed in accordance with this Act.
+(3) Destroying with malicious intent information that has been requested under this Act.
+(4) Falsifying or altering information held in a State institution in a manner contrary to the established procedures.
+
+Chapter Eleven
+General Principles
+
+Application of the Act to Certain Associations
+68.
+Notwithstanding any other provision in any other law, every principle that applies to a State institution under this Act shall apply in full to associations and organizations operating in the Maldives with financial assistance from the state budget, or with financial assistance from a foreign government, or with financial assistance from an international organization. And, the principles stated in this Act shall be fully enforceable on each of these associations and organizations in the same way they are enforced on a State institution.
+
+Making Regulations
+69.
+(a) The regulations necessary to implement the principles stated in this Act in accordance with the intent of this Act shall be made and implemented by the Information Commissioner.
+
+(b) In making and implementing the regulations mentioned in subsection (a) of this section, the Information Commissioner shall consult with the parties who will be affected by those regulations or who are required to comply with them.
+
+(c) Without limiting the scope of the discretion granted to the Information Commissioner by subsection (a) of this section, the Information Commissioner has the power to make and implement regulations regarding the following matters:
+
+(1) Additional principles for publishing information.
+(2) Training of staff.
+(3) Reporting to the Information Commissioner.
+(4) Giving notices that must be given under this Act.
+(5) Administrative procedures and standards that need to be made for the full implementation of this Act.
+
+(d) The regulations that need to be made under this article shall be made and announced within 3 (three) months from the date this Act comes into force.
+
+Primacy of the Right to Seek and Obtain Information
+70.
+In the implementation and interpretation of the various articles of this Act, the paramount interest shall be the provision of the right to seek and obtain information in its most complete form.
+
+Commencement of the Act
+71.
+This Act shall come into force 6 (six) months from the date it is passed, ratified, and published in the Government Gazette of the Maldives.
+
+Definitions of Words and Phrases
+72.
+Unless otherwise stated in this Act:
+
+(a) "Information Commissioner" refers to the Information Commissioner appointed under this Act, or the institution or party to whom his responsibilities are delegated.
+
+(b) "Information Officer" refers to an employee or employees from among the staff holding non-managerial positions in various State institutions, to whom the head of that State institution has assigned the responsibilities specified in Article 36 of this Act to be carried out at the level of that State institution.
+
+(c) "Information" refers to any information, regardless of its type, the date it was created, or the party who created it, and regardless of the medium in which it is stored, that is held or maintained by a State institution and is not the property of a third party.
+
+(d) "Person" includes a natural person and a legal person.
+
+(e) "Review Committee" refers to the committee established in accordance with subsection (a) of Article 41 of this Act, consisting of at least 3 persons at the managerial level in State institutions, to review a matter upon a request to review a decision made by an Information Officer.
+
+(f) "State institution" includes the executive branch, the People's Majlis, the judiciary, independent institutions, independent posts, security services, and councils elected under the Constitution. It also includes any place that performs a state responsibility in its operation, any place run by the state budget, and any place run with assistance from the state budget.
+
+(g) "Information held by a State institution" refers to information created, maintained, or held by a State institution.
+
+(h) "Third party" refers to the party to whom the information protected by Articles 23, 24, 25, and 26 of this Act pertains and whose interests are protected by those articles. A State institution or the party requesting the information is not included in this definition.

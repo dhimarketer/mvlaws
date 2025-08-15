@@ -1,0 +1,883 @@
+NATIONAL PAYMENT SYSTEM ACT
+LAW NO. 8/2021
+CHAPTER ONE
+INTRODUCTION
+
+Introduction and Citation
+
+1.
+(a) This is the law to promote, regulate and oversee the National Payment System of the Maldives and to specify all matters ancillary thereto.
+
+(b) This Act shall be cited as the “National Payment System Act”.
+
+Purpose
+
+    The main purpose of this Act is to achieve the following.
+
+(a) To maintain the stability of the National Payment System, and to promote a safe and efficient National Payment System;
+
+(b) To regulate and oversee the National Payment System;
+
+(c) To specify matters relating to the regulation and oversight of Payment Systems, Clearing Systems, Settlement Systems and Payment Services;
+
+(d) To establish interoperability of Payment Systems, Clearing Systems and Settlement Systems and among Payment Service Providers;
+
+(e) To increase the accessibility of Payment Systems, Clearing Systems and Settlement Systems;
+
+(f) To establish a system for the adequate protection of service users;
+
+(g) To establish a competitive system among Payment Service Providers;
+
+(h) To increase financial inclusion.
+CHAPTER TWO
+DEFINITIONS
+
+Basis of Definitions
+
+    The words and expressions defined from Section 4 to Section 13 of this Act are the main concepts upon which this Act is based. The concepts specified in this Act are specified in this Chapter to preserve the original form of this Act and to facilitate the achievement of the purpose of this Act to its fullest extent. Every section of this Act shall be read and interpreted in a manner that does not limit these concepts.
+
+National Payment System
+
+    "National Payment System" refers to all matters related to the sending, receiving, and processing of payment instructions and transfers of money, whether in Maldivian Rufiyaa or in a foreign currency. This includes the following matters and parties.
+
+(a) Issuing and managing payment instruments;
+
+(b) Operating Payment Systems, Clearing Systems, and Settlement Systems and the arrangements and procedures related to such systems and the services provided by them; This includes systems that process securities and other financial instruments.
+
+(c) Providing payment services and matters related thereto;
+
+(d) Payment Service Providers, Operators, Participants, and third parties acting on behalf of any of them as an agent or under an outsourcing agreement; This includes any such party whose operations, in whole or in part, are provided in the Maldives.
+
+System
+
+    "System" means a Payment System, a Clearing System, or a Settlement System.
+
+Payment System
+
+    "Payment System" means any system or arrangement used for the purpose of transferring, processing, clearing or settling of funds. This also includes the instruments and procedures related to the system.
+
+Settlement System
+
+    "Settlement System" means a system established and operated for the purpose of discharging payment obligations or securities settlement obligations.
+
+Clearing System
+
+    "Clearing System" means the formal procedures established to achieve the following.
+
+(a) For participants of a system to submit and exchange information regarding the transfer of money or securities through a centralized system or at a specific location; and
+
+(b) To calculate the positions of participants on a gross or net basis, to facilitate the settlement of obligations to be performed between two or more participants.
+
+Clearing House
+
+    "Clearing House" means an institution that provides clearing or settlement services for transactions conducted through payment instruments included in a system.
+
+Payment Service
+
+    "Payment Service" means the service of depositing and withdrawing notes and coins, the service of executing a payment transaction, the service of issuing payment instruments or acquiring payment transactions, remittance services, electronic funds transfer services, payment initiation services, services of providing account information, and other services related to the transfer of funds or related to payment accounts, and other payment-related services determined by the Authority. This also includes the issuance of electronic money.
+
+Payment Instrument
+
+    "Payment Instrument" means any means or procedure used to initiate and/or process a payment instruction. Payment instruments include, but are not limited to, cheques, means used for funds transfers, and payment cards.
+
+Netting
+
+    "Netting" means to determine the net value of settlement obligations to be performed between two or more participants of a system.
+
+Electronic Money
+
+    "Electronic Money" means a monetary value that can be claimed against the issuer, which fulfills the following conditions.
+
+(a) Being a monetary value stored electronically, including magnetically, or in any other tangible or intangible device;
+
+(b) The monetary value is issued upon receipt of money equal to the monetary amount issued; and
+
+(c) The monetary value is a monetary value accepted for payment by parties other than the issuer.
+CHAPTER THREE
+ADMINISTRATION OF THE ACT
+
+Responsibilities and Powers of the Authority
+
+14.
+(a) The Authority shall regulate and oversee the affairs of the National Payment System to ensure that the National Payment System operates in a safe and efficient manner.
+
+(b) The Authority has the power to do all things necessary to administer and enforce this Act and to perform the responsibilities set out in subsection (a) of this section.
+
+(c) In enforcing this Act, the Authority has the power to do the following.
+
+(1) Formulate and implement policies regarding the National Payment System of the Maldives;
+
+(2) In accordance with this Act, grant licenses and permits to Payment Service Providers and to grant licenses to Operators;
+
+(3) Determine the "Systemically Important Payment Systems" of the Maldives and to determine matters relating to the regulation and oversight of such systems;
+
+(4) To instruct Payment Service Providers to establish interoperability among systems, to establish interoperability among Payment Service Providers, and to establish interoperability between systems and service providers, including systems and Payment Service Providers exempted from obtaining a license or permit under Section 18 of this Act;
+
+(5) To formulate regulations, policies, circulars, standards, conditions, and procedures that are generally applicable and applicable to a specific institution or in specific matters and circumstances, regarding institutions licensed or permitted under this Act and their activities, and to ensure compliance therewith;
+
+(6) To determine the actions to be taken by Payment Service Providers to protect service recipients;
+
+(7) To prohibit the provision of a payment service or services in the Maldives and to prohibit the use of a payment instrument or instruments in the Maldives;
+
+(8) To act as a consultative forum on matters related to the policies of the National Payment System;
+
+(9) Other work related to the systems operated by the Authority, and the issuance of payment instruments;
+
+(10) To formulate regulations, instructions, policies, circulars, and procedures necessary for the operation and regulation of the National Payment System;
+
+(11) To exchange information with and seek assistance from and provide assistance to relevant domestic or foreign parties to achieve the purposes of this Act;
+
+(12) To carry out other necessary work to achieve the purposes of this Act or to do the things specified in this Act.
+
+(d) For the purpose of subsection (c) (3) of this section, "Systemically Important Payment System" means a system which, due to the nature or size of individual payments processed by it or the total value of payments processed by it, could, in the event of a problem with the system, cause difficulties for the entire financial system.
+
+(e) In determining the amount of minimum unimpaired capital referred to in Section 20(a)(1) and Section 20(d)(1) of this Act, the Authority may determine different capital amounts for different types of payment services or different types of systems. The Authority also has the discretion to determine and direct a specific payment service provider or a specific system to maintain a specific amount of capital, after considering the number and volume of payments expected to be processed by that service or system and other matters.
+
+Participation of the Authority in Operating Systems
+
+    The Authority may do the following.
+
+(a) Be the owner of systems, or establish systems, or operate systems, or participate in the ownership and operation of systems;
+
+(b) To open and maintain accounts for Operators and Participants for the purpose of clearing and settling transfers made to a system;
+
+(c) To hold collateral of Operators and Participants;
+
+(d) To provide intraday liquidity to Participants after taking adequate collateral.
+
+National Payment System Council
+
+    To advise the Authority in order to achieve the purpose of this Act, the Authority may, by a regulation made under this Act, establish a council by the name of the "National Payment System Council". The purposes of the council, the composition of the council, and the responsibilities of the council shall be stated in the regulation made under this Act.
+
+CHAPTER FOUR
+LICENSING AND PERMIT RELATED MATTERS
+
+Licensing and Permit Related Matters
+
+17.
+(a) A payment service shall be provided in the Maldives only by parties who have obtained a license or permit for that purpose from the Authority under this Act. And, a system specified in this Act shall be operated in the Maldives only with a license obtained for that purpose from the Authority under this Act.
+
+(b) A license or permit under this Act may be issued to:
+
+(1) A company registered under the Companies Act of the Maldives; and
+
+(2) In circumstances where the Authority believes that the license or permit will not affect the maintenance of financial stability in the Maldives and where the Authority believes that it will be beneficial to the public interest.
+
+(c) If the Authority has reason to believe that any person, contrary to subsection (a) of this section, is providing a payment service or operating a system in the Maldives, the Authority has the power to go to the place of business of such person or to have their systems, books, documents, and accounts brought to the Authority and to inspect them.
+
+Exemption from Obtaining a License or Permit
+
+18.
+(a) Notwithstanding anything to the contrary in Section 17 of this Act, a license under this Act is not required to operate the following systems.
+
+(1) Systems operated by the Authority;
+
+(2) Systems operated to discharge securities clearing and settlement obligations under a license obtained under the Maldives Financial Securities Act;
+
+(3) In-house payment systems established by banks licensed under the Maldives Banking Act to provide banking services to their customers;
+
+(4) In-house systems operated by any party solely for its administrative purposes, in a manner not used to send, clear, or settle money to a third party;
+
+(5) Other systems determined and published by the Authority.
+
+(b) Notwithstanding anything to the contrary in subsection (a) of this section, if the Authority instructs the parties operating systems exempted under subsection (a) (2) of this section to comply with a specific section or sections of this Act, they shall comply with those sections and with the regulations, policies, and procedures determined by the Authority.
+
+(c) Notwithstanding anything to the contrary in subsection (a) of this section, the Authority may determine specific sections of this Act or a regulation issued by the Authority that must be complied with by parties operating systems exempted from obtaining a license under subsection (a) (5) of this section. And the Authority may determine the matters and conditions to be complied with by such parties. And those parties shall comply with the matters and conditions determined by the Authority.
+
+(d) Banks licensed by the Authority under the Maldives Banking Act do not need to obtain a license or permit under this Act to provide payment services.
+
+(e) Notwithstanding anything to the contrary in subsection (d) of this section, if the Authority instructs to comply with a specific section or sections of this Act, banks shall comply with those matters and other matters determined by the Authority to regulate and oversee payment services.
+
+(f) Among the activities generally considered to be payment services, the Authority may determine and exempt activities that are exempted from the requirement to obtain a license or permit specified in this Act. And, the Authority may determine parties who are exempted from the requirement to obtain a license or permit specified in this Act. If the Authority determines such exemptible activities or parties, it shall be made public.
+
+(g) Notwithstanding the exemption granted under subsection (f) of this section, the Authority may determine specific sections of this Act or a regulation issued by the Authority that must be complied with by parties conducting such activities. And the Authority may determine the matters and conditions to be complied with by such parties. And those parties shall comply with the matters and conditions determined by the Authority.
+
+(h) In the following circumstances, an exemption granted under subsection (f) of this section may be revoked by the Authority.
+
+(1) Violation of any section applicable to that party under this Act or a regulation issued by the Authority, or violation of any condition or matter determined for that party, or violation of an order of the Authority; or
+
+(2) The Authority believes that the exemption must be revoked for the public interest.
+
+Applying for a License and Permit
+
+19.
+(a) An application for a license to operate a system shall be submitted to the Authority in writing in a manner determined by the Authority, including the following information. In addition to the information and documents specified in this paragraph, the Authority has the power to instruct the applicant for a license to submit other information and documents.
+
+(1) Its articles of association and operating rules;
+
+(2) Information identifying the major shareholders of the applicant for the license;
+
+(3) Information identifying the members of the board of directors and senior management of the applicant for the license and their resumes;
+
+(4) Details of the management structure of the applicant for the license, internal control systems, and audit; This shall include administrative, risk management, and accounting procedures that demonstrate that these matters will operate in an adequate and sound manner.
+
+(5) Information identifying the participants of the system;
+
+(6) System rules;
+
+(7) System operations manual;
+
+(8) The business plan of the applicant for the license; The business plan shall include projected financial statements for the next 3 (three) years.
+
+(9) The transactions intended to be conducted by the applicant for the license, their volume, type, and the plan of the planned activities;
+
+(10) The manner in which the administrative structure of the applicant for the license is determined; It shall include details of any intention to outsource work to another party and participation in a domestic or foreign system.
+
+(11) Details of the information technology system and technical structure of the system, including the following matters and measures;
+
+i. The processes of the system and the architectural design of the system;
+
+ii. Measures taken to protect against adverse events that may be faced in operating the system; It shall include a contingency plan established to continue the operations of the system in the event of an interruption to the general operations of the system.
+
+iii. Measures taken in the processing and storage of information electronically by the system to maintain the confidentiality of the information in the system and to prevent its disclosure to other parties, its misuse, damage to the information, and theft of the information.
+
+(12) The risk that may be faced by the system due to the bankruptcy of a participant or due to liquidity issues faced by participants or for any other reason and the measures to be taken to mitigate that risk;
+
+(13) If the owner and operator of the system are two completely separate entities, the agreement made between the two parties.
+
+(b) An application for a license or permit to provide payment services shall be submitted to the Authority in writing in a manner determined by the Authority, including the following information. In addition to the information and documents specified in this paragraph, the Authority has the power to instruct the applicant for a license or permit to submit other information and documents.
+
+(1) Its articles of association and operating rules;
+
+(2) Information identifying the major shareholders of the applicant for the license or permit;
+
+(3) Details of the proposed payment service;
+
+(4) Information identifying the members of the board of directors and senior management of the applicant for the license or permit and their resumes;
+
+(5) A detailed business plan containing the manner in_which it is intended to carry out the work of providing payment services and the projected financial statements for the next 3 (three) years to achieve the matters in the plan; The business plan shall demonstrate that adequate systems, resources, and procedures will be established to provide payment services.
+
+(6) Measures to be taken to protect the funds of the users of the payment service;
+
+(7) Details of the management structure of the applicant for the license or permit and internal control systems and audit; It shall include administrative, risk management, and accounting procedures that demonstrate that these matters will operate in an adequate and sound manner.
+
+(8) The manner in which the administrative structure of the applicant for the license or permit is determined; It shall include details of the appointment of agents, the establishment of branches, or the provision of services through outsourcing to another party, and participation in a domestic or foreign payment system.
+
+(9) Details of the internal control systems established to carry out the necessary actions against money laundering and financing of terrorism activities;
+
+(10) Other information and documents determined by the Authority.
+
+(c) An application fee determined by the Authority shall be submitted with the application for a license or permit under subsections (a) and (b) of this section. And the application fee so determined shall be made public by the Authority.
+
+(d) The application fee specified in subsection (c) of this section is not refundable even in the event that the Authority decides that a license or permit cannot be granted for that submission.
+
+License and Permit Conditions
+
+20.
+(a) Every operator shall, at all times, comply with the following license conditions.
+
+(1) Maintain a minimum unimpaired capital of not less than the amount determined by the Authority.
+
+(2) The major shareholders, members of the board of directors, and senior management of the operator shall at all times be fit and proper persons.
+
+(3) Establish adequate systems and internal controls to prepare for matters that may have an adverse effect on the system or any other work related to the system.
+
+(4) Access to the system shall be arranged in a safe and non-discriminatory manner based on established principles.
+
+(5) Ensure that final settlement can be made at the latest by the end of the value date.
+
+(6) A reliable and secure information technology system shall be established that can be adequately connected with other systems and with payment service providers to establish interoperability. And adequate and sound procedures shall also be established to control and resolve major issues that may arise for the system and to continue the operation of the system without interruption due to it.
+
+(b) In addition to the matters specified in subsection (a) of this section, the Authority may determine additional conditions for the operator. And the Authority has the power to change and make additions and subtractions to the conditions so determined in writing, even after the issuance of the license.
+
+(c) If an operator violates a condition of the license, the Authority, taking into account the seriousness of the matter, has the power to revoke the license or to take a measure specified in this Act against that party.
+
+(d) Every payment service provider shall, at all times, comply with the following license and permit conditions.
+
+(1) Maintain a minimum unimpaired capital of not less than the amount determined by the Authority.
+
+(2) The major shareholders, members of the board of directors, and senior management of payment service providers shall at all times be fit and proper persons.
+
+(3) No other payment service or other business shall be conducted except for the payment services for which a license or permit has been obtained, except with the permission of the Authority.
+
+(4) Establish adequate systems and internal controls to prepare for matters that may have an adverse effect on the work of providing payment services.
+
+(5) To protect the money taken from service users to make a payment transaction, an adequate system shall be established to maintain that money in a manner that it is not mixed with the money of third parties.
+
+(e) In addition to the matters specified in subsection (d) of this section, the Authority may determine additional conditions for the license or permit to provide payment services in the Maldives. And the Authority has the power to change and make additions and subtractions to the conditions so determined in writing, even after the issuance of the license or permit.
+
+(f) If a payment service provider violates a condition of the license or permit, the Authority, taking into account the seriousness of the matter, has the power to revoke the license or permit or to take a measure specified in this Act against that party.
+
+(g) In addition to the conditions specified in subsection (d) of this section, payment service providers licensed or permitted to issue electronic money shall comply with the following principles.
+
+(1) Not to provide electronic money services on a credit basis;
+
+(2) To establish clearing and settlement systems that can make final settlement of payment instructions in a quick manner and within a time determined by the Authority;
+
+(3) Upon request to convert the value of electronic money into money, to give the requesting party money equal to the value of the electronic money;
+
+(4) The money received in exchange for the value of electronic money is not to be considered as a deposit.
+
+License Issuance Procedures
+
+21.
+(a) All documents and information required to be submitted for a license or permit under subsections (a) and (b) of Section 19 of this Act, and if additional information is required to proceed with the application for the license or permit, other information requested by the Authority shall be submitted to the Authority without delay. And if the required information is not fully submitted within 3 (three) months from the date of application for the license or permit, the application for the license may be revoked.
+
+(b) The Authority may act on an application for a license or permit in one of the following ways.
+
+(1) To issue a license or permit with or without specific conditions; or
+
+(2) Not to issue a license or permit.
+
+(c) In deciding whether to issue or not to issue a license or permit to provide a payment service or to operate a system, the Authority shall have regard to the licensing or permit issuance matters, conditions and standards specified in this Act, and to the quality, soundness, and reliability of the proposed service or system.
+
+(d) When issuing a license or permit to provide a payment service, the type or activities of the payment service for which the license or permit is issued shall be determined and specified.
+
+Changing a License or Permit
+
+22.
+(a) If a payment service provider wishes to make an addition or subtraction to the payment service or services for which it is licensed or permitted, it shall apply to the Authority for permission. This application shall be submitted in a manner determined by the Authority, with the information determined by the Authority.
+
+(b) The Authority may determine to charge an application fee for the submission made under subsection (a) of this section. And the application fee so determined shall be made public by the Authority.
+
+(c) The fee determined under subsection (b) of this section is not a refundable amount of money even in the event that the Authority decides that a permit cannot be granted for that submission.
+
+(d) The Authority may decide on a submission made under subsection (a) of this section in one of the following ways.
+
+(1) To permit with or without conditions or restrictions as the Authority deems fit, or without any of them; or
+
+(2) Not to issue a permit.
+
+Suspension or Revocation of a License and Permit
+
+23.
+(a) If any of the following events or circumstances occur, the Authority has the power to suspend or revoke a license or permit issued to provide a payment service, or a license issued to operate a system.
+
+(1) If a period shorter than 12 (twelve) months is not given in the conditions of the license or permit to start operating the system or to start providing the payment service, the system has not started operating or the payment service has not started being provided within 12 (twelve) months from the date the license or permit was issued;
+
+(2) The operation of the system or the provision of payment services has been stopped or has ceased for a period of more than 1 (one) month;
+
+(3) It is revealed that the license to operate the system or the license or permit to provide the payment service was obtained by submitting false information or in an improper manner;
+
+(4) Violation of a condition of the license or permit;
+
+(5) The Authority believes that there is a danger to the financial stability of the Maldives due to the operation of the system or the provision of the payment service;
+
+(6) Violation of this Act or a regulation or guideline formulated by the Authority under this Act or a condition determined or an order given or an instruction or an order, or the Authority believes that there has been a violation, or failure to comply with a matter instructed by the Authority;
+
+(7) The commencement of insolvency proceedings against the payment service provider or the operator;
+
+(8) The Authority believes that the continuation of the operation of the system or the provision of the payment service is not in the public interest or the interest of the participants;
+
+(9) The financial condition of that party deteriorates to a level unacceptable to the Authority;
+
+(10) The Authority believes that the activities of providing payment services or the activities of operating the system have been or are being conducted in an inappropriate or unsound manner.
+
+(11) Any of its major shareholders is not a fit and proper person; or
+
+(12) Providing false or misleading information to the Authority or misleading the Authority.
+
+(b) If the Authority decides to suspend or revoke a license or permit, it shall immediately inform the operator or the payment service provider.
+
+(c) If a license or permit is suspended or revoked, the Authority shall immediately state the matter in a manner it deems appropriate and make it public.
+
+Non-transferability of License or Permit or Right
+
+    A license and a permit issued under this Act, and any right conferred under this Act, is not transferable to another party, in whole or in part, unless the Authority determines otherwise. And a transfer made in contravention of this section shall be considered a void transfer.
+
+CHAPTER FIVE
+SYSTEM RULES
+
+System Rules
+
+25.
+(a) System rules shall be formulated in relation to the operation of systems. The system rules formulated under this Chapter in relation to the operation of systems shall be governed by the laws of the Maldives. The system rules shall include at least the following matters.
+
+(1) Standards for granting permits or access to participants, and standards and conditions for temporarily or permanently separating participants;
+
+(2) The rights and obligations arising as a result of the participation of participants in the system;
+
+(3) The time at which a transfer order is considered to have been entered into the system;
+
+(4) The time at which a transfer order entered into the system is considered to be final;
+
+(5) The manner in which the system will be operated and managed and the governance of the system; It shall include at least, corporate governance, contingency arrangements, and the manner of managing operational risk, liquidity risk, credit and settlement risk.
+
+(6) The rights and obligations of the operator;
+
+(7) In the event of a dispute, the court or place having jurisdiction to hear the dispute, or the system to be followed in hearing the dispute; and
+
+(8) Details of a person to be contacted in the event of a need to contact the operator regarding a matter of the system.
+
+(b) The standards for granting access to participants under subsection (a) (1) of this section shall be determined without discrimination, on an equal basis. And access to the system shall be restricted to the minimum extent necessary to protect the system from risks such as settlement risk, operational risk, business risk, and to protect the operational and financial stability of the system.
+
+(c) Before starting to operate the systems, the approval of the Authority must be obtained for the system rules. And any amendment to the system rules shall be acted upon only after obtaining the approval of the Authority regarding that amendment.
+
+(d) If the amendments to the system rules have not been previously approved by the Authority, those rules shall not apply to the participants of the system.
+
+(e) Having regard to the following matters, the Authority has the power to amend the system rules or to repeal a specific section of the system rules in a situation acceptable to the Authority.
+
+(1) Public interest;
+
+(2) The interest of the parties currently participating in the system;
+
+(3) The interest of parties who may wish to participate in the system and access the system in the future;
+
+(4) Other matters that the Authority believes should be done to strengthen the operation of the system.
+CHAPTER SIX
+APPOINTMENT OF AGENTS AND OUTSOURCING OF WORK
+
+Outsourcing
+
+26.
+(a) A payment service provider or an operator shall not outsource any of its operational work to any other party except with the written permission of the Authority.
+
+(b) No operator or payment service provider shall outsource any of its important operational work to any other party in a way that may hinder the Authority's monitoring of compliance with the matters to be complied with under this Act or in a way that the level of its internal controls may be reduced to an inadequate level.
+
+(c) For the purpose of subsection (b) of this section, an important operational work shall be considered to be any work which, due to a problem in its performance or the non-performance of that work, may cause difficulties in the sound and continuous provision of the service provided by an operator or a payment service provider, or in complying with the conditions of the license or permit granted to that party, or in maintaining the financial condition of that party.
+
+(d) No operator or payment service provider, in outsourcing an important operational work to another party, shall do the following.
+
+(1) To transfer any responsibility of a senior management person of that party to another party as a result of outsourcing work to another party;
+
+(2) To make any change to the relationship that should exist between the issuer of a payment instrument and the user, or to the obligations that the issuer should have towards the user; and
+
+(3) To allow any matter to arise that may hinder the fulfillment of any of the conditions of the license or permit.
+
+Appointment of Agents
+
+27.
+(a) Every payment service provider, who wishes to provide payment services to a service recipient through an agent, shall apply to the Authority in writing for permission for that purpose in a manner and with the information instructed by the Authority.
+
+(b) The payment service provider shall ensure that an agent of a payment service provider discloses to the service recipient that the service is being provided as an agent of that payment service provider.
+
+(c) In order for a payment service provider to provide payment services through an agent, the agency agreement entered into by that party with the agent shall not stipulate that the agent shall not act as an agent of another payment service provider.
+
+Responsibility for Outsourcing and Appointment of Agents
+
+28.
+(a) Every payment service provider providing services through agents, or every payment service provider or operator providing services through another party, shall ensure that its agents and the parties to whom work has been outsourced comply with all matters to be fulfilled under this Act.
+
+(b) Operators and payment service providers shall take full responsibility for the actions of their agents and the parties to whom an activity related to their service has been outsourced.
+
+Protection of Service Recipients
+
+29.
+(a) The Authority shall regulate the manner in which payment service providers deal with service recipients.
+
+(b) To protect the recipients of payment services, the Authority shall formulate regulations, policies, standards, and guidelines that payment service providers must comply with, including the following matters.
+
+(1) Disclosure to service recipients of all terms and conditions, and fees involved in the transaction;
+
+(2) Setting reasonable prices;
+
+(3) Dealing with service recipients on an equal basis.
+CHAPTER SEVEN
+SETTLEMENT, NETTING AND PAYMENT FINALITY
+
+Settlement Account
+
+    Every participant shall act in one of the following ways to make a settlement.
+
+(a) To open settlement accounts at the Authority or at a financial institution designated by the Operator; or
+
+(b) To appoint as a settlement agent another participant who has opened a settlement account at the Authority or at a financial institution designated by the Operator, to settle all obligations to be performed by that participant from the daily clearing to another participant.
+
+Netting Arrangements
+
+31.
+(a) Transfer orders and their netting shall be legally enforceable in the Maldives. And those responsibilities are responsibilities that can be legally bound upon a third party.
+
+(b) Notwithstanding anything to the contrary in any other law, every valid and enforceable netting arrangement shall be acted upon.
+
+Finality
+
+32.
+(a) In accordance with this Act and in accordance with the regulations, guidelines, and instructions issued by the Authority, the operator shall establish principles on how to determine the finality in the system operated by the operator. The finality of a payment means that the payment is unconditional and irrevocable.
+
+(b) Notwithstanding anything to the contrary in any other law, when a payment becomes final in accordance with the system rules, that payment and the transfer order related to that payment is a transfer order that fulfills the following characteristics.
+
+(1) Valid and enforceable; and
+
+(2) Will not be voided, reversed, or not acted upon; and
+
+(3) Its execution will be mandatory.
+
+Collateral for Payment and Settlement
+
+33.
+(a) Notwithstanding anything to the contrary in any other law, the rights and the manner in which the rights can be enforced of any operator, participant, clearing house, central counter party, other third party included in a system, or the Authority, in relation to collateral given as security for a payment obligation or an obligation of a thing to be done that has arisen in a system, shall not be diminished or altered in connection with the insolvency proceedings.
+
+(b) Notwithstanding anything to the contrary in any other law, no provision or order suspending the enforcement of any decision affecting the rights of creditors and the rights to compensation that can be obtained in relation to collateral, shall apply to the rights and the compensation that can be obtained or the ways in which the rights can be enforced mentioned in subsection (a) of this section.
+CHAPTER EIGHT
+PROCEDURE TO BE FOLLOWED IN RELATION TO INSOLVENCY
+
+Procedure to be followed in relation to Insolvency
+
+34.
+(a) Upon the commencement of insolvency proceedings in court against a system, an operator, or a participant, the court shall inform the Authority in writing of the matter within a maximum of 1 (one) hour.
+
+(b) Upon the commencement of insolvency proceedings in court as mentioned in subsection (a) of this section, and upon the court informing the Authority of the matter, the Authority shall provide the document to the systems and operators established in the Maldives as soon as possible. And if it is arranged to send such a decision to systems or operators established outside the Maldives under international cooperation arrangements and agreements concluded between foreign relevant authorities, a copy of the decision shall also be sent to those parties.
+
+(c) In the event that the Authority makes a decision regarding a participant of a system, and the result of that decision is the commencement of insolvency proceedings, the Authority shall inform the systems and operators established in the Maldives of the matter as soon as possible. And if it is arranged to send such a decision to systems or operators established outside the Maldives under international cooperation arrangements and agreements concluded between foreign relevant authorities, a copy of the decision shall also be sent to those parties.
+
+(d) If the Authority receives information that insolvency proceedings have commenced against systems or operators or participants established outside the Maldives under international cooperation arrangements and agreements concluded with foreign relevant authorities, such information shall be communicated as soon as possible to the systems, operators, and settlement agents of the system established in the Maldives.
+
+Circumstances in which an Operator is Prohibited from Operating a System or a Participant is Prohibited from Participating in a System
+
+    Upon the commencement of insolvency proceedings against an operator or a participant of a system or upon a decision to voluntarily dissolve that party, it is prohibited for that operator to operate any system or for that participant to participate in any system without the permission of the Authority.
+
+No Change to Finality
+
+    Notwithstanding anything to the contrary in any other law, even if insolvency proceedings have commenced, the finality of any payment processed by a system or the irrevocability of a transfer order placed in a system before the operator became aware of the information of the relevant decision, shall not be changed.
+
+Compliance of the Liquidator with Netting Arrangements and System Netting Rules
+
+    If the following matters are fulfilled, the liquidator of the participant against whom insolvency proceedings have commenced shall comply with the netting arrangement in which that participant has participated in relation to any payment or settlement obligation or the netting rules and operating procedures of the system in which that participant has participated.
+
+(a) The transfer order has been entered into the netting process before the operator of the system received a copy of the court order regarding the commencement of the insolvency proceedings or the decision of the Authority; and
+
+(b) The netting process has been completed on or after the date on which the court order regarding the commencement of the insolvency proceedings was issued or the decision of the Authority was made.
+
+Enforcement of Rights
+
+    The sections of this Chapter do not prevent the enforcement of a right granted to any party under this Act, as long as it does not affect the finality of any payment processed by a system or the irrevocability of a transfer order placed in a system, or the validity of a netting arrangement or the enforcement of such an arrangement.
+
+Governing Law for Participants
+
+39.
+(a) Within the limits of this Act, even if insolvency proceedings are commenced against a foreign participant included in a Maldivian system, only the laws of the Maldives shall be applied in finally determining the rights and obligations arising from the participation of that participant in the system or in connection with the participation.
+
+(b) Even if insolvency proceedings are commenced against a Maldivian participant included in a system established outside the Maldives, only the laws governing that system shall be applied in finally determining the rights and obligations of that party arising from the participation of that participant in that system or in connection with the participation.
+CHAPTER NINE
+AUDITING
+
+Auditing
+
+40.
+(a) Every payment service provider and every operator shall appoint an external auditor who is experienced and qualified in the field of auditing. The external auditor to be appointed shall be a licensed auditor acceptable to the Authority.
+
+(b) The appointed external auditor and the payment service provider or operator shall agree to the following matters and include them in the agreement made between the two parties.
+
+(1) To submit to the Authority, upon request by the Authority, all reports prepared by the external auditors and the working papers of the transactions identified as a problem during the audit;
+
+(2) To carry out such matters if the Authority instructs the external auditor to carry out additional work or to prepare an additional report regarding the institution.
+
+(c) An external auditor intended to be appointed or appointed to audit an operator or a payment service provider or any member of an audit firm shall not be a shareholder, a member of the board of directors, a senior management person, an employee, an agent or a person representing that institution. And the external auditor shall not have an interest in that institution. If an interest of the auditor in the institution arises, the details of how that interest arose shall be communicated to the Authority in writing as soon as possible, and that person shall not be appointed or maintained as an external auditor without obtaining the written permission of the Authority to be appointed or to continue as an external auditor.
+
+(d) The external auditor shall not provide any service or work related to the internal audit work of that institution. And except in limited circumstances, for training purposes, no service or work related to a matter on which an opinion would have to be given in the external audit shall be provided or performed. Except in the circumstances instructed by the Authority under subsections (k) and (l) of this section, if an institution requires assistance in maintaining adequate accounting systems and accounting principles, and in taking measures to reduce matters that may have a financial or other adverse effect, such assistance shall be provided by a licensed auditor other than the external auditor of that institution.
+
+(e) If, in acting as an external auditor, the auditor finds from information received regarding that institution that one of the following circumstances has occurred, the matter shall be immediately reported to the Authority.
+
+(1) Incurring a loss to an extent that the capital of the institution will be reduced by more than 50% (fifty percent);
+
+(2) Suspicion that the institution or a member of the board of directors or a senior management person or any other employee of the institution has committed or is committing fraud, deceit or any other criminal offense;
+
+(3) It is noted that this Act or any other law or a regulation or order issued by the Authority has been violated or that a section of any such law or regulation is not being fully complied with;
+
+(4) The internal controls of that party are weakened to an extent that there is a possibility of being exposed to major risks that may have an adverse effect on the financial condition of the institution; or
+
+(5) The operating activities or the information technology matters of the place are in such a state that the general operations of the system may be interrupted or the work of providing payment services may be interrupted.
+
+(f) If an auditor or a former auditor, in good faith, submits any report or information to the Authority under this section, that person shall not be considered to have violated any law, regulation, agreement, or professional code of conduct that that person must comply with. And no civil or criminal action shall be taken against that person for submitting any report or information to the Authority. Nor shall any administrative action be taken.
+
+(g) The Authority may instruct the external auditor appointed by an operator or a payment service provider to do the following.
+
+(1) To submit additional information related to auditing as deemed necessary by the Authority;
+
+(2) To expand the scope determined for auditing or to add to the matters determined;
+
+(3) To submit a report, or to conduct an examination, or to give advice on a matter instructed by the Authority;
+
+(4) To submit a report to the Authority on the manner in which the financial and accounting systems are arranged and on the internal control; or
+
+(5) In accordance with the regulations and instructions, to submit a report to the Authority on whether the operator or the payment service provider has determined adequate measures to prevent money laundering and the financing of terrorist activities, and whether those measures are being complied with.
+
+(h) The Authority may instruct an operator or a payment service provider to prepare and submit a report to the Authority by the external auditor appointed by the operator or the payment service provider or by any other person determined by the Authority, in relation to a specific matter determined by the Authority. This includes matters such as the quality of the accounting system of that party, the quality of the information technology systems established by that party, and the soundness of the operating principles and controls.
+
+(i) The operator or payment service provider who has appointed the auditor shall be responsible for the expenses incurred in carrying out the additional matters instructed by the Authority to be done by the auditor under subsection (k) of this section and in preparing the report instructed by the Authority under subsection (l) of this section.
+
+(j) Every operator and payment service provider shall, within a maximum of 4 (four) months from the end of each financial year, submit a copy of the audited annual accounts to the Authority. And if the auditor has sent a management letter with the audited financial statements, a copy of that letter shall also be submitted to the Authority with the audited financial statements.
+
+(k) If the Authority is not satisfied with the audited financial statements and the audit report submitted by an operator or a payment service provider to the Authority under subsection (j) of this section, or if there is a difference of opinion on the matter, the Authority may instruct that institution to appoint another auditor to prepare a new audit report at the expense of that institution and within a period determined by the Authority.
+
+Special Audit
+
+41.
+(a) In the following circumstances, the Authority may appoint another auditor to audit the financial accounts, records, and other documents of an operator or a payment service provider.
+
+(1) An operator or a payment service provider has not appointed an auditor as specified in Section 40 of this Act;
+
+(2) The Authority believes that it is important for another auditor to work with the auditor appointed by an operator or a payment service provider under Section 40 of this Act.
+
+(b) If the Authority appoints an auditor under subsection (a) of this section, the operator or the payment service provider shall make arrangements for the auditor to inspect all of its financial accounts, records, documents, and systems as instructed by the auditor. And to perform the responsibilities to be performed by the auditor under this section, the members of the board of directors and employees of that institution shall provide all the information required by the auditor from them.
+
+(c) The operator or payment service provider who appointed the auditor shall be responsible for all expenses incurred by the auditor appointed under subsection (a) of this section.
+
+Term of Office of the Auditor
+
+    The term of office of an external auditor appointed under this Act is 1 (one) year. And, an auditor appointed to that position shall be appointed continuously for a maximum period of 3 (three) years.
+
+Removal of an Auditor
+
+43.
+(a) If the Authority believes that the auditor of an operator or a payment service provider is not performing his/her responsibilities under this Act or a regulation made under this Act, or any other relevant law or regulation, or is otherwise not a fit and proper person, the Authority may instruct that institution in writing to remove the auditor. And if so instructed, the institution shall remove the auditor in accordance with the instruction of the Authority to remove the auditor and appoint a new auditor.
+
+(b) If an operator or a payment service provider wishes to remove its external auditor before the end of the appointed term, it can be done only after obtaining the permission of the Authority. In applying for the permission of the Authority in this manner, the institution shall state the reason for wishing to remove the auditor.
+
+Confidentiality of Auditor and Auditor's Staff
+
+    Except in the matters or circumstances specified in this Act, or in a case where it is necessary to disclose in a court of law, an auditor appointed under Section 40 and Section 41 of this Act and an employee of such an auditor, shall not disclose any information known in the performance of his/her professional duties to any party other than the Authority. This prohibition does not include the disclosure of information known to an employee of an auditor to that auditor.
+
+CHAPTER TEN
+OVERSIGHT
+
+Inspection
+
+    To check the extent to which laws and regulations are complied with in the conduct of the activities of a system or a payment service provider, and to check other matters that the Authority deems necessary to check, an on-site inspection may be conducted by a person appointed by the Authority, or through the officers of the Authority, whenever the Authority deems it necessary. In an inspection conducted in this manner, the books, accounts, documents, records, computer systems, and other systems and machines of that system or payment service provider may be inspected. And, if the Authority finds it necessary to seize any of these items, that item may be seized. In an inspection conducted in this manner, the employees of that system or payment service provider and related parties may be questioned.
+
+Submission of Information
+
+    Every operator, participant, settlement agent, payment service provider, and an agent of any such party and parties acting on behalf of any such party shall submit the information or document or report instructed by the Authority, including the information specified below, in the manner and at the time instructed by the Authority.
+
+(a) Information related to the operation of the system and information regarding the provision of payment services; and
+
+(b) Prices, fees, and other charges levied for the service provided.
+
+Disclosure of Information by the Authority and Confidentiality
+
+    Including the employees and officers of the Authority and the parties appointed by the Authority, except in the following matters or circumstances, the Authority shall not, directly or indirectly, disclose to any other party any information or document obtained in carrying out the work to be done under this Act.
+
+(a) To carry out the work to be done by the Authority under this Act or any other law;
+
+(b) To protect the National Payment System or to operate it efficiently or to maintain the financial integrity of the National Payment System;
+
+(c) To disclose information to a party legally authorized;
+
+(d) Upon an order of a court of law to disclose that information;
+
+(e) To fulfill an obligation to be performed under an international agreement to which the Maldives is a party;
+
+(f) Disclosure of information by the Authority to the supervisory authorities of other countries.
+
+Maintenance of Information and Records
+
+48.
+(a) Every operator, participant of a system, and payment service provider shall maintain the information determined by the Authority for a period determined by the Authority.
+
+(b) For the purpose of subsection (a) of this section, this section does not prevent the maintenance of records electronically.
+
+Compliance with Measures to Prevent Money Laundering
+
+49.
+(a) To protect against and to prevent money laundering and financing of terrorism activities, the Authority has the power to formulate regulations, policies, and instructions to be complied with by operators, participants, payment service providers, and agents of such parties and other parties representing such parties.
+
+(b) All instructions given by the Authority under subsection (a) of this section shall be complied with by the parties to whom the instructions are directed.
+CHAPTER ELEVEN
+TAKING ACTION
+
+Establishment and Operation of a System without a License or Permit
+
+50.
+(a) No person shall provide a payment service in the Maldives except with a license or permit issued for that purpose by the Authority under this Act. And no person shall operate a system specified in this Act without a license issued by the Authority under this Act. And no such service shall be provided or activity conducted or advertised without a license or permit.
+
+(b) If any person does any of the things stated in subsection (a) of this section as not to be done, the Authority has the discretion to fine that person an amount between MVR 100,000 (one hundred thousand) and MVR 10,000,000 (ten million).
+
+Misleading in Submitting Information, and Not Providing Information or Providing Incorrect Information
+
+51.
+(a) If any person, in applying for a license or permit under this Act, or in submitting information, financial statements, and documents to be submitted to the Authority under this Act, or in submitting information to the Authority that is believed to be relied upon and acted upon by the Authority in its administration of this Act, knowingly submits misleading or false information, the Authority has the discretion to fine that person an amount between MVR 100,000 (one hundred thousand) and MVR 10,000,000 (ten million).
+
+(b) If any person is instructed by the Authority to submit any information or document or record under this Act, and that information or document or record is not submitted to the Authority, the Authority has the discretion to fine that person an amount between MVR 50,000 (fifty thousand) and MVR 10,000,000 (ten million).
+
+(c) If any operator, payment service provider, participant, or their agent, or the person who makes their decisions, commits any of the following acts, the Authority has the discretion to fine that person an amount not exceeding MVR 10,000,000 (ten million). And, the Authority has the discretion to fine an amount not exceeding MVR 10,000 (ten thousand) per day until the matter is rectified.
+
+(1) To obstruct in any form the regulation and oversight given to the Authority under this Act;
+
+(2) To obstruct the work of the external auditor or to refuse to provide the documents, including contracts, books of accounts, books, documents, and journals, required for the performance of his duties.
+
+Administrative Measures
+
+52.
+(a) If the Authority is convinced that an operator, a payment service provider, a participant, or a settlement agent, or a member of the board of directors, an employee, or any other person who makes the decisions of these parties, or an agent of any of these parties, or a person acting on behalf of any of these parties, or any other person has committed any of the acts specified below, or if there are reasons to believe that such an act has been committed or may be committed, the Authority may take one or more of the measures specified in subsection (b) of this section against that party.
+
+(1) Violation of this Act or a regulation made under this Act or a condition of a license or permit or an order or instruction of the Authority or failure to comply with an instruction given by the Authority; or
+
+(2) Conducting business or activities in an inappropriate or unsound manner.
+
+(b) If an act specified in subsections (a) (1) and (2) of this section is committed, or if the Authority has reasons to believe that such an act has been committed or may be committed, the Authority may take one or more of the following measures against that party.
+
+(1) To order the cessation of some of its activities;
+
+(2) To determine specific methods or conditions for further business continuation;
+
+(3) To prohibit the distribution of dividends to shareholders, or to limit the amount distributed;
+
+(4) To order the deposit and maintenance of a certain amount of money determined by the Authority for a specific period at the Authority, with conditions deemed appropriate by the Authority;
+
+(5) To instruct the chairman of the board of directors to hold a meeting of the board of directors to review and study the violations and to take the necessary steps to resolve them; The Authority may, if it wishes, have a representative or representatives of the Authority participate in such meetings.
+
+(6) Having regard to the seriousness of the violation, to order the temporary or permanent removal of the chief executive officer, or the managing director, or another executive officer, or an employee from among the employees of that party who participates in determining the policy of that party, or the employee to whom the management of that party has been entrusted, or an agent of that party;
+
+(7) To instruct the party to remove the chairman or another member of the board of directors from the board;
+
+(8) If the Authority believes that the chief executive officer, or the managing director, or another executive officer, or an employee from among the employees of that party who participates in determining the policy of that party, or the employee to whom the management of that party has been entrusted, or any other employee, or a person acting as an agent of that party is responsible for a matter such as that specified in subsections (a) (1) and (2) of this section, to fine that person an amount not exceeding MVR 10,000,000 (ten million);
+
+(9) To fine an amount not exceeding MVR 10,000,000 (ten million);
+
+(10) To fine an amount not exceeding MVR 10,000,000 (ten million) for each day that the violation continues or until the required actions are complied with, as the Authority deems fit;
+
+(11) To revoke the license or permit issued to that party.
+
+(c) If the Authority believes that an act such as the following has been committed or has occurred, the Authority has the power to order the removal of a member of the board of directors, a senior management person, or another employee of an operator, a payment service provider, a participant, or a settlement agent from that position or from the employment of that institution, and to instruct that person not to participate in the activities of that institution or an institution supervised by the Authority under this Act.
+
+(1) Willfully committing an act specified in subsections (a) (1) and (2) of this section, or participating in the commission of such an act, or willfully disobeying an order given by the Authority in relation to such an act; and
+
+(2) Causing financial or other loss to the institution due to an act such as that specified in subsections (a) (1) and (2) of this section, or the likelihood of such a loss, or providing a financial or other benefit to the person who committed the act; and
+
+(3) It is indicated that the act referred to in subsections (a) (1) and (2) of this section was committed due to the dishonesty of the person who committed it, or due to willful or persistent disregard for the proper and sound management of the institution.
+
+(d) If an operator, a payment service provider, a participant, or a settlement agent, or a member of the board of directors, an employee, or any other person who makes the decisions of these parties, or an agent of any of these parties, or a person acting on behalf of any of these parties, commits the following act, the Authority has the discretion to fine that person an amount not exceeding MVR 10,000,000 (ten million). And, a fine of an amount not exceeding MVR 100,000 (one hundred thousand) may be imposed per day until the matter is rectified.
+
+(1) Willfully or through negligence, submitting false or inadequately complete accounts and information to the Authority; or
+
+(2) When the Authority requests the provision of any information, not providing that information or not providing it at the time instructed by the Authority.
+
+Matters for which no Penalty is Prescribed
+
+53.
+(a) If a specific measure is not prescribed for violating a matter specified in this Act, the Authority, taking into account the seriousness of the matter, has the discretion to fine the violating party an amount between MVR 5,000 (five thousand) and MVR 10,000,000 (ten million). And the Authority may, as it deems fit, impose a fine of an amount not exceeding MVR 5,000 (five thousand) per day until the violation is rectified or until the required actions are complied with.
+
+(b) A party who violates a regulation formulated under this Act or an order given by the Authority has the discretion of the Authority to be fined an amount between MVR 5,000 (five thousand) and MVR 10,000,000 (ten million). And the Authority may, as it deems fit, impose a fine of an amount not exceeding MVR 5,000 (five thousand) per day until the violation is rectified or until the required actions are complied with.
+
+Not an Obstacle to Filing Criminal Charges
+
+    If an act stated in this Act as not to be done by a specific party is determined to be a criminal offense under the Penal Code of the Maldives, this Act does not prevent the filing of criminal charges against the person who commits such an act under the Penal Code of the Maldives, in addition to the determination of an administrative measure under this Act.
+
+CHAPTER TWELVE
+OTHER MATTERS
+
+Confidentiality
+
+55.
+(a) A payment service provider shall maintain the confidentiality of its customers' information. No customer information shall be disclosed directly or indirectly, except with the written permission of that customer, or if the customer is deceased, with the written permission of his/her legal representative or heir, or under a court order, or upon a written request from a legally empowered authority for the investigation of criminal offenses, or upon a written request from the Prosecutor General, or in a matter or circumstance in which this Act permits the disclosure of such information. And even if the relationship between a customer and that party is terminated for any reason, such information about that customer shall not be disclosed.
+
+(b) Every operator shall maintain the confidentiality of the information contained in the system it operates and shall not disclose it to another party.
+
+(c) Except in the matters or circumstances specified in this Act, a member of the board of directors, an officer, an employee, an agent, a consultant, or an auditor who is working or has worked in a payment service provider or an operator shall not disclose the information that must be kept confidential under subsections (a) and (b) of this section. Nor shall such information be given to another party or shall another party be allowed to view such information.
+
+(d) The disclosure of information in the following matters or circumstances shall be exempted from the matters in subsections (a) and (b) of this section.
+
+(1) In the performance of the duties legally assigned to external auditors, by those parties
+
+(2) When the Authority instructs the submission of information or documents in the performance of its duties under this Act or under Law No. 6/81 (Maldives Monetary Authority Act 1981);
+
+(3) Measures taken in good faith to prevent corruption, and against money laundering and the financing of terrorist activities, under the relevant laws and regulations;
+
+(4) In a case pending in a court of law regarding a transaction that has taken place between a payment service provider and a customer, the disclosure of some or all of the information about the transaction in order to prove a right that should be granted to the payment service provider in relation to such a transaction;
+
+(5) Disclosure of information in other matters and circumstances determined by a regulation of the Authority.
+
+Evidence
+
+    The existence of an electronic funds transfer, the information contained therein, the time of the transfer order, the entry of that transfer order into a system, the execution of that transfer order, and regarding the giving, acceptance, execution, and settlement of a payment instruction, may be submitted as evidence by a participant of a system, an operator, a payment service provider, or a third party in civil, administrative, or criminal cases, in writing or by any other means that is permanently visible, whether electronic or optical. And evidence printed from a document maintained electronically or optically may also be submitted.
+
+Assistance from Other Parties
+
+    If the Authority believes that any party is acting in contravention of this Act, the Maldives Police Service shall provide assistance to the Authority in entering the business premises of that party to inspect its systems, books, documents, and accounts or in obtaining the systems, books, documents, and accounts of that party for the Authority.
+
+Power to Order the Participation of an Institution or Institutions Licensed or Permitted and Supervised by the Authority
+
+    The Authority has the power to order a financial institution or institutions to participate in projects initiated or carried out by the Authority to strengthen and develop the National Payment System of the Maldives or to achieve the purposes of this Act. If the Authority gives such an order, that institution or those institutions shall participate in that project in the manner instructed by the Authority.
+
+Granting Exemptions
+
+    The Authority may determine that a specific party or an operator operating a specific system or a specific type of systems, or a specific payment service provider or parties providing a specific type of payment service, do not have to comply with a specific section or sections of this Act, for a specific period, with specific conditions.
+
+Clearing of Cheques
+
+60.
+(a) To receive money for a cheque, the original of the cheque or an electronic cheque, including the important features of the cheque, may be submitted for clearing to the bank to which the cheque belongs. The important features to be included in a cheque in this manner shall be determined by the Authority.
+
+(b) For the purpose of submission to a court as evidence, the submission of an electronic cheque shall be considered as a submission similar to the submission of the original of that cheque.
+
+(c) When an electronic cheque is submitted as in subsection (a) of this section, that submission shall be considered a valid submission for the purpose of issuing money for that cheque.
+
+Continuing Matters and Transitional Provisions
+
+61.
+(a) A party providing payment services or operating a system at the time this Act comes into force may provide that service and operate a system for 6 (six) months from the date this Act comes into force.
+
+(b) If any party wishes to provide a service and operate a system after the period specified in subsection (a) of this section, it shall apply for a license or permit under this Act within 3 (three) months from the date this Act comes into force.
+
+(c) The Authority shall decide on the granting of a license or permit for an application for a license or permit specified in subsection (b) of this section within the period specified in subsection (a) of this section.
+
+(d) Parties providing money remittance services in the Maldives with a license issued by the Authority at the time this Act comes into force shall be considered as parties licensed to provide money remittance services under Section 21(b) of this Act from the date this Act comes into force. And those parties shall fully comply with this Act. If, at the time this Act comes into force, such parties are in violation of any matter required to be done in this Act, that matter shall be done in accordance with the manner specified in the Act within a period determined by the Authority not exceeding 1 (one) year from the date this Act comes into force.
+
+Fees and Other Charges
+
+62.
+(a) The Authority may instruct operators or payment service providers to pay an annual fee, a license fee, or a permit fee.
+
+(b) A fee or charge may be levied for the services provided by the systems operated by the Authority or for the services provided by the Authority.
+
+(c) The fees and charges decided to be levied by the Authority in the manner specified in subsections (a) and (b) of this section shall be made public.
+
+Primacy of this Act
+
+    If any section of this Act conflicts with a section in another law, the section in this Act shall prevail.
+
+Making and Administering Regulations
+
+64.
+(a) All regulations to be made under this Act shall be made and administered by the Authority. And the regulations related to matters for which a regulation is required to be made under this Act shall be made and published in the Government Gazette within 1 (one) year from the date this Act comes into force.
+
+(b) The Authority may issue regulations, guidelines, instructions, orders, and circulars necessary for the enforcement and administration of this Act.
+
+Commencement of the Act
+
+    This Act shall come into force on the date on which 4 (four) months have passed from the date on which this Act is passed, ratified, and published in the Government Gazette.
+
+Interpretation
+
+    Unless the context in which an expression or a word is used in this Act clearly indicates otherwise, the following expressions and words are given the meanings given below.
+
+(a) "Authority" means the Maldives Monetary Authority established under Law No. 6/81 (Maldives Monetary Authority Act 1981).
+
+(b) "Bank" has the meaning given to a bank in Law No. 24/2010 (Maldives Banking Act).
+
+(c) "Cheque Image" means a digital image showing the front and back of a cheque, which complies with the standards, if any, determined by the Authority for the minimum security features to be present.
+
+(d) "Collateral" means an asset or a guarantee given by a third party, which is acceptable to the party accepting the collateral, to secure that credit.
+
+(e) "Electronic Cheque" means a cheque containing information on the important features of the cheque, a cheque image, or both types of information. This cheque shall be generated, written on, and signed in a secure system, and shall contain the minimum security features determined by the Authority to be present in such a cheque.
+
+(f) "Electronic Funds Transfer" means an order or authorization given by any party to a payment service provider, to credit or debit an account of a service recipient through an electronic means. This includes, but is not limited to, credit or debit made through point of sale (POS), automated teller machine (ATM), mobile phone, internet, and card.
+
+(g) "Financial Instruments" means domestic and foreign company shares, other securities similar to shares in companies, bonds, other debt instruments that can be transferred from one person to another in the capital market, and other securities generally dealt with that grant the right to acquire such shares or bonds or securities by subscription or purchase or exchange, or that grant the right to receive money. This does not include payment instruments. However, it includes collective investment undertakings, money market instruments, and rights arising in connection with the aforementioned types.
+
+(h) "Insolvency Proceedings" means the measures specified in the laws of the Maldives or of another country for the insolvency of a person or a legal person or for the reorganization of a legal person. Such measures include taking steps to temporarily stop or restrict the transfer of money or payment transactions. And insolvency proceedings also include taking steps for the insolvency of banks in accordance with Law No. 24/2010 (Maldives Banking Act).
+
+(i) "Major Shareholder" means a party who, directly or indirectly, holds at least 10% (ten percent) of the capital or voting rights of a legal person, or a party who has control over that person in a manner acceptable to the Authority in any other way.
+
+(j) "Netting Arrangement" means a written arrangement made to convert several claims or obligations into one net claim or one obligation.
+
+(k) "Operator" means an institution to which the Authority has issued a license to operate a system.
+
+(l) "Participant" means a party who, whether directly or indirectly, is accepted as fulfilling the conditions under the system rules to transfer to other participants through a system, or to clear among participants, or to settle.
+
+(m) "Licensed Auditor" means an auditor licensed to audit by the Institute of Chartered Accountants of the Maldives.
+
+(n) "Payment Instruction" means an order, authorization, or instruction given by any party to a participant of a system or a payment service provider, or from one participant of a system to another participant, to execute a payment transaction, in any manner, including through an electronic means.
+
+(o) "Payment Service Provider" means every institution that has obtained a license or permit under this Act to provide a payment service.
+
+(p) "Remittance Service" means the service of accepting cash or other payment instruments at one place and delivering the equivalent amount, by a transaction or a message or a transfer or through a clearing network to which the funds transfer service belongs, in cash or in any other form, to a beneficiary at another place.
+
+(q) "Settlement Account" means an account opened in the books of the Authority or another institution acting as a settlement agent for the purpose of holding money and financial instruments and for settling transfer orders among participants.
+
+(r) "Settlement Agent" means a party who provides settlement accounts to participants for the purpose of holding money and settling transfer orders within a system, and who issues credit when credit needs to be issued for settlement.
+
+(s) "Transfer Order" means:
+
+(1) An instruction given by a participant or a system to make money available to another party through a book entry or an electronic transfer through the accounts of a participant; or
+
+(2) An instruction given by a participant to transfer the ownership or an interest in a financial instrument by means of a book entry or in any other way.
+
+(t) "Maldives Banking Act" means the currently in force Law No. 24/2010 (Maldives Banking Act) and all amendments thereto.
+
+(u) "Maldives Financial Securities Act" means the currently in force Law No. 2/2006 (Maldives Financial Securities Act) and all amendments thereto.
+
+(v) "Companies Act of the Maldives" means the currently in force Law No. 10/96 (Companies Act of the Maldives) and all amendments thereto.
+
+(w) "Penal Code of the Maldives" means the currently in force Law No. 9/2014 (Penal Code of the Maldives) and all amendments thereto.

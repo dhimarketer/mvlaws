@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #fafafa;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 300px;
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 12px;
+    background: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+.results {
+    list-style: none;
+    padding: 0;
+}
+
+.results li {
+    margin-bottom: 15px;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+mark {
+    background-color: yellow;
+}
+

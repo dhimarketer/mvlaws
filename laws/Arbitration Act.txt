@@ -1,0 +1,914 @@
+Arbitration Act
+
+Chapter One
+
+Introduction
+
+Introduction and Name
+
+1.
+(a) This is the law that outlines the procedures for resolving commercial disputes arising between two or more parties bound by a legally recognized relationship, in a manner consistent with international principles of arbitration.
+
+(b) This law shall be cited as the "Arbitration Act".
+
+Purpose
+
+2.
+The purposes of this Act are to:
+
+(a) Facilitate the resolution of commercial disputes using other legally permissible and empowered means, before the judicial court stage or as an alternative to the trial stage;
+
+(b) Introduce the mechanism of arbitration to the Maldives as a means of dispute resolution and to provide it with the force of law;
+
+(c) Introduce and provide legal force to the procedures for resolving commercial disputes through an independent third party appointed by the parties involved in such disputes;
+
+(d) Define the extent and manner of the role of the judiciary in matters related to arbitration, and to regulate and organize the relationship between arbitration and the judiciary;
+
+(e) Pave the way for the resolution of commercial disputes through a swift, out-of-court process, mediated by a private and independent third party chosen by the parties to the dispute, who possesses knowledge and experience in the matters underlying the dispute, instead of submitting them to the stages of a trial; and
+
+(f) Establish and regulate the arbitration system of the Maldives in accordance with the model rules established by the United Nations Commission on International Trade Law (UNCITRAL).
+
+Scope of the Law
+
+3.
+The resolution of commercial disputes in the Maldives through arbitration shall be conducted in accordance with the procedures set out in this Act. This applies unless otherwise stated in an international agreement to which the Maldives is a party with another country or countries. This Act does not prevent the organization of arbitration procedures in a manner specified in an international agreement to which the Maldives is a party with another country or countries, if that agreement provides for a different procedure.
+
+Non-application of Certain Articles in Specific Circumstances
+
+4.
+(a) Unless otherwise specified in this Act, the procedures outlined in this Act shall apply in cases where, under an arbitration agreement, the designated place of arbitration is the Maldives.
+
+(b) Notwithstanding paragraph (a) of this Article, in cases where the designated place of arbitration under an arbitration agreement is a country other than the Maldives, the procedures set out in Articles 15, 40, and 43 of this Act shall not apply to that arbitration.
+
+Relationship with Other Laws
+
+5.
+(a) Notwithstanding this Act, this Act does not prevent another law from determining that certain types of commercial disputes cannot be submitted to arbitration, or that certain types of commercial disputes must be submitted to a judicial court.
+
+(b) Notwithstanding this Act, this Act does not prevent another law from specifying that certain types of disputes may be submitted to arbitration in accordance with the procedures set out in that other law.
+
+(c) The fact that a law includes a particular matter within the jurisdiction of a specific court, or the fact that a law does not explicitly state that a particular matter shall be resolved by arbitration, shall not in itself be a barrier to submitting that matter to arbitration under this Act.
+
+Chapter Two
+
+Glossary of Concepts
+
+Basis of Concepts
+
+6.
+The terms defined from Article 7 to Article 11 of this Act are the fundamental concepts upon which this Act is based. These concepts are defined in these articles to preserve the essence of this Act and to facilitate the fullest achievement of the objectives of this Act. Every article of this Act shall be read in a manner that does not diminish these concepts and in a way that promotes and upholds them.
+
+Arbitration
+
+7.
+"Arbitration" refers to the international procedure for resolving commercial disputes arising between two or more parties bound by a legally recognized relationship, by submitting the dispute to an independent third party appointed by the parties involved in the matter, to be heard and decided by that party, and to abide by that decision, instead of submitting it to a judicial court, in accordance with the procedures set out in this Act.
+
+Arbitral Tribunal
+
+8.
+"Arbitral Tribunal" refers to the third party appointed to hear and decide on a matter, and to which the matter has been submitted for hearing and decision. The third party so appointed may be a single person appointed solely to hear that matter. Or it may be a panel of 3 (three) persons. Or it may be a panel comprising more persons. Or it may also be a center registered to provide arbitration services on a permanent basis.
+
+Arbitrator
+
+9.
+"Arbitrator" refers to the person or one of the persons included in the meaning of the third party appointed to hear and decide on a matter, and to which the matter has been submitted for hearing and decision.
+
+Arbitral Proceedings
+
+10.
+"Arbitral Proceedings" refers to the meetings and hearings conducted by the arbitrator.
+
+Arbitral Award
+
+11.
+"Arbitral Award" refers to the order or the solution to the matter issued by the arbitrator, after hearing and deciding the matter submitted to the arbitrator, which determines how the parties involved in the matter should act.
+
+Chapter Three
+
+The Arbitration Agreement
+
+Definition of an Arbitration Agreement
+
+12.
+(a) An arbitration agreement is an agreement between two or more parties to resolve by arbitration a specific dispute, certain disputes, or any dispute that may arise out of, as a result of, or in the course of, a legal relationship that has been formed between them.
+
+(b) An arbitration agreement may be a separate agreement in its own right. Or it may be a specific clause contained within an agreement between two or more parties.
+
+Arbitration Agreement to be in Writing
+
+13.
+(a) The arbitration agreement shall be in writing.
+
+(b) The arbitration agreement shall be deemed to be in writing if it is recorded in writing, or if an agreement made orally or otherwise is recorded in writing, or if it is recorded in any form on a medium that can serve as evidence.
+
+Circumstances in which an Arbitration Agreement may be deemed to Exist
+
+14.
+(a) An arbitration agreement may be deemed to exist based on documents exchanged between two or more parties through a means of electronic communication.
+
+(b) In a conversation between two or more parties, if one party states that an arbitration agreement exists and the other party or parties do not deny it in their conversation, an arbitration agreement may be deemed to exist between them.
+
+(c) If an agreement between two or more parties contains a clause relating to arbitration, and that clause is considered part of the agreement, an arbitration agreement shall be deemed to exist between the parties.
+
+Submitting the Existence of an Arbitration Agreement to Court
+
+15.
+(a) If a matter submitted to any judicial court is a matter for which there is an agreement to be resolved by arbitration, and if the following two conditions are met in relation to that matter, the court shall stop the proceedings in that court and order that the matter be submitted to arbitration.
+
+(1) The responding party states in court at the first opportunity available to them to answer in the matter that they wish to resolve the matter by arbitration; and
+
+(2) The court does not find that the agreement to which the matter relates or upon which it is based is void, inoperative, or incapable of being performed.
+
+(b) Even if a matter for which there is an agreement to be resolved by arbitration has been submitted to a court, the parties involved in the matter submitted to arbitration have the right to commence arbitral proceedings, and if such proceedings have already commenced, to continue them, and to bring the matter to a conclusion. This is so even if the matter is pending in a court as provided for in paragraph (a) of this Article.
+
+Chapter Four
+
+The Arbitral Tribunal
+
+Determining the Number of Arbitrators
+
+16.
+(a) The parties involved in a matter submitted to arbitration have the freedom to determine whether one arbitrator or more than one arbitrator shall be appointed to hear and resolve the matter.
+
+(b) Notwithstanding paragraph (a) of this Article, if more than one arbitrator is appointed, the total number of arbitrators so appointed shall be an odd number.
+
+(c) If the parties involved in a matter submitted to arbitration cannot agree on the number of arbitrators to be appointed to hear and resolve the matter, the following may be done:
+
+(1) If the amount of money involved in the matter submitted to arbitration is 1.5 (one point five) million Rufiyaa or more, 3 (three) arbitrators shall be appointed to hear the matter;
+
+(2) If the amount of money involved in the matter submitted to arbitration is less than 1.5 (one point five) million Rufiyaa, 1 (one) arbitrator shall be appointed.
+
+No Regard to Nationality
+
+17.
+(a) Maldivian citizens and citizens of a country with which the Maldives has established diplomatic relations may be appointed as arbitrators to hear a matter submitted to arbitration under this Act.
+
+(b) Within the scope of the principle stated in paragraph (a) of this Article, unless otherwise agreed between the parties involved in the matter submitted to arbitration, a person shall not be precluded from being an arbitrator solely on the basis of their nationality.
+
+Freedom to Appoint Arbitrators
+
+18.
+The parties involved in a matter submitted to arbitration have the freedom to determine, through discussion, the method of appointing an arbitrator or arbitrators.
+
+How to Appoint Three Arbitrators
+
+19.
+(a) If the parties involved in a matter submitted to arbitration wish to appoint 3 (three) arbitrators, each of the two parties in the matter shall appoint 1 (one) arbitrator. Once 2 (two) arbitrators are so appointed, a third arbitrator shall be appointed by those 2 (two) arbitrators by their agreement.
+
+(b) Notwithstanding paragraph (a) of this Article, in the following circumstances, the arbitrator shall be appointed by the Arbitration Center:
+
+(1) The arbitrator to be appointed by a party in the matter is not appointed within 30 (thirty) days; or
+
+(2) A party to the matter requests another party involved in the matter to appoint an arbitrator, and that party fails to appoint an arbitrator to represent them within 30 (thirty) days from the date of the request; or
+
+(3) The 2 (two) arbitrators are unable to appoint a third arbitrator within 30 (thirty) days from the date of their appointment.
+
+How to Appoint One Arbitrator
+
+20.
+(a) If the parties involved in a matter submitted to arbitration wish to appoint 1 (one) arbitrator, they have the freedom to agree on and appoint an arbitrator through discussion between them.
+
+(b) If an arbitrator is not appointed in accordance with paragraph (a) of this Article, upon the request of either party, the arbitrator shall be appointed by the Arbitration Center.
+
+Measures the Arbitration Center May Take
+
+21.
+(a) If a specific procedure for the appointment of arbitrators has been established between the parties involved in a matter submitted to arbitration, and if any of the following circumstances arise, either party may request the Arbitration Center to take the necessary measures in the matter.
+
+(1) A party required to appoint an arbitrator fails to act in the manner prescribed for that party;
+
+(2) Either of the parties involved in the matter has failed to act in the manner required for the appointment of arbitrators;
+
+(3) After the appointment of 2 (two) arbitrators, a third arbitrator has not been appointed in the manner required;
+
+(4) A third party has failed to perform a task that it was required to perform at the request of the parties involved in the matter submitted to arbitration.
+
+(b) The parties involved in a matter may agree not to appeal against a decision made by the Arbitration Center on a matter submitted to it under this Article.
+
+(c) If the total number of arbitrators appointed under this Article is 3 (three), or if more arbitrators are appointed, there shall be a presiding arbitrator appointed by them from among themselves. The presiding arbitrator shall bear the primary responsibility for conducting the Arbitral Tribunal in which they are included, unless the Tribunal decides otherwise.
+
+Matters to be Considered by the Arbitration Center when Appointing Arbitrators
+
+22.
+When the Arbitration Center appoints an arbitrator or arbitrators, it shall consider the following:
+
+(a) The competence that the arbitrator should possess;
+
+(b) The knowledge that the arbitrator should possess;
+
+(c) The independence and impartiality required to resolve the matter submitted to arbitration;
+
+(d) In a situation where 1 (one) arbitrator is to be appointed, if the two parties involved in the matter belong to two different countries, an arbitrator from a country other than those two countries shall be appointed.
+
+Disclosure of Conflict of Interest
+
+23.
+(a) When a person receives an offer to serve as an arbitrator, if they become aware at that time of any reason why they cannot perform the duties of an arbitrator with impartiality and independence, they shall inform the party wishing to appoint them and shall decline to accept the position.
+
+(b) Even after being appointed as an arbitrator, if it is discovered that there is any reason why the duties of an arbitrator cannot be performed with impartiality and independence, this shall be communicated to the appointing party, and the arbitrator shall resign from that position. And, if the arbitrator is part of a tribunal with more than one arbitrator, they shall also inform the other arbitrators in that tribunal.
+
+Conduct of Arbitrators
+
+24.
+A person holding the position of an arbitrator shall conduct themselves in accordance with the Bangalore Principles of Judicial Conduct.
+
+Circumstances in which an Arbitrator may be deemed Unsuitable
+
+25.
+An arbitrator appointed under this Act may be declared unsuitable for the position and removed from it only if one of the following four circumstances arises after their appointment:
+
+(a) A reason arises that prevents the performance of the duties of an arbitrator with impartiality and independence; or
+
+(b) It is found that the arbitrator lacks the scholarly competence required for an arbitrator appointed for that matter; or
+
+(c) There is an unacceptable delay in the performance of the duties of an arbitrator; or
+
+(d) The duties of an arbitrator are not being performed in a suitable manner.
+
+Procedure for Removing an Arbitrator
+
+26.
+(a) The parties involved in a matter submitted for arbitration may agree on a procedure for declaring a person appointed to the position of arbitrator unsuitable for the position and removing them from it, if a situation described in Article 25 of this Act arises.
+
+(b) If there is no such agreement as described in paragraph (a) of this Article between the parties involved in a matter submitted for arbitration, the party wishing to remove a person appointed to the position of arbitrator due to a situation described in Article 25 of this Act shall submit the matter to the Arbitral Tribunal within a maximum of 15 (fifteen) days from the date the Arbitral Tribunal is constituted. Or, if the party became aware of the matter after the expiry of those 15 (fifteen) days, the matter shall be submitted to the Arbitral Tribunal within 15 (fifteen) days from the date the party became aware of it.
+
+(c) Upon receipt of a submission to the Arbitral Tribunal in accordance with paragraph (b) of this Article, the arbitrator to whom the submission relates may voluntarily resign from the position. Or, if the other party or parties involved in the matter agree to the submission, they shall be removed from the position. If the other party or parties involved in the matter do not agree to the submission, the decision on their removal from the position shall be made by the Arbitral Tribunal. This is if the Tribunal is composed of 3 arbitrators or more. If the Tribunal consists of only one arbitrator, the matter shall be decided by the Arbitration Center instead of the Tribunal.
+
+(d) If, after considering a submission made to the Arbitral Tribunal in accordance with paragraph (b) of this Article as provided in paragraph (c), the Arbitral Tribunal does not see fit to remove them from the position, the party who submitted the request for removal may, within 30 (thirty) days from the date the Arbitral Tribunal makes that decision, appeal the matter to the Arbitration Center. The parties involved in the matter may agree that the decision made by the Arbitration Center on the matter shall be the final decision.
+
+(e) Until the Arbitration Center makes a decision in accordance with paragraph (d) of this Article, the arbitrator whose removal has been proposed may continue to perform the duties of their position.
+
+(f) An arbitrator's voluntary resignation from their position in connection with a matter submitted to the Arbitral Tribunal under paragraph (b) of this Article shall not be considered an admission of the allegations made against them.
+
+Appointment of a Substitute Arbitrator
+
+27.
+(a) If the position of an arbitrator becomes vacant under Article 26 of this Act, a substitute arbitrator shall be appointed for the vacant position.
+
+(b) A substitute arbitrator shall be appointed in accordance with paragraph (a) of this Article using the same procedure that was used to appoint the arbitrator who previously held the vacant position.
+
+Effect of a Change of Arbitrator on the Proceedings
+
+28.
+(a) Unless the parties involved in the matter submitted for arbitration have agreed otherwise, if the substitute arbitrator appointed under Article 27 of this Act is the sole arbitrator appointed for that arbitration, or is the presiding arbitrator of the Arbitral Tribunal, the work done in that arbitration up to that point shall be nullified upon the appointment of the substitute arbitrator, and the work of that arbitration shall be recommenced.
+
+(b) If the substitute arbitrator appointed under Article 27 of this Act is not the sole arbitrator appointed for that arbitration, or is not the presiding arbitrator of the Arbitral Tribunal, the Arbitral Tribunal has the discretion to continue the work of the arbitration without nullifying the work done in the arbitration up to that point.
+
+Chapter Five
+
+Jurisdiction of the Arbitral Tribunal
+
+Power to Rule on its Own Jurisdiction
+
+29.
+(a) The Arbitral Tribunal established under this Act has the jurisdiction to determine the scope of its powers in relation to the matter submitted to it.
+
+(b) The jurisdiction referred to in paragraph (a) of this Article includes the power to decide on disputes that arise regarding whether an arbitration agreement submitted to the Arbitral Tribunal is a valid agreement and whether such an agreement exists.
+
+(c) The jurisdiction referred to in paragraph (a) of this Article also includes the power to decide on disputes that arise as to whether a matter submitted to the Arbitral Tribunal is a matter that the Tribunal has the jurisdiction to hear.
+
+Validity of the Arbitration Agreement
+
+30.
+(a) For the purposes of paragraphs (b) and (c) of Article 29 of this Act, the arbitration clause in the agreement on which the matter submitted to the Arbitral Tribunal is based shall be treated as a separate and independent arbitration agreement.
+
+(b) The fact that the Arbitral Tribunal, after examining an agreement containing an arbitration clause, determines that some or all of the clauses in the agreement are invalid, is not in itself a reason to consider the arbitration clause in that agreement to be invalid. This is because the matter is first submitted to arbitration because that clause exists.
+
+Plea of Lack of Jurisdiction
+
+31.
+(a) If a party involved in a matter wishes to deny that the Arbitral Tribunal has jurisdiction to hear a matter, this can only be done at the first opportunity that party has to speak on the matter.
+
+(b) When a party involved in a matter denies that the Arbitral Tribunal has jurisdiction to hear a matter, the fact that they have appointed an arbitrator to that Tribunal, or that they have participated in the constitution of that Tribunal, is not in itself a reason for the opportunity afforded to them to make such a denial to be narrowed or lost.
+
+Exceeding Jurisdiction
+
+32.
+(a) If it appears to a party involved in a matter before the Arbitral Tribunal that the Tribunal, in hearing that matter, has gone beyond its jurisdiction to hear the matter, that issue shall be raised at the time it occurs.
+
+(b) If a party involved in a matter, in accordance with paragraph (a) of this Article, raises the issue that the Arbitral Tribunal, in hearing a matter, has gone beyond its jurisdiction, the Tribunal has the discretion to suspend the hearing of the matter at that time and decide on that point. Or it will suffice for the Tribunal to continue hearing the matter as it was and for the Tribunal to address that point in the arbitral award.
+
+(c) If, after considering a jurisdictional point raised in accordance with paragraph (a) of this Article as a separate point, the Arbitral Tribunal determines that it has not gone beyond its jurisdiction, the dissatisfied party has the option to submit the matter to the court within 30 (thirty) days from the date the Tribunal made that decision, to request a decision on the matter.
+
+(d) In a matter submitted to the court in accordance with paragraph (c) of this Article, that party and the Arbitral Tribunal may agree that the court's decision shall be the final decision on the matter.
+
+(e) While a matter submitted to the court in accordance with paragraph (c) of this Article is pending and unresolved in that court, the Arbitral Tribunal may continue its work.
+
+Chapter Six
+
+Power to Take Interim Measures
+
+Tribunal's Power to Issue an Order for Interim Measures
+
+33.
+(a) Unless otherwise agreed between the parties involved in a matter submitted for arbitration, the Arbitral Tribunal has the power to issue an order for interim measures based on a submission made to it by either party.
+
+(b) In paragraph (a) of this Article, "interim measure" refers to an order issued by the Arbitral Tribunal for the purpose of maintaining the following until the Arbitral Tribunal has heard and decided the matter before it and an arbitral award has been determined:
+
+(1) To maintain the relationship that existed between the parties involved in the matter submitted for arbitration up to the time the matter was submitted, or to restore that relationship, until the matter is heard and an arbitral award is determined; or
+
+(2) To prevent any action that may have an adverse effect on the matter being heard by the Arbitral Tribunal; or
+
+(3) To preserve the property and resources that would need to be used to provide compensation, should a situation arise where compensation must be paid in connection with an arbitral award; or
+
+(4) To preserve and maintain the evidence required to resolve the matter being heard by the Arbitral Tribunal.
+
+(c) Unless otherwise provided in this Act, an order for interim measures referred to in paragraph (a) of this Article shall be issued by the Arbitral Tribunal after notifying the parties involved in the matter and after giving them an opportunity to make any statement they may wish to make in relation to the matter before the Tribunal.
+
+Issuing an Interim Order on the Submission of One Party
+
+34.
+(a) Notwithstanding paragraph (c) of Article 33 of this Act, the Arbitral Tribunal has the power to issue an order for interim measures on the submission of one of the parties involved in a matter submitted for arbitration and without notifying the other party involved in that matter. However, such an order shall be issued by the Arbitral Tribunal only when it appears to the Arbitral Tribunal that if the other party involved in the matter were to be given prior notice, the purpose of issuing the order might not be achieved.
+
+(b) When an order referred to in paragraph (a) of this Article is issued by the Arbitral Tribunal, all information relating to that order shall be given to all parties involved in the matter without delay after the order is issued.
+
+(c) In providing the information referred to in paragraph (b) of this Article, information regarding the submission requesting the order referred to in paragraph (a) of this Article, the nature of that submission, the documents received by the Arbitral Tribunal in relation to the matter, and the oral statements given to the Tribunal in relation to the matter shall also be given to those parties.
+
+(d) When an order referred to in paragraph (a) of this Article is issued by the Arbitral Tribunal, the party to whom the order is directed shall be given an opportunity by the Tribunal to respond to it. And, upon that party's response, the Arbitral Tribunal shall, without delay, decide how to proceed with the order and inform the parties involved in the matter of the decision.
+
+Matters to be Assured when Requesting an Order for Interim Measures
+
+35.
+(a) The party submitting a request for an order for interim measures under Article 33 or Article 34 of this Act shall assure the Arbitral Tribunal of the following:
+
+(1) That if the measure is not taken at that time, the compensation that should be received under an arbitral award will not be adequately received;
+
+(2) That the harm that would be caused by not issuing an order for interim measures would be proportionally greater than the harm that would be caused to the party to whom the order is directed by issuing the order;
+
+(3) That there is a high probability that the arbitration matter will be concluded in favor of the party requesting the order for interim measures.
+
+(b) A decision made by the Arbitral Tribunal on the basis of paragraph (a)(3) of this Article is not necessarily a reason to indicate that the matter in arbitration will conclude in that manner.
+
+(c) In relation to a submission to the Arbitral Tribunal requesting an order for interim measures under paragraph (a) of this Article, the matters stated in subparagraphs (1) to (3) of that paragraph must be assured to the Tribunal to a degree determined by the Tribunal.
+
+Modification of an Order for Interim Measures
+
+36.
+(a) After issuing an order for interim measures under this Act, the Arbitral Tribunal has the power to amend the order, to suspend its operation, and to terminate the order.
+
+(b) A decision empowering the Arbitral Tribunal under paragraph (a) of this Article shall be made by the Tribunal after receiving a submission from a party involved in the matter before the Tribunal, and after considering it, if the Tribunal finds it justifiable to make such a decision. Or, without such a submission, in a special circumstance, at the Tribunal's own discretion and on its own initiative.
+
+Providing Security
+
+37.
+(a) When issuing an order for interim measures under this Act, the Tribunal shall require the party requesting the measure to provide adequate security to the Arbitral Tribunal in relation to that measure. And, an order for interim measures shall be issued without obtaining such security only in a situation where the Tribunal deems it unnecessary at that time.
+
+(b) In paragraph (a) of this Article, "providing security" refers to the party requesting the order for interim measures placing under the custody of the Arbitral Tribunal an amount of money sufficient to cover any costs that the party to whom the order for interim measures is directed may have to incur, or to compensate for any loss that party may suffer, should a situation arise where such compensation is required. Or to obtain a guarantee from a party acceptable to the Tribunal that the money will be paid on the day it is due.
+
+Notification of Changes
+
+38.
+While an order for interim measures is in effect under this Act, the Arbitral Tribunal may require that any change to any matter or circumstance connected with that order be notified to the Arbitral Tribunal as soon as possible.
+
+Costs and Damages
+
+39.
+(a) While an order for interim measures is in effect under this Act, if the Arbitral Tribunal, in deciding the matter submitted for arbitration, determines that it was not essential to issue that order at that time, the party who requested the order is obliged to pay for the expenses incurred by the party to whom the order was directed as a result of the order and to provide adequate compensation for any loss incurred by that party due to the measure.
+
+(b) In accordance with paragraph (a) of this Article, the Arbitral Tribunal may, at any stage of the arbitration, issue an order directing that the costs and compensation for damages be paid to the party entitled to receive them.
+
+Recognition and Enforcement by the Court
+
+40.
+(a) An order for interim measures issued under this Act shall, unless otherwise determined by the Arbitral Tribunal, be recognized and the court shall have the power to enforce the order.
+
+(b) The court shall issue an order recognizing and enforcing an order for interim measures issued under this Act, in accordance with paragraph (a) of this Article, after a party requesting it submits a request for an enforcement order to the court, and after the court has examined the matters it is required to examine.
+
+Notifying the Court of Changes to the Order
+
+41.
+While a request for the recognition and enforcement of an order for interim measures issued under this Act has been submitted to the court in accordance with paragraph (a) of Article 40 of this Act, if the Arbitral Tribunal revokes, suspends, or modifies the order, the party who submitted the matter to the court shall inform the court as soon as possible.
+
+Court Seeking Security
+
+42.
+Even if an order for interim measures issued under this Act was issued by the Arbitral Tribunal without seeking security, the court has the power, in recognizing and enforcing the order, to order that security be provided.
+
+Court Refusing Recognition and Enforcement
+
+43.
+(a) The court shall refuse to recognize or enforce an order for interim measures issued by the Arbitral Tribunal under this Act if the party opposing the enforcement of the order proves to the court that one of the following circumstances has occurred:
+
+(1) The existence of a circumstance stated in subparagraph (1) of paragraph (a) of Article 74 of this Act, and that due to this circumstance, it is not necessary to enforce the order; or
+
+(2) The order of the Arbitral Tribunal was made conditional upon the performance of a task as a form of providing security, and the party required to fulfill the condition has not done so; or
+
+(3) The Arbitral Tribunal that issued the order has revoked it, or suspended its operation, or a court with the power to do so has revoked the order.
+
+(b) Even if the party opposing the recognition or enforcement of an order for interim measures issued by the Arbitral Tribunal under this Act has not been able to prove the existence of one of the circumstances set out in paragraph (a) of this Article, the court may, on its own initiative, decide not to recognize or enforce the order based on one of the following:
+
+(1) It appears that enforcing the order is not something the court can do within its powers; or
+
+(2) In a circumstance stated in subparagraph (1) of this paragraph, the court is unwilling to make the necessary amendments to the order to enforce it within the scope of its powers; or
+
+(3) The court believes that one of the circumstances set out in subparagraph (2) of paragraph (a) of Article 74 of this Act applies to the order.
+
+Extent of the Court's Review of the Order
+
+44.
+(a) In deciding whether to recognize or enforce an order for interim measures issued by the Arbitral Tribunal under this Act, the court's decision shall be based on the extent necessary for the recognition or enforcement of the order.
+
+(b) In its review under paragraph (a) of this Article, the court shall not decide on the validity of the order issued by the Arbitral Tribunal. Nor will the court review the sources and points on which the Tribunal based its order.
+
+Court Issuing an Interim Order on its Own Initiative
+
+45.
+(a) In relation to a matter ongoing in arbitration, in circumstances where the Arbitral Tribunal hearing the matter has the power to issue an order for interim measures, the court also has the same power, to the same extent, to issue such an order on its own initiative in relation to that ongoing arbitration matter. This is so even if the arbitration is taking place outside the Maldives.
+
+(b) The court shall exercise its power to issue an order for interim measures in relation to a matter ongoing in arbitration in accordance with the procedures it has established for dealing with international arbitration.
+
+Chapter Seven
+
+Conduct of the Arbitration
+
+Giving Equal Opportunity
+
+46.
+(a) Every party involved in a matter submitted to the Arbitral Tribunal shall be treated equally, without bias, and in a manner that ensures each party has confidence that matters will be conducted fairly.
+
+(b) Every party involved in a matter submitted to the Arbitral Tribunal shall be given a full opportunity, within the scope of the procedures established by the Tribunal, to present their case or to make the statements they wish to make.
+
+Determining the Procedure for the Arbitration
+
+47.
+(a) Unless otherwise provided in this Act, the parties involved in a matter submitted to the Arbitral Tribunal have the power to determine the procedures for conducting the arbitral proceedings.
+
+(b) If the parties involved in a matter submitted to the Arbitral Tribunal have not determined the procedure for conducting the arbitral proceedings, or if they have not been able to reach an agreement on the procedure, the power to determine how the arbitral proceedings will be conducted, unless otherwise provided in this Act, lies with the Arbitral Tribunal.
+
+(c) The power vested in the Arbitral Tribunal in accordance with paragraph (b) of this Article includes the power to determine the rules regarding what can be submitted as evidence in the matter, the relevance of the submitted evidence to the matter, and the weight of that evidence.
+
+Place of Arbitration
+
+48.
+(a) Unless otherwise provided in this Act, the parties involved in a matter submitted to the Arbitral Tribunal have the power to determine the place where the arbitral proceedings will be conducted.
+
+(b) If the parties involved in a matter submitted to the Arbitral Tribunal have not determined a place for conducting the arbitral proceedings in accordance with paragraph (a) of this Article, or if they have not been able to reach an agreement on that place, the power to determine the place where the arbitral proceedings will be conducted, unless otherwise provided in this Act, lies with the Arbitral Tribunal.
+
+(c) In determining the place for conducting the arbitral proceedings under paragraph (b) of this Article, the Arbitral Tribunal shall take into consideration the convenience of the parties involved in the matter, the circumstances of the parties at that time, and the circumstances of the dispute that has arisen between them.
+
+(d) Notwithstanding paragraph (a) of this Article, unless the parties involved in the matter have agreed otherwise, the arbitral proceedings may be held at a place determined by the Arbitral Tribunal, and deliberations among the arbitrators of the Tribunal, obtaining the testimony of witnesses, seeking the opinion of experts, and the inspection of property, things, and documents may be conducted at any place determined by the Tribunal.
+
+Commencement of Arbitration
+
+49.
+Unless the parties involved in the matter have agreed otherwise, the arbitration shall be deemed to have commenced from the time that a notification from one party involved in the matter to the other party or parties involved, requesting that the dispute between them be submitted to arbitration, is received by that party or parties.
+
+Language
+
+50.
+(a) Unless otherwise provided in this Act, the parties involved in a matter submitted to the Arbitral Tribunal have the power to determine the language in which the arbitral proceedings will be conducted.
+
+(b) If the parties involved in a matter submitted to the Arbitral Tribunal have not determined the language for conducting the arbitral proceedings in accordance with paragraph (a) of this Article, or if they have not been able to reach an agreement on the matter, the power to determine the language in which the arbitral proceedings will be conducted, unless otherwise provided in this Act, lies with the Arbitral Tribunal.
+
+(c) If a specific language is determined under paragraph (a) or (b) of this Article, unless the parties involved in the matter have determined otherwise, the rule of using that language shall apply to the documents submitted to the Arbitral Tribunal, to the statements made in the arbitral proceedings, to the documents sent by the Arbitral Tribunal, and to the arbitral award.
+
+(d) If a document submitted to the Arbitral Tribunal is in a language other than the one determined under paragraph (a) or (b) of this Article, the Arbitral Tribunal has the power to order that the document be submitted after being translated into that language.
+
+Applicable Law to the Substance of the Dispute
+
+51.
+(a) In conducting the arbitral proceedings, the law applicable to the substance of the dispute submitted to arbitration shall be determined by the parties involved in that dispute.
+
+(b) If the law applicable to the substance of the dispute submitted to arbitration has not been determined by the parties involved in the dispute in accordance with paragraph (a) of this Article, the Arbitral Tribunal, taking into account the relevant laws, shall determine the applicable law, considering the parties involved, the countries involved, the differences in the laws of those countries, and the procedures to be followed in matters where conflicts arise due to those differences.
+
+(c) If the law applicable to the substance of the dispute submitted to arbitration has not been determined by the parties involved in the dispute in accordance with paragraph (a) of this Article, the applicable law shall be deemed to be the relevant law or laws of the country with which the substance or basis of the dispute or the points on which the dispute is based are most closely connected.
+
+(d) Notwithstanding paragraph (b) of this Article, the legal principles for resolving differences between the laws of one country and another, or the legal principles relating to conflicts that arise in applying the law of one country to a citizen of another, shall not apply to that matter at that stage of the arbitration.
+
+(e) The law applicable to the substance of the dispute submitted to arbitration shall be determined by the Arbitral Tribunal in accordance with paragraph (b) of this Article if the parties involved in the dispute have given the power to do so to the Tribunal.
+
+(f) In hearing the dispute submitted to arbitration, the Arbitral Tribunal shall, in all circumstances, have regard to the terms of the contract between the parties. And, it shall also have regard to the international customs and practices relating to the commercial transactions between the two parties.
+
+Statement of Claim and Defence
+
+52.
+(a) Within a period agreed upon by the parties involved in the matter submitted for arbitration, or, in the absence of such an agreement, within a period determined by the Arbitral Tribunal, the claimant shall submit to the Arbitral Tribunal a statement of claim setting out the points supporting the claim, the points on which there is a difference of opinion between the parties involved in the matter, the points considered to be the basis of the matter, and the manner in which the matter is desired to be resolved.
+
+(b) Within a maximum of 15 (fifteen) days of the Arbitral Tribunal receiving the document submitted by the claimant under paragraph (a) of this Article, the respondent shall submit to the Arbitral Tribunal a written statement of defence addressing each of the matters raised by the claimant.
+
+Submission of Evidence
+
+53.
+Along with the statement of claim submitted in accordance with paragraph (a) of Article 52 of this Act, and with the statement of defence submitted in accordance with paragraph (b) of that Article, other documents that support the matters contained in those statements shall be submitted to the Arbitral Tribunal. And, a summary of the documents and other items intended to be submitted as evidence shall be submitted to the Arbitral Tribunal along with that statement.
+
+Amendment of the Claim or Defence
+
+54.
+Unless the Arbitral Tribunal determines otherwise, or unless the Tribunal determines that it cannot be done, or unless the two parties have agreed otherwise between them, the party who submitted the statement of claim under paragraph (a) of Article 52 of this Act, or the statement of defence under paragraph (b) of that Article, has the opportunity to amend, alter, and make additions or omissions to that statement.
+
+Arbitral Proceedings
+
+55.
+(a) Unless the parties involved in the matter submitted for arbitration have agreed otherwise, the Arbitral Tribunal shall decide whether to hold arbitral proceedings with the parties present or to hold arbitral proceedings without the parties present.
+
+(b) If it is decided under paragraph (a) of this Article to hold arbitral proceedings with the parties present, the Arbitral Tribunal shall determine the procedures relating to attending the proceedings and making statements, submitting evidence, one party responding to the other party's statements, and one party questioning the other party's evidence.
+
+(c) If it is decided under paragraph (a) of this Article to hold arbitral proceedings without the parties present, the Arbitral Tribunal shall determine how the arbitration will proceed based on the written evidence submitted by the parties.
+
+Giving the Opportunity to be Present
+
+56.
+Unless the parties involved in the matter have agreed to conduct the arbitral proceedings without being present at all, the Arbitral Tribunal shall, when a suitable and reasonable time comes, give the parties involved in the matter the opportunity to be present at the arbitral proceedings, to speak, to submit evidence, and for each to respond to the other's statements.
+
+Giving Notice
+
+57.
+In conducting the arbitral proceedings, if the parties involved are required to attend the arbitral proceedings, or if the Arbitral Tribunal wishes to inspect any property, document, or other item, the Arbitral Tribunal shall give reasonable prior notice to the party or parties involved in that matter.
+
+Delivery of Documents
+
+58.
+(a) A copy of any document or other information submitted to the Arbitral Tribunal by a party involved in a matter submitted for arbitration shall be delivered by the Arbitral Tribunal to the other parties involved in that matter.
+
+(b) If the Arbitral Tribunal receives an expert's report or any other document that could serve as evidence in a matter submitted for arbitration, and if the Arbitral Tribunal is to make a decision based on such a document, a copy of such a document shall be delivered by the Arbitral Tribunal to the parties involved in that matter.
+
+Default of a Party
+
+59.
+Unless the parties involved in the matter submitted for arbitration have agreed otherwise, if, without a reasonable excuse, any of the following acts are committed, the consequences stated below shall follow in relation to those acts.
+
+(a) If the party submitting the claim fails to submit the statement of claim in the manner required within the opportunity given for submitting the claim, the work of the arbitration shall come to an end at that point.
+
+(b) If the party responding to the claim fails to submit the statement of defence in the manner required within the period required for its submission, the Arbitral Tribunal shall proceed. And, the failure of the party to whom the matter pertains to submit a statement of defence shall not in itself be considered an admission by that party to the matters alleged by the claimant.
+
+(c) If a person who is required to be present fails to appear, or if evidence that is required to be submitted is not submitted, the Arbitral Tribunal may proceed with and conclude the arbitral proceedings based on the evidence available to it, and may make a decision in that matter.
+
+Appointment of Experts
+
+60.
+(a) Unless the parties involved in the matter submitted for arbitration have agreed otherwise, the Arbitral Tribunal may appoint one or more experts to give an opinion on a specific matter that the Tribunal needs to consider and decide, and may direct that party or parties to submit an opinion on a specific matter within a specific period.
+
+(b) The Arbitral Tribunal may direct a party from among the parties involved in the matter submitted for arbitration to provide a certain type of information, or to provide a certain document, or to grant permission to enter a certain place, or to give the opportunity to examine certain documents, or to give the opportunity to inspect certain goods, to the expert or experts appointed under paragraph (a) of this Article.
+
+(c) Unless the parties involved in the matter submitted for arbitration have agreed otherwise, or if either party so requests, or if the Arbitral Tribunal deems it necessary, upon the submission of an expert's report to the Arbitral Tribunal, the Arbitral Tribunal may direct that expert to attend the arbitral proceedings to provide further details regarding the report or for the parties involved in the matter to question them.
+
+Seeking Court Assistance in Obtaining Evidence
+
+61.
+If the Arbitral Tribunal deems it necessary to obtain a specific type of evidence related to the matter submitted for arbitration, the Tribunal itself, or, if a party involved in the matter so desires, with the permission of the Tribunal, that party directly, may request it from the relevant court. If such a request is made to the court, the evidence shall be obtained for that party in accordance with the procedures of that court.
+
+Chapter Eight
+
+Making of Award and Termination of Proceedings
+
+Decisions of the Arbitral Tribunal
+
+62.
+(a) In an Arbitral Tribunal comprising more than one arbitrator, every decision of the arbitration shall be made by a majority of the arbitrators of the Tribunal, unless the parties involved in the matter have agreed otherwise.
+
+(b) Notwithstanding paragraph (a) of this Article, the presiding arbitrator of the Arbitral Tribunal has the power to determine the procedure to be followed in conducting the arbitration or the manner in which to act to resolve a problem that has arisen. This is if the parties involved in the matter and the other arbitrators of the Tribunal have authorized them to do so.
+
+Settlement
+
+63.
+(a) If, while a matter submitted for arbitration is being heard by the Arbitral Tribunal, a settlement is reached through discussions between the parties involved in the matter, the work of the arbitration shall come to an end at that point.
+
+(b) When a solution is found in accordance with paragraph (a) of this Article, upon the request of the parties involved in the matter, if the Arbitral Tribunal does not object, the solution found through amicable discussions between the parties involved in the matter outside of arbitration may be accepted by the Arbitral Tribunal as an agreed solution, and that solution may be determined to be an arbitral award.
+
+(c) The solution accepted by the Arbitral Tribunal under paragraph (b) of this Article shall be noted as an agreed solution.
+
+(d) A decision of the Arbitral Tribunal as an agreed solution under paragraph (b) of this Article shall be made in accordance with the principles contained in Article 64 of this Act.
+
+(e) A decision made by the Arbitral Tribunal as an agreed solution under paragraph (b) of this Article shall have the same force as an arbitral award under this Act.
+
+Form and Contents of the Arbitral Award
+
+64.
+(a) The arbitral award shall be in writing. And, the arbitrator who heard the matter submitted for arbitration, or if the matter was heard by a tribunal comprising more than one arbitrator, the other arbitrators in that tribunal, shall sign the award.
+
+(b) Notwithstanding paragraph (a) of this Article, if the matter submitted for arbitration was heard by a tribunal comprising more than one arbitrator, it shall suffice for the arbitrators representing the majority of the arbitrators in that tribunal to sign the arbitral award.
+
+(c) If the matter submitted for arbitration was heard by a tribunal comprising more than one arbitrator, and if an arbitrator in that tribunal does not sign the arbitral award decided by that tribunal, it shall suffice to state the reason why their signature is not included.
+
+(d) An arbitral award determined in accordance with this Article shall state what the decision of the arbitration is. And, the principles on which that decision is based shall be clearly stated. This is unless the parties involved in the matter have agreed not to include the principles on which the decision is based in the arbitral award. Or unless it is an award determined as an agreed solution under Article 63 of this Act.
+
+(e) An arbitral award determined in accordance with this Article shall state the date on which the award was determined. And the place where the arbitral proceedings were held shall be stated. And the decision of the arbitration shall be deemed to have been made at that place.
+
+(f) After an arbitral award is determined in accordance with this Article, a copy of the award shall be delivered by the Arbitral Tribunal to each of the parties involved in the matter.
+
+Termination of Arbitration
+
+65.
+(a) The arbitration shall come to an end in two circumstances. That is, when the Tribunal makes an arbitral award, or when the Tribunal makes a determination as stated in paragraph (b) of this Article.
+
+(b) If one of the following circumstances arises, the Arbitral Tribunal shall determine that the arbitration has ended at that point:
+
+(1) The party who submitted the claim withdraws the claim and the respondent does not object to it;
+
+(2) The parties involved in the matter agree to terminate the arbitration;
+
+(3) The Arbitral Tribunal finds that it is unnecessary or impossible to continue the arbitration in that manner.
+
+(c) Contrary to the provision in subparagraph 1 of paragraph (b) of this Article, if the respondent objects to the claimant's withdrawal of the claim, and if the Arbitral Tribunal believes that the respondent's interests are best protected by deciding the matter in a particular way, the Tribunal may continue its work without concluding it.
+
+(d) Upon the termination of the arbitration, the powers conferred on the Arbitral Tribunal shall also come to an end. This is in a manner that does not conflict with Article 66 and Article 67 of this Act.
+
+Correction of the Award
+
+66.
+(a) Within 30 (thirty) days from the date an Arbitral Tribunal makes an arbitral award, a party involved in that matter may, with notification to the other parties involved in the matter, request the Arbitral Tribunal to correct a clerical or typographical error or any other error contained in the arbitral award. Or, may request the Arbitral Tribunal to give an interpretation of a specific article or point contained in the arbitral award.
+
+(b) If a submission such as that stated in paragraph (a) of this Article is received, and if the Arbitral Tribunal finds it to be the most appropriate course of action, the Arbitral Tribunal shall act in accordance with that submission within 30 (thirty) days from the date of the submission.
+
+(c) If any correction is made to an arbitral award, it shall become the final award. And if any interpretation is given to an arbitral award, that interpretation shall form part of that award.
+
+(d) If the Arbitral Tribunal notes that there is a clerical or typographical error or any other error as stated in paragraph (a) of this Article in an arbitral award, it has the power to correct that error within 30 (thirty) days from the date of the award, even without a submission from another party.
+
+Making an Additional Award
+
+67.
+(a) If a matter that was submitted during the arbitration proceedings has not been decided in the arbitral award, unless the parties involved in the matter submitted for arbitration have agreed otherwise, a party involved in that matter may, within 30 (thirty) days from the date of that award, request the Arbitral Tribunal to make a decision on the matter that was not included in the award, by way of an additional award.
+
+(b) If a submission as stated in paragraph (a) of this Article is received by the Arbitral Tribunal, until an award is made in relation to that matter, the matter submitted to that Tribunal shall be deemed to be pending before that Tribunal.
+
+Chapter Nine
+
+Recourse to a Court to Set Aside
+
+Submitting the Matter to Court
+
+68.
+A party from among the parties involved in the matter submitted to the Arbitral Tribunal that made the arbitral award may apply to the court to have the arbitral award set aside.
+
+Setting Aside an Arbitral Award
+
+69.
+In a matter submitted in accordance with Article 68 of this Act, a court shall set aside an arbitral award in one of the following two circumstances.
+
+(a) The party submitting the matter proves to the court any of the following:
+
+(1) That one of the parties to the arbitration agreement was in a situation where the law did not permit participation in that arbitration agreement; or
+
+(2) That one of the parties to the arbitration agreement was under a legal incapacity; or
+
+(3) That the agreement contravenes a law of the Maldives that has been determined to be applicable to the arbitration agreement; or
+
+(4) That the party who appointed the arbitrator did not give proper notice regarding the appointment of the arbitrator; or
+
+(5) That during the arbitral proceedings, they were not given a reasonable opportunity to present their case or to speak on the matter; or
+
+(6) That the arbitral award is not a decision based on a matter submitted to arbitration; or
+
+(7) That a matter contained in the arbitral award is a matter outside the scope of the matters submitted to arbitration; or
+
+(8) That the arbitration was not constituted or conducted in accordance with the agreement of the parties, or that the tribunal was not a tribunal so constituted or conducted.
+
+(9) That the arbitrator was found guilty of fraud or corruption in hearing the matter.
+
+(b) Even without a submission from another party, the court is convinced of one of the following:
+
+(1) That according to a law of the Maldives, the matter was not one that could be decided by arbitration; or
+
+(2) That the decision made by arbitration is contrary to the public policy of the Maldivian state.
+
+Time Limit for Applying to Set Aside an Arbitral Award
+
+70.
+(a) An application to a court to set aside an arbitral award may only be made before the expiry of 3 (three) months from the date of the award. After the expiry of that period, an application to set aside the award cannot be made to the court.
+
+(b) If the matter submitted to the court is a matter to set aside a decision made under Article 65 of this Act, the 3 (three) month period mentioned in paragraph (a) of this Article shall begin to be counted from the date that decision was made under that Article.
+
+Giving Time to Correct the Award
+
+71.
+(a) While an application has been made to the court to set aside an arbitral award under Article 68 of this Act, a party other than the one who submitted the matter to the court, from among the parties to whom the award pertains, may request the court to give a reasonable time to remit the matter back to the Arbitral Tribunal in order to correct the award, or to make the necessary changes to it to make it a decision that the court does not need to set aside.
+
+(b) If a request is made to the court in accordance with paragraph (a) of this Article, the court may, in order to give that opportunity, suspend the proceedings of the case to set aside the arbitral award, which is before the court, for a period determined by the court.
+
+Chapter Ten
+
+Recognition and Enforcement of Foreign Awards
+
+Recognition and Enforcement
+
+72.
+An arbitral award made after an arbitration conducted in a country other than the Maldives shall, as long as it does not conflict with the principles set out in this Act, be a decision that will be recognized and enforced in the Maldives. And it shall be a decision that is binding in the Maldives.
+
+Submission to Court
+
+73.
+(a) If it is desired to enforce in the Maldives an arbitral award made in an arbitration conducted outside the Maldives, the matter must be submitted to the competent court in the Maldives. The decision will be enforced in the Maldives in accordance with an order made by that court.
+
+(b) An application for an order as stated in paragraph (a) of this Article shall be made to the court by the party relying on the arbitral award or the party wishing to enforce that award.
+
+(c) When making a submission under paragraph (a) of this Article, the original of the arbitral award or a copy of the award whose authenticity has been certified shall be submitted to the court along with the submission.
+
+(d) If an arbitral award is made in a language other than Dhivehi, a translation of the decision in the Dhivehi language shall be submitted when the matter is submitted to the court.
+
+Grounds for Refusing Recognition or Enforcement
+
+74.
+(a) An arbitral award made after an arbitration conducted in a country other than the Maldives shall not be recognized or enforced in the Maldives if the court determines that one of the following circumstances has occurred, and the court decides that the award cannot be recognized or enforced in the Maldives.
+
+(1) The party against whom the award is invoked furnishes to the competent court where the recognition and enforcement is sought, proof that one of the following has occurred:
+
+(i) A party to the arbitration agreement was under some incapacity to participate in the arbitration agreement as per the law; or
+
+(ii) A party to the arbitration agreement was under a legal incapacity; or
+
+(iii) The agreement conflicts with a law of the Maldives which the parties have determined to be applicable to the agreement; or
+
+(iv) The party appointing the arbitrator did not give proper notice regarding the appointment of the arbitrator; or
+
+(v) During the arbitral proceedings, he was not given a reasonable opportunity to present his case or to speak on the matter; or
+
+(vi) The arbitral award is not a decision based on a matter submitted to arbitration; or
+
+(vii) A matter contained in the arbitral award is a matter outside the scope of the matters submitted to arbitration; or
+
+(viii) The arbitration was not constituted or conducted in accordance with the agreement of the parties, or the tribunal was not a tribunal so constituted or conducted; or
+
+(ix) The arbitrator was found guilty of fraud or corruption in hearing the matter.
+
+(2) Even without a submission from another party, the court is convinced of one of the following:
+
+(i) That according to a law of the Maldives, the matter was not one that could be decided by arbitration; or
+
+(ii) That the decision made by arbitration is contrary to the public policy of the Maldivian state.
+
+(b) If a matter to set aside an arbitral award for which recognition or enforcement has been sought under Article 72 of this Act is pending before any court, the court has the power to stay the proceedings for the recognition or enforcement of the award until a decision is made on that matter.
+
+Chapter Eleven
+
+Establishment of the Arbitration Centre
+
+Formation of the Arbitration Centre
+
+75.
+(a) For the purposes of this Act, and to perform the responsibilities entrusted by this Act, an Arbitration Centre by the name of "Maldives International Arbitration Centre" is hereby established upon the commencement of this Act.
+
+(b) The Arbitration Centre established under paragraph (a) of this Article is a separate legal personality with the power to sue and be sued in its own name, the capacity to enter into transactions in its own name, the right to acquire and hold property in its own name, and the power to do things necessary or conducive to the performance of the responsibilities entrusted to it under this Act.
+
+(c) Until the establishment of the Arbitration Centre under paragraph (a) of this Article and the commencement of its work in accordance with this Act, all necessary actions shall be taken by the Attorney General.
+
+(d) The responsibilities entrusted to the Attorney General under paragraph (c) of this Article shall be performed and completed within a maximum of 6 (six) months from the date this Act comes into force.
+
+Operation of the Arbitration Centre
+
+76.
+(a) To determine the general policies of the Arbitration Centre and to manage the Centre, there shall be a Board of Directors consisting of 3 (three) members.
+
+(b) The Board of Directors referred to in paragraph (a) of this Article shall be constituted and its members appointed by the President of the Republic, upon the submission of a proposal by the Attorney General.
+
+(c) A member appointed to the Board of Directors referred to in paragraph (a) of this Article shall be removed from that position by the President of the Republic, upon a submission by the Attorney General that one of the following circumstances exists:
+
+(1) A qualification required by this Act for a member of the Board of Directors is no longer met;
+
+(2) Engaging in conduct unbecoming of the position;
+
+(3) The occurrence of a situation that prevents the performance of the duties of the position;
+
+(4) Lacks the capacity to perform the duties of the position.
+
+(d) If a member of the Board wishes to resign from membership, they shall submit a written resignation to the President of the Republic, and upon receipt of the letter of resignation by the President of the Republic, that member is removed from membership.
+
+Members of the Board
+
+77.
+(a) A member appointed to the Board of Directors referred to in Article 76 of this Act shall meet the following requirements:
+
+(1) Be at least thirty years of age;
+
+(2) Not be a person convicted of a crime of breach of trust, fraud, or corruption;
+
+(3) If convicted of a criminal offense, 5 (five) years have passed since the completion of the sentence for that offense or since the pardon for that offense was granted;
+
+(4) Not be a person who has a conflict of interest that would hinder the performance of their duties as a member of the Board of Directors due to their financial interests or other interests.
+
+(b) In addition to the members appointed to the Board of Directors referred to in paragraph (a) of this Article being persons who meet the requirements stated in that paragraph, the Attorney General shall ensure that they are persons who, based on their service over the past 10 (ten) years, have the knowledge, experience, and skills required to be on the Board of Directors of the Arbitration Centre.
+
+(c) The members appointed to the Board of Directors referred to in paragraph (a) of this Article shall be appointed for a term of 5 (five) years. There is no bar to their reappointment for an additional term of 5 (five) years upon the expiry of that term.
+
+(d) The members appointed to the Board of Directors referred to in paragraph (a) of this Article shall be given an allowance for each meeting of the Board, as determined by the Minister of Finance and Treasury, in consultation with the Attorney General.
+
+Chairman and Vice-Chairman of the Board
+
+78.
+(a) From among the members appointed to the Board of Directors under Article 76 of this Act, the President of the Republic shall, upon the proposal of the Attorney General, appoint one member as the Chairman of the Board and another member as the Vice-Chairman of the Board.
+
+(b) The Chairman of the Board is the chief executive of the Arbitration Centre. And the Vice-Chairman is the second most senior executive of the Arbitration Centre, who is there to assist the Chairman of the Board.
+
+(c) The Chairman and the Vice-Chairman of the Board shall hold their positions for the duration of their membership on the Board of Directors.
+
+(d) If the Chairman or the Vice-Chairman of the Board wishes to resign from that position, they shall submit a written resignation to the President of the Republic, and upon receipt of the letter of resignation by the President of the Republic, they are removed from that position.
+
+(e) The Chairman or the Vice-Chairman of the Board shall not receive any remuneration or allowance by virtue of their position.
+
+Responsibilities of the Arbitration Centre
+
+79.
+The responsibilities of the Arbitration Centre established under this Act are as follows:
+
+(a) To promote the Maldives as a centre for arbitration;
+
+(b) To provide the necessary facilities for conducting arbitration in the Maldives and to facilitate it;
+
+(c) To encourage the choice of arbitration as a means of resolving disputes;
+
+(d) To establish and introduce the procedures for registering persons who wish to work as arbitrators in the Maldives, to maintain a register of them, and to continue their registration;
+
+(e) To facilitate the matters necessary for the provision of arbitration services in the Maldives;
+
+(f) To perform the tasks stated to be the responsibility of the Arbitration Centre under this Act or any other law;
+
+(g) To bear the responsibility for implementing and enforcing within the legal framework of the Maldives the rules, standards, and principles established by the United Nations Commission on International Trade Law (UNCITRAL) in relation to arbitration.
+
+Chief Executive Officer
+
+80.
+(a) There shall be a Chief Executive Officer who will manage and oversee all administrative matters of the Arbitration Centre. And a person shall be appointed to and removed from that position by the Chairman, on the advice of the Board of Directors.
+
+(b) The salary and allowances of the Chief Executive Officer shall be determined by the Chairman, on the advice of the Minister of Finance and Treasury.
+
+Employees
+
+81.
+(a) The Arbitration Centre shall have a number of employees as determined by the Chairman in consultation with the Board of Directors.
+
+(b) The position, grade, duties, salary, and allowances of the employees determined under paragraph (a) of this Article shall be determined by the Chairman, on the advice of the Minister of Finance and Treasury.
+
+Disbursement of Funds from the Budget
+
+82.
+An amount of money deemed sufficient to operate the Arbitration Centre established under Article 75 of this Act, to enforce this Act, and to carry out the work required of the Arbitration Centre under this Act in its most complete form, shall be included in the state budget each year.
+
+Chapter Twelve
+
+General Principles
+
+Confidentiality
+
+83.
+(a) Unless otherwise agreed between the parties involved in the matter, all information, records, evidence, and the arbitral award relating to the arbitration shall be considered confidential.
+
+(b) Except in one of the following two circumstances, that secret shall not be disclosed to any other party.
+
+(1) With the agreement of both parties, and with the consent of both parties;
+
+(2) In a matter submitted to the court, or to any other administrative body, in a manner permitted by law in relation to an arbitral award, to the extent necessary for the matter so submitted;
+
+(c) When a court makes a decision on a matter submitted to it regarding an arbitration that has been conducted or is ongoing, the court shall also decide to conduct matters in a way that the documents involved in the matter and other information related to it are kept confidential.
+
+Costs of Arbitration
+
+84.
+(a) The arbitrators' fees, other necessary expenses, and the financial responsibilities to be borne by the parties involved in the matter for conducting the arbitration may be divided equally among all of them in accordance with the agreement between them.
+
+(b) If the parties involved in the matter have not agreed on how the arbitrators' fees, other necessary expenses, and the financial responsibilities to be borne by them for conducting the arbitration will be divided between them, the manner in which those costs will be divided between them shall be determined by the Arbitral Tribunal.
+
+Liability of an Arbitrator
+
+85.
+(a) An arbitrator shall have no legal liability for any act done or omitted to be done by them in the performance of their duties, without the intention of committing fraud or a criminal offense, or due to their ignorance of a provision of law, or ignorance of a point involved in the matter, or ignorance of the procedure to be followed in proceeding with the matter.
+
+(b) Notwithstanding paragraph (a) of this Article, if they commit fraud or a criminal offense in the performance of their duties as an arbitrator, they shall bear the legal liability for any act done or omitted to be done by them in connection with it.
+
+Appointment of Legal Counsel
+
+86.
+If a party involved in a matter in arbitration under this Act so desires, that party may be represented by a legal counsel or by a person appointed in their place.
+
+Making and Enforcing Regulations
+
+87.
+(a) Except in a case where this Act states that a regulation is to be made by the court, the regulations to be made for the implementation of this Act shall be made and enforced by the Attorney General. The regulations to be made by the court shall be made and enforced by the court.
+
+(b) The regulations to be made under this Act shall be made and publicly announced within a maximum of 6 (six) months from the ratification of this Act.
+
+Commencement of the Act
+
+88.
+This Act shall come into force on the date it is published in the Government Gazette of the Maldives.
+
+Definitions
+
+89.
+Unless the context in which a word or phrase is used in this Act clearly indicates otherwise, the following words and phrases shall have the meanings given below in relation to those words and phrases.
+
+(a) "Bangalore Principles" refers to the international standards compiled and implemented under the name "Bangalore Principles of Judicial Conduct" regarding the independence, impartiality, and conduct of judges working in the power of administering justice.
+
+(b) "Court" refers to the High Court of the Maldives which has the jurisdiction to decide a matter stated in this Act.
+
+(c) "Arbitration Centre" refers to the Maldives International Arbitration Centre established under this Act.
+
+(d) "Vice-Chairman" refers to the Vice-Chairman appointed to the Board of Directors of the Arbitration Centre under Article 78 of this Act.
+
+(e) "Commercial disputes" refers to disputes that arise in connection with, as a result of, or as a consequence of a business conducted between two parties.
+
+(f) "Commercial relationship" refers to commercial relationships that arise between two parties, whether or not an agreement has been written.
+
+(g) "Writing" or "a writing" refers to anything on which information of any kind is recorded, including the following media:
+
+(1) Something written or printed (whether it be a chart, a plan, a graph, or a drawing);
+
+(2) A computer file prepared in a way that can be accessed by an electronic device;
+
+(3) A photograph;
+
+(4) A disk, tape, film, or roll on which sound or other such data is stored;
+
+(5) A film, negative, or any other thing on which a scene or other such data is stored.
+
+(h) "Chief Executive Officer" refers to the Chief Executive Officer appointed by the Chairman of the Board of Directors of the Arbitration Centre under Article 80 of this Act.
+
+(i) "Chairman" refers to the Chairman appointed to the Board of Directors of the Arbitration Centre under Article 78 of this Act.

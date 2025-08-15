@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Law Database Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        h1 { color: #1a5276; }
+        form { margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap; }
+        input[type="text"] {
+            flex-grow: 1;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            min-width: 300px;
+        }
+        select, button {
+            padding: 10px;
+            font-size: 16px;
+            border: none;
+            background: #3498db;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover { background: #2980b9; }
+        .results { list-style: none; padding: 0; }
+        .result-item {
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin-bottom: 20px;
+            background: #f9f9f9;
+            border-radius: 0 4px 4px 0;
+        }
+        .context { font-size: 0.9em; color: #555; margin-bottom: 8px; }
+        .text { margin: 10px 0; }
+        mark {
+            background-color: #ffff66;
+            padding: 0 2px;
+            border-radius: 2px;
+            font-weight: bold;
+        }
+        .actions { margin-top: 10px; font-size: 0.9em; }
+        .actions a { 
+            margin-right: 15px; 
+            color: #2980b9; 
+            text-decoration: none;
+            display: inline-block;
+            margin-bottom: 8px;
+        }
+        .actions a:hover { 
+            text-decoration: underline;
+        }
+        .no-results { color: #e74c3c; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Law Database Search</h1>
+
+    <form method="POST">
+        <input type="text"
+               name="query"
+               placeholder="Enter keywords or exact phrases in quotes (e.g., 'privacy data protection' or 'search this')"
+               value="{{ query }}"
+               autofocus>
+        <select name="match_type">
+            <option value="any" {% if match_type == "any" %}selected{% endif %}>Match any term</option>
+            <option value="all" {% if match_type == "all" %}selected{% endif %}>Match all terms</option>
+        </select>
+        <button type="submit">Search</button>
+    </form>
+    
+    <div style="background: #f8f9fa; border: 1px solid #dee2e6; padding: 10px; border-radius: 4px; margin-bottom: 20px; font-size: 0.9em; color: #6c757d;">
+        <strong>💡 Search Tips:</strong>
+        <ul style="margin: 5px 0; padding-left: 20px;">
+            <li>Use quotes for exact phrases: <code>"search this"</code> will find the exact text</li>
+            <li>Regular keywords: <code>privacy data</code> will find any occurrence of these words</li>
+            <li>Mix both: <code>"data protection" privacy</code> combines exact and keyword search</li>
+        </ul>
+    </div>
+
+    {% if results %}
+        <h2>Found {{ results|length }} result{{ 's' if results|length != 1 else '' }} for "{{ query }}"</h2>
+        {% if match_type == "all" %}
+            <div style="background: #d4edda; border: 1px solid #c3e6cb; padding: 10px; border-radius: 4px; margin-bottom: 20px;">
+                <strong>📋 Match Type:</strong> Showing results where <em>ALL</em> search terms are found in the same sub-article.
+            </div>
+        {% else %}
+            <div style="background: #d1ecf1; border: 1px solid #bee5eb; padding: 10px; border-radius: 4px; margin-bottom: 20px;">
+                <strong>📋 Match Type:</strong> Showing results where <em>ANY</em> search term is found.
+            </div>
+        {% endif %}
+        <ul class="results">
+            {% for row in results %}
+                <li class="result-item">
+                    <div class="context">
+                        <strong>📚 {{ row.law_name }}</strong> |
+                        <strong>Article {{ row.article_number }}</strong>
+                        {% if row.article_title %}: <em>{{ row.article_title }}</em>{% endif %} |
+                        <strong>Sub-article {{ row.sub_article_label }}</strong>
+                        {% if row.relevance > 1 %}
+                            <span style="color: #27ae60; font-weight: bold;">({{ row.relevance }} terms matched)</span>
+                        {% endif %}
+                        {% if query and '"' in query %}
+                            <span style="color: #e67e22; font-weight: bold;">📝 Exact phrase search enabled</span>
+                        {% endif %}
+                    </div>
+                    <div class="text">{{ row.text_content|safe }}</div>
+                    <div class="actions">
+                        <!-- Clear options for different views -->
+                        <a href="{{ url_for('view_article', article_id=row.article_id) }}">
+                            📄 View Full Article
+                        </a>
+                        <a href="{{ url_for('view_law', law_id=row.law_id) }}">
+                            📘 View Full Law
+                        </a>
+                        <a href="{{ url_for('view_article', article_id=row.article_id) }}?q={{ query|urlencode }}&highlight=true">
+                            🔍 View Filtered Article
+                        </a>
+                        <a href="{{ url_for('view_law', law_id=row.law_id) }}?q={{ query|urlencode }}&highlight=true">
+                            🔍 View Filtered Law
+                        </a>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    {% elif query %}
+        <p class="no-results">❌ No results found for "{{ query }}". Try fewer or broader terms.</p>
+    {% endif %}
+</body>
+</html>

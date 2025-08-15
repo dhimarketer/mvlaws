@@ -1,0 +1,180 @@
+The Contract Act
+
+Law No: 4/91
+
+Name
+
+    The name of this Act is the Contract Act.
+
+Introduction
+2. A contract is an agreement between two or more persons. And that agreement must be one that is recognized or enforceable by law.[4][5]
+
+Free and Voluntary Consent of Parties
+3. (a) The parties to a contract must consent of their own free will without any duress. And they must be persons with the legal capacity to enter into a contract.[5][6]
+
+(b) The persons with legal capacity mentioned in subsection (a) of this section are persons of sound mind who have completed 16 years of age.[5][7]
+
+Form
+4. Unless otherwise provided by law, a contract need not be in any particular form.[5][6]
+
+How a Contract is Made
+5. As stated in this Act, a contract is made when an offer made by one person to another is accepted by the party to whom the offer was made.[5][6]
+
+The Offer
+6. (a) An offer as mentioned in Section 5 must not be ambiguous or uncertain. It must be an offer made with the serious intention of creating legally binding obligations.[4][5]
+
+(b) An invitation to make an offer shall not be regarded as an offer.[5]
+
+(c) An offer may be made to a specific person, a group of persons, or to the public at large.[5]
+
+Completion of an Offer
+7. (a) An offer is complete when it is communicated to the party to whom the offer is made.[5]
+
+Revocation of an Offer
+(b) An offer may be revoked by the offering party at any time before the party to whom it is made accepts the offer.[5]
+
+(c) An offer shall be considered revoked when the revocation is communicated to the party to whom the offer was made.
+
+Irrevocable Offer
+(d) An offer made with the condition that it shall not be revoked until after a specific period is an offer that cannot be revoked until that period has elapsed.[6]
+
+Acceptance
+8. (a) Acceptance of an offer can be stated explicitly, or it can be considered that acceptance was communicated through conduct.[6]
+
+(b) Acceptance must not contain any additional conditions or qualifications.[6]
+
+(c) If the offering party has specified the manner of acceptance, it must be accepted in that manner. If the manner of acceptance is not specified, it shall be accepted in a manner that is customary for such matters or in a reasonable manner.[4][6]
+
+Completion of Acceptance
+9. An acceptance is complete when the acceptance is communicated to the offering party.[4][6]
+
+Lapse of Opportunity to Accept
+10. If one or more of the circumstances stated in this section occurs, the opportunity to accept that offer has lapsed.
+
+(1) The expiry of the period for acceptance, where the offering party has stated that an offer must be accepted before the expiry of a specified period.
+
+(2) The fulfillment of a condition or the occurrence of an event, if the offer was made subject to a condition that the opportunity for acceptance would lapse upon its fulfillment or occurrence.
+
+(3) The lawful revocation of the offer.
+
+(4) The communication of non-acceptance of the offer.
+
+Change of Fact
+11. (a) If the fact upon which the contracting parties based the contract changes without the knowledge or control of any party to the contract, that contract shall become void.[4]
+
+(b) The change of fact in subsection (a) of this section refers to a change in an essential part of the contract.[5]
+
+Ignorance of the Law
+(c) Ignorance of the law is not a reason for a contract to be voided.[5][7]
+
+Absence of Free Will
+12. A contract in which a person or persons were made to participate through coercion, misrepresentation of facts, or by the improper use of influence, is not a contract created of their own free will.[5]
+
+Void Contract
+13. If a person or persons have participated in a contract otherwise than of their own free will, it is a void contract.[5]
+
+Coercion
+14. If a person is made to participate in a contract by threatening the use of force or the infliction of harm, it shall be considered coercion.[5]
+
+Improper Use of Influence
+15. Making a person participate in a contract by using influence over them from a position of power is the improper use of influence.[4]
+
+Misrepresentation of Fact
+16. If a party to a contract knowingly or believing it to be so, fraudulently presents or advocates for a matter contrary to the truth, and another person enters into a contract relying on that matter, it shall be considered that an act of misrepresentation has occurred.
+
+Contract Becoming Void Due to Illegality
+17. (a) An illegal contract is void.
+
+Circumstances Making a Contract Illegal
+(b) A contract becomes illegal if either of the following two circumstances occurs:
+
+(1) The making of such a contract is an act prohibited by law.[4]
+
+(2) The contract is made for an illegal or immoral purpose.[4]
+
+Acting in an Illegal Manner
+(c) A contract that requires performance in an illegal manner is a void contract.[4]
+
+Prohibition of Livelihood
+18. (a) If any clause in a contract imposes a restraint or prohibition on the work a person does for a living or to earn an income, that clause shall be enforceable only if it is reasonable.
+
+Clause Prohibiting Legal Action is Void
+(b) If any clause in a contract prohibits a party from taking legal action, that clause is a void clause.[4]
+
+Effect of an Arbitration Clause
+(c) If any clause in a contract requires a party to adhere to the principles of arbitration to resolve any dispute arising from the contract, that clause is a legally valid clause.[4]
+
+Power to Apply Internationally Accepted Law
+(d) If any clause in a contract requires a party to act under an internationally accepted law to resolve any dispute arising from the contract, that clause is a legally valid clause.
+
+Discharge of a Contract
+19. If any of the following circumstances occur, the contract shall be considered a contract that has been performed and concluded.
+
+(a) The parties have completed their required obligations in accordance with the terms of the contract.[6]
+
+(b) The parties to a contract agree that the contract has been performed and is concluded.[6]
+
+(c) It is not at all possible to act in accordance with the contract due to the operation of a law, or it is not possible to act in accordance with the contract due to an unforeseen situation for the parties.[6]
+
+Performance
+20. (a) The obligations of a party to a contract must be performed in accordance with the terms of that contract. This can be deviated from if the other party to the contract waives an obligation due from him, or if he agrees to performance in some other manner.[6]
+
+Performing Party
+(b) An act required of a party to a contract may be done by himself or through another person. Contrary to this, if the contract explicitly states that a particular party must perform an act, or if it is implied even if not written, that act must be performed by that party himself.[6]
+
+Time of Performance
+(c) Unless otherwise stated in the contract, the parties must perform within a reasonable time.
+
+(d) If a contract is to be performed upon the occurrence of an event or the fulfillment of a condition, performance shall not be required until such event occurs or such condition is fulfilled.
+
+Termination by Agreement
+21. (a) The obligations under a contract may be brought to an end by the agreement of its parties whenever they so desire.
+
+(b) Every such agreement must be in accordance with the law.
+
+Impossibility of Performance
+22. (a) A contract shall be considered terminated if, due to an unforeseen circumstance for the parties or by reason of the operation of a law, it becomes impossible for a party to perform an obligation imposed by such contract.[6]
+
+Difficulty of Performance
+(b) The fact that the performance of an act required of the parties by a contract has become difficult, or that the cost of it has increased, shall not be regarded as impossibility of performance.[4][6]
+
+Act Not Rendered Impossible by Own Doing
+(c) A party to a contract cannot rely on a situation making performance impossible if it arose from his own negligence or fault.[5][6]
+
+(d) Before it is known that the performance of an act required of a party to a contract is impossible, he may recover any money due to him or money paid by him. And after performance becomes impossible, he shall not be bound by any obligation required of him.[5]
+
+Compensation for Damages
+23. (a) If a party to a contract commits an act in breach of that contract, the person who committed the act shall be liable to pay compensation for the loss incurred from that act.[5]
+
+(b) The loss for which compensation is payable under subsection (a) of this section is:
+
+(1) The direct loss resulting from the breach of contract.[4]
+
+(2) The loss that the parties to the contract knew would likely result from such a breach.[4]
+
+    There shall be no compensation for a loss incurred due to the failure to take reasonable precautions, payable to the party who failed to take such precautions.
+
+Order for Specific Performance
+25. (a) If a party suffering a loss from a breach of contract by another party finds that compensation alone is not an adequate remedy, the aggrieved party has the right to sue for an order of specific performance.
+
+(b) If the aggrieved party files such a claim in court as per subsection (a), the court, upon reviewing the matter and finding the compensation to be inadequate, may issue an order for specific performance against the party liable to pay compensation.
+
+(c) The order for specific performance mentioned in this section refers to the court ordering the party required to perform an act under the contract to do so.
+
+Joint and Several Liability
+26. Unless otherwise specified in the contract or by law, the parties to a contract shall be jointly and severally liable for any debt or any act to be performed.
+
+Making and Enforcement of Regulations
+27. The President of the Republic has the authority to make and enforce the regulations necessary for the implementation of this Act.
+
+Definitions
+28. Unless otherwise stated in this Act:-
+
+(a) "President of the Republic" refers to the President of the Republic of Maldives.
+
+(b) Except for Section 3, subsection (b) of this Act, "person" or "party" elsewhere includes bodies such as companies and associations.
+
+(c) If any word is written in the singular, its plural meaning is also included. And if written in the plural, its singular meaning is also included.
+
+(d) "Communicated" in Section 7 and Section 9 of this Act refers to a notification from one party to another being known and completed by the other party.
+

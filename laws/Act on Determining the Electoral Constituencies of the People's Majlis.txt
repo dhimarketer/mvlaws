@@ -1,0 +1,191 @@
+Act on Determining the Electoral Constituencies of the People's Majlis
+
+Introduction and Name
+
+1.
+(a) This is an Act to prescribe the principles for determining the number of members of the People's Majlis, the method for determining the electoral constituencies within each administrative division for the purpose of holding the People's Majlis elections, and the method for determining the boundaries of those electoral constituencies.
+
+(b) This Act shall be cited as the "Act on Determining the Electoral Constituencies of the People's Majlis".
+
+Administration and Oversight of Matters Relating to the Determination of Electoral Constituencies
+
+    The Elections Commission shall, in accordance with the principles set out in this Act, determine and demarcate the names and boundaries of the electoral constituencies before an election of the People's Majlis, bring changes to and review these matters, publish such changes in the Government Gazette, and administer and oversee the determination of electoral constituencies and their boundaries.
+
+Power and Authority to Obtain Information
+
+    The Elections Commission is vested with the power and authority to obtain information required under this Act. And it is obligatory for the parties from whom the Elections Commission requests information to provide it.
+
+Assistance from Government Agencies
+
+    Government agencies shall provide the Elections Commission with the necessary assistance, resources, and services required to fulfill its responsibilities under this Act.
+
+Principle for Determining the Number of Members of the People's Majlis
+
+5.
+(a) The number of members of the People's Majlis shall be determined by the following principle:
+1. Two (2) members for the first 5,000 (five thousand) registered persons in each administrative division of the Maldives, or two (2) members for each administrative division with fewer than 5,000 (five thousand) persons.
+2. If the registered population of an administrative division of the Maldives exceeds 5,000 (five thousand), one (1) member for every five thousand persons exceeding the first 5,000 (five thousand) persons.
+
+(b) For the purposes of this Act, an administrative division refers to the twenty atolls and Malé, totaling twenty-one divisions, as specified in Schedule 2 of the Constitution.
+
+(c) For the purposes of this Act, the "registered population" shall be counted based on the place where each person is registered as their permanent address.
+
+(d) For the purpose of determining the "registered population" under this Act, the Elections Commission shall obtain information on persons registered in the Malé registry who reside within the area of the population being determined for that division, including their name, island address, registry number, and current address within that division. The Elections Commission shall publish this information on its website as it becomes available.
+
+No Changes to Electoral Constituencies Except for Elections Held Due to the Expiration of the Term of the People's Majlis
+
+6.
+(a) Even if changes occur in the population of administrative divisions before an election held due to the expiration of the term of the ongoing People's Majlis as prescribed in the Constitution, no change shall be made to the number of members of the People's Majlis determined for any administrative division of the Maldives under Article 5 of this Act.
+
+(b) No change shall be made to the electoral constituencies except for the purpose of an election held due to the expiration of the term of the ongoing People's Majlis as prescribed in the Constitution.
+
+Obtaining the Population Figures of Administrative Divisions
+
+7.
+(a) Within a period of not less than twelve (12) months and not more than ten (10) months before the expiration of the term of the ongoing People's Majlis, as prescribed in the Constitution, the Elections Commission shall, with the assistance of the relevant government agencies, obtain the registered population figures for each administrative division of the Maldives.
+
+(b) For the purpose of obtaining the registered population of each administrative division under subsection (a) of this Article, the Elections Commission shall use the registered population of that administrative division as of a specific date within the period mentioned in subsection (a). The Elections Commission shall use the same date for determining the population figures of all administrative divisions.
+
+(c) To facilitate the easy and swift obtaining of the registered population figures for each administrative division as stated in subsection (a), the Elections Commission shall establish a system, with the help of relevant government agencies, to regularly update the changes in the registered population of each administrative division.
+
+Determining the Number of Members of the People's Majlis for Each Administrative Division
+
+8.
+(a) Based on the information obtained by the Elections Commission in accordance with Article 7 (a) of this Act, the Elections Commission shall determine the total number of members of the People's Majlis for each administrative division of the Maldives, according to the principle stated in Article 5 (a) of this Act.
+
+(b) Within the period specified in Article 7 (a) of this Act, the Elections Commission shall publicly announce and publish in the Government Gazette the number of members of the People's Majlis for each administrative division and the total registered population of each administrative division as determined by the Elections Commission under subsection (a) of this Article. The Elections Commission shall also send this information to political parties and the People's Majlis.
+
+Determining Electoral Constituencies
+
+9.
+(a) Based on the numbers announced by the Elections Commission in accordance with Article 8 (b) of this Act, the Elections Commission shall prepare an interim report on the determination of electoral constituencies within each administrative division, taking as a basis the number resulting from dividing the total registered population of each administrative division by the total number of members of the People's Majlis determined for that administrative division.
+
+(b) In determining the electoral constituencies for each administrative division in accordance with subsection (a) of this Article, the registered population of that electoral constituency shall not be less or more than 15% (fifteen percent) of the number taken as the basis.
+
+(c) Notwithstanding subsection (b) of this Article, in a situation specified in Article 10 (a) (5) of this Act, the Elections Commission is vested with the discretion to determine an electoral constituency where the registered population is less or more than 15% (fifteen percent) of the number taken as the basis for determining electoral constituencies in that administrative division. However, if an electoral constituency is determined in such a manner, the Elections Commission shall include a detailed reason for determining the constituency in that way in the report mentioned in subsection (a) of this Article.
+
+Principles to be Considered in Determining Electoral Constituencies
+
+10.
+(a) In determining the electoral constituencies for each administrative division in accordance with the principle stated in Article 9 of this Act, the Elections Commission shall consider the following principles:
+1. Determining electoral constituencies in a manner that equalizes the population of electoral constituencies within an administrative division as much as possible.
+2. After considering the changes in population figures, determining electoral constituencies without changing the previously determined electoral constituencies as much as possible.
+3. After considering the population figures, determining in a way that the population of one island belongs to one electoral constituency as much as possible.
+4. Determining in a way that the population of nearby islands within that administrative division belongs to one electoral constituency.
+5. Determining electoral constituencies in a way that does not disrupt the social harmony and unity of that administrative division's community. In this regard, if the population of one island needs to be divided and joined with an electoral constituency of another island, such an island shall be divided only if its total population exceeds 5,000 (five thousand) people.
+6. If more than one electoral constituency is determined within a single island, contiguous areas shall be determined as one electoral constituency, and electoral constituencies shall be determined with due regard to the administrative or social divisions of that island.
+code Code
+IGNORE_WHEN_COPYING_START
+IGNORE_WHEN_COPYING_END
+
+      
+(b) In determining electoral constituencies, the Elections Commission shall consider the principles stated in subsection (a) of this Article in the order they are listed. If the Elections Commission has considered any electoral constituency in a manner other than that order, it shall include the reason for doing so in the report mentioned in Article 9 (a) of this Act.
+
+(c) The Elections Commission shall establish a system to seek the opinions and consultations of the people of each administrative division when determining the electoral constituencies of that administrative division under this Act.
+
+    
+
+Information and Materials to be Included in the Interim Report on the Determination of Electoral Constituencies
+
+    The interim report prepared by the Elections Commission on the determination of electoral constituencies, based on the manner in which the Elections Commission determines the electoral constituencies in each administrative division of the Maldives under Article 9 (a) of this Act, shall include the following information and materials:
+
+        The total registered population of each administrative division.
+
+        The number of members of the People's Majlis for each administrative division.
+
+        The percentage by which the registered population of an electoral constituency is greater or less than the number taken as the basis, after determining the electoral constituencies within each administrative division by taking as a basis the number resulting from dividing the total registered population of each administrative division by the total number of members of the People's Majlis determined for that administrative division.
+
+        The electoral constituencies in each administrative division, and the name of each electoral constituency.
+
+        The details of the boundaries of the electoral constituencies in each administrative division.
+
+        A chart or drawing indicating the boundaries of the electoral constituencies in each administrative division.
+
+        If the Elections Commission has determined an electoral constituency in a special circumstance as stated in Article 9 (n) of this Act, the reason why the Elections Commission determined that electoral constituency in that manner.
+
+Public Announcement and Publication of the Interim Report on the Determination of Electoral Constituencies
+
+12.
+(a) The Elections Commission shall prepare the interim report on the determination of electoral constituencies as stated in Article 11 of this Act, and publicly announce and publish it in the Government Gazette 8 (eight) months before the expiration of the term of the ongoing People's Majlis. The report shall also be published on the Elections Commission's website. A copy of the report shall be sent by the Elections Commission to all political parties and the People's Majlis.
+code Code
+IGNORE_WHEN_COPYING_START
+IGNORE_WHEN_COPYING_END
+
+      
+(b) Within 7 (seven) days from the date of publication of the interim report on the determination of electoral constituencies in the Government Gazette as stated in subsection (a) of this Article, the Elections Commission shall display the part of the report related to the electoral constituency of each inhabited island in a publicly visible manner on that island. The Elections Commission shall also make arrangements for any interested party to view the interim report on the determination of electoral constituencies on every inhabited island.
+
+    
+
+Filing Complaints Regarding the Interim Report on the Determination of Electoral Constituencies
+
+13.
+(a) Every Maldivian citizen over the age of 18, political parties, and any legal person shall have the right to file a complaint regarding the interim report on the determination of electoral constituencies publicly announced and published in the Government Gazette by the Elections Commission under Article 12 (a) of this Act.
+code Code
+IGNORE_WHEN_COPYING_START
+IGNORE_WHEN_COPYING_END
+
+      
+(b) Any person wishing to file a complaint as mentioned in subsection (a) of this Article shall submit the complaint in writing to the Elections Commission within a maximum of 21 (twenty-one) days from the date of publication of the interim report on the determination of electoral constituencies in the Government Gazette under Article 12 (a) of this Act.
+
+(c) Within a maximum of 15 (fifteen) days from the expiry of the 21 (twenty-one) days mentioned in subsection (b) of this Article, the Elections Commission shall review the complaints received under that subsection and decide on them. The decision of the Elections Commission shall also be communicated with reasons to the complainant within this period.
+
+(d) Any party dissatisfied with a decision made by the Elections Commission under subsection (c) of this Article has the right to submit the case to the High Court of the Maldives within a maximum of 15 (fifteen) days from the date the Commission communicates its decision to the complainant. The High Court shall issue its judgment on such a case submitted to it within a maximum of 15 (fifteen) days from the date of submission.
+
+    
+
+Public Announcement and Publication of the Final Report on the Determination of Electoral Constituencies
+
+14.
+(a) If any change is brought to the interim report on the determination of electoral constituencies under Article 13 of this Act, the Elections Commission shall prepare and publicly announce and publish in the Government Gazette the final report on the determination of electoral constituencies, showing such changes, 150 (one hundred and fifty) days before the expiration of the term of the ongoing People's Majlis. The report shall also be published on the Elections Commission's website. A copy of the report shall be sent by the Elections Commission to all political parties and the People's Majlis.
+code Code
+IGNORE_WHEN_COPYING_START
+IGNORE_WHEN_COPYING_END
+
+      
+(b) Within 7 (seven) days from the date of publication of the final report on the determination of electoral constituencies in the Government Gazette as stated in subsection (a) of this Article, the Elections Commission shall display the part of the report related to the electoral constituency of each inhabited island in a publicly visible manner on that island. The Elections Commission shall also make arrangements for any interested party to view the final report on the determination of electoral constituencies on every inhabited island.
+
+(c) The final report on the determination of electoral constituencies shall include the information and materials mentioned in Article 11 of this Act.
+
+    
+
+Offenses and Penalties
+
+15.
+(a) Any person who obstructs the Elections Commission or an official body assigned by the Elections Commission in obtaining information required under this Act, or who willfully provides false information to the Elections Commission or an official body assigned by the Elections Commission in the course of obtaining information required under this Act, shall be guilty of an offense.
+code Code
+IGNORE_WHEN_COPYING_START
+IGNORE_WHEN_COPYING_END
+
+      
+(b) The penalty for a person convicted of an offense under subsection (a) of this Article shall be imprisonment for a term of between 6 (six) months and 2 (two) years, or a fine of between 6,000.00 (six thousand) Rufiyaa and 24,000.00 (twenty-four thousand) Rufiyaa, depending on the gravity of the offense committed.
+
+    
+
+Election of the People's Majlis during the Transitional Period
+
+    For the first election to be held to elect members to the People's Majlis under the Constitution, the electoral constituencies under this Act shall be determined by the following principle:
+
+    (a) The Elections Commission shall determine the registered population of each administrative division of the Maldives as of 31 December 2008. Based on the population figures determined by the Elections Commission, the Commission shall determine the number of members of the People's Majlis for each administrative division according to the principle stated in Article 5 of this Act.
+
+    (b) Based on the numbers determined by the Elections Commission under subsection (a) of this Article, the Elections Commission shall determine the electoral constituencies in accordance with the principles stated in Article 9 and Article 10 (a) and (b) of this Act, and prepare an interim report of the electoral constituencies in accordance with the principle stated in Article 11 of this Act, and publicly announce and publish the report in the Government Gazette within a maximum of 15 (fifteen) days from the date this Act comes into force. The report shall also be published on the Elections Commission's website. The Elections Commission shall send a copy of the report to all political parties and the People's Majlis, and shall make arrangements for the public to view the report in accordance with Article 12 (b) of this Act.
+
+    (c) Any party wishing to file a complaint regarding the interim report on the determination of electoral constituencies publicly announced and published in the Government Gazette by the Elections Commission under subsection (b) of this Article shall submit the complaint in writing to the Elections Commission within a maximum of 05 (five) days from the date of publication of the interim report in the Government Gazette under subsection (b) of this Article.
+
+    (d) Within a maximum of 05 (five) days from the expiry of the 05 (five) days mentioned in subsection (c) of this Article, the Elections Commission shall review the complaints received under that subsection and decide on them. The decision of the Elections Commission shall also be communicated with reasons to the complainant within this period.
+
+    (e) Any party dissatisfied with a decision made by the Elections Commission under subsection (d) of this Article has the right to submit the case to the High Court of the Maldives within a maximum of 05 (five) days from the date the Commission communicates its decision to the complainant. The High Court shall issue its judgment on such a case submitted to it within a maximum of 05 (five) days from the date of submission.
+
+    (f) If any change is brought to the interim report on the determination of electoral constituencies stated in subsection (b) of this Article under subsection (d) or (e) of this Article, the Elections Commission shall, within 45 (forty-five) days from the date this Act comes into force, prepare and publicly announce and publish in the Government Gazette the final report on the determination of electoral constituencies, showing such changes. The report shall also be published on the Elections Commission's website. The Elections Commission shall send a copy of the report to all political parties and the People's Majlis, and shall make arrangements for the public to view the report in accordance with Article 14 (b) of this Act.
+
+Making and Enforcing Regulations
+
+    Regulations under this Act shall be made and enforced by the Elections Commission.
+
+Commencement of the Act
+
+    This Act shall come into force on the date of its passing, ratification, and publication in the Government Gazette of the Maldives.
+
+Definitions of Words and Phrases
+
+19.
+(a) Unless otherwise expressly stated in this Act:

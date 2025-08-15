@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ sections[0].law_name }}</title>
+    <style>
+        body { font-family: Georgia, serif; margin: 40px; line-height: 1.8; }
+        h1, h2 { color: #1c2833; }
+        p { margin: 10px 0; text-align: justify; }
+        .controls { margin: 20px 0; padding: 15px; background: #f0f8ff; border-radius: 6px; }
+        .controls label { font-size: 0.95em; margin-right: 10px; }
+        mark {
+            background-color: #ffff66;
+            padding: 0 2px;
+            border-radius: 2px;
+            font-weight: bold;
+        }
+        .nav { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    {% if sections %}
+        <h1>{{ sections[0].law_name }}</h1>
+
+        {% if query and highlight_flag %}
+            <!-- Filtered view -->
+            <div style="background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 6px; margin: 20px 0;">
+                <strong>🔍 Filtered Results:</strong> Showing only sub-articles from "{{ sections[0].law_name }}" that match your search terms: <em>"{{ query }}"</em>
+                <br><br>
+                <a href="{{ url_for('view_law', law_id=request.view_args.law_id) }}" style="color: #856404; text-decoration: underline;">
+                    📘 View Complete Law (all articles and sub-articles)
+                </a>
+            </div>
+        {% else %}
+            <!-- Full law view -->
+            <div style="background: #d1ecf1; border: 1px solid #bee5eb; padding: 15px; border-radius: 6px; margin: 20px 0;">
+                <strong>📘 Complete Law View:</strong> Showing all articles and sub-articles from "{{ sections[0].law_name }}"
+                <br><small style="color: #0c5460;">💡 Duplicate sub-articles have been automatically removed for better readability.</small>
+                {% if query %}
+                    <br><br>
+                    <a href="{{ url_for('view_law', law_id=request.view_args.law_id) }}?q={{ query|urlencode }}&highlight=true" style="color: #0c5460; text-decoration: underline;">
+                        🔍 View Filtered Results (matching "{{ query }}")
+                    </a>
+                {% endif %}
+            </div>
+        {% endif %}
+
+        <!-- Highlight Toggle (only show for filtered view) -->
+        {% if query and highlight_flag %}
+            <form method="GET" class="controls">
+                <input type="hidden" name="q" value="{{ query | e }}">
+                <label>
+                    <input type="checkbox" name="highlight" value="true" {% if highlight_flag %}checked{% endif %}>
+                    Highlight search terms
+                </label>
+                <button type="submit">Apply</button>
+            </form>
+        {% endif %}
+
+        {% set current_article = none %}
+        {% for sec in sections %}
+            {% if sec.type == "header" %}
+                <h2>Article {{ sec.article_number }}{% if sec.article_title %}: {{ sec.article_title }}{% endif %}</h2>
+            {% elif sec.type == "sub_article" %}
+                <p>
+                    <strong>Sub-article {{ sec.sub_article_label }}:</strong>
+                    {{ sec.text_content | safe }}
+                </p>
+            {% endif %}
+        {% endfor %}
+    {% else %}
+        <p>No content found for this law.</p>
+    {% endif %}
+
+    <div class="nav">
+        <div style="margin-bottom: 15px;">
+            <a href="{{ url_for('index') }}">← Back to Search</a>
+            {% if query %}
+                | <a href="{{ url_for('index') }}?query={{ query|urlencode }}">← Back to Search Results</a>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

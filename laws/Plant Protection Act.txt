@@ -1,0 +1,376 @@
+Plant Protection Act
+
+Chapter 1
+Preliminary Articles
+
+Introduction
+
+    This is the Act to prevent the emergence and spread of things harmful to plants, to promote appropriate phytosanitary standards, to facilitate the trade of plants and plant products, and to establish principles in the Maldives regarding other related matters.
+
+Name
+2. This Act shall be cited as the "Plant Protection Act."
+
+Chapter 2
+Administration of the Act
+
+Responsibility for Implementation
+3. The primary responsibility for the implementation of this Act is vested in the Minister.
+
+Duties of the Minister
+4.
+(a) The Minister shall designate or establish a government agency under the name of the National Plant Protection Organization (NPPO) and shall notify the name of that agency to the Secretariat of the International Plant Protection Convention (IPPC).
+
+(b) The responsibilities of the Minister are:
+(1) To approve the structure of the NPPO and its administrative framework;
+(2) From among the ports designated by the Maldives Customs Service for the import of goods, to designate the authorized ports for the import and export of plants, plant products, and regulated articles;
+(3) To designate quarantine stations and to ensure that adequate quarantine stations are established at each designated port;
+(4) To appoint the Head of the NPPO;
+(5) To approve the regulations and written procedures made under this Act;
+(6) To determine the amount of fees payable under this Act.
+
+Duties of the National Plant Protection Organization
+5. The NPPO shall carry out the following duties:
+(a) Act as the point of contact for the IPPC;
+(b) Where necessary, approve and enforce phytosanitary measures, including provisional standards, quarantine orders, inspection, and testing;
+(c) Require the fulfillment of phytosanitary standards as a condition for the import of plants, plant products, and regulated articles;
+(d) Compile and maintain a list of quarantine pests, a list of regulated articles, a list of pests of national concern, and the conditions for their importation;
+(e) Issue phytosanitary certificates for consignments prepared for export and re-export, in accordance with the requirements set by the importing countries;
+(f) Issue import permits for consignments prepared for import into the Maldives;
+(g) Inspect growing plants (including in agricultural areas, nurseries, gardens, greenhouses, and laboratories), wild flora, and stored or transported plant products to report the presence and spread of pests and for the primary purpose of controlling such pests;
+(h) Conduct pest risk analysis and other studies necessary to establish appropriate phytosanitary measures;
+(i) To protect phytosanitary risk areas, uphold phytosanitary measures, and designate, maintain, and survey pest-free areas and areas of low pest prevalence;
+(j) To reduce the emergence and spread of regulated pests, inspect consignments of plants and plant products and issue inspection reports;
+(k) Monitor the circulation, export from, or import into the Maldives of biological control agents;
+(l) To prevent the emergence and spread of pests, disinfect consignments of plants, plant products, and regulated articles imported into and exported from the Maldives, as well as the places where such items are stored and other premises;
+(m) Through appropriate procedures, ensure the phytosanitary integrity of consignments is maintained from the issuance of a certificate until export, with regard to the composition of consignments, any changes, and the prevention of re-infestation;
+(n) Disseminate information regarding regulated pests and the methods for their prevention and control;
+(o) Designate various areas as quarantine areas, pest-free areas, areas of low pest prevalence, and pest-risk areas, and to revoke such designations;
+(p) When deemed necessary, increase the capacity for pest analysis, investigation, and research, and establish laboratories and quarantine stations at various locations as required;
+(q) Provide justification to other countries that the phytosanitary measures taken are in accordance with relevant international standards or based on pest risk analysis;
+(r) Notify trade partners of instances of non-compliance with phytosanitary import requirements;
+(s) Establish procedures for accrediting quarantine stations, official research entities, official laboratories, or any other government or private party or institution involved in implementing phytosanitary responsibilities;
+(t) Establish and maintain a register containing information on phytosanitary certificates, phytosanitary import permits, phytosanitary inspections, surveillance and survey findings, and other relevant phytosanitary information related to this Act;
+(u) Develop and train phytosanitary inspectors and other staff of the NPPO;
+(v) Liaise with and report to the IPPC and other regional or national plant protection organizations, and represent the Maldives in forums held with other countries on phytosanitary matters, and in regional and international forums;
+(j) Carry out other tasks assigned by the Minister deemed necessary for the implementation of this Act and the achievement of its objectives.
+
+Head of the NPPO
+6.
+(a) The Minister shall appoint the Head of the NPPO in accordance with the Maldives Civil Service Act.
+(b) It is the responsibility of the Head of the NPPO to carry out the duties assigned to the NPPO in this Act.
+(c) The technical competence, principles on conflict of interest, and the duties of the Head of the NPPO shall be detailed in the regulations.
+
+Plant Protection Advisory Board
+7.
+(a) A Plant Protection Advisory Board (the Board) is hereby established to advise the Minister and the NPPO on matters related to plant protection and to propose measures to improve cooperation.
+(b) The Board shall be composed of representatives from ministries and government agencies legally entrusted with work related to phytosanitary security.
+(c) The agencies represented on the Board shall appoint as board members technical officers who work on or have an interest in phytosanitary standards.
+(d) In addition to the matters in this Act, the composition of the Board and its operating procedures shall be approved under a regulation.
+
+Chapter 3
+Phytosanitary Inspectors
+
+Appointment of Phytosanitary Inspectors
+8.
+(a) The Minister shall, in accordance with the Maldives Civil Service Act, appoint Phytosanitary Officers and Phytosanitary Inspectors to carry out the duties assigned under this Act.
+(b) The Minister may, in conjunction with other authorities, delegate phytosanitary tasks to persons other than NPPO officers. Such appointed officers shall perform duties within the powers of the NPPO, except for the issuance of phytosanitary certificates. The tasks assigned to these officers, their responsibilities, and duties shall be detailed in the regulations.
+
+Duties of Phytosanitary Inspectors
+9. The duties of phytosanitary inspectors are:
+(a) To inspect growing or stored plants, plant products, and regulated articles to report the presence and spread of regulated pests;
+(b) To inspect by taking samples or by other means, consignments of plants, plant products, and regulated articles designated for import to or export from the Maldives, or in transit in the Maldives, to determine if they are infested with regulated pests and, where necessary, to ascertain the pest status of the consignments;
+(c) To ensure that consignments of plants, plant products, and regulated articles designated for import to or export from the Maldives, or in transit in the Maldives, including their packaging materials, storage places, and conveyances, are disinfested of pests;
+(d) To ensure the phytosanitary integrity of consignments is maintained from the issuance of a certificate until export;
+(e) To issue phytosanitary certificates;
+(f) To maintain and conduct surveillance on the latest information regarding the pest status in the Maldives;
+(g) In case of suspicion of a violation of the articles of this Act, to conduct inquiries and request information or documents;
+(h) To prevent any risk to the plant resources, flora, and plant environment of the Maldives, in conjunction with the agencies responsible for solid waste management, ensure that waste with potential biological risk is disposed of from the following places:
+(1) Aircraft, sea vessels, and pleasure craft arriving in the Maldives; and
+(2) Premises where imported plants, plant products, and regulated articles are produced, washed, or stored;
+(i) To collect fees for the issuance of phytosanitary certificates, phytosanitary import permits, inspections, and other fees levied under this Act;
+(j) To carry out other tasks as directed by the NPPO.
+
+Powers of Phytosanitary Inspectors
+10.
+(a) A phytosanitary inspector has the power to inspect plants, plant products, and regulated articles, and to take samples of such items and send them for testing.
+(b) If a phytosanitary inspector has reasonable grounds to believe that an offense specified under this Act has been, is being, or is about to be committed, or to ensure compliance with this Act, he may do the following:
+(1) Without prejudice to subsection 4 of this article, enter and inspect any part of an area or premises in accordance with the law, and order any person to produce a phytosanitary import permit, phytosanitary certificate, or any other document required under this Act;
+(2) If there are reasonable grounds to believe that a punishable offense under this Act has been committed, inspect permits, certificates, invoices, and documents, make copies thereof or take extracts of registers or records, and seize such items;
+(3) Without a court order, inspect any person, package, plant, plant product, storage place, packaging material, conveyance, container, soil, and any other living thing, object, or material capable of harboring or spreading pests or other regulated articles upon entry to or exit from the Maldives;
+(4) Conduct such examinations and inquiries as he deems necessary to determine whether or not the provisions of this Act are being complied with, and for that purpose, stop the transport of such articles;
+(5) For a specified period, stop the supply, sale, and use of plants, plant products, and regulated articles that he has reasonable grounds to believe are being supplied, sold, or used in contravention of this Act, and seize such articles;
+(6) Based on reasonable grounds, in order to prevent the spread of a pest believed to be present in plants, plant products, and regulated articles, whether or not a phytosanitary import permit or phytosanitary certificate has been issued, an inspector may order the following actions to be taken at a pest quarantine station at the expense of the owner of the conveyance designated for bringing the items to the Maldives, regarding any plant, plant product, or regulated article imported or in transit in the Maldives:
+6.1 Treatment;
+6.2 Destruction;
+6.3 Re-shipment; or
+6.4 Detention.
+(c) After an inspection, phytosanitary inspectors shall issue an inspection report stating the matters specified in the regulations, and the reasons why a consignment of plants, species of plants, or plant products was detained, confiscated, sampled, or destroyed.
+(d) In carrying out the duties specified in this article, phytosanitary inspectors may request the assistance of the Maldives Police Service or another state institution.
+(e) Notwithstanding anything to the contrary in subsections (a) and (b) of this article, a phytosanitary inspector shall not, in the performance of his duties, enter any residential place without a court order, except with the permission of the owner or resident of that place.
+
+Chapter 4
+Pest Control
+
+Designation of Regulated Pests
+11.
+(a) Based on a pest risk analysis, the NPPO may designate a specific pest as a quarantine pest or a regulated non-quarantine pest. The NPPO shall establish a list of regulated pests, review it at specified intervals, and send the list to the Secretariat of the IPPC.
+(b) If requested by international or regional organizations or other national plant protection organizations, the NPPO shall provide the list of regulated pests.
+
+Emergency Measures Regarding Pests
+12.
+(a) If a phytosanitary inspector suspects the presence of a quarantine pest in any part of an area or any other premises, the following actions may be taken:
+(1) Enter the place and exercise the powers conferred by Article 10 of this Act; or
+(2) Request the NPPO to declare the area as a provisional quarantine area and take necessary precautionary measures to prevent the spread of the pest.
+(b) The NPPO shall, by an order, approve precautionary measures, including stopping and prohibiting the movement and cultivation of plants, plant products, or regulated articles.
+
+Declaration of Provisional Quarantine
+13.
+(a) Upon a request made in accordance with Article 12(a)(2) of this Act, or if the presence of a quarantine pest is suspected in any part of an area, the NPPO, on its own initiative, may declare that area as a provisional quarantine area and take emergency measures.
+(b) If a provisional quarantine area has been declared, the NPPO shall, as soon as possible, do one of the following:
+(1) Confirm whether it is an area or premises infested with a quarantine pest and designate it as a quarantine area in accordance with Article 14 of this Act; or
+(2) Revoke the declaration of the area as a provisional quarantine area.
+(c) Emergency measures taken under subsection (a) of this article shall be publicly published by the NPPO.
+
+Designation of Quarantine Areas
+14.
+(a) If the NPPO determines that an area is infested with a pest or if there are reasonable grounds to suspect the presence of a quarantine pest, the NPPO may identify that area and designate it as a quarantine area.
+(b) The NPPO shall, by an order issued under this Act, determine the quarantine areas and the duration of quarantine and shall publicly publish it.
+(c) The NPPO shall take the necessary phytosanitary actions to control the pest infestation and approve the necessary phytosanitary standards for that purpose.
+(d) The duration of quarantine shall be reviewed by the NPPO in accordance with the procedures in Article 15 of this Act and, as necessary, the period shall be extended.
+
+Revocation of Quarantine
+15. The status of a quarantine area shall be regularly reviewed, and upon the fulfillment of one of the following conditions, the revocation of the quarantine shall be notified as soon as possible through a publicly published notice easily accessible to the owners or residents of that area:
+(a) The quarantine pest is no longer considered to be present there; or
+(b) The NPPO deems that it is no longer appropriate to maintain all or part of the area under quarantine.
+
+Designation of Pest-Free Areas
+16. Based on adequate surveillance, if the NPPO believes that a regulated pest is not present in an area, and establishes phytosanitary standards to maintain the area as a pest-free area, and establishes a monitoring system to ensure the area is maintained in that status, the NPPO may designate that area as a pest-free area.
+
+Designation of Areas of Low Pest Prevalence
+17. Based on adequate surveillance, if the NPPO believes that a pest is present in an area at a low level, and establishes phytosanitary standards to maintain the area as an area of low pest prevalence, and establishes a monitoring system to ensure the area is maintained in that status, the NPPO may designate that area as an area of low pest prevalence.
+
+Enforcement of Control Measures
+18.
+(a) In provisional quarantine areas, quarantine areas, and areas of low pest prevalence established under Articles 13, 14, and 17 of this Act, the following phytosanitary measures may be upheld:
+(1) Treatment or destruction of plants, plant products, and regulated articles, including the treatment of their conveyances, whether infested or not, to reduce the spread of pests;
+(2) Administering treatments necessary for pest control;
+(3) Prohibiting or restricting the movement of plants, plant products, and regulated articles within, into, or out of such areas;
+(4) Prohibiting the planting and re-planting of plants in a designated place;
+(5) Upholding other phytosanitary measures determined by the NPPO as necessary to contain, eradicate, or manage a pest present in an area.
+(b) The NPPO may notify the owner of the area that official phytosanitary measures must be implemented in that area within a specified period.
+(c) If the owner fails to comply with any condition in the NPPO's notification, the NPPO may take one of the following actions:
+(1) Authorize a phytosanitary inspector to enter the area, building, or premises to implement the control measures as stated in the NPPO's notification; or
+(2) Where necessary depending on the situation, destroy plants, plant products, and regulated articles to control a regulated pest.
+(d) The phytosanitary inspectors mentioned in subsection (c) of this article may bring with them the tools, machinery, land vehicles, and other items necessary to act in accordance with the subsections of this article.
+(e) The owner shall bear the responsibility for and pay the cost of the measures taken under subsection (c) of this article.
+(f) Unless liability of the government is proven in a court of law, if the inspection report mentioned in Article 10(c) contains reasonable grounds, the Government of the Maldives and the authorized phytosanitary inspectors shall not be liable for entering premises or for the destruction of plants, plant products, and regulated articles during or as a result of the implementation of any phytosanitary measure under this article.
+
+Chapter 5
+Imported Articles
+
+Phytosanitary Certificate
+19.
+(a) Except as provided in this Act or with a phytosanitary certificate issued by the NPPO of the exporting country, no person shall import into the Maldives plants, plant products, and other regulated articles.
+(b) The phytosanitary certificate for export and re-export shall conform to the model phytosanitary certificate in the IPPC.
+(c) The phytosanitary certificate shall be issued in accordance with the procedures specified in the regulations.
+
+Phytosanitary Standards for Import
+20.
+(a) To prevent the introduction and spread of regulated pests, the NPPO may establish the following phytosanitary standards regarding the import of plants, plant products, and regulated articles:
+(1) Establish phytosanitary requirements for plants, plant products, or regulated articles based on pest risk analysis;
+(2) Refuse entry, detain, or require the treatment, destruction, or removal from the territory of the Maldives of plants, plant products, and regulated articles or their consignments that contravene the phytosanitary requirements established under subsection (a)(1) of this article or are considered hazardous;
+(3) Designate specific places as quarantine stations where plants, plant products, and regulated articles are kept for phytosanitary analysis, research, inspection, testing, treatment, detention, or destruction;
+(4) Maintain a system for issuing phytosanitary import permits to importers of plants, plant products, or living organisms;
+(5) Require the declaration of plants, plant products, and regulated articles if present with persons arriving in the Maldives and in conveyances entering the Maldives; or
+(6) Take other measures necessary to prevent the introduction and spread of regulated pests.
+(b) The phytosanitary standards in this article shall be based on applicable international standards. Or, there must be a technical justification for establishing such standards.
+(c) In response to a change in circumstances and the emergence of new facts, the NPPO shall ensure that measures taken under this article are promptly modified or revoked.
+(d) To prevent the introduction and/or spread of new or unknown pests, the NPPO may establish additional measures.
+
+Premises at Points of Entry
+21. For the purpose of conducting the inspections specified in this chapter, phytosanitary inspectors shall be granted adequate premises, necessary space for work, and the right of access at airports, ports, and other points of entry designated under this Act. The authorities responsible for the designated points of entry shall ensure access to the said premises and places.
+
+Phytosanitary Import Permit
+22.
+(a) Except in cases where plants, plant products, or regulated articles imported for scientific or research purposes are exempted from obtaining a phytosanitary import permit by a written notice from the NPPO, plants, plant products, and regulated articles shall not be imported into the Maldives except with a phytosanitary import permit issued under this Act.
+(b) When a phytosanitary import permit is required, the importer shall apply for it and pay the fee as specified in the regulations.
+(c) The NPPO shall establish by regulation the conditions and procedures for issuing phytosanitary import permits, including the maximum period for which a permit must be issued, the validity period of the permit, and the fees to be charged.
+(d) In reviewing an application for a phytosanitary import permit, the NPPO shall use international standards or pest risk analysis to do the following:
+(1) Determine the phytosanitary requirements to be complied with; and
+(2) Exempt a list of plants, plant products, and regulated articles from the phytosanitary import permit.
+
+Inspections
+23.
+(a) When consignments of plants, plant products, and regulated articles are imported into the Maldives or are in transit in the Maldives, a phytosanitary inspector shall inspect them at the point of entry to ensure compliance with the requirements in the regulations approved by the Minister and to verify the validity of the documents.
+(b) Upon request by the importer, if packaged and marked as specified in the regulations, certain plants, plant products, and regulated articles may be inspected by a phytosanitary inspector at their final destination or at a premises or quarantine station designated by the NPPO.
+(c) A fee shall be charged for inspections conducted under subsections (a) and (b) of this article.
+(d) Inspections conducted under this article shall be carried out before the release of the goods by the Maldives Customs Service.
+
+Post-Inspection Measures
+24.
+(a) After an inspection in accordance with Article 23 of this Act, if the phytosanitary inspector determines that the consignments and documents comply with the phytosanitary requirements established by the NPPO, the inspector shall grant permission to the importer to take the consignment by a written notice.
+(b) After an inspection in accordance with Article 23 of this Act, if the phytosanitary inspector determines that the relevant documents referred to in Article 19(a) or (b) of this Act are not with the consignment, or that the phytosanitary requirements established by the NPPO have not been complied with, or that there is otherwise a risk of introduction or spread of a pest, the importer shall be notified in writing to take one of the following actions with respect to the whole or part of the consignment within a specified period:
+(1) Detention until testing or treatment is completed;
+(2) Removal for quarantine;
+(3) Re-shipment; or
+(4) Destruction.
+(c) If it appears that the consignment must be destroyed very quickly or if giving notice is not practicable at that moment, the phytosanitary inspector may take the measures mentioned in subsection (b) of this article without giving notice. The phytosanitary inspector shall send a written report to the NPPO stating the reasons for the measures taken to enforce this article.
+(d) If a consignment is not claimed within the period specified in the regulations after entry into the Maldives or after treatment, the phytosanitary inspector may take steps to destroy the consignment.
+(e) The importer shall bear the responsibility for and pay the cost of the measures taken under subsections (a), (b), (c), or (d) of this article.
+(f) The government shall not be liable for the destruction of plants, plant products, regulated articles, or consignments in the course of performing its duties or as a result of implementing post-inspection measures under this article.
+
+Obligation to Notify Arrival
+25.
+(a) The importer shall report the arrival of consignments of plants, plant products, and regulated articles to the phytosanitary inspector in charge of the designated port of entry and shall present them for phytosanitary inspection.
+(b) The Maldives Customs Service, port authorities, airline, postal service, courier, shipping, and freight forwarding agencies, Maldives Police Service, Coast Guard, and state, provincial, and local authorities who have information that plants, plant products, and regulated articles have arrived in the country shall promptly notify a phytosanitary inspector and shall not release such items until they are brought under the custody of the phytosanitary inspector.
+(c) Any detention under subsection (b) of this article shall be deemed to be an action carried out at the direction of the NPPO.
+(d) Items detained under subsection (b) of this article shall be brought under the custody of the NPPO as soon as possible, and no later than 1 (one) working day from the date of detention.
+
+Chapter 6
+Export, Re-export, and Transit
+
+Issuance of Export Phytosanitary Certificate
+26.
+(a) Upon the request of an exporter, the NPPO shall conduct a phytosanitary inspection and issue a phytosanitary certificate stating that the phytosanitary requirements of the importing country have been met.
+(b) If a phytosanitary certificate is issued, the exporter shall pay a fee in accordance with the regulations.
+(c) The NPPO shall enforce the measures necessary to guarantee the phytosanitary integrity of consignments exported through the designated ports of export.
+
+Issuance of Re-export Phytosanitary Certificate
+27.
+(a) When a consignment is imported into the Maldives and then exported to another country, if the NPPO is satisfied that the requirements of the importing country have been met, it shall issue a re-export phytosanitary certificate in accordance with the model in the regulations.
+(b) Under subsection (a) of this article, the original or a certified copy of the phytosanitary certificate issued by the NPPO of the exporting country shall accompany each re-exported consignment.
+
+Consignment in Transit
+28.
+(a) Except in the situation in subsection (b) of this article, if a consignment is in transit through the Maldives, a phytosanitary certificate or a re-export phytosanitary certificate shall not be required.
+(b) If the NPPO has reasonable grounds to believe that a consignment in transit may become infested with a regulated pest, or if requested by the exporting or importing country, the NPPO shall establish appropriate phytosanitary measures, and if it is believed that the consignments meet the import requirements, a phytosanitary certificate may be issued under Articles 26 and 27 of this Act.
+
+Chapter 7
+Enforcement
+
+Agencies Obligated to Provide Assistance and Cooperation
+29. All relevant state institutions shall provide the assistance requested by the NPPO for phytosanitary inspectors to carry out their duties and to exercise the powers vested in them under this Act.
+
+Obligation to Report the Presence of a Regulated Pest
+30. Any person who suspects or knows of the presence of a quarantine pest shall immediately inform the NPPO through the nearest phytosanitary inspector or by any other appropriate means.
+
+Appeals
+31.
+(a) A landowner, conveyance owner or operator, or importer who suffers loss due to a decision by a phytosanitary inspector to detain, destroy, or treat a consignment of plants, plant products, or regulated articles may appeal the decision to the Head of the NPPO in the manner specified in the regulations.
+(b) The right of a person who suffers loss due to a decision made by the Head of the NPPO on a matter appealed to him under subsection (a) of this article to go to court shall not be prejudiced.
+
+Chapter 8
+Offenses
+
+Offenses
+32.
+(a) It is an offense for any person, by himself or indirectly through his employee or agent, to do the following:
+(1) Knowingly cultivate, possess, sell, offer for sale, transport, or supply in any way, plants, plant products, or regulated articles infested with a quarantine pest;
+(2) Assault, fail to cooperate with, obstruct, or intimidate any phytosanitary inspector acting under the powers conferred by this Act;
+(3) Fail to comply with an order or notification issued under this Act;
+(4) Import plants, plant products, or regulated articles into the Maldives through any port other than a port designated by the Minister for the import of goods;
+(5) Import plants, plant products, or regulated articles into the Maldives in contravention of any other requirement specified in this Act;
+(6) Intentionally introduce or spread any quarantine pest in the Maldives, or intentionally allow any such act to occur;
+(7) Export plants, plant products, or regulated articles except as provided in Chapter 6 of this Act;
+(8) After a phytosanitary certificate has been issued under Article 26(a) of this Act, fail to maintain the phytosanitary integrity of the consignment;
+(9) Fail to permit inspection and the taking of samples as authorized under this Act;
+(10) Break the seal of a consignment containing plants, plant products, or regulated articles, except in the presence of a phytosanitary inspector and an officer of the Maldives Customs Service;
+(11) Intentionally or negligently provide false information to obtain any document under this Act;
+(12) Alter, forge, damage, or destroy any document issued under this Act.
+
+(b) It is an offense for a phytosanitary inspector to do the following:
+(1) Directly or indirectly, ask for or accept any money or gift for personal use in connection with the performance of his official duties;
+(2) Agree to do, omit to do, permit, conceal, or arrange any act contrary to his official duties required under this Act or contrary to the laws of the Maldives;
+(3) Disclose any information obtained in the performance of his official duties concerning any person, firm, or business, except on the order of a supervisor in the course of his official duties or under a court order.
+
+Penalties
+33.
+(a) A person who commits an act specified as an offense under this Act shall be penalized as follows:
+(1) For the first conviction of an offense under this Act, a fine of 3,000 (three thousand) Rufiyaa;
+(2) For a second conviction of an offense under this Act, a fine of 6,000 (six thousand) Rufiyaa.
+(b) In addition to other penalties prescribed under this Act, a judge or magistrate who sentences a person convicted of an offense under this Act may issue the following orders:
+(1) Forfeiture to the government of the articles used in the commission of the offense; and
+(2) For a person who has intentionally committed an offense that endangers plant health or the environment, a declaration that the person is ineligible to apply for an import permit or license for plants, plant products, or regulated articles for a period not exceeding 6 (six) months.
+(c) If a phytosanitary inspector commits an act specified as an offense under this Act, the penalty shall be:
+(1) For the first conviction of an offense under this Act, a fine of 5,000 (five thousand) Rufiyaa;
+(2) For a second conviction of an offense under this Act, a fine of 10,000 (ten thousand) Rufiyaa.
+
+Chapter 9
+General Articles
+
+Power of the Minister to Make Regulations and Determine Standards for the Enforcement of the Act
+34.
+(a) The Minister has the power to issue, amend, and repeal such regulations, orders, schedules, and notices as are deemed necessary to achieve the objectives of this Act.
+(b) Without prejudice to subsection (a) of this article, the Minister may, on the advice of the NPPO or the Plant Protection Advisory Board, include in regulations, orders, schedules, notices, and manuals, in particular, all or some of the following matters:
+(1) Procedures for phytosanitary surveillance, surveys, and inspections, and other phytosanitary programs;
+(2) Designation of ports of entry for the import of consignments into the Maldives;
+(3) The procedure for issuing permits and certificates issued under this Act, the format of such documents, the matters to be included, and the language in which they should be written;
+(4) The procedure to be followed in designating a pest-free area or an area of low pest prevalence;
+(5) The requirements to be fulfilled for the export of consignments;
+(6) The procedures to be followed in appealing actions taken by phytosanitary inspectors under this Act;
+(7) The conditions under which consignments may be inspected at their final destination under Article 23(b) of this Act;
+(8) The maximum period for which consignments may be held without destruction under Article 24(d) of this Act;
+(9) The procedures to be followed in appealing under Article 31 of this Act;
+(10) The fees to be paid for inspections and services provided under this Act;
+(11) In accordance with the regulations, in addition to the measures specified in this article, procedures for the implementation of other phytosanitary measures under this Act.
+
+Commencement of the Act
+35. This Act shall come into force on the date of its passage, ratification, and publication in the Government Gazette of the Maldives.
+
+Definitions
+36. In this Act, unless the context otherwise requires:
+"Area" means a part of the officially designated territory of the Maldives, including land and sea.
+"Area of low pest prevalence" means a part of the Maldives or the entire Maldives where a specific type of pest occurs at low levels and where measures for surveillance, control, and eradication must be taken.
+"Biological control agent" means natural enemies of pests, their competitors, antagonists, or other organisms used to control pests.
+"Board" means the Plant Protection Advisory Board established under Article 7 of this Act.
+"Consignment" means a quantity of plants, plant products, and/or regulated articles imported into the Maldives or exported from the Maldives to another country, for which a phytosanitary certificate has been issued. (A consignment may consist of more than one type of commodity or multiple lots of a commodity).
+"Consignment in transit" means a consignment that is transported through the territory of the Maldives without being imported into the Maldives, to which phytosanitary measures apply.
+"Control" means the suppression, reduction, or eradication of a pest population.
+"Conveyance" means any sea-going vessel, aircraft, train, land vehicle, cart, box, animal, or other thing used to move plants, plant products, pests, soil, or regulated articles from one place to another.
+"Detention" means the official confinement or holding of a consignment as a phytosanitary measure.
+"Emergency measure" means a prompt phytosanitary measure taken in a new or unexpected phytosanitary situation.
+"Endangered area" means an area naturally conducive to the establishment of a pest that could cause significant economic damage.
+"Export" means to ship out from one country to another.
+"Government agency" means government ministries, departments, and authorities. And this definition includes private companies in which the government holds a majority of shares.
+"Phytosanitary import permit" means an official document issued authorizing the import of a commodity in accordance with specified phytosanitary import requirements.
+"Import" means to bring into the Maldives from a foreign country.
+"Importer" means the owner, consignor, consignee, agent, broker, or any other person who, in any other capacity, is at that time in possession of or has control over any plants, plant products, or regulated articles brought or about to be brought into the Maldives from another country.
+"Infestation" means the presence of a living pest of plants or plant products in an article. This definition includes infection.
+"Inspection" means the official visual examination of plants, plant products, and regulated articles to determine if pests are present or to determine compliance with phytosanitary regulations.
+"Phytosanitary Inspector" means a person appointed or designated under this Act and authorized by the NPPO to perform its functions.
+"IPPC" means the "International Plant Protection Convention" as last amended.
+"IPPC Secretariat" means the Secretariat of the Convention established by the "International Plant Protection Convention."
+"Minister" means the minister of the government ministry entrusted with the responsibility of administering agricultural affairs in the Maldives, or the person to whom his responsibilities have been delegated by the President of the Republic.
+"National Plant Protection Organization" or "NPPO" means the agency designated by the Minister under Article 4 of this Act to discharge the responsibilities specified in this Act, or a similar agency of a foreign country.
+"Organism" means living things capable of reproducing their progeny in their natural state.
+"Official" means established, authorized, or performed by an NPPO or a government agency.
+"Owner" in relation to plants, plant products, regulated articles, and premises, includes the person who is at that time in charge of or has control over such articles or place.
+"Packaging material" means material used to protect or transport a commodity.
+"Person" means natural and legal persons.
+"Pest" means any species, strain, or biotype of plant, animal, or pathogenic agent injurious to plants or plant products. This definition includes "invasive alien species" as defined in the CBD.
+"Pest-free area" means an area in which a specific pest does not occur as demonstrated by scientific evidence and in which, where appropriate, this condition is being officially maintained.
+"Pest risk analysis" means the process of evaluating biological, scientific, and economic evidence to determine whether an organism is a pest, whether it should be regulated, and the strength of any phytosanitary measures to be taken against it.
+"Phytosanitary measure" means any official procedure such as inspection, testing, and treatment, performed to implement phytosanitary standards.
+"Phytosanitary certificate" means a certificate issued in the model format of the IPPC.
+"Phytosanitary import requirements" means the phytosanitary standards established by the importing country or the NPPO in relation to consignments imported into that country.
+"Phytosanitary standard" means a law and regulation made with the aim of preventing the introduction and/or spread of quarantine pests or limiting the economic impact of regulated non-quarantine pests.
+"Phytosanitary integrity" means maintaining the integrity of a consignment by the use of appropriate phytosanitary measures and preventing its contamination or infestation by regulated pests.
+"Plant" means living plants and parts thereof, including seeds.
+"Plant product" means unmanufactured material of plant origin (including grain) and those manufactured products that, by their nature or that of their processing, may create a risk for the introduction and spread of pests.
+"Point of entry" means an airport, sea port, harbor, and jetty designated by the Minister for the entry of consignments and people.
+"Premises" means any land, water reservoir, building, warehouse, container, conveyance, or other structure on land or at sea, used wholly or partly for keeping, transporting, or cultivating plants, plant products, and regulated articles.
+"Quarantine" means the official confinement of plants, plant products, and regulated articles for observation and research, or for further inspection, testing and/or treatment.
+"Quarantine area" means an area where a quarantine pest is present and which is being officially controlled.
+"Quarantine pest" means a pest of potential economic importance to the area endangered thereby and not yet present there, or present but not widely distributed and being officially controlled.
+"Quarantine station" means an official station for holding plants, plant products, and regulated articles in quarantine.
+"Re-export phytosanitary certificate" means the certificate included in the regulations made under this Act.
+"Regulated article" means any plant, plant product, storage place, packaging, conveyance, container, soil, and any other organism or object capable of harboring or spreading pests, deemed to require phytosanitary measures, particularly where international transport is involved.
+"Regulated non-quarantine pest" means a non-quarantine pest whose presence in plants for planting affects the intended use of those plants with an economically unacceptable impact and which is therefore regulated within the territory of the Maldives.
+"Regulated pest" means a quarantine pest or a regulated non-quarantine pest.
+"Regulations" means the regulations made for the implementation of this Act.
+"Surveillance" means an official process which collects and records data on pest presence or absence by survey, monitoring, or other procedures.
+"Technical justification" means a reason based on a conclusion derived from an appropriate pest risk analysis or, where applicable, another comparable examination and evaluation of available scientific information.
+"Treatment" means an official procedure for the killing, inactivation, or removal of pests, or for rendering them infertile or for devitalization.
+
+Repealed Regulation
+37. Upon the commencement of this Act, the "Plant Quarantine Regulation 2008" is repealed.

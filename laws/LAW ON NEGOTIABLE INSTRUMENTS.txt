@@ -1,0 +1,190 @@
+LAW ON NEGOTIABLE INSTRUMENTS
+
+Chapter 1 - Introduction
+
+1. Name
+This law shall be cited as the "Law on Negotiable Instruments."
+
+2. Negotiable Instrument
+A negotiable instrument is a document that can be bought and sold, the rights to which can be easily transferred from one person to another, and which is used in a manner that allows it to be converted into money. For the purposes of this law, such instruments are bills of exchange, cheques, and promissory notes.
+
+Chapter 2 - Bill of Exchange
+
+3. Bill of Exchange
+A "bill of exchange" is a written instrument addressed by one party to another, unconditionally ordering the payment of a certain sum of money on demand, or at a fixed or determinable future time, to a specified person or to their order, or to the bearer of the instrument.
+
+4. Clear Identification of Drawee and Payee
+If a bill is drawn payable to a person other than the bearer, the drawee (the party the bill is addressed to) and the payee (the party to receive the money) must be clearly and sufficiently identified.
+
+5. Completion of an Incomplete Bill
+(a) A signed bill that is wanting in any material particular may be completed by the holder, with the consent of the parties to the bill.
+
+(b) The material particulars of a bill are considered to be the date, the sum of money ordered to be paid, the time of payment, the place of payment, the name of the drawer, the name of the drawee, and the name of the payee.
+
+(c) If a bill as described in sub-section (a) is not completed within a reasonable time and in accordance with the authority given, a person who became a party to it prior to its completion shall not be liable on the bill.
+
+6. Delivery
+(a) Every contract on a bill, whether it be the drawer's, the acceptor's, or an endorser's, is incomplete and revocable until delivery of the instrument in order to give effect thereto. However, if a bill is accepted and the acceptor notifies the payee of the acceptance, that acceptance becomes complete and irrevocable.
+
+(b) As between immediate parties, and as regards a remote party, the delivery:
+(1) To be effectual must be made either by or under the authority of the party drawing, accepting, or endorsing, as the case may be.
+(2) May be shown to have been conditional or for a special purpose only, and not for the purpose of transferring the property in the bill. But if the bill be in the hands of a holder in due course, a valid delivery of the bill by all parties prior to him so as to make them liable to him is conclusively presumed.
+
+7. Acceptance of a Bill
+(a) The acceptance of a bill is the signification by the drawee of his assent to the order of the drawer.
+
+(b) An acceptance as stated in sub-section (a) is considered valid when the drawee writes on the bill that he accepts it and signs it.
+
+8. General and Qualified Acceptance
+An acceptance may be either general (as specified in the bill) or qualified (with additional terms).
+
+9. Bill Payable on Demand
+A bill is payable on demand:
+(a) Which is expressed to be payable on demand, or at sight, or on presentation.
+(b) In which no time for payment is expressed.
+
+10. Bill Payable at a Determinable Future Time
+A bill is payable at a determinable future time which is expressed to be payable:
+(a) At a fixed period after date or sight.
+(b) On or at a fixed period after the occurrence of a specified event which is certain to happen, though the time of happening may be uncertain.
+
+11. Signature by Agent
+A person is not personally liable on a bill if they sign it in a representative capacity or on behalf of a principal, provided this is clearly stated on the bill.
+
+12. Liability of Parties
+(a) A person who has not signed a bill is not liable on it.
+Signature in the Name of a Company or Association
+(b) If a person signs a bill in a manner indicating it is on behalf of a company or association, it shall be deemed as a signature made in the name of all persons liable as partners of that association.
+
+13. Blank Endorsement
+A bill endorsed in blank (where the payee is not specified) may be converted by the holder into a special endorsement by writing above the endorser's signature a direction to pay the bill to a specific person.
+
+14. Restrictive Endorsement
+(a) An endorsement is restrictive which prohibits the further negotiation of the bill or which expresses that it is a mere authority to deal with the bill as thereby directed.
+
+(b) A restrictive endorsement gives the endorsee the right to receive payment of the bill and to sue any party thereto that his endorser could have sued, but gives him no power to transfer his rights as endorsee unless it expressly authorises him to do so.
+
+(c) Where a restrictive endorsement authorises further transfer, all subsequent endorsees take the bill with the same rights and subject to the same liabilities as the first endorsee under the restrictive endorsement.
+
+15. Discharge of a Party from Liability
+The holder of a bill may, at their discretion, discharge the drawer, acceptor, or an endorser from their liability on the bill in any of the following ways:
+(a) By cancelling the party's name from the bill and signing it.
+(b) By discharging the party from liability under an agreement.
+(c) By acting in a manner that implies the party has been discharged from their contractual obligations regarding the bill.
+
+16. Alteration of a Bill
+Where a bill is materially altered without the assent of all parties liable on the bill, the bill is avoided except as against a party who has himself made, authorised, or assented to the alteration, and subsequent endorsers. Provided that, where a bill has been materially altered, but the alteration is not apparent, a holder may avail himself of the bill as if it had not been altered, and may enforce payment of it according to its original tenor.
+
+17. Non-transferable Instrument
+If a bill of exchange is issued in a non-transferable manner, it is not a negotiable instrument. However, it remains a valid bill between the drawer, drawee, and payee. Such a non-transferable bill of exchange must be marked "Non-transferable". If a bill of exchange becomes marked "Non-transferable" during its negotiation, it shall be valid only between the last endorser and the payee.
+
+18. Liability of Acceptor
+The acceptor of a bill of exchange, by accepting it:
+(a) Engages that he will pay it according to the tenor of his acceptance.
+(b) Is precluded from denying to a holder in due course:
+(1) The existence of the drawer, the genuineness of his signature, and his capacity and authority to draw the bill.
+(2) In the case of a bill payable to the drawer's order, the then capacity of the drawer to endorse, but not the genuineness or validity of his endorsement.
+(3) In the case of a bill payable to the order of a third person, the existence of the payee and his then capacity to endorse, but not the genuineness or validity of his endorsement.
+
+19. Liability of Drawer and Endorser
+(a) The drawer of a bill of exchange by drawing it engages that on due presentment it shall be accepted and paid according to its tenor, and that if it be dishonoured he will compensate the holder or any endorser who is compelled to pay it, provided that the requisite proceedings on dishonour be duly taken.
+
+(b) The endorser of a bill by endorsing it engages that on due presentment it shall be accepted and paid according to its tenor, and that if it be dishonoured he will compensate the holder or a subsequent endorser who is compelled to pay it, provided that the requisite proceedings on dishonour be duly taken.
+
+(c) The endorser of a bill by endorsing it is precluded from denying to a holder in due course the genuineness and regularity in all respects of the drawer's signature and all previous endorsements; and is precluded from denying to his immediate or a subsequent endorsee that the bill was at the time of his endorsement a valid and subsisting bill, and that he had then a good title thereto.
+
+20. Duration of a Bill
+A bill continues to be a negotiable instrument until it has been:
+(a) Restrictively endorsed so as to be non-transferable.
+(b) Discharged by payment.
+
+Chapter 3 - Cheque
+
+21. Cheque
+A "cheque" is a written order, drawn and signed by a person, addressed to a person carrying on banking business, to pay on demand a certain sum of money unconditionally to a specified person, or to their order, or to the bearer.
+
+22. Application of Bill of Exchange Provisions
+Except as otherwise provided in this Chapter, the provisions of this law applicable to a bill of exchange apply to a cheque.
+
+23. Crossing
+(a) The drawer of a cheque may cross it generally or specially.
+(b) Where a cheque is uncrossed, the holder may cross it generally or specially.
+(c) Where a cheque is crossed generally, the holder may cross it specially.
+(d) Where a cheque is crossed generally or specially, the holder may add the words "not negotiable." The effect of these words is that the cheque is not transferable as a negotiable instrument.
+(e) Where a cheque is crossed specially to a banker, that banker may again cross it specially to another banker for collection.
+(f) Where an uncrossed cheque, or a cheque crossed generally, is sent to a banker for collection, he may cross it specially to himself.
+
+24. Alteration of Crossing
+A crossing is a material part of the cheque; it shall not be lawful for any person to obliterate or, except as authorised by this law, to add to or alter the crossing.
+
+25. Cheque Crossed "Not Negotiable"
+Where a person takes a crossed cheque which bears on it the words "not negotiable," he shall not have and shall not be capable of giving a better title to the cheque than that which the person from whom he took it had.
+
+26. Payment by Banker in Good Faith
+(a) When a cheque payable to order on demand is presented for payment to the banker on whom it is drawn, the banker is not required to verify that the endorsement is genuine.
+(b) Where the banker on whom a cheque is drawn, in good faith and in the ordinary course of business, pays the cheque, the banker is not liable, even if the endorsement on the cheque was forged or made without authority.
+
+27. If a banker pays a crossed cheque presented for payment to another banker in good faith and without negligence, such payment shall be deemed to be a payment to the true owner of the cheque.
+
+28. Where a banker in good faith and without negligence acts in one of the two following ways, the banker does not incur any liability to the true owner of the cheque by reason only of having received such payment, even if the account holder was not the true owner:
+(a) Receives payment for a customer of a cheque.
+(b) Having credited a customer's account with the amount of a cheque, the customer subsequently withdraws that amount, and it is later found that the account holder was not the true owner of the cheque.
+
+29. Revocation of Banker's Authority
+The duty and authority of a banker to pay a cheque drawn on him by his customer are terminated by:
+(a) Countermand of payment by the customer.
+(b) Notice of the customer's death.
+(c) A legal or judicial order.
+
+30. A banker is not obliged to honour a customer's order to pay a cheque in the following circumstances:
+(a) The cheque is post-dated and the date has not yet arrived.
+(b) The cheque is stale (out of date).
+(c) The account has insufficient funds to cover the cheque.
+(d) The cheque is mutilated or damaged.
+(e) The drawer has been declared bankrupt.
+(f) The drawer's account is subject to a court order.
+(g) The signature on the cheque does not match the specimen signature held by the bank.
+(h) There are doubts as to the validity of the cheque.
+
+Chapter 4 - Promissory Note
+
+31. Promissory Note
+A "promissory note" is a written promise, signed by the maker, to pay a certain sum of money unconditionally at a certain time to a specified person, or to their order, or to the bearer.
+
+32. Joint and Several Liability
+A promissory note may be made by two or more makers, and they may be liable thereon jointly, or jointly and severally, according to its tenor.
+
+33. The maker of a promissory note by making it engages that he will pay it according to its tenor.
+
+34. Completion
+A promissory note is inchoate and incomplete until it is delivered to the payee or to someone who can receive payment on it. An incomplete promissory note cannot be used in any transaction as a promissory note.
+
+35. Application of Bill of Exchange Principles to Promissory Notes
+Subject to the provisions in this Chapter, and except as by this section provided, the provisions of this law relating to bills of exchange apply, with the necessary modifications, to promissory notes.
+
+36. The provisions relating to presentment for acceptance and acceptance by the drawee of a bill of exchange do not apply to promissory notes.
+
+Chapter 5 - General Part
+
+37. Acting in Good Faith
+For the purposes of this law, a thing is deemed to be done in good faith where it is in fact done honestly. An act done due to negligence is not considered an act done in bad faith.
+
+38. Noting of Dishonour
+If a promissory note or a bill of exchange is not honoured by acceptance upon presentment or by payment upon demand, the holder may cause such dishonour to be noted by an authorised legal counsel. Upon being informed, the authorised legal counsel may certify the dishonour by writing on the note or bill, or on a paper attached thereto (an allonge). Such certification must be made within a reasonable time from the date of dishonour. The manner of dishonour, or any act implying it, and the date it occurred must be noted and signed. In a situation where an authorised legal counsel is not available to perform the acts mentioned in this article, it will suffice for two credible witnesses to perform them.
+
+39. Dishonour of Cheque for Insufficiency of Funds
+(a) Where a cheque is presented to a bank for payment in accordance with this law within 6 months from its date, and is returned unpaid either because of the amount of money standing to the credit of that account is insufficient to honour the cheque, or that it exceeds the amount arranged to be paid from that account, and the payee, within 1 month of receiving notice of dishonour from the bank, makes a demand for the payment of the said amount of money by giving a notice, in writing, to the drawer of the cheque, and the drawer of such cheque fails to make the payment of the said amount of money within 7 days of the said notice, such person shall be deemed to have committed an offence. If the person who committed the offence is a company or other association, the person who was in charge of, and was responsible for the conduct of the business of the company or association, or the person(s) who signed the cheque, shall be guilty of the offence.
+Penalty
+(b) Whoever is convicted of an offence under sub-section (a) of this article shall be punished with exile or imprisonment for a term between 6 months and 2 years.
+
+40. Administering Body
+The Ministry of Finance and Treasury shall make the necessary regulations for the implementation of this law.
+
+41. Definitions
+In this law:
+(a) "Holder" means a person who is in possession of a negotiable instrument in accordance with the provisions of this law.
+(b) "Authorised Legal Counsel" means any legal practitioner authorised by the relevant official authority to practice in Sharia courts, provide legal advice, and draft various legal documents.
+(c) "Endorsement" means the signing of one's name on a negotiable instrument for the purpose of transferring the rights of the holder to another person and delivering it to that person.
+(d) "Crossing" means drawing two parallel transverse lines across the face of a cheque.
+"Special Crossing" means writing the name of the receiving bank between the two parallel lines drawn for the purpose of crossing a cheque.
+"General Crossing" means a crossing where the space between the two parallel lines is blank or contains words other than the name of a receiving bank.

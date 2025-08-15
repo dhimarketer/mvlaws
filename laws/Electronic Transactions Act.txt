@@ -1,0 +1,466 @@
+Electronic Transactions Act
+
+Chapter One
+Introduction
+
+Introduction and Name
+1.
+(a) This is the law to establish a system to ensure the validity of electronic transactions and to promote and develop the use of electronic means and trust services for commercial and other purposes, by stating the principles for conducting electronic transactions and the use of trust services.
+
+(b) This Law shall be cited as the "Electronic Transactions Act".
+
+Purpose
+2.
+The purposes of this Law are to:
+
+(a) give legal status to electronic transactions, including electronic signatures and trust services, conducted within the Maldives and outside the Maldives;
+
+(b) legally ensure the validity of electronic transactions, including electronic signatures and trust services, conducted within and outside the Maldives;
+
+(c) facilitate electronic transactions within and outside the Maldives and eliminate legal barriers to them; and
+
+(d) promote electronic transactions through reliable trust services and to establish public confidence in such transactions.
+
+Scope of the Law
+3.
+(a) This Law shall apply to any information in the form of a data message.
+
+(b) The principles set out in this Law shall apply to a state institution, in a manner not inconsistent with the fundamental principles upon which this Law is based, namely the principle of non-discrimination in the use of electronic means, the principle of maintaining technological neutrality, and the principle of functional equivalence, in accordance with the regulations made by that institution under this Law with the advice of the Ministry.
+
+(c) No provision of this Law shall be interpreted in such a way as to restrict any right or protection legally afforded to buyers of goods and receivers of services. And no provision of this Law shall be applied in such a way as to restrict such a right or protection.
+
+Exclusions
+4.
+This Law shall not apply to bills of exchange, promissory notes, consignment notes, bills of lading, warehouse receipts, or any other transferable document or instrument that requires the delivery of goods or payment of money to the bearer or beneficiary.
+
+Choice Given to Parties
+5.
+(a) Chapters Two, Three, and Four of this Law do not preclude any law or legal obligation that requires the agreement or consent of the parties to a transaction in determining a specific method of communication or a specific method of maintaining records related to that communication. Unless otherwise provided by any law or by an agreement between the parties, the consent or approval of the parties to a transaction shall be determined based on the conduct of the parties.
+
+(b) Chapter Two of this Law does not prevent the parties to a transaction or an agreement from doing the following:
+
+(1) agreeing not to use an electronic record, or communication by electronic means, or an electronic signature or any other trust service in that agreement or transaction; or
+
+(2) in determining the form of the agreement or transaction or in using a trust service, the parties may agree to determine other conditions in addition to the conditions stated in this Law.
+
+(c) Without prejudice to any other legal right or obligation of the parties to an agreement or a transaction, this Law does not prevent the parties to the agreement or transaction from doing the following in the agreement or transaction:
+
+(1) agreeing that Article 10, Article 15, Article 16, Article 20, Article 21, Article 22 or Article 24 of this Law shall not apply to that transaction or agreement; or
+
+(2) agreeing that the matters stated in the articles mentioned in sub-paragraph (1) of this paragraph, in whole or in part, shall not apply to that transaction or agreement, or agreeing on the procedure for applying those articles or some of them.
+
+English Words and Phrases, and Concepts
+6.
+(a) Some English words and phrases are used in this Law because they are words or phrases that have technical meanings associated with the legal concepts of electronic transactions, for the purpose of facilitating the formulation and enforcement of a legal framework for conducting electronic transactions in the Maldives as consistent as possible with international standards.
+
+(b) The phrases and words contained in this Law are words and phrases that have been given a specific meaning and upon which the main legal concepts relating to electronic transactions are based. And those words and phrases are stated in that manner in the articles of this Law to maintain the essence of this Law and to facilitate the achievement of the purpose of this Law to the fullest extent. Every article of this Law shall be read or interpreted in a manner that does not restrict those concepts.
+
+Rules of Interpretation
+7.
+(a) In applying and interpreting the articles of this Law, due regard shall be given to international legal texts and standards relating to electronic transactions, and to the principles of interpretation of laws relating to electronic transactions in democratic societies, and to promote the application of uniform principles.
+
+(b) Matters within the scope of this Law, which are not expressly settled in this Law, shall be settled in accordance with the main principles set out in this Law, while upholding the principles on which this Law is based, namely non-discrimination, technological neutrality and functional equivalence.
+
+Place of Business of the Parties to the Transaction
+8.
+(a) For the purposes of this Law, unless another party to a transaction denies it, the place of business of a party to that transaction shall be the place stated by that party as its place of business at the time the transaction was conducted.
+
+(b) If a party to a transaction has not stated a specific place of business at the time the transaction was conducted, and if that party has more than one place of business at the time the transaction was conducted, for the purposes of this Law, the place of business of that party at the time the transaction was conducted shall be the place which has the closest relationship to the transaction.
+
+(c) For the purpose of sub-paragraph (b) of this Article, in determining the place which has the closest relationship to a transaction, regard shall be had to circumstances known to, or contemplated by, the parties to the transaction before or at the time of the transaction. And if no prior transaction has been conducted, the place of business of a party shall be the place where that party habitually conducts its business.
+
+(d) If a natural person has no specific place of business for conducting a transaction, the place where that person's transaction was conducted shall be taken to be the place where that person ordinarily resides.
+
+(e) A place shall not be considered the place of business of a party at the time of a transaction based solely on the following:
+
+(1) the location of the technology and equipment related to the information system used by a party at the time the agreement was made; or
+
+(2) the location where other parties access or use the information system mentioned in sub-paragraph (1) of this paragraph.
+
+(f) The fact that the domain name or electronic mail address used by a party is associated with a particular country is not, of itself, a reason to determine that the party's place of business is in that country.
+
+Responsibility to Disclose Information
+9.
+This Law does not preclude any legal obligation of a party conducting a transaction to disclose its information, its place of business at the time of the transaction, and any other information related to the transaction. And that party is not absolved from any legal liability arising from the submission of incorrect, incomplete, or false information.
+
+Chapter Two
+Electronic Transactions
+
+Legal Status of Data Messages
+10.
+(a) The fact that information is in the form of a data message is not, of itself, a reason to consider that information to be legally invalid, or legally unenforceable, or legally unactionable.
+
+(b) If information contained in a data message is not included in that message, but is only referred to, it shall not, for that reason alone, be considered to be information that has no legal status, or is legally invalid, or legally unenforceable.
+
+(c) This Law does not require any person to communicate by electronic means or to accept communication by electronic means. However, based on the conduct of a party to a transaction, that party may be deemed to have agreed to communicate by electronic means.
+
+Writing
+11.
+(a) Where any law requires that information be in writing, if the information in a data message is accessible for subsequent use, the legal requirement for that information to be in writing shall be met in that data message.
+
+(b) For the purposes of sub-paragraph (a) of this Article, if a law requires that information be in writing as a legal obligation, or if the consequences of that information not being in writing are stated in that law, the principle stated in sub-paragraph (a) of this Article shall apply.
+
+(c) Sub-paragraph (a) of this Article does not prevent a government institution from setting additional rules on how to submit information when it requires specific information to be submitted in writing.
+
+Original Information
+12.
+(a) Where a law requires that information be presented or retained in its original form, information in a data message shall be deemed to meet that requirement in the following circumstances:
+
+(1) there is a reliable assurance as to the integrity of the information from the time when it was first generated in its final form, as a data message or otherwise; and
+
+(2) where it is required that information be presented to a certain person, that information is capable of being displayed to the person to whom it is to be presented.
+
+(b) For the purpose of sub-paragraph (a) of this Article, if a law requires that information be presented or retained in its original form as an obligation, or if the consequences of that information not being presented or retained in its original form are stated, the principle stated in sub-paragraph (a) of this Article shall apply.
+
+(c) For the purpose of sub-paragraph (a)(1) of this Article:
+
+(1) the criterion for determining whether information has maintained its integrity is that the information has remained complete and unaltered, apart from the addition of any endorsement or any change which arises in the normal course of communication, storage or display.
+
+(2) in assessing the reliability of an assurance, regard shall be had to the purpose for which the information was generated and to all other relevant circumstances.
+
+(d) Sub-paragraph (a) of this Article does not prevent a government institution from prescribing additional requirements for the manner in which information is to be presented or retained when it requires information to be presented or retained in its original form.
+
+Admissibility of Data Messages as Evidence
+13.
+(a) Rules of evidence shall not be applied so as to deny the admissibility of a data message in legal proceedings on the sole ground that it is a data message.
+
+(b) In assessing the evidential weight of a data message, the provisions of the law of evidence shall apply.
+
+Retention of Data Messages
+14.
+(a) Where a law requires that certain documents, records or information be retained, if that document, record or information is retained in the form of a data message, the requirements of the law shall be deemed to have been met if the following conditions are fulfilled:
+
+(1) the information contained in the data message is accessible so as to be usable for subsequent reference; and
+
+(2) the data message is retained in the format in which it was generated, sent or received, or in a format which can be demonstrated to represent accurately the information generated, sent or received; and
+
+(3) such information, as enables the identification of the origin and destination of a data message and the date and time when it was sent or received, is retained.
+
+(b) The obligation to retain documents, records and information under sub-paragraph (a) of this Article shall not extend to any information the sole purpose of which is to enable the message to be sent or received.
+
+(c) A person may use the services of any other person to satisfy the requirements of sub-paragraph (a) of this Article, provided that the conditions set out in sub-paragraphs (a)(1) to (a)(3) are met.
+
+(d) Sub-paragraph (a) of this Article does not prevent a government institution from prescribing additional requirements for the manner in which information is to be retained when it requires information to be retained.
+
+Time and Place of Dispatch and Receipt of Data Message
+15.
+(a) The time of dispatch of a data message is:
+
+(1) when it leaves an information system under the control of the originator or of the person who sent the data message on behalf of the originator; or
+
+(2) if the data message has not left an information system under the control of the originator or of the person who sent the data message on behalf of the originator, the time when the data message is received.
+
+(b) For the purpose of sub-paragraph (a)(2) of this Article, if the data message has not left an information system under the control of the originator or of the person who sent the data message on behalf of the originator, the data message is deemed to be received when both parties use the same information system for sending and receiving the message.
+
+(c) The time of receipt of a data message is:
+
+(1) the time when the data message becomes capable of being retrieved or viewed at the electronic address designated by the addressee; or
+
+(2) if the data message is sent to another electronic address which is accessible or used by the addressee, the time when the message becomes capable of being retrieved or viewed at that address, and the addressee becomes aware that the message has been sent to that address.
+
+(d) For the purpose of sub-paragraph (c) of this Article, the time when a data message becomes capable of being retrieved or viewed by the addressee is when the message is received at the addressee's electronic address.
+
+(e) The place of dispatch of a data message is deemed to be the place where the originator has its place of business at the time of the transaction, as provided in Article 8 of this Law.
+
+(f) The place of receipt of a data message is deemed to be the place where the addressee has its place of business at the time of the transaction, as provided in Article 8 of this Law.
+
+(g) The principles stated in sub-paragraphs (c) and (d) of this Article shall apply notwithstanding that the place where the information system supporting an electronic address is located is different from the place where the data message is deemed to be received under sub-paragraph (f) of this Article.
+
+Acceptance by Virtue of Being a Data Message
+16.
+A statement between the originator of a data message and the addressee of the message which discloses the will, request, or other matter of one to the other, shall not, on the sole ground that it is a data message, be denied legal effect, validity, or enforceability.
+
+Attribution of a Data Message
+17.
+(a) A data message is that of the originator if it was sent by the originator itself.
+
+(b) As between the originator and the addressee, a data message is deemed to be that of the originator if it was sent:
+
+(1) by a person who had the authority to act on behalf of the originator in respect of that data message and who acted under that authority; or
+
+(2) by an information system programmed by or on behalf of the originator to operate automatically.
+
+(c) The addressee of a data message is entitled to regard a data message as being that of the originator and to act on that assumption, if:
+
+(1) in order to ascertain whether the data message was that of the originator, the addressee properly applied a procedure previously agreed to by the originator and the addressee for that purpose; or
+
+(2) the data message as received by the addressee resulted from the actions of a third party who, by virtue of its relationship with the originator or with any agent of the originator, had access to a method used by the originator to identify data messages as its own and sent that message using that method.
+
+(d) The principle stated in sub-paragraph (c) of this Article shall not apply in the following situations:
+
+(1) the addressee has received notice from the originator that the data message is not that of the originator, and has had a reasonable time to act accordingly; or
+
+(2) in a situation described in sub-paragraph (c)(2) of this Article, the addressee knew or should have known, had it exercised reasonable care or complied with any agreed-upon procedures, that the message was not that of the originator.
+
+(e) Where a data message is that of the originator, or is deemed to be that of the originator, or the addressee is entitled to assume it is that of the originator, the addressee is entitled to regard the message received as being what the originator intended to send and to act on that assumption.
+
+(f) The addressee is not so entitled when the addressee knew or should have known, had it exercised reasonable care or complied with any agreed-upon procedures, that the transmission of the data message had resulted in an error in the data message as received.
+
+(g) The addressee is entitled to regard each data message received as a separate data message and to act on that assumption, except to the extent that it duplicates another data message and the addressee knew or should have known, had it exercised reasonable care or complied with any agreed-upon procedures, that the data message was a duplicate.
+
+Acknowledgement of Receipt of Data Message
+18.
+(a) Unless the originator and the addressee have agreed that acknowledgement of receipt is to be given in a particular form or by a particular method, an acknowledgement may be given by the addressee to the originator in any of the following ways:
+
+(1) by any communication, automated or otherwise; or
+
+(2) by any conduct of the addressee, sufficient to indicate to the originator that the data message has been received.
+
+(b) Where the originator has stipulated that the data message is conditional on receipt of an acknowledgement, until the acknowledgement is received by the originator, the message is deemed not to have been received.
+
+(c) Where the originator has not stipulated that the data message is conditional on receipt of an acknowledgement, and the acknowledgement has not been received by the originator within the time specified or agreed or, if no time has been specified or agreed, within a reasonable time, the originator:
+
+(1) may give notice to the addressee stating that no acknowledgement has been received and specifying a reasonable time by which the acknowledgement must be received; and
+
+(2) if the acknowledgement is not received within the time specified in the notice given under sub-paragraph (1) of this paragraph, may, upon notice to the addressee, treat the data message as though it had never been sent, or exercise any other rights it may have.
+
+(d) The matters stated in sub-paragraphs (a) and (c) of this Article shall apply if the parties have agreed, or the originator has requested from the addressee, either before or at the time of sending the data message, or by means of that data message, to acknowledge receipt.
+
+(e) Where the originator has received the addressee's acknowledgement of receipt, it is presumed that the related data message was received by the addressee. However, such a presumption does not imply that the data message which was received corresponds to the data message which was sent by the originator.
+
+(f) Where the acknowledgement of receipt indicates that the related data message met technical requirements, either agreed upon or set forth in applicable standards, it is presumed that those technical requirements have been met.
+
+(g) Except in so far as it relates to the sending and receipt of the data message, this Article is not intended to deal with the legal consequences that may flow either from that data message or from the acknowledgement of its receipt.
+
+Chapter Three
+Contracts Concluded by Means of Electronic Communication
+
+No Detriment to the Law of Contract
+19.
+Nothing in any article of this Chapter shall be construed as negating any requirement for the formation of a contract stated in Law No. 4/91 (Contract Law) or any legal principle established in that Law.
+
+Formation of Contract
+20.
+(a) Unless otherwise agreed by the parties to a contract, an offer and the acceptance of an offer may be expressed by means of electronic communication in the formation of a contract.
+
+(b) A contract formed by the use of electronic communication shall not be denied legal validity or enforceability on the sole ground that electronic communication was used for that purpose.
+
+Invitation to Make an Offer
+21.
+(a) A proposal to conclude a contract made through one or more information systems that is not addressed to one or more specific parties but is generally accessible to parties making use of information systems, including proposals that make use of interactive applications for the placement of orders, is to be considered as an invitation to make offers.
+
+(b) Notwithstanding sub-paragraph (a) of this Article, where the intention of the party making the proposal is to be bound in case of acceptance, and this is clearly and explicitly stated or demonstrated in the proposal, it shall not be considered an invitation to make such an offer.
+
+Use of Automated Data Message System in Contract Formation
+22.
+A contract formed by the interaction of an automated data message system and a natural person, or by the interaction of automated data message systems, shall not be denied legal validity or enforceability on the sole ground that no natural person reviewed or intervened in each of the individual actions carried out by the automated data message system or systems or the resulting contract.
+
+Sharing the Terms of the Agreement
+23.
+Where a party to a contract communicates the negotiations for the formation of a contract or part of such negotiations through an electronic communication, this Law shall not in any way limit any legal requirement for that party to share the electronic communications containing the terms of the agreement with the other party to the agreement in a particular manner. And this Law does not absolve that party from any legal consequence that may arise from failure to do so.
+
+Input Errors in Electronic Communications
+24.
+(a) Where a natural person who is a party to a contract makes an input error in an electronic communication exchanged with the automated data message system of another party and the automated data message system does not provide the person with an opportunity to correct the error, that person, or the person on whose behalf that person was acting, has the right to withdraw the portion of the electronic communication in which the input error was made if:
+
+(1) the person, or the person on whose behalf that person was acting, notifies the other party of the error as soon as practicable after having discovered the error and indicates that he or she made an error in the electronic communication; and
+
+(2) the person, or the person on whose behalf that person was acting, has not used or received any material benefit or value from the goods or services, if any, received from the other party as a result of the transaction.
+
+(b) Except in the circumstances specified in sub-paragraph (a) of this Article, this Article does not preclude the application of any other rule of law that may govern the consequences of an input error in an electronic communication.
+
+Chapter Four
+Trust Services
+
+Equal Treatment of Technologies for Trust Services
+25.
+Except as provided in Article 5 of this Law, no provision of this Law shall be construed to deny, restrict, or deprive of legal effect any technology used to create an electronic signature that meets the requirements of Article 26(a) of this Law, or any technology used to create another trust service that meets the requirements of a relevant law.
+
+Electronic Signature
+26.
+(a) Where a law requires a signature of a person, that requirement is met in relation to a data message if an electronic signature is used which is as reliable as was appropriate for the purpose for which the data message was generated or communicated, in the light of all the circumstances, including any relevant agreement.
+
+(b) The principle stated in sub-paragraph (a) of this Article shall apply whether the requirement for a person's signature is in the form of a legal obligation in a law or whether it is stated in relation to the legal consequences of the absence of such a signature.
+
+(c) For the purpose of sub-paragraph (a) of this Article, an electronic signature is considered to be reliable if:
+
+(1) the signature creation data are, within the context in which they are used, linked to the signatory and to no other person;
+
+(2) the signature creation data were, at the time of signing, under the control of the signatory and of no other person;
+
+(3) any alteration to the electronic signature, made after the time of signing, is detectable; and
+
+(4) where a purpose of the legal requirement for a signature is to provide assurance as to the integrity of the information to which it relates, any alteration made to that information after the time of signing is detectable.
+
+(d) Procedures for determining what constitutes an electronic signature that meets the conditions set out in sub-paragraph (c) of this Article, and for determining what constitutes other reliable trust services, including any relevant technical standards, shall be set out in a regulation made by the Ministry under this Law.
+
+(e) The regulation made under sub-paragraph (d) of this Article, and the technical standards established in that regulation, shall be in conformity with relevant international standards.
+
+(f) Notwithstanding sub-paragraphs (d) and (e) of this Article, this Article does not prevent any person from:
+
+(1) establishing that an electronic signature is reliable by a method other than that provided for in sub-paragraph (a) of this Article; or
+
+(2) adducing evidence that an electronic signature is not reliable.
+
+Conduct of the User of a Trust Service
+27.
+(a) Where a legally valid electronic signature or other trust service is created using creation data, each signatory or user of the trust service shall:
+
+(1) exercise reasonable care to avoid unauthorized use of its creation data;
+
+(2) without undue delay, utilize the means made available by the trust service provider pursuant to Article 28(a)(4)(v) of this Law, or otherwise use reasonable efforts, to notify any person who may reasonably be expected to rely on the electronic signature or to provide services in support of it, if:
+
+i. the signatory or the user of the trust service knows that the signature creation data has been compromised or that a person who is not supposed to know the data has become aware of it; or
+
+ii. the circumstances known to the signatory or the user of the trust service give rise to a substantial risk that the signature creation data or other such data may have been compromised or that a person who is not supposed to know the data has become aware of it.
+
+(3) where a certificate is used to support the electronic signature, exercise reasonable care to ensure the accuracy and completeness of all material representations made in relation to the certificate throughout its life-cycle.
+
+(b) A signatory who fails to comply with the requirements set out in sub-paragraph (a) of this Article shall bear the legal consequences of that failure.
+
+Conduct of the Trust Service Provider
+28.
+(a) Where a trust service provider provides a service that may be used to give legal effect to an electronic signature, that provider shall:
+
+(1) act in accordance with any representations it makes with respect to its policies and practices;
+
+(2) exercise reasonable care to ensure the accuracy of any material representations made by it that are relevant to the life-cycle of the electronic signature;
+
+(3) provide reasonably accessible means which enable a relying party to ascertain from the electronic signature:
+
+i. information identifying the trust service provider;
+
+ii. that the person identified in the electronic signature as the signatory had control of the signature creation data at the time the signature was created;
+
+iii. that the signature creation data used to create the electronic signature was valid at or before the time the electronic signature was created.
+
+(4) provide reasonably accessible means which enable a relying party to ascertain, from the electronic signature or otherwise:
+
+i. the method used to identify the signatory;
+
+ii. any limitation on the purpose or value for which the electronic signature created using the creation data may be used;
+
+iii. the validity of the creation data, and that it has not been compromised or that a person who is not supposed to know the data has not become aware of it;
+
+iv. where the trust service provider has limited its liability, the extent or scope of that limitation;
+
+v. whether means exist for the signatory to give notice pursuant to Article 27(a)(2) of this Law;
+
+vi. whether a timely revocation service is offered.
+
+(5) where a service is provided under sub-paragraph (a)(4)(v) of this Article, provide a means for a signatory to give notice as provided in Article 27(a)(2) of this Article and, where a service is provided under sub-paragraph (a)(4)(vi) of this Article, ensure the availability of a timely revocation service;
+
+(6) utilize trustworthy systems, procedures and human resources in performing its services.
+
+(b) If a trust service provider fails to comply with the requirements set out in sub-paragraph (a) of this Article in providing its service, it shall bear the legal consequences of that failure.
+
+Trust in the Trust Service
+29.
+In determining whether, or the extent to which, any system, procedure or human resource of a trust service provider is trustworthy, regard shall be had to the following factors:
+
+(a) financial and human resources;
+
+(b) quality of hardware and software;
+
+(c) procedures for processing of electronic signatures, applications for electronic signatures and trust services, and for the retention of records;
+
+(d) availability of information to signatories, other users of trust services, and to parties relying on electronic signatures and trust services;
+
+(e) regularity and extent of audit by an independent body;
+
+(f) the existence of a declaration by the trust service provider or an accrediting body as to compliance with or existence of the foregoing;
+
+(g) any other relevant factors.
+
+Conduct of the Relying Party
+30.
+A party relying on a trust service shall act as follows, and if it fails to do so, it shall bear the legal consequences of that failure:
+
+(a) take reasonable steps to verify the reliability of an electronic signature; or
+
+(b) where an electronic signature is supported by a certificate, take reasonable steps to:
+
+(1) verify the validity, suspension or revocation of the certificate; and
+
+(2) observe any limitation with respect to the certificate.
+
+Recognition of Foreign Trust Services
+31.
+(a) In determining whether, or to what extent, a trust service is legally effective, no regard shall be had to:
+
+(1) the geographic location where the trust service is created or used; or
+
+(2) the geographic location of the place of business of the issuer of the trust service, the signatory, or the user of the service.
+
+(b) A trust service created or used outside the Maldives shall have the same legal effect as a trust service created or used in the Maldives if it offers a substantially equivalent level of reliability.
+
+(c) In determining whether a trust service offers a substantially equivalent level of reliability for the purposes of sub-paragraph (b) of this Article, regard shall be had to recognized international standards and to any other relevant factors.
+
+(d) Notwithstanding sub-paragraphs (b) and (c) of this Article, where the parties agree to the use of a certain type of trust service, and that agreement is legally valid or enforceable, that agreement shall be sufficient for the purpose of cross-border recognition of that service between the countries concerned.
+
+Chapter Five
+Other Matters
+
+Making Regulations
+32.
+(a) Unless otherwise provided in this Law, the regulations necessary to achieve the objectives of this Law or to enforce the provisions of this Law shall be made by the Ministry.
+
+(b) The Ministry shall establish and maintain a publicly accessible register of accredited trust service providers. And a regulation shall be formulated containing the procedures and processes for the accreditation of trust services, and the mechanisms for appealing a decision made by the Ministry regarding accreditation, including the following:
+
+(1) accreditation of trust service providers;
+
+(2) renewal of accreditation;
+
+(3) verifying compliance with the requirements established for accredited trust service providers;
+
+(4) the legal consequences that may arise from the services provided by accredited trust service providers.
+
+(c) The regulations required to be made under this Law shall be made and published in the Government Gazette within 10 (ten) months from the date this Law comes into force.
+
+Commencement of the Law
+33.
+This Law shall come into force on the day it is passed, ratified, and published in the Government Gazette of the Maldives.
+
+Definitions
+34.
+In this Law, unless a contrary intention appears from the context in which a phrase or word is used, the following phrases and words shall have the meanings given below:
+
+(a) "Automated data message system" means a computer program or an electronic or other automated means used to initiate an action or respond to data messages or performances in whole or in part, without review or intervention by a natural person at the time of the action or response.
+
+(b) "Certificate" means a data message or other record confirming the link between a signatory and signature creation data.
+
+(c) "Trust service provider" means a person that provides one or more trust services, including the issuance and maintenance of certificates related to electronic signatures.
+
+(d) "Communication" means a statement, declaration, demand, notice or request, including an offer and the acceptance of an offer, that the parties are required to make or choose to make.
+
+(e) "Electronic communication" means any communication that a party makes by means of data messages.
+
+(f) "Electronic signature" means data in electronic form which is attached to or logically associated with a data message, and which may be used to identify the signatory in relation to the data message and to indicate the signatory's approval of the information contained in the data message.
+
+(g) "Information system" means a system for generating, sending, receiving, storing or otherwise processing data messages.
+
+(h) "Intermediary", in relation to a particular data message, means a person who, on behalf of another person, sends, receives, stores or provides other services with respect to that data message.
+
+(i) "Ministry" means the government ministry responsible at the time for implementing policies related to information and communication technology.
+
+(j) "Place of business of the parties to the transaction" means the place where an economic activity is habitually carried on, not including the temporary provision of goods or services from a particular location.
+
+(k) "Relying party" means a person who may act on the basis of an electronic signature.
+
+(l) "Signatory" means a person that holds the signature creation data and acts either on its own behalf or on behalf of the person it represents.
+
+(m) "Information" includes data, text, images, sound, codes, computer programs, software and databases.
+
+(n) "Generated" means to create or bring into existence information by electronic, magnetic, optical or other similar means.
+
+(o) "Accessible for subsequent use" means that the information can be retrieved, accessed, and viewed from the medium in which it is stored, and that the information can later be copied or otherwise recorded or duplicated from that medium.
+
+(p) "Information system programmed to operate automatically" means an information system that operates by means of a computer program, an electronic means, or without any assistance from a natural person, in a manner that allows the information system, in whole or in part, to act or respond to a data message at the time of initiating any action or each time a response is given, without any assistance or supervision from a natural person.
+
+(q) "Data message" or "message" means information generated, sent, received or stored by electronic, magnetic, optical or similar means.
+
+(r) "Originator" of an electronic communication means a person by whom, or on whose behalf, the electronic communication has been sent or generated before storage, if any, but it does not include a person acting as an intermediary with respect to that electronic communication.
+
+(s) "Addressee" of an electronic communication means a person who is intended by the originator to receive the electronic communication, but does not include a person acting as an intermediary with respect to that electronic communication.
+
+(t) "Trust service" means an electronic service which is reasonably reliable in terms of the quality of the data, including electronic signatures, electronic time stamps, electronic registered delivery, and electronic archiving.
+
+(u) "Technology neutrality" means the principle of treating all types of technology equally without any law or regulation giving preference to a particular type of technology, a particular method of use, or a technological product.
+
+(v) "Functional equivalence" means the principle of treating electronic transactions on the same level and in the same way as paper-based transactions.
+
+(w) "Creation data" means the data used to create an electronic signature.
+
+(x) "Non-discrimination" means the absence of any objection to giving an electronic transaction the legal status it deserves without distinguishing it from a paper-based transaction, solely because it is in an electronic form, and not distinguishing electronic transactions from paper-based transactions in any form.
+
+(y) "Input error" means any kind of mistake or error made by the person entering data at the stage of entering data into an information system or an automated data message system.
